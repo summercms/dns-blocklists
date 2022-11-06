@@ -1,0 +1,41 @@
+! Title: HaGeZi's The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains by SpamHaus
+! Source: https://www.spamhaus.org/statistics/tlds/
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: Updated regularly
+! Last modified: 06 Nov 2022 08:04 UTC
+! Version: 2022.1106.0804.53
+! Syntax: AdBlock
+!
+||asia^
+||associates^
+||bar^
+||beauty^
+||best^
+||bid^
+||buzz^
+||cam^
+||casa^
+||cf^
+||click^
+||cricket^
+||cyou^
+||date^
+||discount^
+||financial^
+||fit^
+||ga^
+||gq^
+||icu^
+||me^
+||ml^
+||quest^
+||rest^
+||surf^
+||tk^
+||tokyo^
+||top^
+||webcam^
+||work^
+||xyz^
