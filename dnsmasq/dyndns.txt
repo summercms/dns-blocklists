@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 00:49 UTC
-# Version: 2022.1107.0049.39
+# Last modified: 07 Nov 2022 16:58 UTC
+# Version: 2022.1107.1658.36
 # Syntax: DNSMasq
-# Domains: 766
+# Domains: 771
 #
 address=/0x.no/#
 address=/120v.ac/#
@@ -14,6 +14,7 @@ address=/1337.cx/#
 address=/16-b.it/#
 address=/1cooldns.com/#
 address=/1dumb.com/#
+address=/2288.org/#
 address=/24-7.ro/#
 address=/25u.com/#
 address=/2mydns.net/#
@@ -36,6 +37,7 @@ address=/6600.org/#
 address=/688.org/#
 address=/7766.org/#
 address=/8800.org/#
+address=/8866.org/#
 address=/9966.org/#
 address=/abuser.eu/#
 address=/access.ly/#
@@ -207,6 +209,7 @@ address=/dynet.com/#
 address=/dynip.org/#
 address=/dynnamn.ru/#
 address=/dynns.com/#
+address=/dynserv.org/#
 address=/dynssl.com/#
 address=/dynu.com/#
 address=/dynu.net/#
@@ -551,6 +554,7 @@ address=/mypicture.info/#
 address=/mypop3.net/#
 address=/mypop3.org/#
 address=/mypsx.net/#
+address=/myq-see.com/#
 address=/mysecondarydns.com/#
 address=/mysecuritycamera.com/#
 address=/mysecuritycamera.net/#
@@ -611,6 +615,7 @@ address=/dynamicdns.org.uk/#
 address=/organiccrap.com/#
 address=/otzo.com/#
 address=/ourhobby.com/#
+address=/ownip.net/#
 address=/pcanywhere.net/#
 address=/pgafan.net/#
 address=/photo-frame.com/#
