@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 07:28 UTC
-# Version: 2022.1107.0728.47
+# Last modified: 07 Nov 2022 17:03 UTC
+# Version: 2022.1107.1703.32
 # Syntax: Domains
-# Domains: 12100
+# Domains: 12074
 #
 11trikots.com
 123brennholz.com
@@ -251,11 +251,9 @@ ancheer.de
 andal.at
 andasukak.top
 andeking.de
-andraster.top
 andrearebecca.com
 andreas-lutsch.de
 andres-kopierer.de
-andre-uterhardt.de
 andrieleshop.com
 android-car-dvd.de
 anduni.de
@@ -329,9 +327,7 @@ architectes-fr.com
 archouston.com
 arcterjacketoutlet.com
 arcteryxcanada.com
-arcteryxdeutschland.com
 arcteryxoutlet.at
-arcteryxoutlets.com
 ardivine.com
 ardora.at
 aresc.de
@@ -411,7 +407,6 @@ autobytel-euro.com
 autocentret-biludlejning.de
 autocryptooptions.online
 autodisco.de
-autofficinabertas.it
 autohausbismuth.de
 autohobby.at
 autolinie.de
@@ -467,21 +462,18 @@ badabang.de
 badeanzugtreff.de
 bademoebel.net
 badgyalbrand.com
-badtion.top
 baeckerei-huber.at
 baetz-malerei.de
 baeuchel.at
 bagomi-versand.net
 bagsev.de
 baibae.com
-bairisch-irish.de
 baissonw.com
 balance-leben.at
 baledino.com
 baleurs.de
 baliley.com
 balkone.co.at
-ballise.top
 baloast.xyz
 balon-elektro.com
 balotracity.com
@@ -554,7 +546,6 @@ beleshoping.com
 beljunqueira.com
 belladde.com
 bellelora.com
-bellesasa.com
 belletaka.com
 bellissimoo.de
 belmarkt.net
@@ -615,7 +606,6 @@ bestrelocate.com
 bestrin.club
 bestronik.com
 bests.2021salesonline.ru
-bestsalecheap.top
 bestsellon.com
 bestsindy.com
 besttoolkits.com
@@ -624,9 +614,7 @@ bestwoof.de
 bestybikes.de
 bestylish.club
 beta-re.com
-betterinbed.shop
 bettersecure.site
-bettina-alban.de
 bettinakreativ.at
 bettyshops.com
 bewaremarts.com
@@ -689,10 +677,8 @@ blade-pirates.de
 blaudonau.de
 blaue-dragoner.de
 blauerhein.de
-blautronik.de
 blickpunkt24.at
 blitzschuhe.de
-blitztechnik24.de
 bl.mdates.com
 blobel-elektromarkt.com
 bloomsocks.ca
@@ -819,7 +805,6 @@ bubblee.de
 buchverlag-scholz.de
 buchwerft-verlag.de
 buckleybelts.de
-buddhacollections.com
 buddhapowerstore.com
 budgethotel.at
 budiers.com
@@ -830,7 +815,6 @@ buffetanlage.at
 buffy.ch
 bufnkce.top
 bugabooashland.com
-buhler-energie.com
 buhrlishome.de
 build-en.com
 bulldogge-franzosische-welpen.com
@@ -2030,6 +2014,7 @@ finflix.de
 finkerkette.de
 finmove.net
 fintegral.fund
+fintegral.world
 fipecampania.it
 firalo.de
 firma-leitner.at
@@ -2057,7 +2042,6 @@ flagshipmodels.com
 flaguette.de
 flamingo-de.com
 flash24tradefx.com
-flashangebote.com
 flash.iubqx.com
 flaviorossi.de
 fleezie.de
@@ -2858,6 +2842,7 @@ interharbours.com
 interiorbyjuan.com
 internationaalverhuisadvies.nl
 internationalerumzug.de
+interseroh-brandneu.de
 intoleranztest.com
 intosmile.nl
 int-re.com
@@ -4982,6 +4967,7 @@ shauntapparel.com
 shaxu.top
 shccamps.com
 sheadora.com
+shebeautys.com
 sheheaven.com
 shelbs.de
 shelbz.de
@@ -6430,11 +6416,9 @@ www.ancheer.de
 www.andal.at
 www.andasukak.top
 www.andeking.de
-www.andraster.top
 www.andrearebecca.com
 www.andreas-lutsch.de
 www.andres-kopierer.de
-www.andre-uterhardt.de
 www.andrieleshop.com
 www.android-car-dvd.de
 www.anduni.de
@@ -6503,9 +6487,7 @@ www.architectes-fr.com
 www.archouston.com
 www.arcterjacketoutlet.com
 www.arcteryxcanada.com
-www.arcteryxdeutschland.com
 www.arcteryxoutlet.at
-www.arcteryxoutlets.com
 www.ardivine.com
 www.ardora.at
 www.aresc.de
@@ -6624,20 +6606,17 @@ www.badabang.de
 www.badeanzugtreff.de
 www.bademoebel.net
 www.badgyalbrand.com
-www.badtion.top
 www.baeckerei-huber.at
 www.baetz-malerei.de
 www.baeuchel.at
 www.bagomi-versand.net
 www.bagsev.de
 www.baibae.com
-www.bairisch-irish.de
 www.baissonw.com
 www.balance-leben.at
 www.baledino.com
 www.baleurs.de
 www.baliley.com
-www.ballise.top
 www.baloast.xyz
 www.balon-elektro.com
 www.balotracity.com
@@ -6756,7 +6735,6 @@ www.bestpreis-market.com
 www.bestrelocate.com
 www.bestrin.club
 www.bestronik.com
-www.bestsalecheap.top
 www.bestsellon.com
 www.bestsindy.com
 www.besttoolkits.com
@@ -6765,9 +6743,7 @@ www.bestwoof.de
 www.bestybikes.de
 www.bestylish.club
 www.beta-re.com
-www.betterinbed.shop
 www.bettersecure.site
-www.bettina-alban.de
 www.bettinakreativ.at
 www.bettyshops.com
 www.bewaremarts.com
@@ -6827,10 +6803,8 @@ www.blade-pirates.de
 www.blaudonau.de
 www.blaue-dragoner.de
 www.blauerhein.de
-www.blautronik.de
 www.blickpunkt24.at
 www.blitzschuhe.de
-www.blitztechnik24.de
 www.bloomsocks.ca
 www.blooseye.com
 www.bluecrate.de
@@ -6945,7 +6919,6 @@ www.bubblee.de
 www.buchverlag-scholz.de
 www.buchwerft-verlag.de
 www.buckleybelts.de
-www.buddhacollections.com
 www.buddhapowerstore.com
 www.budgethotel.at
 www.budiers.com
@@ -6956,7 +6929,6 @@ www.buffetanlage.at
 www.buffy.ch
 www.bufnkce.top
 www.bugabooashland.com
-www.buhler-energie.com
 www.buhrlishome.de
 www.build-en.com
 www.bulldogge-franzosische-welpen.com
@@ -8036,6 +8008,7 @@ www.fineartswuerzburg.de
 www.finflix.de
 www.finkerkette.de
 www.finmove.net
+www.fintegral.world
 www.fipecampania.it
 www.firalo.de
 www.firma-leitner.at
@@ -8062,7 +8035,6 @@ www.flagshipmodels.com
 www.flaguette.de
 www.flamingo-de.com
 www.flash24tradefx.com
-www.flashangebote.com
 www.flaviorossi.de
 www.fleezie.de
 www.fleiming.com
@@ -8788,6 +8760,7 @@ www.interharbours.com
 www.interiorbyjuan.com
 www.internationaalverhuisadvies.nl
 www.internationalerumzug.de
+www.interseroh-brandneu.de
 www.intoleranztest.com
 www.intosmile.nl
 www.int-re.com
@@ -10745,6 +10718,7 @@ www.shauntapparel.com
 www.shaxu.top
 www.shccamps.com
 www.sheadora.com
+www.shebeautys.com
 www.sheheaven.com
 www.shelbs.de
 www.shelbz.de

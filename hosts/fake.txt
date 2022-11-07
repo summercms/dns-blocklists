@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 07:28 UTC
-# Version: 2022.1107.0728.47
+# Last modified: 07 Nov 2022 17:03 UTC
+# Version: 2022.1107.1703.32
 # Syntax: Hosts
-# Domains: 12100
+# Domains: 12074
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -251,11 +251,9 @@
 0.0.0.0 andal.at
 0.0.0.0 andasukak.top
 0.0.0.0 andeking.de
-0.0.0.0 andraster.top
 0.0.0.0 andrearebecca.com
 0.0.0.0 andreas-lutsch.de
 0.0.0.0 andres-kopierer.de
-0.0.0.0 andre-uterhardt.de
 0.0.0.0 andrieleshop.com
 0.0.0.0 android-car-dvd.de
 0.0.0.0 anduni.de
@@ -329,9 +327,7 @@
 0.0.0.0 archouston.com
 0.0.0.0 arcterjacketoutlet.com
 0.0.0.0 arcteryxcanada.com
-0.0.0.0 arcteryxdeutschland.com
 0.0.0.0 arcteryxoutlet.at
-0.0.0.0 arcteryxoutlets.com
 0.0.0.0 ardivine.com
 0.0.0.0 ardora.at
 0.0.0.0 aresc.de
@@ -411,7 +407,6 @@
 0.0.0.0 autocentret-biludlejning.de
 0.0.0.0 autocryptooptions.online
 0.0.0.0 autodisco.de
-0.0.0.0 autofficinabertas.it
 0.0.0.0 autohausbismuth.de
 0.0.0.0 autohobby.at
 0.0.0.0 autolinie.de
@@ -467,21 +462,18 @@
 0.0.0.0 badeanzugtreff.de
 0.0.0.0 bademoebel.net
 0.0.0.0 badgyalbrand.com
-0.0.0.0 badtion.top
 0.0.0.0 baeckerei-huber.at
 0.0.0.0 baetz-malerei.de
 0.0.0.0 baeuchel.at
 0.0.0.0 bagomi-versand.net
 0.0.0.0 bagsev.de
 0.0.0.0 baibae.com
-0.0.0.0 bairisch-irish.de
 0.0.0.0 baissonw.com
 0.0.0.0 balance-leben.at
 0.0.0.0 baledino.com
 0.0.0.0 baleurs.de
 0.0.0.0 baliley.com
 0.0.0.0 balkone.co.at
-0.0.0.0 ballise.top
 0.0.0.0 baloast.xyz
 0.0.0.0 balon-elektro.com
 0.0.0.0 balotracity.com
@@ -554,7 +546,6 @@
 0.0.0.0 beljunqueira.com
 0.0.0.0 belladde.com
 0.0.0.0 bellelora.com
-0.0.0.0 bellesasa.com
 0.0.0.0 belletaka.com
 0.0.0.0 bellissimoo.de
 0.0.0.0 belmarkt.net
@@ -615,7 +606,6 @@
 0.0.0.0 bestrin.club
 0.0.0.0 bestronik.com
 0.0.0.0 bests.2021salesonline.ru
-0.0.0.0 bestsalecheap.top
 0.0.0.0 bestsellon.com
 0.0.0.0 bestsindy.com
 0.0.0.0 besttoolkits.com
@@ -624,9 +614,7 @@
 0.0.0.0 bestybikes.de
 0.0.0.0 bestylish.club
 0.0.0.0 beta-re.com
-0.0.0.0 betterinbed.shop
 0.0.0.0 bettersecure.site
-0.0.0.0 bettina-alban.de
 0.0.0.0 bettinakreativ.at
 0.0.0.0 bettyshops.com
 0.0.0.0 bewaremarts.com
@@ -689,10 +677,8 @@
 0.0.0.0 blaudonau.de
 0.0.0.0 blaue-dragoner.de
 0.0.0.0 blauerhein.de
-0.0.0.0 blautronik.de
 0.0.0.0 blickpunkt24.at
 0.0.0.0 blitzschuhe.de
-0.0.0.0 blitztechnik24.de
 0.0.0.0 bl.mdates.com
 0.0.0.0 blobel-elektromarkt.com
 0.0.0.0 bloomsocks.ca
@@ -819,7 +805,6 @@
 0.0.0.0 buchverlag-scholz.de
 0.0.0.0 buchwerft-verlag.de
 0.0.0.0 buckleybelts.de
-0.0.0.0 buddhacollections.com
 0.0.0.0 buddhapowerstore.com
 0.0.0.0 budgethotel.at
 0.0.0.0 budiers.com
@@ -830,7 +815,6 @@
 0.0.0.0 buffy.ch
 0.0.0.0 bufnkce.top
 0.0.0.0 bugabooashland.com
-0.0.0.0 buhler-energie.com
 0.0.0.0 buhrlishome.de
 0.0.0.0 build-en.com
 0.0.0.0 bulldogge-franzosische-welpen.com
@@ -2030,6 +2014,7 @@
 0.0.0.0 finkerkette.de
 0.0.0.0 finmove.net
 0.0.0.0 fintegral.fund
+0.0.0.0 fintegral.world
 0.0.0.0 fipecampania.it
 0.0.0.0 firalo.de
 0.0.0.0 firma-leitner.at
@@ -2057,7 +2042,6 @@
 0.0.0.0 flaguette.de
 0.0.0.0 flamingo-de.com
 0.0.0.0 flash24tradefx.com
-0.0.0.0 flashangebote.com
 0.0.0.0 flash.iubqx.com
 0.0.0.0 flaviorossi.de
 0.0.0.0 fleezie.de
@@ -2858,6 +2842,7 @@
 0.0.0.0 interiorbyjuan.com
 0.0.0.0 internationaalverhuisadvies.nl
 0.0.0.0 internationalerumzug.de
+0.0.0.0 interseroh-brandneu.de
 0.0.0.0 intoleranztest.com
 0.0.0.0 intosmile.nl
 0.0.0.0 int-re.com
@@ -4982,6 +4967,7 @@
 0.0.0.0 shaxu.top
 0.0.0.0 shccamps.com
 0.0.0.0 sheadora.com
+0.0.0.0 shebeautys.com
 0.0.0.0 sheheaven.com
 0.0.0.0 shelbs.de
 0.0.0.0 shelbz.de
@@ -6430,11 +6416,9 @@
 0.0.0.0 www.andal.at
 0.0.0.0 www.andasukak.top
 0.0.0.0 www.andeking.de
-0.0.0.0 www.andraster.top
 0.0.0.0 www.andrearebecca.com
 0.0.0.0 www.andreas-lutsch.de
 0.0.0.0 www.andres-kopierer.de
-0.0.0.0 www.andre-uterhardt.de
 0.0.0.0 www.andrieleshop.com
 0.0.0.0 www.android-car-dvd.de
 0.0.0.0 www.anduni.de
@@ -6503,9 +6487,7 @@
 0.0.0.0 www.archouston.com
 0.0.0.0 www.arcterjacketoutlet.com
 0.0.0.0 www.arcteryxcanada.com
-0.0.0.0 www.arcteryxdeutschland.com
 0.0.0.0 www.arcteryxoutlet.at
-0.0.0.0 www.arcteryxoutlets.com
 0.0.0.0 www.ardivine.com
 0.0.0.0 www.ardora.at
 0.0.0.0 www.aresc.de
@@ -6624,20 +6606,17 @@
 0.0.0.0 www.badeanzugtreff.de
 0.0.0.0 www.bademoebel.net
 0.0.0.0 www.badgyalbrand.com
-0.0.0.0 www.badtion.top
 0.0.0.0 www.baeckerei-huber.at
 0.0.0.0 www.baetz-malerei.de
 0.0.0.0 www.baeuchel.at
 0.0.0.0 www.bagomi-versand.net
 0.0.0.0 www.bagsev.de
 0.0.0.0 www.baibae.com
-0.0.0.0 www.bairisch-irish.de
 0.0.0.0 www.baissonw.com
 0.0.0.0 www.balance-leben.at
 0.0.0.0 www.baledino.com
 0.0.0.0 www.baleurs.de
 0.0.0.0 www.baliley.com
-0.0.0.0 www.ballise.top
 0.0.0.0 www.baloast.xyz
 0.0.0.0 www.balon-elektro.com
 0.0.0.0 www.balotracity.com
@@ -6756,7 +6735,6 @@
 0.0.0.0 www.bestrelocate.com
 0.0.0.0 www.bestrin.club
 0.0.0.0 www.bestronik.com
-0.0.0.0 www.bestsalecheap.top
 0.0.0.0 www.bestsellon.com
 0.0.0.0 www.bestsindy.com
 0.0.0.0 www.besttoolkits.com
@@ -6765,9 +6743,7 @@
 0.0.0.0 www.bestybikes.de
 0.0.0.0 www.bestylish.club
 0.0.0.0 www.beta-re.com
-0.0.0.0 www.betterinbed.shop
 0.0.0.0 www.bettersecure.site
-0.0.0.0 www.bettina-alban.de
 0.0.0.0 www.bettinakreativ.at
 0.0.0.0 www.bettyshops.com
 0.0.0.0 www.bewaremarts.com
@@ -6827,10 +6803,8 @@
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
-0.0.0.0 www.blautronik.de
 0.0.0.0 www.blickpunkt24.at
 0.0.0.0 www.blitzschuhe.de
-0.0.0.0 www.blitztechnik24.de
 0.0.0.0 www.bloomsocks.ca
 0.0.0.0 www.blooseye.com
 0.0.0.0 www.bluecrate.de
@@ -6945,7 +6919,6 @@
 0.0.0.0 www.buchverlag-scholz.de
 0.0.0.0 www.buchwerft-verlag.de
 0.0.0.0 www.buckleybelts.de
-0.0.0.0 www.buddhacollections.com
 0.0.0.0 www.buddhapowerstore.com
 0.0.0.0 www.budgethotel.at
 0.0.0.0 www.budiers.com
@@ -6956,7 +6929,6 @@
 0.0.0.0 www.buffy.ch
 0.0.0.0 www.bufnkce.top
 0.0.0.0 www.bugabooashland.com
-0.0.0.0 www.buhler-energie.com
 0.0.0.0 www.buhrlishome.de
 0.0.0.0 www.build-en.com
 0.0.0.0 www.bulldogge-franzosische-welpen.com
@@ -8036,6 +8008,7 @@
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
+0.0.0.0 www.fintegral.world
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
 0.0.0.0 www.firma-leitner.at
@@ -8062,7 +8035,6 @@
 0.0.0.0 www.flaguette.de
 0.0.0.0 www.flamingo-de.com
 0.0.0.0 www.flash24tradefx.com
-0.0.0.0 www.flashangebote.com
 0.0.0.0 www.flaviorossi.de
 0.0.0.0 www.fleezie.de
 0.0.0.0 www.fleiming.com
@@ -8788,6 +8760,7 @@
 0.0.0.0 www.interiorbyjuan.com
 0.0.0.0 www.internationaalverhuisadvies.nl
 0.0.0.0 www.internationalerumzug.de
+0.0.0.0 www.interseroh-brandneu.de
 0.0.0.0 www.intoleranztest.com
 0.0.0.0 www.intosmile.nl
 0.0.0.0 www.int-re.com
@@ -10745,6 +10718,7 @@
 0.0.0.0 www.shaxu.top
 0.0.0.0 www.shccamps.com
 0.0.0.0 www.sheadora.com
+0.0.0.0 www.shebeautys.com
 0.0.0.0 www.sheheaven.com
 0.0.0.0 www.shelbs.de
 0.0.0.0 www.shelbz.de

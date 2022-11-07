@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 07:28 UTC
-# Version: 2022.1107.0728.47
+# Last modified: 07 Nov 2022 17:03 UTC
+# Version: 2022.1107.1703.32
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6313
+# Domains: 6299
 #
 *.11trikots.com
 *.123brennholz.com
@@ -250,11 +250,9 @@
 *.andal.at
 *.andasukak.top
 *.andeking.de
-*.andraster.top
 *.andrearebecca.com
 *.andreas-lutsch.de
 *.andres-kopierer.de
-*.andre-uterhardt.de
 *.andrieleshop.com
 *.android-car-dvd.de
 *.anduni.de
@@ -328,9 +326,7 @@
 *.archouston.com
 *.arcterjacketoutlet.com
 *.arcteryxcanada.com
-*.arcteryxdeutschland.com
 *.arcteryxoutlet.at
-*.arcteryxoutlets.com
 *.ardivine.com
 *.ardora.at
 *.aresc.de
@@ -409,7 +405,6 @@
 *.autocentret-biludlejning.de
 *.autocryptooptions.online
 *.autodisco.de
-*.autofficinabertas.it
 *.autohausbismuth.de
 *.autohobby.at
 *.autolinie.de
@@ -465,21 +460,18 @@
 *.badeanzugtreff.de
 *.bademoebel.net
 *.badgyalbrand.com
-*.badtion.top
 *.baeckerei-huber.at
 *.baetz-malerei.de
 *.baeuchel.at
 *.bagomi-versand.net
 *.bagsev.de
 *.baibae.com
-*.bairisch-irish.de
 *.baissonw.com
 *.balance-leben.at
 *.baledino.com
 *.baleurs.de
 *.baliley.com
 *.balkone.co.at
-*.ballise.top
 *.baloast.xyz
 *.balon-elektro.com
 *.balotracity.com
@@ -551,7 +543,6 @@
 *.beljunqueira.com
 *.belladde.com
 *.bellelora.com
-*.bellesasa.com
 *.belletaka.com
 *.bellissimoo.de
 *.belmarkt.net
@@ -612,7 +603,6 @@
 *.bestrin.club
 *.bestronik.com
 *.bests.2021salesonline.ru
-*.bestsalecheap.top
 *.bestsellon.com
 *.bestsindy.com
 *.besttoolkits.com
@@ -621,9 +611,7 @@
 *.bestybikes.de
 *.bestylish.club
 *.beta-re.com
-*.betterinbed.shop
 *.bettersecure.site
-*.bettina-alban.de
 *.bettinakreativ.at
 *.bettyshops.com
 *.bewaremarts.com
@@ -686,10 +674,8 @@
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
-*.blautronik.de
 *.blickpunkt24.at
 *.blitzschuhe.de
-*.blitztechnik24.de
 *.bl.mdates.com
 *.blobel-elektromarkt.com
 *.bloomsocks.ca
@@ -816,7 +802,6 @@
 *.buchverlag-scholz.de
 *.buchwerft-verlag.de
 *.buckleybelts.de
-*.buddhacollections.com
 *.buddhapowerstore.com
 *.budgethotel.at
 *.budiers.com
@@ -827,7 +812,6 @@
 *.buffy.ch
 *.bufnkce.top
 *.bugabooashland.com
-*.buhler-energie.com
 *.buhrlishome.de
 *.build-en.com
 *.bulldogge-franzosische-welpen.com
@@ -2013,6 +1997,7 @@
 *.finkerkette.de
 *.finmove.net
 *.fintegral.fund
+*.fintegral.world
 *.fipecampania.it
 *.firalo.de
 *.firma-leitner.at
@@ -2040,7 +2025,6 @@
 *.flaguette.de
 *.flamingo-de.com
 *.flash24tradefx.com
-*.flashangebote.com
 *.flash.iubqx.com
 *.flaviorossi.de
 *.fleezie.de
@@ -2838,6 +2822,7 @@
 *.interiorbyjuan.com
 *.internationaalverhuisadvies.nl
 *.internationalerumzug.de
+*.interseroh-brandneu.de
 *.intoleranztest.com
 *.intosmile.nl
 *.int-re.com
@@ -4960,6 +4945,7 @@
 *.shaxu.top
 *.shccamps.com
 *.sheadora.com
+*.shebeautys.com
 *.sheheaven.com
 *.shelbs.de
 *.shelbz.de
