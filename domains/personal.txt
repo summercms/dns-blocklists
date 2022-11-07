@@ -4,13 +4,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 01:19 UTC
-# Version: 2022.1107.0119.12
+# Last modified: 07 Nov 2022 07:52 UTC
+# Version: 2022.1107.0752.50
 # Syntax: Domains
-# Domains: 828
+# Domains: 753
 #
-000webhostapp.com
-www.000webhostapp.com
 t.1und1.de
 24coinix.com
 www.24coinix.com
@@ -18,14 +16,8 @@ www.24coinix.com
 www.26sgmin39.de
 2a4snhmtm.de
 www.2a4snhmtm.de
-302br.net
-www.302br.net
-3322.org
-www.3322.org
 gtrack.365economist.com
 track.365economist.com
-3utilities.com
-www.3utilities.com
 53244ds.xyz
 www.53244ds.xyz
 7e1e8f3eba.com
@@ -41,8 +33,6 @@ t.aachener-zeitung.de
 abbaspc.net
 www.abbaspc.net
 t.aboutyou.de
-actonservice.com
-www.actonservice.com
 ad-cdn.name
 www.ad-cdn.name
 analytics.si-p.adac.de
@@ -88,10 +78,6 @@ track.americansongwriter.com
 analytics-debugger.com
 amp.analytics-debugger.com
 www.analytics-debugger.com
-aosag.net
-www.aosag.net
-aoscufe.com
-www.aoscufe.com
 r.apotheken-umschau.de
 app-measurement.com
 region1.app-measurement.com
@@ -132,15 +118,11 @@ analytics-static.ugc.bazaarvoice.com
 track.bc1920.de
 analytics.bestofluck.io
 analytics.bfops.io
-bh-mail.com
-www.bh-mail.com
 amptrack.bild.de
 rem-track.bild.de
 tracker.blazing.de
 photos1.blogger.com
 telemetry.bluedot.io
-bluehornet.com
-www.bluehornet.com
 t.mail.bmw.de
 analytics.bomiv.com
 tracking.bonn.de
@@ -148,8 +130,6 @@ borrelioseweb.de
 www.borrelioseweb.de
 borrowedculture.com
 www.borrowedculture.com
-bounceme.net
-www.bounceme.net
 amp-pixel.br.de
 client-analytics.braintreegateway.com
 branch.io
@@ -239,8 +219,6 @@ tadata.ddjiayou.cn
 www.ddjiayou.cn
 tracker.debiantestserver.de
 analytics.debutify.com
-deeginews.com
-www.deeginews.com
 errortracking.deepl.com
 metrics.dertour.de
 r.df-srv.de
@@ -262,8 +240,6 @@ webanalytics.drk-blutspende.de
 beacon.dropbox.com
 dttrk.com
 www.dttrk.com
-dynamic-dns.net
-www.dynamic-dns.net
 dynatrace.com
 www.dynatrace.com
 dyntracker.de
@@ -282,8 +258,6 @@ mobile-events.eservice.emarsys.net
 webchannel-content.eservice.emarsys.net
 dyn.emetriq.de
 tracking.emons.de
-epac.to
-www.epac.to
 epagogerepines.com
 trackers.peerius.episerver.net
 tracking.ernstings-family.de
@@ -300,8 +274,6 @@ sanalytics.express.de
 track.express.de
 extentrackpro.com
 www.extentrackpro.com
-ezcybersearch.com
-www.ezcybersearch.com
 rt.familie.de
 analytics.fatmedia.io
 analytics.ffh.de
@@ -316,8 +288,6 @@ tracking-collector.site.flexispot.com
 track.flexlinkspro.com
 floweryflavor.com
 rt.focus.de
-forumz.info
-www.forumz.info
 metrics.fressnapf.de
 t.kontextr.funke-next-level.de
 p2.fwpixel.com
@@ -368,10 +338,6 @@ r.grouponmail.de
 gsadserver.de
 banner.gsadserver.de
 www.gsadserver.de
-gtarcade.com
-www.gtarcade.com
-guesswhatnews.com
-www.guesswhatnews.com
 r.gutscheinmailer24.de
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -388,8 +354,6 @@ gtrack.historictalk.com
 track.historictalk.com
 hitrackthat.com
 clk.hitrackthat.com
-hopto.org
-www.hopto.org
 hotjar.com
 www.hotjar.com
 svc-2-analytics-usf.hotyon.com
@@ -397,8 +361,6 @@ hpanalytics.net
 downloads.hpanalytics.net
 us-west-2.kinesis.hpanalytics.net
 js.hs-analytics.net
-huronews.com
-www.huronews.com
 hutters.click
 www.hutters.click
 analytics.hybrid-cms.de
@@ -406,7 +368,6 @@ tracking.hygienebeauftragter-online.de
 metrics.icloud.com
 system-lexoffice.identify-cmd.de
 analytics.idfnet.net
-igodigital.com
 tracking.igs-logistics.de
 tracker.ihk-muenchen.de
 tracking.immobilienscout24.de
@@ -433,8 +394,6 @@ ist-track.com
 www.ist-track.com
 matching.ivitrack.com
 metrics.jameda.de
-jemonews.com
-www.jemonews.com
 analytics.jjshouse.com
 tracking.kadewe.de
 kameleoon.com
@@ -459,8 +418,6 @@ storage.kameleoon.com
 storage.kameleoon.eu
 www.kameleoon.com
 www.kameleoon.eu
-kankan.com
-www.kankan.com
 tracking.cloud.kaufland.de
 kirchenaustritt24.de
 www.kirchenaustritt24.de
@@ -479,17 +436,11 @@ tracking.ladies.de
 eic.cdpbeacon.lgtvcommon.com
 trk.lgw.io
 metrics.lidl.com
-linkpc.net
-www.linkpc.net
 f1tracks.lnk.to
 logentries.com
 data.logentries.com
 webhook.logentries.com
 www.logentries.com
-loopanews.com
-www.loopanews.com
-luronews.com
-www.luronews.com
 webanalytics.lvr.de
 tracking.m6r.eu
 trk.mail.ru
@@ -559,15 +510,11 @@ smetrics.o2online.de
 cdn.ometria.com
 trk.ometria.com
 apixel.onetribeglobal.com
-onmypc.net
-www.onmypc.net
 adalliance.tagger.opecloud.com
 track.opentable.de
 logx.optimizely.com
 t.mail.ipanema.cloud.otto.de
 tracking.outspot.de
-p2l.info
-www.p2l.info
 smetrics.pandora.net
 gtrack.parentmood.com
 track.parentmood.com
@@ -581,13 +528,9 @@ track.ph-connect.de
 pixel.poptok.com
 analytics.prensaiberica.es
 analytics-cdn.prensaiberica.es
-preview-domain.com
-www.preview-domain.com
 track.productsup.com
 my.profitmetrics.io
 tracking.projekte-leicht-gemacht.de
-publicvm.com
-www.publicvm.com
 cdn.quantummetric.com
 emirates-app.quantummetric.com
 gtrack.reallifediy.com
@@ -605,8 +548,6 @@ gtrack.rightlivin.com
 track.rightlivin.com
 beacon.riskified.com
 check.analytics.rlcdn.com
-rookinews.com
-www.rookinews.com
 r.rp-online.de
 pixel.rtbix.com
 notify-bugs-fra1.rtl.de
@@ -639,15 +580,11 @@ sentry-cdn.com
 browser.sentry-cdn.com
 js.sentry-cdn.com
 www.sentry-cdn.com
-serveftp.com
-www.serveftp.com
 analytics.sevencooks.com
 widget.track.aws.sevensenders.com
 beacon.shazam.com
 track.shoparize.com
 track.shoptopdeal.com
-sifenews.com
-www.sifenews.com
 simptrack.com
 tm.simptrack.com
 tm707.simptrack.com
@@ -697,14 +634,8 @@ superficialeyes.com
 telemetry.api.swiftkey.com
 symplr.de
 www.symplr.de
-sytes.net
-www.sytes.net
 rt.t-online.de
 pixel.team-hp.com
-tegronews.com
-www.tegronews.com
-tencentcs.com
-teradatadmc.com
 analytics.tfm.rocks
 thinkingdata.cn
 www.thinkingdata.cn
@@ -734,8 +665,6 @@ audit.trackverify.com
 trackvrs.com
 www.trackvrs.com
 serviceschipotlecom.trafficmanager.net
-trickip.org
-www.trickip.org
 ai.trk42.net
 trkkn.com
 cdn.trkkn.com
@@ -806,8 +735,6 @@ analytics.webgains.io
 track.production.webgains.team
 webroutetrk.com
 www.webroutetrk.com
-wikaba.com
-www.wikaba.com
 intake-analytics.wikimedia.org
 wlct-two.de
 static.wlct-two.de
@@ -815,8 +742,6 @@ www.wlct-two.de
 t.infocomms.wowtv.de
 smetrics.wowtv.de
 tracking-api.xsolla.com
-xsph.ru
-www.xsph.ru
 lg-beacons.xumo.com
 lg-channelplus-br-beacons.xumo.com
 lg-channelplus-de-beacons.xumo.com
