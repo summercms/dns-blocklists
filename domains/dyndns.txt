@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 08:00 UTC
-# Version: 2022.1106.0800.04
+# Last modified: 07 Nov 2022 00:49 UTC
+# Version: 2022.1107.0049.39
 # Syntax: Domains
-# Domains: 772
+# Domains: 768
 #
 0x.no
 120v.ac
@@ -14,7 +14,6 @@
 16-b.it
 1cooldns.com
 1dumb.com
-2288.org
 24-7.ro
 25u.com
 2mydns.net
@@ -37,7 +36,6 @@
 688.org
 7766.org
 8800.org
-8866.org
 9966.org
 abuser.eu
 access.ly
@@ -211,7 +209,6 @@ dynet.com
 dynip.org
 dynnamn.ru
 dynns.com
-dynserv.org
 dynssl.com
 dynu.com
 dynu.net
@@ -616,7 +613,6 @@ dynamicdns.org.uk
 organiccrap.com
 otzo.com
 ourhobby.com
-ownip.net
 pcanywhere.net
 pgafan.net
 photo-frame.com
