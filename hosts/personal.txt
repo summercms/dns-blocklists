@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 07:52 UTC
-# Version: 2022.1107.0752.50
+# Last modified: 07 Nov 2022 17:28 UTC
+# Version: 2022.1107.1728.19
 # Syntax: Hosts
-# Domains: 753
+# Domains: 759
 #
 0.0.0.0 t.1und1.de
 0.0.0.0 24coinix.com
@@ -151,8 +151,11 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 iad-04.braze.com
 0.0.0.0 sdk.iad-04.braze.com
+0.0.0.0 iad-05.braze.com
 0.0.0.0 sdk.iad-05.braze.com
+0.0.0.0 iad-06.braze.com
 0.0.0.0 sdk.iad-06.braze.com
+0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 www.braze.com
 0.0.0.0 www.braze.eu
@@ -328,6 +331,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
@@ -678,6 +682,8 @@
 0.0.0.0 wsviacom.tvtelemetrie.com
 0.0.0.0 trk.uberall.com
 0.0.0.0 analytics.uhrzeit.org
+0.0.0.0 ukpressmyint.xyz
+0.0.0.0 www.ukpressmyint.xyz
 0.0.0.0 trk.ultraind.in
 0.0.0.0 analytics.rz.uni-osnabrueck.de
 0.0.0.0 t.mailing.unilever.de
