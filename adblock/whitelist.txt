@@ -1796,3 +1796,10 @@
 ! Breaks fastpic.org
 @@|static.fastpic.org^
 
+! Confirmation of change.org petitions
+@@|click.e.change.org^
+@@|www.change.org.cdn.cloudflare.net^
+
+! reviews about online shop
+@@|avis-verifies.com^
+
