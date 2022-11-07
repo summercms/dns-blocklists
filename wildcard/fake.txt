@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:52 UTC
-# Version: 2022.1106.1852.10
+# Last modified: 07 Nov 2022 07:28 UTC
+# Version: 2022.1107.0728.47
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6323
+# Domains: 6313
 #
 *.11trikots.com
 *.123brennholz.com
@@ -62,7 +62,6 @@
 *.abendbrotmainz.de
 *.abenteuer-direkt.com
 *.abenteuerlust.net
-*.ab-group.info
 *.ab-homes.com
 *.abinaslawk.com
 *.abipartyxxl.de
@@ -71,7 +70,6 @@
 *.aboutbeingold.com
 *.above2021.com
 *.abqmvad.top
-*.abrahamr.com
 *.abylul.com
 *.acastleinthesun.com
 *.accaartblog.com
@@ -139,7 +137,6 @@
 *.airbow.at
 *.aircargo-logistics.com
 *.aircoox.com
-*.airly-shop.de
 *.airmaxoutlet.net
 *.airmaxsale.de
 *.airsalo.com
@@ -208,7 +205,6 @@
 *.alltech-de.com
 *.alltopinvest.com
 *.alltvb.com
-*.allunias.com
 *.alo-car.com
 *.alongsideert.online
 *.alphakatz.com
@@ -232,11 +228,9 @@
 *.amagliecalcio.com
 *.amantesaragon.com
 *.a.marahuda.ga
-*.amarego.com
 *.a-markt.de
 *.amazenda.com
 *.ambashtah.com
-*.ambian.top
 *.ambileds.de
 *.ambusama.de
 *.amechad.de
@@ -531,7 +525,6 @@
 *.bbvipanswer.shop
 *.bcm-shop.de
 *.bc-rheine.de
-*.bdshop.com
 *.beathel.com
 *.beatricefalck-art.de
 *.beauteousu.com
@@ -690,7 +683,6 @@
 *.black-forestcake.com
 *.blackwidow.at
 *.blade-pirates.de
-*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -698,6 +690,7 @@
 *.blickpunkt24.at
 *.blitzschuhe.de
 *.blitztechnik24.de
+*.bl.mdates.com
 *.blobel-elektromarkt.com
 *.bloomsocks.ca
 *.blooseye.com
@@ -860,6 +853,7 @@
 *.buycheap.fun
 *.buycheapsale.site
 *.buycheapstuff.site
+*.buycircaknee.com
 *.buyerando.de
 *.buyheatcore.com
 *.buyjordan2021.com
@@ -1360,7 +1354,6 @@
 *.deinseitensprung.com
 *.deiste.top
 *.dejonk.de
-*.de.justfashionnow.com
 *.dekopause.at
 *.deleju.info
 *.delhihurricanes.com
@@ -2019,7 +2012,6 @@
 *.finflix.de
 *.finkerkette.de
 *.finmove.net
-*.finosso.com
 *.fintegral.fund
 *.fipecampania.it
 *.firalo.de
@@ -2805,7 +2797,6 @@
 *.impruneta.de
 *.imyazdz.shop
 *.imzauberstuebchen.de
-*.incerunmen.com
 *.inc-real.com
 *.indonesiahotel24.com
 *.inedito.fr
@@ -3548,7 +3539,6 @@
 *.mc-miner.com
 *.mcoaltmeds.com
 *.mctrl-marktforschung.com
-*.mdates.com
 *.mealsonwheels.at
 *.mebs.ch
 *.media-deals24.de
@@ -4942,6 +4932,7 @@
 *.sensefums.com
 *.senthiln.top
 *.seoyou.de
+*.sepkicks.com
 *.seprun.com
 *.sepshoe.com
 *.sepsneakers.co
@@ -5707,7 +5698,6 @@
 *.tusneumuehl.de
 *.tuyyds.store
 *.tv-gesundheit.at
-*.tvidler.com
 *.tvmarket.club
 *.twilight-fans.de
 *.twinsbc.de
@@ -5808,6 +5798,7 @@
 *.vacplux.com
 *.vaggv.com
 *.vagomarkt.com
+*.vakkerlight.com
 *.valanza.de
 *.valty-heater.com
 *.valurabeauty.com
@@ -5878,7 +5869,6 @@
 *.vespin24.de
 *.vespin-versand.de
 *.vetola.de
-*.vevor.de
 *.vfcsnc.shop
 *.vga.unternehmer-2014.de
 *.vgr8.com

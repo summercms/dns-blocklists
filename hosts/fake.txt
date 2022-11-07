@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:52 UTC
-# Version: 2022.1106.1852.10
+# Last modified: 07 Nov 2022 07:28 UTC
+# Version: 2022.1107.0728.47
 # Syntax: Hosts
-# Domains: 12121
+# Domains: 12100
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -62,7 +62,6 @@
 0.0.0.0 abendbrotmainz.de
 0.0.0.0 abenteuer-direkt.com
 0.0.0.0 abenteuerlust.net
-0.0.0.0 ab-group.info
 0.0.0.0 ab-homes.com
 0.0.0.0 abinaslawk.com
 0.0.0.0 abipartyxxl.de
@@ -71,7 +70,6 @@
 0.0.0.0 aboutbeingold.com
 0.0.0.0 above2021.com
 0.0.0.0 abqmvad.top
-0.0.0.0 abrahamr.com
 0.0.0.0 abylul.com
 0.0.0.0 acastleinthesun.com
 0.0.0.0 accaartblog.com
@@ -140,7 +138,6 @@
 0.0.0.0 airbow.at
 0.0.0.0 aircargo-logistics.com
 0.0.0.0 aircoox.com
-0.0.0.0 airly-shop.de
 0.0.0.0 airmaxoutlet.net
 0.0.0.0 airmaxsale.de
 0.0.0.0 airsalo.com
@@ -209,7 +206,6 @@
 0.0.0.0 alltech-de.com
 0.0.0.0 alltopinvest.com
 0.0.0.0 alltvb.com
-0.0.0.0 allunias.com
 0.0.0.0 alo-car.com
 0.0.0.0 alongsideert.online
 0.0.0.0 alphakatz.com
@@ -233,11 +229,9 @@
 0.0.0.0 amagliecalcio.com
 0.0.0.0 amantesaragon.com
 0.0.0.0 a.marahuda.ga
-0.0.0.0 amarego.com
 0.0.0.0 a-markt.de
 0.0.0.0 amazenda.com
 0.0.0.0 ambashtah.com
-0.0.0.0 ambian.top
 0.0.0.0 ambileds.de
 0.0.0.0 ambusama.de
 0.0.0.0 amechad.de
@@ -533,7 +527,6 @@
 0.0.0.0 bbvipanswer.shop
 0.0.0.0 bcm-shop.de
 0.0.0.0 bc-rheine.de
-0.0.0.0 bdshop.com
 0.0.0.0 bdsm.de.wundertesting.com
 0.0.0.0 beathel.com
 0.0.0.0 beatricefalck-art.de
@@ -693,7 +686,6 @@
 0.0.0.0 black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 blade-pirates.de
-0.0.0.0 blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 blaue-dragoner.de
 0.0.0.0 blauerhein.de
@@ -864,6 +856,7 @@
 0.0.0.0 buycheap.fun
 0.0.0.0 buycheapsale.site
 0.0.0.0 buycheapstuff.site
+0.0.0.0 buycircaknee.com
 0.0.0.0 buyerando.de
 0.0.0.0 buyheatcore.com
 0.0.0.0 buyjordan2021.com
@@ -1369,7 +1362,6 @@
 0.0.0.0 deinseitensprung.com
 0.0.0.0 deiste.top
 0.0.0.0 dejonk.de
-0.0.0.0 de.justfashionnow.com
 0.0.0.0 dekopause.at
 0.0.0.0 deleju.info
 0.0.0.0 delhihurricanes.com
@@ -2037,7 +2029,6 @@
 0.0.0.0 finflix.de
 0.0.0.0 finkerkette.de
 0.0.0.0 finmove.net
-0.0.0.0 finosso.com
 0.0.0.0 fintegral.fund
 0.0.0.0 fipecampania.it
 0.0.0.0 firalo.de
@@ -2826,7 +2817,6 @@
 0.0.0.0 impruneta.de
 0.0.0.0 imyazdz.shop
 0.0.0.0 imzauberstuebchen.de
-0.0.0.0 incerunmen.com
 0.0.0.0 inc-real.com
 0.0.0.0 indonesiahotel24.com
 0.0.0.0 inedito.fr
@@ -3570,7 +3560,6 @@
 0.0.0.0 mc-miner.com
 0.0.0.0 mcoaltmeds.com
 0.0.0.0 mctrl-marktforschung.com
-0.0.0.0 mdates.com
 0.0.0.0 mealsonwheels.at
 0.0.0.0 mebs.ch
 0.0.0.0 media-deals24.de
@@ -4965,6 +4954,7 @@
 0.0.0.0 sensefums.com
 0.0.0.0 senthiln.top
 0.0.0.0 seoyou.de
+0.0.0.0 sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 sepshoe.com
 0.0.0.0 sepsneakers.co
@@ -5733,7 +5723,6 @@
 0.0.0.0 tusneumuehl.de
 0.0.0.0 tuyyds.store
 0.0.0.0 tv-gesundheit.at
-0.0.0.0 tvidler.com
 0.0.0.0 tvmarket.club
 0.0.0.0 twilight-fans.de
 0.0.0.0 twinsbc.de
@@ -5834,6 +5823,7 @@
 0.0.0.0 vacplux.com
 0.0.0.0 vaggv.com
 0.0.0.0 vagomarkt.com
+0.0.0.0 vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 valty-heater.com
 0.0.0.0 valurabeauty.com
@@ -5904,7 +5894,6 @@
 0.0.0.0 vespin24.de
 0.0.0.0 vespin-versand.de
 0.0.0.0 vetola.de
-0.0.0.0 vevor.de
 0.0.0.0 vfcsnc.shop
 0.0.0.0 vga.unternehmer-2014.de
 0.0.0.0 vgr8.com
@@ -6263,7 +6252,6 @@
 0.0.0.0 www.abendbrotmainz.de
 0.0.0.0 www.abenteuer-direkt.com
 0.0.0.0 www.abenteuerlust.net
-0.0.0.0 www.ab-group.info
 0.0.0.0 www.ab-homes.com
 0.0.0.0 www.abinaslawk.com
 0.0.0.0 www.abnehmen-einfach-gemacht.de
@@ -6271,7 +6259,6 @@
 0.0.0.0 www.aboutbeingold.com
 0.0.0.0 www.above2021.com
 0.0.0.0 www.abqmvad.top
-0.0.0.0 www.abrahamr.com
 0.0.0.0 www.acastleinthesun.com
 0.0.0.0 www.accaartblog.com
 0.0.0.0 www.accionlabc.com
@@ -6337,7 +6324,6 @@
 0.0.0.0 www.airbow.at
 0.0.0.0 www.aircargo-logistics.com
 0.0.0.0 www.aircoox.com
-0.0.0.0 www.airly-shop.de
 0.0.0.0 www.airmaxoutlet.net
 0.0.0.0 www.airmaxsale.de
 0.0.0.0 www.airsalo.com
@@ -6403,7 +6389,6 @@
 0.0.0.0 www.alltech-de.com
 0.0.0.0 www.alltopinvest.com
 0.0.0.0 www.alltvb.com
-0.0.0.0 www.allunias.com
 0.0.0.0 www.alo-car.com
 0.0.0.0 www.alongsideert.online
 0.0.0.0 www.alphakatz.com
@@ -6425,11 +6410,9 @@
 0.0.0.0 www.aluver.es
 0.0.0.0 www.amagliecalcio.com
 0.0.0.0 www.amantesaragon.com
-0.0.0.0 www.amarego.com
 0.0.0.0 www.a-markt.de
 0.0.0.0 www.amazenda.com
 0.0.0.0 www.ambashtah.com
-0.0.0.0 www.ambian.top
 0.0.0.0 www.ambileds.de
 0.0.0.0 www.ambusama.de
 0.0.0.0 www.amechad.de
@@ -6698,7 +6681,6 @@
 0.0.0.0 www.bbvipanswer.shop
 0.0.0.0 www.bcm-shop.de
 0.0.0.0 www.bc-rheine.de
-0.0.0.0 www.bdshop.com
 0.0.0.0 www.beathel.com
 0.0.0.0 www.beatricefalck-art.de
 0.0.0.0 www.beauteousu.com
@@ -6842,7 +6824,6 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 www.blackwidow.at
 0.0.0.0 www.blade-pirates.de
-0.0.0.0 www.blaroken.com
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
@@ -6998,6 +6979,7 @@
 0.0.0.0 www.buycheap.fun
 0.0.0.0 www.buycheapsale.site
 0.0.0.0 www.buycheapstuff.site
+0.0.0.0 www.buycircaknee.com
 0.0.0.0 www.buyerando.de
 0.0.0.0 www.buyheatcore.com
 0.0.0.0 www.buyjordan2021.com
@@ -8054,7 +8036,6 @@
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
-0.0.0.0 www.finosso.com
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
 0.0.0.0 www.firma-leitner.at
@@ -8768,7 +8749,6 @@
 0.0.0.0 www.impruneta.de
 0.0.0.0 www.imyazdz.shop
 0.0.0.0 www.imzauberstuebchen.de
-0.0.0.0 www.incerunmen.com
 0.0.0.0 www.inc-real.com
 0.0.0.0 www.indonesiahotel24.com
 0.0.0.0 www.inedito.fr
@@ -9473,7 +9453,6 @@
 0.0.0.0 www.mc-miner.com
 0.0.0.0 www.mcoaltmeds.com
 0.0.0.0 www.mctrl-marktforschung.com
-0.0.0.0 www.mdates.com
 0.0.0.0 www.mealsonwheels.at
 0.0.0.0 www.media-deals24.de
 0.0.0.0 www.mediafritz.com
@@ -10738,6 +10717,7 @@
 0.0.0.0 www.sensefums.com
 0.0.0.0 www.senthiln.top
 0.0.0.0 www.seoyou.de
+0.0.0.0 www.sepkicks.com
 0.0.0.0 www.seprun.com
 0.0.0.0 www.sepshoe.com
 0.0.0.0 www.sepsneakers.co
@@ -11431,7 +11411,6 @@
 0.0.0.0 www.tusneumuehl.de
 0.0.0.0 www.tuyyds.store
 0.0.0.0 www.tv-gesundheit.at
-0.0.0.0 www.tvidler.com
 0.0.0.0 www.tvmarket.club
 0.0.0.0 www.twilight-fans.de
 0.0.0.0 www.twinsbc.de
@@ -11512,6 +11491,7 @@
 0.0.0.0 www.vacplux.com
 0.0.0.0 www.vaggv.com
 0.0.0.0 www.vagomarkt.com
+0.0.0.0 www.vakkerlight.com
 0.0.0.0 www.valanza.de
 0.0.0.0 www.valty-heater.com
 0.0.0.0 www.valurabeauty.com
@@ -11571,7 +11551,6 @@
 0.0.0.0 www.veryvoga.fr
 0.0.0.0 www.vesinhhoatam.com
 0.0.0.0 www.vetola.de
-0.0.0.0 www.vevor.de
 0.0.0.0 www.vfcsnc.shop
 0.0.0.0 www.vgr8.com
 0.0.0.0 www.viagrafuerfrauen.com

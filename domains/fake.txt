@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:52 UTC
-# Version: 2022.1106.1852.10
+# Last modified: 07 Nov 2022 07:28 UTC
+# Version: 2022.1107.0728.47
 # Syntax: Domains
-# Domains: 12121
+# Domains: 12100
 #
 11trikots.com
 123brennholz.com
@@ -62,7 +62,6 @@ abccart.xyz
 abendbrotmainz.de
 abenteuer-direkt.com
 abenteuerlust.net
-ab-group.info
 ab-homes.com
 abinaslawk.com
 abipartyxxl.de
@@ -71,7 +70,6 @@ abolder.com
 aboutbeingold.com
 above2021.com
 abqmvad.top
-abrahamr.com
 abylul.com
 acastleinthesun.com
 accaartblog.com
@@ -140,7 +138,6 @@ aim-assist.de
 airbow.at
 aircargo-logistics.com
 aircoox.com
-airly-shop.de
 airmaxoutlet.net
 airmaxsale.de
 airsalo.com
@@ -209,7 +206,6 @@ allsoccer.co
 alltech-de.com
 alltopinvest.com
 alltvb.com
-allunias.com
 alo-car.com
 alongsideert.online
 alphakatz.com
@@ -233,11 +229,9 @@ aluver.es
 amagliecalcio.com
 amantesaragon.com
 a.marahuda.ga
-amarego.com
 a-markt.de
 amazenda.com
 ambashtah.com
-ambian.top
 ambileds.de
 ambusama.de
 amechad.de
@@ -533,7 +527,6 @@ bbnfp.com
 bbvipanswer.shop
 bcm-shop.de
 bc-rheine.de
-bdshop.com
 bdsm.de.wundertesting.com
 beathel.com
 beatricefalck-art.de
@@ -693,7 +686,6 @@ bjorkcoffee.com
 black-forestcake.com
 blackwidow.at
 blade-pirates.de
-blaroken.com
 blaudonau.de
 blaue-dragoner.de
 blauerhein.de
@@ -864,6 +856,7 @@ buybokstores.site
 buycheap.fun
 buycheapsale.site
 buycheapstuff.site
+buycircaknee.com
 buyerando.de
 buyheatcore.com
 buyjordan2021.com
@@ -1369,7 +1362,6 @@ deinschuhwerk.de
 deinseitensprung.com
 deiste.top
 dejonk.de
-de.justfashionnow.com
 dekopause.at
 deleju.info
 delhihurricanes.com
@@ -2037,7 +2029,6 @@ fineartswuerzburg.de
 finflix.de
 finkerkette.de
 finmove.net
-finosso.com
 fintegral.fund
 fipecampania.it
 firalo.de
@@ -2826,7 +2817,6 @@ impkeys.com
 impruneta.de
 imyazdz.shop
 imzauberstuebchen.de
-incerunmen.com
 inc-real.com
 indonesiahotel24.com
 inedito.fr
@@ -3570,7 +3560,6 @@ mcjustice.de
 mc-miner.com
 mcoaltmeds.com
 mctrl-marktforschung.com
-mdates.com
 mealsonwheels.at
 mebs.ch
 media-deals24.de
@@ -4965,6 +4954,7 @@ sensalve.de
 sensefums.com
 senthiln.top
 seoyou.de
+sepkicks.com
 seprun.com
 sepshoe.com
 sepsneakers.co
@@ -5733,7 +5723,6 @@ turkeycoachrental.com
 tusneumuehl.de
 tuyyds.store
 tv-gesundheit.at
-tvidler.com
 tvmarket.club
 twilight-fans.de
 twinsbc.de
@@ -5834,6 +5823,7 @@ vacioy.com
 vacplux.com
 vaggv.com
 vagomarkt.com
+vakkerlight.com
 valanza.de
 valty-heater.com
 valurabeauty.com
@@ -5904,7 +5894,6 @@ vesinhhoatam.com
 vespin24.de
 vespin-versand.de
 vetola.de
-vevor.de
 vfcsnc.shop
 vga.unternehmer-2014.de
 vgr8.com
@@ -6263,7 +6252,6 @@ www.abccart.xyz
 www.abendbrotmainz.de
 www.abenteuer-direkt.com
 www.abenteuerlust.net
-www.ab-group.info
 www.ab-homes.com
 www.abinaslawk.com
 www.abnehmen-einfach-gemacht.de
@@ -6271,7 +6259,6 @@ www.abolder.com
 www.aboutbeingold.com
 www.above2021.com
 www.abqmvad.top
-www.abrahamr.com
 www.acastleinthesun.com
 www.accaartblog.com
 www.accionlabc.com
@@ -6337,7 +6324,6 @@ www.aim-assist.de
 www.airbow.at
 www.aircargo-logistics.com
 www.aircoox.com
-www.airly-shop.de
 www.airmaxoutlet.net
 www.airmaxsale.de
 www.airsalo.com
@@ -6403,7 +6389,6 @@ www.allsoccer.co
 www.alltech-de.com
 www.alltopinvest.com
 www.alltvb.com
-www.allunias.com
 www.alo-car.com
 www.alongsideert.online
 www.alphakatz.com
@@ -6425,11 +6410,9 @@ www.altraschuhe.de
 www.aluver.es
 www.amagliecalcio.com
 www.amantesaragon.com
-www.amarego.com
 www.a-markt.de
 www.amazenda.com
 www.ambashtah.com
-www.ambian.top
 www.ambileds.de
 www.ambusama.de
 www.amechad.de
@@ -6698,7 +6681,6 @@ www.bbnfp.com
 www.bbvipanswer.shop
 www.bcm-shop.de
 www.bc-rheine.de
-www.bdshop.com
 www.beathel.com
 www.beatricefalck-art.de
 www.beauteousu.com
@@ -6842,7 +6824,6 @@ www.bjorkcoffee.com
 www.black-forestcake.com
 www.blackwidow.at
 www.blade-pirates.de
-www.blaroken.com
 www.blaudonau.de
 www.blaue-dragoner.de
 www.blauerhein.de
@@ -6998,6 +6979,7 @@ www.buybokstores.site
 www.buycheap.fun
 www.buycheapsale.site
 www.buycheapstuff.site
+www.buycircaknee.com
 www.buyerando.de
 www.buyheatcore.com
 www.buyjordan2021.com
@@ -8054,7 +8036,6 @@ www.fineartswuerzburg.de
 www.finflix.de
 www.finkerkette.de
 www.finmove.net
-www.finosso.com
 www.fipecampania.it
 www.firalo.de
 www.firma-leitner.at
@@ -8768,7 +8749,6 @@ www.impkeys.com
 www.impruneta.de
 www.imyazdz.shop
 www.imzauberstuebchen.de
-www.incerunmen.com
 www.inc-real.com
 www.indonesiahotel24.com
 www.inedito.fr
@@ -9473,7 +9453,6 @@ www.mcjustice.de
 www.mc-miner.com
 www.mcoaltmeds.com
 www.mctrl-marktforschung.com
-www.mdates.com
 www.mealsonwheels.at
 www.media-deals24.de
 www.mediafritz.com
@@ -10738,6 +10717,7 @@ www.seniorlivinglab.ch
 www.sensefums.com
 www.senthiln.top
 www.seoyou.de
+www.sepkicks.com
 www.seprun.com
 www.sepshoe.com
 www.sepsneakers.co
@@ -11431,7 +11411,6 @@ www.turkeycoachrental.com
 www.tusneumuehl.de
 www.tuyyds.store
 www.tv-gesundheit.at
-www.tvidler.com
 www.tvmarket.club
 www.twilight-fans.de
 www.twinsbc.de
@@ -11512,6 +11491,7 @@ www.vacioy.com
 www.vacplux.com
 www.vaggv.com
 www.vagomarkt.com
+www.vakkerlight.com
 www.valanza.de
 www.valty-heater.com
 www.valurabeauty.com
@@ -11571,7 +11551,6 @@ www.veryvoga.es
 www.veryvoga.fr
 www.vesinhhoatam.com
 www.vetola.de
-www.vevor.de
 www.vfcsnc.shop
 www.vgr8.com
 www.viagrafuerfrauen.com
