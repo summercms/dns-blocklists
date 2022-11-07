@@ -102,7 +102,8 @@
 @@||news.apple-dns.net^
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
-! *events.apple.com
+@@|*events.apple.com^
+@@|*events.news.apple-dns.net^
 ! appleglobal.*.2o7.net
 @@|cstat.apple.com^
 @@|doh.dns.apple.com^
@@ -122,7 +123,7 @@
 @@|stats.gc.apple.com^
 ! https://github.com/hagezi/dns-blocklists/issues/17
 @@|xp.apple.com^
-! iOS 16+ (fixed)
+! iOS 16+
 ! books-analytics-events.apple.com
 ! books-analytics-events.news.apple-dns.net
 ! notes-analytics-events.apple.com
@@ -276,18 +277,27 @@
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 @@||*-msedge.net^
-@@||update.microsoft.com^
+@@||azure.com^
 @@||dds.microsoft.com^
 @@||events.data.microsoft.com^
 @@||events.data.trafficmanager.net^
 @@||msedge.net^
 @@||nexusrules.live.com.akadns.net^
+@@||office.com^
+@@||office.net^
+@@||office365.com^
 @@||officeapps.live.com^
+@@||outlook.com^
+@@||outlookmobile.com^
 @@||pipe.aria.microsoft.com^
+@@||rewardsplatform.microsoft.com^
 @@||services.microsoft.com^
+@@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
 @@||teams.microsoft.com^
+@@||update.microsoft.com^
 @@||vortex.data.microsoft.com^
+@@||windows.com^
 @@|*api.*.microsoft.com^
 @@|*events-data.trafficmanager.net^
 @@|*microsoft.online-metrix.net^
@@ -311,6 +321,7 @@
 @@|mobile.events.data.microsoft.com^
 @@|mobile.events.data.trafficmanager.net^
 @@|mobile.pipe.aria.microsoft.com^
+@@|nexusrules.officeapps.live.com^
 @@|onedscolprd*.*.cloudapp.azure.com^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
