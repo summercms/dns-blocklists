@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:42 UTC
-# Version: 2022.1106.1842.43
+# Last modified: 07 Nov 2022 01:19 UTC
+# Version: 2022.1107.0119.12
 # Syntax: Domains
-# Domains: 789
+# Domains: 828
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -20,8 +20,12 @@ www.26sgmin39.de
 www.2a4snhmtm.de
 302br.net
 www.302br.net
+3322.org
+www.3322.org
 gtrack.365economist.com
 track.365economist.com
+3utilities.com
+www.3utilities.com
 53244ds.xyz
 www.53244ds.xyz
 7e1e8f3eba.com
@@ -37,6 +41,8 @@ t.aachener-zeitung.de
 abbaspc.net
 www.abbaspc.net
 t.aboutyou.de
+actonservice.com
+www.actonservice.com
 ad-cdn.name
 www.ad-cdn.name
 analytics.si-p.adac.de
@@ -82,6 +88,8 @@ track.americansongwriter.com
 analytics-debugger.com
 amp.analytics-debugger.com
 www.analytics-debugger.com
+aosag.net
+www.aosag.net
 aoscufe.com
 www.aoscufe.com
 r.apotheken-umschau.de
@@ -140,6 +148,8 @@ borrelioseweb.de
 www.borrelioseweb.de
 borrowedculture.com
 www.borrowedculture.com
+bounceme.net
+www.bounceme.net
 amp-pixel.br.de
 client-analytics.braintreegateway.com
 branch.io
@@ -161,11 +171,8 @@ iad-03.braze.com
 sdk.iad-03.braze.com
 iad-04.braze.com
 sdk.iad-04.braze.com
-iad-05.braze.com
 sdk.iad-05.braze.com
-iad-06.braze.com
 sdk.iad-06.braze.com
-iad-08.braze.com
 sdk.iad-08.braze.com
 www.braze.com
 www.braze.eu
@@ -255,6 +262,8 @@ webanalytics.drk-blutspende.de
 beacon.dropbox.com
 dttrk.com
 www.dttrk.com
+dynamic-dns.net
+www.dynamic-dns.net
 dynatrace.com
 www.dynatrace.com
 dyntracker.de
@@ -273,6 +282,8 @@ mobile-events.eservice.emarsys.net
 webchannel-content.eservice.emarsys.net
 dyn.emetriq.de
 tracking.emons.de
+epac.to
+www.epac.to
 epagogerepines.com
 trackers.peerius.episerver.net
 tracking.ernstings-family.de
@@ -289,6 +300,8 @@ sanalytics.express.de
 track.express.de
 extentrackpro.com
 www.extentrackpro.com
+ezcybersearch.com
+www.ezcybersearch.com
 rt.familie.de
 analytics.fatmedia.io
 analytics.ffh.de
@@ -303,6 +316,8 @@ tracking-collector.site.flexispot.com
 track.flexlinkspro.com
 floweryflavor.com
 rt.focus.de
+forumz.info
+www.forumz.info
 metrics.fressnapf.de
 t.kontextr.funke-next-level.de
 p2.fwpixel.com
@@ -343,7 +358,6 @@ www.googleoptimize.com
 googlesyndication.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
-safeframe.googlesyndication.com
 tpc.googlesyndication.com
 googletagservices.com
 www.googletagservices.com
@@ -354,6 +368,8 @@ r.grouponmail.de
 gsadserver.de
 banner.gsadserver.de
 www.gsadserver.de
+gtarcade.com
+www.gtarcade.com
 guesswhatnews.com
 www.guesswhatnews.com
 r.gutscheinmailer24.de
@@ -372,6 +388,8 @@ gtrack.historictalk.com
 track.historictalk.com
 hitrackthat.com
 clk.hitrackthat.com
+hopto.org
+www.hopto.org
 hotjar.com
 www.hotjar.com
 svc-2-analytics-usf.hotyon.com
@@ -441,6 +459,8 @@ storage.kameleoon.com
 storage.kameleoon.eu
 www.kameleoon.com
 www.kameleoon.eu
+kankan.com
+www.kankan.com
 tracking.cloud.kaufland.de
 kirchenaustritt24.de
 www.kirchenaustritt24.de
@@ -459,11 +479,15 @@ tracking.ladies.de
 eic.cdpbeacon.lgtvcommon.com
 trk.lgw.io
 metrics.lidl.com
+linkpc.net
+www.linkpc.net
 f1tracks.lnk.to
 logentries.com
 data.logentries.com
 webhook.logentries.com
 www.logentries.com
+loopanews.com
+www.loopanews.com
 luronews.com
 www.luronews.com
 webanalytics.lvr.de
@@ -535,11 +559,15 @@ smetrics.o2online.de
 cdn.ometria.com
 trk.ometria.com
 apixel.onetribeglobal.com
+onmypc.net
+www.onmypc.net
 adalliance.tagger.opecloud.com
 track.opentable.de
 logx.optimizely.com
 t.mail.ipanema.cloud.otto.de
 tracking.outspot.de
+p2l.info
+www.p2l.info
 smetrics.pandora.net
 gtrack.parentmood.com
 track.parentmood.com
@@ -558,6 +586,8 @@ www.preview-domain.com
 track.productsup.com
 my.profitmetrics.io
 tracking.projekte-leicht-gemacht.de
+publicvm.com
+www.publicvm.com
 cdn.quantummetric.com
 emirates-app.quantummetric.com
 gtrack.reallifediy.com
@@ -609,6 +639,8 @@ sentry-cdn.com
 browser.sentry-cdn.com
 js.sentry-cdn.com
 www.sentry-cdn.com
+serveftp.com
+www.serveftp.com
 analytics.sevencooks.com
 widget.track.aws.sevensenders.com
 beacon.shazam.com
@@ -665,10 +697,13 @@ superficialeyes.com
 telemetry.api.swiftkey.com
 symplr.de
 www.symplr.de
+sytes.net
+www.sytes.net
 rt.t-online.de
 pixel.team-hp.com
 tegronews.com
 www.tegronews.com
+tencentcs.com
 teradatadmc.com
 analytics.tfm.rocks
 thinkingdata.cn
@@ -699,6 +734,8 @@ audit.trackverify.com
 trackvrs.com
 www.trackvrs.com
 serviceschipotlecom.trafficmanager.net
+trickip.org
+www.trickip.org
 ai.trk42.net
 trkkn.com
 cdn.trkkn.com
@@ -769,6 +806,8 @@ analytics.webgains.io
 track.production.webgains.team
 webroutetrk.com
 www.webroutetrk.com
+wikaba.com
+www.wikaba.com
 intake-analytics.wikimedia.org
 wlct-two.de
 static.wlct-two.de

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:42 UTC
-# Version: 2022.1106.1842.43
+# Last modified: 07 Nov 2022 01:19 UTC
+# Version: 2022.1107.0119.12
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 510
+# Domains: 532
 #
 *.000webhostapp.com
 *.t.1und1.de
@@ -15,8 +15,10 @@
 *.26sgmin39.de
 *.2a4snhmtm.de
 *.302br.net
+*.3322.org
 *.gtrack.365economist.com
 *.track.365economist.com
+*.3utilities.com
 *.53244ds.xyz
 *.7e1e8f3eba.com
 *.997ad.xyz
@@ -27,6 +29,7 @@
 *.t.aachener-zeitung.de
 *.abbaspc.net
 *.t.aboutyou.de
+*.actonservice.com
 *.ad-cdn.name
 *.analytics.si-p.adac.de
 *.analytics.adcanvas.com
@@ -59,6 +62,7 @@
 *.device-metrics-us-2.amazon.com
 *.track.americansongwriter.com
 *.analytics-debugger.com
+*.aosag.net
 *.aoscufe.com
 *.r.apotheken-umschau.de
 *.app-measurement.com
@@ -105,6 +109,7 @@
 *.tracking.bonn.de
 *.borrelioseweb.de
 *.borrowedculture.com
+*.bounceme.net
 *.amp-pixel.br.de
 *.client-analytics.braintreegateway.com
 *.branch.io
@@ -174,6 +179,7 @@
 *.webanalytics.drk-blutspende.de
 *.beacon.dropbox.com
 *.dttrk.com
+*.dynamic-dns.net
 *.dynatrace.com
 *.dyntracker.de
 *.analytics.edding.com
@@ -185,6 +191,7 @@
 *.eservice.emarsys.net
 *.dyn.emetriq.de
 *.tracking.emons.de
+*.epac.to
 *.epagogerepines.com
 *.trackers.peerius.episerver.net
 *.tracking.ernstings-family.de
@@ -195,6 +202,7 @@
 *.sanalytics.express.de
 *.track.express.de
 *.extentrackpro.com
+*.ezcybersearch.com
 *.rt.familie.de
 *.analytics.fatmedia.io
 *.analytics.ffh.de
@@ -209,6 +217,7 @@
 *.track.flexlinkspro.com
 *.floweryflavor.com
 *.rt.focus.de
+*.forumz.info
 *.metrics.fressnapf.de
 *.t.kontextr.funke-next-level.de
 *.p2.fwpixel.com
@@ -239,6 +248,7 @@
 *.gotrackier.com
 *.r.grouponmail.de
 *.gsadserver.de
+*.gtarcade.com
 *.guesswhatnews.com
 *.r.gutscheinmailer24.de
 *.beacons.gvt2.com
@@ -255,6 +265,7 @@
 *.gtrack.historictalk.com
 *.track.historictalk.com
 *.hitrackthat.com
+*.hopto.org
 *.hotjar.com
 *.svc-2-analytics-usf.hotyon.com
 *.hpanalytics.net
@@ -288,6 +299,7 @@
 *.tracking.kadewe.de
 *.kameleoon.com
 *.kameleoon.eu
+*.kankan.com
 *.tracking.cloud.kaufland.de
 *.kirchenaustritt24.de
 *.analytics.klambt.services
@@ -304,8 +316,10 @@
 *.eic.cdpbeacon.lgtvcommon.com
 *.trk.lgw.io
 *.metrics.lidl.com
+*.linkpc.net
 *.f1tracks.lnk.to
 *.logentries.com
+*.loopanews.com
 *.luronews.com
 *.webanalytics.lvr.de
 *.tracking.m6r.eu
@@ -352,11 +366,13 @@
 *.cdn.ometria.com
 *.trk.ometria.com
 *.apixel.onetribeglobal.com
+*.onmypc.net
 *.adalliance.tagger.opecloud.com
 *.track.opentable.de
 *.logx.optimizely.com
 *.t.mail.ipanema.cloud.otto.de
 *.tracking.outspot.de
+*.p2l.info
 *.smetrics.pandora.net
 *.gtrack.parentmood.com
 *.track.parentmood.com
@@ -374,6 +390,7 @@
 *.track.productsup.com
 *.my.profitmetrics.io
 *.tracking.projekte-leicht-gemacht.de
+*.publicvm.com
 *.cdn.quantummetric.com
 *.emirates-app.quantummetric.com
 *.gtrack.reallifediy.com
@@ -413,6 +430,7 @@
 *.trk.sensic.net
 *.sentry.io
 *.sentry-cdn.com
+*.serveftp.com
 *.analytics.sevencooks.com
 *.widget.track.aws.sevensenders.com
 *.beacon.shazam.com
@@ -442,9 +460,11 @@
 *.superficialeyes.com
 *.telemetry.api.swiftkey.com
 *.symplr.de
+*.sytes.net
 *.rt.t-online.de
 *.pixel.team-hp.com
 *.tegronews.com
+*.tencentcs.com
 *.teradatadmc.com
 *.analytics.tfm.rocks
 *.thinkingdata.cn
@@ -462,6 +482,7 @@
 *.audit.trackverify.com
 *.trackvrs.com
 *.serviceschipotlecom.trafficmanager.net
+*.trickip.org
 *.ai.trk42.net
 *.trkkn.com
 *.trknk.com
@@ -494,6 +515,7 @@
 *.analytics.webgains.io
 *.track.production.webgains.team
 *.webroutetrk.com
+*.wikaba.com
 *.intake-analytics.wikimedia.org
 *.wlct-two.de
 *.t.infocomms.wowtv.de

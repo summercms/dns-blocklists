@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Nov 2022 18:42 UTC
-# Version: 2022.1106.1842.43
+# Last modified: 07 Nov 2022 01:19 UTC
+# Version: 2022.1107.0119.12
 # Syntax: Hosts
-# Domains: 789
+# Domains: 828
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -20,8 +20,12 @@
 0.0.0.0 www.2a4snhmtm.de
 0.0.0.0 302br.net
 0.0.0.0 www.302br.net
+0.0.0.0 3322.org
+0.0.0.0 www.3322.org
 0.0.0.0 gtrack.365economist.com
 0.0.0.0 track.365economist.com
+0.0.0.0 3utilities.com
+0.0.0.0 www.3utilities.com
 0.0.0.0 53244ds.xyz
 0.0.0.0 www.53244ds.xyz
 0.0.0.0 7e1e8f3eba.com
@@ -37,6 +41,8 @@
 0.0.0.0 abbaspc.net
 0.0.0.0 www.abbaspc.net
 0.0.0.0 t.aboutyou.de
+0.0.0.0 actonservice.com
+0.0.0.0 www.actonservice.com
 0.0.0.0 ad-cdn.name
 0.0.0.0 www.ad-cdn.name
 0.0.0.0 analytics.si-p.adac.de
@@ -82,6 +88,8 @@
 0.0.0.0 analytics-debugger.com
 0.0.0.0 amp.analytics-debugger.com
 0.0.0.0 www.analytics-debugger.com
+0.0.0.0 aosag.net
+0.0.0.0 www.aosag.net
 0.0.0.0 aoscufe.com
 0.0.0.0 www.aoscufe.com
 0.0.0.0 r.apotheken-umschau.de
@@ -140,6 +148,8 @@
 0.0.0.0 www.borrelioseweb.de
 0.0.0.0 borrowedculture.com
 0.0.0.0 www.borrowedculture.com
+0.0.0.0 bounceme.net
+0.0.0.0 www.bounceme.net
 0.0.0.0 amp-pixel.br.de
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 branch.io
@@ -161,11 +171,8 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 iad-04.braze.com
 0.0.0.0 sdk.iad-04.braze.com
-0.0.0.0 iad-05.braze.com
 0.0.0.0 sdk.iad-05.braze.com
-0.0.0.0 iad-06.braze.com
 0.0.0.0 sdk.iad-06.braze.com
-0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 www.braze.com
 0.0.0.0 www.braze.eu
@@ -255,6 +262,8 @@
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 dttrk.com
 0.0.0.0 www.dttrk.com
+0.0.0.0 dynamic-dns.net
+0.0.0.0 www.dynamic-dns.net
 0.0.0.0 dynatrace.com
 0.0.0.0 www.dynatrace.com
 0.0.0.0 dyntracker.de
@@ -273,6 +282,8 @@
 0.0.0.0 webchannel-content.eservice.emarsys.net
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 tracking.emons.de
+0.0.0.0 epac.to
+0.0.0.0 www.epac.to
 0.0.0.0 epagogerepines.com
 0.0.0.0 trackers.peerius.episerver.net
 0.0.0.0 tracking.ernstings-family.de
@@ -289,6 +300,8 @@
 0.0.0.0 track.express.de
 0.0.0.0 extentrackpro.com
 0.0.0.0 www.extentrackpro.com
+0.0.0.0 ezcybersearch.com
+0.0.0.0 www.ezcybersearch.com
 0.0.0.0 rt.familie.de
 0.0.0.0 analytics.fatmedia.io
 0.0.0.0 analytics.ffh.de
@@ -303,6 +316,8 @@
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 floweryflavor.com
 0.0.0.0 rt.focus.de
+0.0.0.0 forumz.info
+0.0.0.0 www.forumz.info
 0.0.0.0 metrics.fressnapf.de
 0.0.0.0 t.kontextr.funke-next-level.de
 0.0.0.0 p2.fwpixel.com
@@ -343,7 +358,6 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
@@ -354,6 +368,8 @@
 0.0.0.0 gsadserver.de
 0.0.0.0 banner.gsadserver.de
 0.0.0.0 www.gsadserver.de
+0.0.0.0 gtarcade.com
+0.0.0.0 www.gtarcade.com
 0.0.0.0 guesswhatnews.com
 0.0.0.0 www.guesswhatnews.com
 0.0.0.0 r.gutscheinmailer24.de
@@ -372,6 +388,8 @@
 0.0.0.0 track.historictalk.com
 0.0.0.0 hitrackthat.com
 0.0.0.0 clk.hitrackthat.com
+0.0.0.0 hopto.org
+0.0.0.0 www.hopto.org
 0.0.0.0 hotjar.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 svc-2-analytics-usf.hotyon.com
@@ -441,6 +459,8 @@
 0.0.0.0 storage.kameleoon.eu
 0.0.0.0 www.kameleoon.com
 0.0.0.0 www.kameleoon.eu
+0.0.0.0 kankan.com
+0.0.0.0 www.kankan.com
 0.0.0.0 tracking.cloud.kaufland.de
 0.0.0.0 kirchenaustritt24.de
 0.0.0.0 www.kirchenaustritt24.de
@@ -459,11 +479,15 @@
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
 0.0.0.0 trk.lgw.io
 0.0.0.0 metrics.lidl.com
+0.0.0.0 linkpc.net
+0.0.0.0 www.linkpc.net
 0.0.0.0 f1tracks.lnk.to
 0.0.0.0 logentries.com
 0.0.0.0 data.logentries.com
 0.0.0.0 webhook.logentries.com
 0.0.0.0 www.logentries.com
+0.0.0.0 loopanews.com
+0.0.0.0 www.loopanews.com
 0.0.0.0 luronews.com
 0.0.0.0 www.luronews.com
 0.0.0.0 webanalytics.lvr.de
@@ -535,11 +559,15 @@
 0.0.0.0 cdn.ometria.com
 0.0.0.0 trk.ometria.com
 0.0.0.0 apixel.onetribeglobal.com
+0.0.0.0 onmypc.net
+0.0.0.0 www.onmypc.net
 0.0.0.0 adalliance.tagger.opecloud.com
 0.0.0.0 track.opentable.de
 0.0.0.0 logx.optimizely.com
 0.0.0.0 t.mail.ipanema.cloud.otto.de
 0.0.0.0 tracking.outspot.de
+0.0.0.0 p2l.info
+0.0.0.0 www.p2l.info
 0.0.0.0 smetrics.pandora.net
 0.0.0.0 gtrack.parentmood.com
 0.0.0.0 track.parentmood.com
@@ -558,6 +586,8 @@
 0.0.0.0 track.productsup.com
 0.0.0.0 my.profitmetrics.io
 0.0.0.0 tracking.projekte-leicht-gemacht.de
+0.0.0.0 publicvm.com
+0.0.0.0 www.publicvm.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 emirates-app.quantummetric.com
 0.0.0.0 gtrack.reallifediy.com
@@ -609,6 +639,8 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 www.sentry-cdn.com
+0.0.0.0 serveftp.com
+0.0.0.0 www.serveftp.com
 0.0.0.0 analytics.sevencooks.com
 0.0.0.0 widget.track.aws.sevensenders.com
 0.0.0.0 beacon.shazam.com
@@ -665,10 +697,13 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 symplr.de
 0.0.0.0 www.symplr.de
+0.0.0.0 sytes.net
+0.0.0.0 www.sytes.net
 0.0.0.0 rt.t-online.de
 0.0.0.0 pixel.team-hp.com
 0.0.0.0 tegronews.com
 0.0.0.0 www.tegronews.com
+0.0.0.0 tencentcs.com
 0.0.0.0 teradatadmc.com
 0.0.0.0 analytics.tfm.rocks
 0.0.0.0 thinkingdata.cn
@@ -699,6 +734,8 @@
 0.0.0.0 trackvrs.com
 0.0.0.0 www.trackvrs.com
 0.0.0.0 serviceschipotlecom.trafficmanager.net
+0.0.0.0 trickip.org
+0.0.0.0 www.trickip.org
 0.0.0.0 ai.trk42.net
 0.0.0.0 trkkn.com
 0.0.0.0 cdn.trkkn.com
@@ -769,6 +806,8 @@
 0.0.0.0 track.production.webgains.team
 0.0.0.0 webroutetrk.com
 0.0.0.0 www.webroutetrk.com
+0.0.0.0 wikaba.com
+0.0.0.0 www.wikaba.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 wlct-two.de
 0.0.0.0 static.wlct-two.de
