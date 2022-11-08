@@ -60,10 +60,10 @@ unagi.amazon.it
 # endpoint.prod.*.forester.a2z.com
 
 # Amazon App
-mads-*.amazon.com
-mads-eu.amazon.com
-mads.amazon-adsystem.com
-mads.amazon.com
+# mads-*.amazon.com
+# mads-eu.amazon.com
+# mads.amazon-adsystem.com
+# mads.amazon.com
 
 # Amazon AWS
 *.awstrack.me
@@ -102,8 +102,8 @@ dmqdd6hw24ucf.cloudfront.net
 *.news.apple-dns.net
 *.safebrowsing.apple
 *.smoot.apple.com
-*events.apple.com
-*events.news.apple-dns.net
+# *events.apple.com
+# *events.news.apple-dns.net
 # appleglobal.*.2o7.net
 cstat.apple.com
 doh.dns.apple.com
@@ -277,59 +277,59 @@ cdn3.optimizely.com
 # https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 *.*-msedge.net
-*.azure.com
+# *.azure.com
 *.dds.microsoft.com
-*.events.data.microsoft.com
-*.events.data.trafficmanager.net
-*.msedge.net
+# *.events.data.microsoft.com
+# *.events.data.trafficmanager.net
+# *.msedge.net
 *.nexusrules.live.com.akadns.net
-*.office.com
-*.office.net
-*.office365.com
-*.officeapps.live.com
-*.outlook.com
-*.outlookmobile.com
-*.pipe.aria.microsoft.com
-*.rewardsplatform.microsoft.com
+# *.office.com
+# *.office.net
+# *.office365.com
+# *.officeapps.live.com
+# *.outlook.com
+# *.outlookmobile.com
+# *.pipe.aria.microsoft.com
+# *.rewardsplatform.microsoft.com
 *.services.microsoft.com
 *.smartscreen-prod.microsoft.com
 *.teams.live.com
 *.teams.microsoft.com
 *.update.microsoft.com
-*.vortex.data.microsoft.com
-*.windows.com
+# *.vortex.data.microsoft.com
+# *.windows.com
 *api.*.microsoft.com
-*events-data.trafficmanager.net
+# *events-data.trafficmanager.net
 *microsoft.online-metrix.net
 activity.windows.com
 arc.msn.com
 assets.activity.windows.com
 atm-settingsfe-prod-geo*.trafficmanager.net
 beacon.*.c-msedge.net
-browser.events.data.microsoft.com
-browser.events.data.trafficmanager.net
-browser.pipe.aria.microsoft.com
+# browser.events.data.microsoft.com
+# browser.events.data.trafficmanager.net
+# browser.pipe.aria.microsoft.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 g.live.com
 g.msn.com
 go.microsoft.com
 go.trouter.skype.com
-ic3.events.data.microsoft.com
+# ic3.events.data.microsoft.com
 js.monitor.azure.com
 login.microsoftonline.com
-mobile.events.data.microsoft.com
-mobile.events.data.trafficmanager.net
-mobile.pipe.aria.microsoft.com
+# mobile.events.data.microsoft.com
+# mobile.events.data.trafficmanager.net
+# mobile.pipe.aria.microsoft.com
 nexusrules.officeapps.live.com
 onedscolprd*.*.cloudapp.azure.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
 target.microsoft.com
-teams-events-data.trafficmanager.net
-teams.events.data.microsoft.com
-teams.nel.measure.office.net
+# teams-events-data.trafficmanager.net
+# teams.events.data.microsoft.com
+# teams.nel.measure.office.net
 time.windows.com
 twc.trafficmanager.net
 v*.events.data.microsoft.com
@@ -1800,6 +1800,9 @@ static.fastpic.org
 click.e.change.org
 www.change.org.cdn.cloudflare.net
 
-# reviews about online shop
+# reviews about online shops
 avis-verifies.com
+
+# Media CDN
+iframely.net
 
