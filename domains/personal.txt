@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 17:28 UTC
-# Version: 2022.1107.1728.19
+# Last modified: 08 Nov 2022 01:19 UTC
+# Version: 2022.1108.0119.52
 # Syntax: Domains
-# Domains: 759
+# Domains: 739
 #
 t.1und1.de
 24coinix.com
@@ -20,7 +20,6 @@ gtrack.365economist.com
 track.365economist.com
 53244ds.xyz
 www.53244ds.xyz
-7e1e8f3eba.com
 29dddc2119.7e1e8f3eba.com
 997ad.xyz
 api.997ad.xyz
@@ -41,10 +40,7 @@ track.adcocktail.com
 pixel.adensemble.com
 shopify.admetrics.events
 analytics.bit.admin.ch
-adnxs.com
 secure.adnxs.com
-www.adnxs.com
-adnxs-simple.com
 ads4trk.com
 vrmom.ads4trk.com
 www.ads4trk.com
@@ -91,9 +87,7 @@ serverside-tracking.ew.r.appspot.com
 metrics.atf-tagmanager.de
 r.audible.de
 analytics.audionow.de
-automizely-analytics.com
 sdks.automizely-analytics.com
-www.automizely-analytics.com
 analytics.ff.avast.com
 shepherd.ff.avast.com
 vanheim.ff.avast.com
@@ -139,23 +133,17 @@ cdn.brandmetrics.com
 braze.com
 braze.eu
 cdn.braze.eu
-fra-01.braze.eu
 sdk.fra-01.braze.eu
 fra-02.braze.eu
 sdk.fra-02.braze.eu
-iad-01.braze.com
 sdk.iad-01.braze.com
 iad-02.braze.com
 sdk.iad-02.braze.com
-iad-03.braze.com
 sdk.iad-03.braze.com
 iad-04.braze.com
 sdk.iad-04.braze.com
-iad-05.braze.com
 sdk.iad-05.braze.com
-iad-06.braze.com
 sdk.iad-06.braze.com
-iad-08.braze.com
 sdk.iad-08.braze.com
 www.braze.com
 www.braze.eu
@@ -231,7 +219,6 @@ analytics.digital-x.eu
 smetrics.dish.co
 t.ihre.dkb.de
 fls.doubleclick.net
-g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pubads.g.doubleclick.net
@@ -331,10 +318,7 @@ www.googleoptimize.com
 googlesyndication.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
-safeframe.googlesyndication.com
 tpc.googlesyndication.com
-googletagservices.com
-www.googletagservices.com
 gotrackier.com
 mmads.gotrackier.com
 www.gotrackier.com
@@ -385,12 +369,10 @@ instabug.com
 api.instabug.com
 api-apm.instabug.com
 www.instabug.com
-ioam.de
 config.ioam.de
 de.ioam.de
 irqs.ioam.de
 script.ioam.de
-www.ioam.de
 metrics.ionos.de
 sentry.ionos.com
 t.ionos.de
@@ -401,7 +383,6 @@ metrics.jameda.de
 analytics.jjshouse.com
 tracking.kadewe.de
 kameleoon.com
-kameleoon.eu
 api-data.kameleoon.com
 api-data.kameleoon.eu
 api-product.kameleoon.com
@@ -421,7 +402,6 @@ static.kameleoon.com
 storage.kameleoon.com
 storage.kameleoon.eu
 www.kameleoon.com
-www.kameleoon.eu
 tracking.cloud.kaufland.de
 kirchenaustritt24.de
 www.kirchenaustritt24.de
