@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Nov 2022 09:22 UTC
-# Version: 2022.1108.0922.48
+# Last modified: 08 Nov 2022 19:14 UTC
+# Version: 2022.1108.1914.04
 # Syntax: DNSMasq
-# Domains: 6272
+# Domains: 6261
 #
 address=/11trikots.com/#
 address=/123brennholz.com/#
@@ -1601,8 +1601,6 @@ address=/eeewwe.top/#
 address=/eemotion.at/#
 address=/eew-karriere.de/#
 address=/efc-plasma.de/#
-address=/effectth.top/#
-address=/efitious.top/#
 address=/ege-exquisit.de/#
 address=/eggelingen.de/#
 address=/eg-hofheim.de/#
@@ -1638,7 +1636,6 @@ address=/elektriker--24.de/#
 address=/elektriker-fritz.de/#
 address=/elektrikernotdienstwien.at/#
 address=/elektrobester.com/#
-address=/elektro-beuss.de/#
 address=/elektroconsult.de/#
 address=/elektrodo.de/#
 address=/elektro-ecke.de/#
@@ -1727,7 +1724,6 @@ address=/enpublishingrpg.com/#
 address=/enrev-logistic.com/#
 address=/ensemble4cyclisme.com/#
 address=/enstlogistics.com/#
-address=/en-stock.net/#
 address=/enter-croatia.com/#
 address=/entruempelung-gruber.info/#
 address=/entscheider-messe.de/#
@@ -1749,7 +1745,6 @@ address=/erikanicklheim.de/#
 address=/erlkoenig-blog.de/#
 address=/ernstfarm-coburg.de/#
 address=/erodisfashion.com/#
-address=/errer.top/#
 address=/errevi.de/#
 address=/ersatzteil-land-mengeler.de/#
 address=/ersthands.com/#
@@ -1770,7 +1765,6 @@ address=/etr-karlsruhe.de/#
 address=/eu.2bagsvalley.cn/#
 address=/eubiofficial.com/#
 address=/euchcte.top/#
-address=/eu-class.com/#
 address=/eulengewisper.de/#
 address=/eurlogistic.com/#
 address=/euroadmaps.com/#
@@ -1816,7 +1810,6 @@ address=/exclusivekicks.co.uk/#
 address=/exclusivekicks.shop/#
 address=/exklusif.de/#
 address=/exklusiv-treffen.com/#
-address=/exlurebays.com/#
 address=/exodermin.com/#
 address=/exodermin.eu/#
 address=/expertisetrade4.com/#
@@ -1864,9 +1857,7 @@ address=/fake-id.de/#
 address=/falinas.at/#
 address=/falinas.com/#
 address=/falinas.de/#
-address=/fallular.top/#
 address=/falzoro.de/#
-address=/famaceous.top/#
 address=/famiglieinrete.org/#
 address=/famore-fashion.com/#
 address=/famore.shop/#
@@ -1924,7 +1915,6 @@ address=/felicites-gbr.de/#
 address=/felipag.com/#
 address=/felivoo.de/#
 address=/felums.com/#
-address=/fendiz.com/#
 address=/ferienhaeuser-porec.de/#
 address=/ferienhausexperten.co/#
 address=/ferienhaus-gertrud.at/#
@@ -1944,7 +1934,6 @@ address=/fewo-stubbenfelde.de/#
 address=/f-flt.com/#
 address=/ffobek.com/#
 address=/ffw-oberpoering.de/#
-address=/fgalander.top/#
 address=/ficiior.xyz/#
 address=/fictionstudio.de/#
 address=/fideligencia.com/#
@@ -1953,8 +1942,6 @@ address=/fiercehealthfinance.com/#
 address=/fiesefalle.de/#
 address=/figliazza.de/#
 address=/filamonia.de/#
-address=/filastore.club/#
-address=/filmara.de/#
 address=/filminihdizle.com/#
 address=/filmstreaming-de.life/#
 address=/filzaffairen.de/#
@@ -1971,6 +1958,7 @@ address=/finkerkette.de/#
 address=/finmove.net/#
 address=/finosso.com/#
 address=/fintegral.fund/#
+address=/fintegral.world/#
 address=/fipecampania.it/#
 address=/firalo.de/#
 address=/firma-leitner.at/#
@@ -2794,6 +2782,7 @@ address=/interharbours.com/#
 address=/interiorbyjuan.com/#
 address=/internationaalverhuisadvies.nl/#
 address=/internationalerumzug.de/#
+address=/interseroh-brandneu.de/#
 address=/intoleranztest.com/#
 address=/intosmile.nl/#
 address=/int-re.com/#

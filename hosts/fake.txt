@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Nov 2022 09:22 UTC
-# Version: 2022.1108.0922.48
+# Last modified: 08 Nov 2022 19:14 UTC
+# Version: 2022.1108.1914.04
 # Syntax: Hosts
-# Domains: 12026
+# Domains: 12004
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -1616,8 +1616,6 @@
 0.0.0.0 eemotion.at
 0.0.0.0 eew-karriere.de
 0.0.0.0 efc-plasma.de
-0.0.0.0 effectth.top
-0.0.0.0 efitious.top
 0.0.0.0 ege-exquisit.de
 0.0.0.0 eggelingen.de
 0.0.0.0 eg-hofheim.de
@@ -1653,7 +1651,6 @@
 0.0.0.0 elektriker-fritz.de
 0.0.0.0 elektrikernotdienstwien.at
 0.0.0.0 elektrobester.com
-0.0.0.0 elektro-beuss.de
 0.0.0.0 elektroconsult.de
 0.0.0.0 elektrodo.de
 0.0.0.0 elektro-ecke.de
@@ -1742,7 +1739,6 @@
 0.0.0.0 enrev-logistic.com
 0.0.0.0 ensemble4cyclisme.com
 0.0.0.0 enstlogistics.com
-0.0.0.0 en-stock.net
 0.0.0.0 enter-croatia.com
 0.0.0.0 entruempelung-gruber.info
 0.0.0.0 entscheider-messe.de
@@ -1764,7 +1760,6 @@
 0.0.0.0 erlkoenig-blog.de
 0.0.0.0 ernstfarm-coburg.de
 0.0.0.0 erodisfashion.com
-0.0.0.0 errer.top
 0.0.0.0 errevi.de
 0.0.0.0 ersatzteil-land-mengeler.de
 0.0.0.0 ersthands.com
@@ -1785,7 +1780,6 @@
 0.0.0.0 eu.2bagsvalley.cn
 0.0.0.0 eubiofficial.com
 0.0.0.0 euchcte.top
-0.0.0.0 eu-class.com
 0.0.0.0 eulengewisper.de
 0.0.0.0 eurlogistic.com
 0.0.0.0 euroadmaps.com
@@ -1834,7 +1828,6 @@
 0.0.0.0 exclusivekicks.shop
 0.0.0.0 exklusif.de
 0.0.0.0 exklusiv-treffen.com
-0.0.0.0 exlurebays.com
 0.0.0.0 exodermin.com
 0.0.0.0 exodermin.eu
 0.0.0.0 expertisetrade4.com
@@ -1882,9 +1875,7 @@
 0.0.0.0 falinas.at
 0.0.0.0 falinas.com
 0.0.0.0 falinas.de
-0.0.0.0 fallular.top
 0.0.0.0 falzoro.de
-0.0.0.0 famaceous.top
 0.0.0.0 famiglieinrete.org
 0.0.0.0 famore-fashion.com
 0.0.0.0 famore.shop
@@ -1942,7 +1933,6 @@
 0.0.0.0 felipag.com
 0.0.0.0 felivoo.de
 0.0.0.0 felums.com
-0.0.0.0 fendiz.com
 0.0.0.0 ferienhaeuser-porec.de
 0.0.0.0 ferienhausexperten.co
 0.0.0.0 ferienhaus-gertrud.at
@@ -1962,7 +1952,6 @@
 0.0.0.0 f-flt.com
 0.0.0.0 ffobek.com
 0.0.0.0 ffw-oberpoering.de
-0.0.0.0 fgalander.top
 0.0.0.0 ficiior.xyz
 0.0.0.0 fictionstudio.de
 0.0.0.0 fideligencia.com
@@ -1971,8 +1960,6 @@
 0.0.0.0 fiesefalle.de
 0.0.0.0 figliazza.de
 0.0.0.0 filamonia.de
-0.0.0.0 filastore.club
-0.0.0.0 filmara.de
 0.0.0.0 filminihdizle.com
 0.0.0.0 filmstreaming-de.life
 0.0.0.0 filzaffairen.de
@@ -1989,6 +1976,7 @@
 0.0.0.0 finmove.net
 0.0.0.0 finosso.com
 0.0.0.0 fintegral.fund
+0.0.0.0 fintegral.world
 0.0.0.0 fipecampania.it
 0.0.0.0 firalo.de
 0.0.0.0 firma-leitner.at
@@ -2815,6 +2803,7 @@
 0.0.0.0 interiorbyjuan.com
 0.0.0.0 internationaalverhuisadvies.nl
 0.0.0.0 internationalerumzug.de
+0.0.0.0 interseroh-brandneu.de
 0.0.0.0 intoleranztest.com
 0.0.0.0 intosmile.nl
 0.0.0.0 int-re.com
@@ -7625,8 +7614,6 @@
 0.0.0.0 www.eemotion.at
 0.0.0.0 www.eew-karriere.de
 0.0.0.0 www.efc-plasma.de
-0.0.0.0 www.effectth.top
-0.0.0.0 www.efitious.top
 0.0.0.0 www.ege-exquisit.de
 0.0.0.0 www.eggelingen.de
 0.0.0.0 www.eg-hofheim.de
@@ -7659,7 +7646,6 @@
 0.0.0.0 www.elektriker-fritz.de
 0.0.0.0 www.elektrikernotdienstwien.at
 0.0.0.0 www.elektrobester.com
-0.0.0.0 www.elektro-beuss.de
 0.0.0.0 www.elektroconsult.de
 0.0.0.0 www.elektrodo.de
 0.0.0.0 www.elektro-ecke.de
@@ -7740,7 +7726,6 @@
 0.0.0.0 www.enrev-logistic.com
 0.0.0.0 www.ensemble4cyclisme.com
 0.0.0.0 www.enstlogistics.com
-0.0.0.0 www.en-stock.net
 0.0.0.0 www.enter-croatia.com
 0.0.0.0 www.entruempelung-gruber.info
 0.0.0.0 www.entscheider-messe.de
@@ -7762,7 +7747,6 @@
 0.0.0.0 www.erlkoenig-blog.de
 0.0.0.0 www.ernstfarm-coburg.de
 0.0.0.0 www.erodisfashion.com
-0.0.0.0 www.errer.top
 0.0.0.0 www.errevi.de
 0.0.0.0 www.ersatzteil-land-mengeler.de
 0.0.0.0 www.ersthands.com
@@ -7778,7 +7762,6 @@
 0.0.0.0 www.etr-karlsruhe.de
 0.0.0.0 www.eubiofficial.com
 0.0.0.0 www.euchcte.top
-0.0.0.0 www.eu-class.com
 0.0.0.0 www.eulengewisper.de
 0.0.0.0 www.eurlogistic.com
 0.0.0.0 www.euroadmaps.com
@@ -7819,7 +7802,6 @@
 0.0.0.0 www.exclusivekicks.shop
 0.0.0.0 www.exklusif.de
 0.0.0.0 www.exklusiv-treffen.com
-0.0.0.0 www.exlurebays.com
 0.0.0.0 www.exodermin.eu
 0.0.0.0 www.expertisetrade4.com
 0.0.0.0 www.expertoptiontradings.com
@@ -7862,9 +7844,7 @@
 0.0.0.0 www.falinas.at
 0.0.0.0 www.falinas.com
 0.0.0.0 www.falinas.de
-0.0.0.0 www.fallular.top
 0.0.0.0 www.falzoro.de
-0.0.0.0 www.famaceous.top
 0.0.0.0 www.famiglieinrete.org
 0.0.0.0 www.famore-fashion.com
 0.0.0.0 www.famore.shop
@@ -7915,7 +7895,6 @@
 0.0.0.0 www.felipag.com
 0.0.0.0 www.felivoo.de
 0.0.0.0 www.felums.com
-0.0.0.0 www.fendiz.com
 0.0.0.0 www.ferienhaeuser-porec.de
 0.0.0.0 www.ferienhausexperten.co
 0.0.0.0 www.ferienhaus-gertrud.at
@@ -7935,7 +7914,6 @@
 0.0.0.0 www.f-flt.com
 0.0.0.0 www.ffobek.com
 0.0.0.0 www.ffw-oberpoering.de
-0.0.0.0 www.fgalander.top
 0.0.0.0 www.fictionstudio.de
 0.0.0.0 www.fideligencia.com
 0.0.0.0 www.fidilityprofx.com
@@ -7943,8 +7921,6 @@
 0.0.0.0 www.fiesefalle.de
 0.0.0.0 www.figliazza.de
 0.0.0.0 www.filamonia.de
-0.0.0.0 www.filastore.club
-0.0.0.0 www.filmara.de
 0.0.0.0 www.filminihdizle.com
 0.0.0.0 www.filmstreaming-de.life
 0.0.0.0 www.filzaffairen.de
@@ -7960,6 +7936,7 @@
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
 0.0.0.0 www.finosso.com
+0.0.0.0 www.fintegral.world
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
 0.0.0.0 www.firma-leitner.at
@@ -8711,6 +8688,7 @@
 0.0.0.0 www.interiorbyjuan.com
 0.0.0.0 www.internationaalverhuisadvies.nl
 0.0.0.0 www.internationalerumzug.de
+0.0.0.0 www.interseroh-brandneu.de
 0.0.0.0 www.intoleranztest.com
 0.0.0.0 www.intosmile.nl
 0.0.0.0 www.int-re.com

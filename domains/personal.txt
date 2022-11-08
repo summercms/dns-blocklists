@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Nov 2022 01:19 UTC
-# Version: 2022.1108.0119.52
+# Last modified: 08 Nov 2022 19:41 UTC
+# Version: 2022.1108.1941.17
 # Syntax: Domains
-# Domains: 739
+# Domains: 778
 #
 t.1und1.de
 24coinix.com
@@ -20,11 +20,20 @@ gtrack.365economist.com
 track.365economist.com
 53244ds.xyz
 www.53244ds.xyz
+7e1e8f3eba.com
 29dddc2119.7e1e8f3eba.com
 997ad.xyz
 api.997ad.xyz
 www.997ad.xyz
 bugsnag-event.monitor.core.app.alexa.a2z.com
+new-telemetry.insights.video.a2z.com
+eu-central-1.new-telemetry.insights.video.a2z.com
+eu-west-1.new-telemetry.insights.video.a2z.com
+us-east-1.new-telemetry.insights.video.a2z.com
+us-east-2.new-telemetry.insights.video.a2z.com
+us-west-2.new-telemetry.insights.video.a2z.com
+telemetry.insights.video.a2z.com
+global.telemetry.insights.video.a2z.com
 r.aachener-nachrichten.de
 t.aachener-nachrichten.de
 r.aachener-zeitung.de
@@ -40,7 +49,11 @@ track.adcocktail.com
 pixel.adensemble.com
 shopify.admetrics.events
 analytics.bit.admin.ch
+adnxs.com
 secure.adnxs.com
+www.adnxs.com
+adnxs-simple.com
+www.adnxs-simple.com
 ads4trk.com
 vrmom.ads4trk.com
 www.ads4trk.com
@@ -87,7 +100,9 @@ serverside-tracking.ew.r.appspot.com
 metrics.atf-tagmanager.de
 r.audible.de
 analytics.audionow.de
+automizely-analytics.com
 sdks.automizely-analytics.com
+www.automizely-analytics.com
 analytics.ff.avast.com
 shepherd.ff.avast.com
 vanheim.ff.avast.com
@@ -133,17 +148,23 @@ cdn.brandmetrics.com
 braze.com
 braze.eu
 cdn.braze.eu
+fra-01.braze.eu
 sdk.fra-01.braze.eu
 fra-02.braze.eu
 sdk.fra-02.braze.eu
+iad-01.braze.com
 sdk.iad-01.braze.com
 iad-02.braze.com
 sdk.iad-02.braze.com
+iad-03.braze.com
 sdk.iad-03.braze.com
 iad-04.braze.com
 sdk.iad-04.braze.com
+iad-05.braze.com
 sdk.iad-05.braze.com
+iad-06.braze.com
 sdk.iad-06.braze.com
+iad-08.braze.com
 sdk.iad-08.braze.com
 www.braze.com
 www.braze.eu
@@ -219,6 +240,7 @@ analytics.digital-x.eu
 smetrics.dish.co
 t.ihre.dkb.de
 fls.doubleclick.net
+g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pubads.g.doubleclick.net
@@ -318,7 +340,10 @@ www.googleoptimize.com
 googlesyndication.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
+safeframe.googlesyndication.com
 tpc.googlesyndication.com
+googletagservices.com
+www.googletagservices.com
 gotrackier.com
 mmads.gotrackier.com
 www.gotrackier.com
@@ -369,10 +394,12 @@ instabug.com
 api.instabug.com
 api-apm.instabug.com
 www.instabug.com
+ioam.de
 config.ioam.de
 de.ioam.de
 irqs.ioam.de
 script.ioam.de
+www.ioam.de
 metrics.ionos.de
 sentry.ionos.com
 t.ionos.de
@@ -383,6 +410,7 @@ metrics.jameda.de
 analytics.jjshouse.com
 tracking.kadewe.de
 kameleoon.com
+kameleoon.eu
 api-data.kameleoon.com
 api-data.kameleoon.eu
 api-product.kameleoon.com
@@ -402,6 +430,7 @@ static.kameleoon.com
 storage.kameleoon.com
 storage.kameleoon.eu
 www.kameleoon.com
+www.kameleoon.eu
 tracking.cloud.kaufland.de
 kirchenaustritt24.de
 www.kirchenaustritt24.de
@@ -440,6 +469,12 @@ metrics.media-amazon.com
 track.mediabiz.de
 livechat-metrics.messagebird.com
 fp.metricswpsh.com
+kmwatson.events.data.microsoft.com
+kmwatsonc.events.data.microsoft.com
+nw-umwatson.events.data.microsoft.com
+umwatson.events.data.microsoft.com
+umwatsonc.events.data.microsoft.com
+watson.events.data.microsoft.com
 telemetry.microsoft.com
 df.telemetry.microsoft.com
 sqm.df.telemetry.microsoft.com
@@ -452,6 +487,7 @@ watson.ppe.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com
 watson.telemetry.microsoft.com
+telemetry.urs.microsoft.com
 watson.microsoft.com
 t.mail.mini.de
 mitsubilla.xyz
@@ -648,7 +684,12 @@ cdn-magiclinks.trackonomics.net
 audit.trackverify.com
 trackvrs.com
 www.trackvrs.com
+legacywatson.trafficmanager.net
+o365diagtelemetry.trafficmanager.net
+ppm-telemetrysadsrouter-prod.trafficmanager.net
 serviceschipotlecom.trafficmanager.net
+telemetry-lcp.trafficmanager.net
+telemetry-sdk-inmobi-comtm.trafficmanager.net
 ai.trk42.net
 trkkn.com
 cdn.trkkn.com
@@ -662,8 +703,6 @@ look-viacom.tvtelemetrie.com
 wsviacom.tvtelemetrie.com
 trk.uberall.com
 analytics.uhrzeit.org
-ukpressmyint.xyz
-www.ukpressmyint.xyz
 trk.ultraind.in
 analytics.rz.uni-osnabrueck.de
 t.mailing.unilever.de

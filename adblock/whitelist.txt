@@ -1187,12 +1187,6 @@
 ! https://github.com/notracking/hosts-blocklists/issues/799
 @@|s3.us-west-1.wasabisys.com^
 
-! Soundreef - https://soundreef.zendesk.com/hc/en-us/articles/360011034737-My-company-uses-a-firewall-which-addresses-do-I-need-to-enter-in-the-whitelist-to-listen-to-Web-radio-
-@@|consent.cookiebot.com^
-@@|consent.cookiebot.com-v2.edgekey.net^
-@@|consentcdn.cookiebot.com^
-@@|consentcdn.cookiebot.com-v1.edgekey.net^
-
 ! https://github.com/AdAway/adaway.github.io/issues/349
 @@|images.salsify.com^
 
@@ -1495,4 +1489,8 @@
 
 ! Media CDN
 @@|iframely.net^
+
+! CRL server for GoDaddy Subsidiary Starfield CA
+@@|o.ss2.us^
+@@|s.ss2.us^
 
