@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Nov 2022 00:54 UTC
-# Version: 2022.1108.0054.50
+# Last modified: 08 Nov 2022 09:22 UTC
+# Version: 2022.1108.0922.48
 # Syntax: Domains
-# Domains: 12052
+# Domains: 12026
 #
 11trikots.com
 123brennholz.com
@@ -426,6 +426,7 @@ avasuite.com
 avengeapollo.com
 aviacle.xyz
 avrilamaya.com
+awanzi.com
 awayess.xyz
 awb-nordstadt.de
 awfulert.online
@@ -1189,7 +1190,6 @@ cr8newyork.com
 craft.shopde.xyz
 craftsmaner.de
 craftterns.com
-craniine.top
 crateel.com
 crazy-cooper.de
 credivisor.at
@@ -1198,14 +1198,12 @@ crnstore.com
 crocsat.at
 crocsoutletdeutschland.com
 crop.patientburn.xyz
-crossine.top
 cryptmaketrade.com
 cryptoinas.com
 cryptoprime.eu
 cryptotradingfxt.com
 crystalfashion.vip
 crystalsoul.de
-csbdbuy.com
 csguis.com
 csunbox.com
 ctbike.pl
@@ -1219,7 +1217,6 @@ cunteny.com
 cuoed.top
 curlycurler.de
 curment.xyz
-currencytrademaster.online
 curryfpw.top
 custably.com
 cutepets.site
@@ -1235,7 +1232,6 @@ cydiainstall9.weebly.com
 cydiajailbreak.org
 cydiapro.com
 cymgrup.com
-cytness.top
 cyttion.xyz
 dachdecker-otto.de
 daddeln.net
@@ -1285,7 +1281,6 @@ davesaunderscfo.com
 davidkimboyle.net
 davidoutwear.com
 daygpl.shop
-dayswithg.com
 daytradinginstitutionpro.com
 dazsistmeins.at
 dbackdrop.de
@@ -1326,7 +1321,6 @@ deinbikeprofi.de
 dein-croozer.de
 dein-elektroshop.de
 deine-modewelt.com
-deinetierliebe.de
 dein-gartenheld.de
 dein-gartenmarkt.de
 deinhandwerkershop.de
@@ -1343,7 +1337,6 @@ delikatessen-band.de
 de.linalift.com
 delix.at
 delonghi-de.shop
-deltacryptotrade.com
 deltaexpressdelivery.com
 de.lucybreeze.com
 deluxeaffaire.ch
@@ -1379,16 +1372,13 @@ der-grune-schwamm.com
 derkatzenshop.de
 dernaturlotus.com
 der-reiseexperte.de
-dertaunus.com
 der-terrarist.de
 derudte.com
 derumzugshelfer.at
 derurban.at
 desamishop.com
 desayleddisplay.fr
-descontom.com
 deshopmytrendy.com
-designerdna.net
 designer-dream.com
 designer-second-hand-shop.com
 designersofas.org
@@ -1401,7 +1391,6 @@ destineding.com
 destinedy.com
 destinsauconditionnel.com
 de.store2021.net
-de.storesonline2021.ru
 de.tour-home.com
 deuducht.de
 deu.grandado.com
@@ -1414,7 +1403,6 @@ deutscheritter.de
 deutschermarkts.com
 deutschesholz.com
 deutschetroniks.com
-devado.de
 deveclo.com
 devoteeshoes.com
 de.wellreplicas.to
@@ -1435,7 +1423,6 @@ dicable.xyz
 didikkirwanto.com
 didi-tec.de
 didro.de
-diebuchten.com
 die-hebamme-koeln.de
 dieselofficialsale.de
 diesel-osterreich.com
@@ -1477,7 +1464,6 @@ divinelydevents.com
 djabcu.com
 dkirmizu.com
 dlanshop.com
-dlv-elektronik.de
 dmsmax.com
 dmxstocktrade.online
 dobetom.com
@@ -1510,7 +1496,6 @@ dormamu.com
 dorsch-gartenhandel.com
 dortmund-wappen.de
 dosenberry.de
-dot-address.com
 doumonde.com
 downgradeios7.com
 downloadcydiainstaller.weebly.com
@@ -1526,14 +1511,12 @@ dransay.com
 draussenfeet.de
 drberg.eu
 dreameur.top
-dreamfold.top
 dreammerdre.com
 dreamoco.com
 dreamsparfum.com
 dreamykissen.de
 dreastique.de
 dreirei.com
-dresdensein.com
 dresscodoff.ru
 dressfat.com
 dressfirst.com
@@ -1870,6 +1853,7 @@ eyachfischer.de
 eysdfsdfsd.myshopify.com
 f2fequinehauling.com
 fabionapoli.com
+fabnetstudio.com
 fabrikverkaufmerrellch.com
 fabulous-k.com
 facebestsell.xyz
@@ -2003,6 +1987,7 @@ fineartswuerzburg.de
 finflix.de
 finkerkette.de
 finmove.net
+finosso.com
 fintegral.fund
 fipecampania.it
 firalo.de
@@ -2298,7 +2283,6 @@ ginsengrai.top
 girlsruby.com
 giveloveshop.site
 givenic.com
-givoza.store
 gizupp.com
 gkl-teampublic.de
 gkp-nordhorn.de
@@ -2666,7 +2650,6 @@ hotels-colombo.com
 hotels-colorado.net
 hotelsinperm.ru
 hotels-in-riga.de
-hotels-in-tyrol.com
 hotelsinvienna.org
 hotelsofmenorca.com
 hotelsofnewyorkcity.net
@@ -2790,6 +2773,7 @@ impkeys.com
 impruneta.de
 imyazdz.shop
 imzauberstuebchen.de
+incerunmen.com
 inc-real.com
 indonesiahotel24.com
 inedito.fr
@@ -3029,6 +3013,7 @@ kickersdeutschland.top
 kickvee.com
 kidebro.com
 kidniva.uk
+kidoriman.com
 kikana-handel.com
 kikichoices.myshopify.com
 kilokits.com
@@ -3372,6 +3357,7 @@ lowadeutschland.de
 lowaonlineshops.de
 lowaosterreich.at
 lowasale.de
+lowela.de
 lowpricemoncler.top
 lozaraty.com
 lozoro.de
@@ -3533,6 +3519,7 @@ mcjustice.de
 mc-miner.com
 mcoaltmeds.com
 mctrl-marktforschung.com
+mdates.com
 mealsonwheels.at
 mebs.ch
 media-deals24.de
@@ -3819,6 +3806,7 @@ mooredvazwe.myshopify.com
 moorningitalia.com
 morbidtales.de
 moreclothes.store
+moredates.com
 mosano.de
 mosessions.com
 mosetravel.de
@@ -4927,7 +4915,6 @@ sensalve.de
 sensefums.com
 senthiln.top
 seoyou.de
-sepkicks.com
 seprun.com
 sepshoe.com
 sepsneakers.co
@@ -4955,7 +4942,6 @@ shauntapparel.com
 shaxu.top
 shccamps.com
 sheadora.com
-shebeautys.com
 sheheaven.com
 shelbs.de
 shelbz.de
@@ -5697,12 +5683,12 @@ turkeycoachrental.com
 tusneumuehl.de
 tuyyds.store
 tv-gesundheit.at
+tvidler.com
 tvmarket.club
 twilight-fans.de
 twinsbc.de
 twovillas.com
 txsxj.com
-tyfereth.com
 tymusiccenter.com
 typisch-tierliebe.de
 uaddylotto.top
@@ -5797,7 +5783,6 @@ vacioy.com
 vacplux.com
 vaggv.com
 vagomarkt.com
-vakkerlight.com
 valanza.de
 valty-heater.com
 valurabeauty.com
@@ -5868,6 +5853,7 @@ vesinhhoatam.com
 vespin24.de
 vespin-versand.de
 vetola.de
+vevor.de
 vfcsnc.shop
 vga.unternehmer-2014.de
 vgr8.com
@@ -6565,6 +6551,7 @@ www.avanali.de
 www.avasuite.com
 www.avengeapollo.com
 www.avrilamaya.com
+www.awanzi.com
 www.awb-nordstadt.de
 www.awfulert.online
 www.aw-handel.de
@@ -7265,21 +7252,18 @@ www.cpgtstream4.com
 www.cr8newyork.com
 www.craftsmaner.de
 www.craftterns.com
-www.craniine.top
 www.crateel.com
 www.crazy-cooper.de
 www.credivisor.at
 www.cremant.at
 www.crocsat.at
 www.crocsoutletdeutschland.com
-www.crossine.top
 www.cryptmaketrade.com
 www.cryptoinas.com
 www.cryptoprime.eu
 www.cryptotradingfxt.com
 www.crystalfashion.vip
 www.crystalsoul.de
-www.csbdbuy.com
 www.csguis.com
 www.csunbox.com
 www.ctbike.pl
@@ -7291,7 +7275,6 @@ www.culture-chameleon.com
 www.cunteny.com
 www.cuoed.top
 www.curlycurler.de
-www.currencytrademaster.online
 www.curryfpw.top
 www.custably.com
 www.cutepets.site
@@ -7305,7 +7288,6 @@ www.cydiafree.com
 www.cydiajailbreak.org
 www.cydiapro.com
 www.cymgrup.com
-www.cytness.top
 www.dachdecker-otto.de
 www.daddeln.net
 www.daflix.de
@@ -7352,7 +7334,6 @@ www.davesaunderscfo.com
 www.davidkimboyle.net
 www.davidoutwear.com
 www.daygpl.shop
-www.dayswithg.com
 www.daytradinginstitutionpro.com
 www.dazsistmeins.at
 www.dbackdrop.de
@@ -7382,7 +7363,6 @@ www.deinbikeprofi.de
 www.dein-croozer.de
 www.dein-elektroshop.de
 www.deine-modewelt.com
-www.deinetierliebe.de
 www.dein-gartenheld.de
 www.dein-gartenmarkt.de
 www.deinhandwerkershop.de
@@ -7398,7 +7378,6 @@ www.delhihurricanes.com
 www.delikatessen-band.de
 www.delix.at
 www.delonghi-de.shop
-www.deltacryptotrade.com
 www.deltaexpressdelivery.com
 www.deluxeaffaire.ch
 www.deluxeaffaire.com
@@ -7425,16 +7404,13 @@ www.der-grune-schwamm.com
 www.derkatzenshop.de
 www.dernaturlotus.com
 www.der-reiseexperte.de
-www.dertaunus.com
 www.der-terrarist.de
 www.derudte.com
 www.derumzugshelfer.at
 www.derurban.at
 www.desamishop.com
 www.desayleddisplay.fr
-www.descontom.com
 www.deshopmytrendy.com
-www.designerdna.net
 www.designer-dream.com
 www.designer-second-hand-shop.com
 www.designparlament.de
@@ -7454,7 +7430,6 @@ www.deutscheritter.de
 www.deutschermarkts.com
 www.deutschesholz.com
 www.deutschetroniks.com
-www.devado.de
 www.deveclo.com
 www.devoteeshoes.com
 www.dewelschutz.de
@@ -7469,7 +7444,6 @@ www.diabohr-tech.de
 www.didikkirwanto.com
 www.didi-tec.de
 www.didro.de
-www.diebuchten.com
 www.die-hebamme-koeln.de
 www.dieselofficialsale.de
 www.diesel-osterreich.com
@@ -7508,7 +7482,6 @@ www.divinelydevents.com
 www.djabcu.com
 www.dkirmizu.com
 www.dlanshop.com
-www.dlv-elektronik.de
 www.dmsmax.com
 www.dmxstocktrade.online
 www.dobetom.com
@@ -7539,7 +7512,6 @@ www.doris-monika.com
 www.dormamu.com
 www.dortmund-wappen.de
 www.dosenberry.de
-www.dot-address.com
 www.doumonde.com
 www.downgradeios7.com
 www.downloadpangu.org
@@ -7553,14 +7525,12 @@ www.dransay.com
 www.draussenfeet.de
 www.drberg.eu
 www.dreameur.top
-www.dreamfold.top
 www.dreammerdre.com
 www.dreamoco.com
 www.dreamsparfum.com
 www.dreamykissen.de
 www.dreastique.de
 www.dreirei.com
-www.dresdensein.com
 www.dresscodoff.ru
 www.dressfat.com
 www.dressfirst.com
@@ -7866,6 +7836,7 @@ www.exvision.de
 www.eyachfischer.de
 www.f2fequinehauling.com
 www.fabionapoli.com
+www.fabnetstudio.com
 www.fabrikverkaufmerrellch.com
 www.fabulous-k.com
 www.facebestsell.xyz
@@ -7988,6 +7959,7 @@ www.fineartswuerzburg.de
 www.finflix.de
 www.finkerkette.de
 www.finmove.net
+www.finosso.com
 www.fipecampania.it
 www.firalo.de
 www.firma-leitner.at
@@ -8593,7 +8565,6 @@ www.hotels-colombo.com
 www.hotels-colorado.net
 www.hotelsinperm.ru
 www.hotels-in-riga.de
-www.hotels-in-tyrol.com
 www.hotelsinvienna.org
 www.hotelsofmenorca.com
 www.hotelsofnewyorkcity.net
@@ -8700,6 +8671,7 @@ www.impkeys.com
 www.impruneta.de
 www.imyazdz.shop
 www.imzauberstuebchen.de
+www.incerunmen.com
 www.inc-real.com
 www.indonesiahotel24.com
 www.inedito.fr
@@ -8930,6 +8902,7 @@ www.kiaranews.com
 www.kickersdeutschland.top
 www.kidebro.com
 www.kidniva.uk
+www.kidoriman.com
 www.kilokits.com
 www.kimberlybisger.com
 www.kimplay.de
@@ -9253,6 +9226,7 @@ www.lovvingss.com
 www.lowadeutschland.de
 www.lowaosterreich.at
 www.lowasale.de
+www.lowela.de
 www.lozaraty.com
 www.lozoro.de
 www.lprhomes.com
@@ -9404,6 +9378,7 @@ www.mcjustice.de
 www.mc-miner.com
 www.mcoaltmeds.com
 www.mctrl-marktforschung.com
+www.mdates.com
 www.mealsonwheels.at
 www.media-deals24.de
 www.mediafritz.com
@@ -9644,6 +9619,7 @@ www.moonsoy.com
 www.moorningitalia.com
 www.morbidtales.de
 www.moreclothes.store
+www.moredates.com
 www.mosano.de
 www.mosessions.com
 www.mosetravel.de
@@ -10668,7 +10644,6 @@ www.seniorlivinglab.ch
 www.sensefums.com
 www.senthiln.top
 www.seoyou.de
-www.sepkicks.com
 www.seprun.com
 www.sepshoe.com
 www.sepsneakers.co
@@ -10696,7 +10671,6 @@ www.shauntapparel.com
 www.shaxu.top
 www.shccamps.com
 www.sheadora.com
-www.shebeautys.com
 www.sheheaven.com
 www.shelbs.de
 www.shelbz.de
@@ -11363,12 +11337,12 @@ www.turkeycoachrental.com
 www.tusneumuehl.de
 www.tuyyds.store
 www.tv-gesundheit.at
+www.tvidler.com
 www.tvmarket.club
 www.twilight-fans.de
 www.twinsbc.de
 www.twovillas.com
 www.txsxj.com
-www.tyfereth.com
 www.tymusiccenter.com
 www.uaddylotto.top
 www.ubertorch.com
@@ -11443,7 +11417,6 @@ www.vacioy.com
 www.vacplux.com
 www.vaggv.com
 www.vagomarkt.com
-www.vakkerlight.com
 www.valanza.de
 www.valty-heater.com
 www.valurabeauty.com
@@ -11503,6 +11476,7 @@ www.veryvoga.es
 www.veryvoga.fr
 www.vesinhhoatam.com
 www.vetola.de
+www.vevor.de
 www.vfcsnc.shop
 www.vgr8.com
 www.viagrafuerfrauen.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Nov 2022 00:54 UTC
-# Version: 2022.1108.0054.50
+# Last modified: 08 Nov 2022 09:22 UTC
+# Version: 2022.1108.0922.48
 # Syntax: Hosts
-# Domains: 12052
+# Domains: 12026
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -426,6 +426,7 @@
 0.0.0.0 avengeapollo.com
 0.0.0.0 aviacle.xyz
 0.0.0.0 avrilamaya.com
+0.0.0.0 awanzi.com
 0.0.0.0 awayess.xyz
 0.0.0.0 awb-nordstadt.de
 0.0.0.0 awfulert.online
@@ -1189,7 +1190,6 @@
 0.0.0.0 craft.shopde.xyz
 0.0.0.0 craftsmaner.de
 0.0.0.0 craftterns.com
-0.0.0.0 craniine.top
 0.0.0.0 crateel.com
 0.0.0.0 crazy-cooper.de
 0.0.0.0 credivisor.at
@@ -1198,14 +1198,12 @@
 0.0.0.0 crocsat.at
 0.0.0.0 crocsoutletdeutschland.com
 0.0.0.0 crop.patientburn.xyz
-0.0.0.0 crossine.top
 0.0.0.0 cryptmaketrade.com
 0.0.0.0 cryptoinas.com
 0.0.0.0 cryptoprime.eu
 0.0.0.0 cryptotradingfxt.com
 0.0.0.0 crystalfashion.vip
 0.0.0.0 crystalsoul.de
-0.0.0.0 csbdbuy.com
 0.0.0.0 csguis.com
 0.0.0.0 csunbox.com
 0.0.0.0 ctbike.pl
@@ -1219,7 +1217,6 @@
 0.0.0.0 cuoed.top
 0.0.0.0 curlycurler.de
 0.0.0.0 curment.xyz
-0.0.0.0 currencytrademaster.online
 0.0.0.0 curryfpw.top
 0.0.0.0 custably.com
 0.0.0.0 cutepets.site
@@ -1235,7 +1232,6 @@
 0.0.0.0 cydiajailbreak.org
 0.0.0.0 cydiapro.com
 0.0.0.0 cymgrup.com
-0.0.0.0 cytness.top
 0.0.0.0 cyttion.xyz
 0.0.0.0 dachdecker-otto.de
 0.0.0.0 daddeln.net
@@ -1285,7 +1281,6 @@
 0.0.0.0 davidkimboyle.net
 0.0.0.0 davidoutwear.com
 0.0.0.0 daygpl.shop
-0.0.0.0 dayswithg.com
 0.0.0.0 daytradinginstitutionpro.com
 0.0.0.0 dazsistmeins.at
 0.0.0.0 dbackdrop.de
@@ -1326,7 +1321,6 @@
 0.0.0.0 dein-croozer.de
 0.0.0.0 dein-elektroshop.de
 0.0.0.0 deine-modewelt.com
-0.0.0.0 deinetierliebe.de
 0.0.0.0 dein-gartenheld.de
 0.0.0.0 dein-gartenmarkt.de
 0.0.0.0 deinhandwerkershop.de
@@ -1343,7 +1337,6 @@
 0.0.0.0 de.linalift.com
 0.0.0.0 delix.at
 0.0.0.0 delonghi-de.shop
-0.0.0.0 deltacryptotrade.com
 0.0.0.0 deltaexpressdelivery.com
 0.0.0.0 de.lucybreeze.com
 0.0.0.0 deluxeaffaire.ch
@@ -1379,16 +1372,13 @@
 0.0.0.0 derkatzenshop.de
 0.0.0.0 dernaturlotus.com
 0.0.0.0 der-reiseexperte.de
-0.0.0.0 dertaunus.com
 0.0.0.0 der-terrarist.de
 0.0.0.0 derudte.com
 0.0.0.0 derumzugshelfer.at
 0.0.0.0 derurban.at
 0.0.0.0 desamishop.com
 0.0.0.0 desayleddisplay.fr
-0.0.0.0 descontom.com
 0.0.0.0 deshopmytrendy.com
-0.0.0.0 designerdna.net
 0.0.0.0 designer-dream.com
 0.0.0.0 designer-second-hand-shop.com
 0.0.0.0 designersofas.org
@@ -1401,7 +1391,6 @@
 0.0.0.0 destinedy.com
 0.0.0.0 destinsauconditionnel.com
 0.0.0.0 de.store2021.net
-0.0.0.0 de.storesonline2021.ru
 0.0.0.0 de.tour-home.com
 0.0.0.0 deuducht.de
 0.0.0.0 deu.grandado.com
@@ -1414,7 +1403,6 @@
 0.0.0.0 deutschermarkts.com
 0.0.0.0 deutschesholz.com
 0.0.0.0 deutschetroniks.com
-0.0.0.0 devado.de
 0.0.0.0 deveclo.com
 0.0.0.0 devoteeshoes.com
 0.0.0.0 de.wellreplicas.to
@@ -1435,7 +1423,6 @@
 0.0.0.0 didikkirwanto.com
 0.0.0.0 didi-tec.de
 0.0.0.0 didro.de
-0.0.0.0 diebuchten.com
 0.0.0.0 die-hebamme-koeln.de
 0.0.0.0 dieselofficialsale.de
 0.0.0.0 diesel-osterreich.com
@@ -1477,7 +1464,6 @@
 0.0.0.0 djabcu.com
 0.0.0.0 dkirmizu.com
 0.0.0.0 dlanshop.com
-0.0.0.0 dlv-elektronik.de
 0.0.0.0 dmsmax.com
 0.0.0.0 dmxstocktrade.online
 0.0.0.0 dobetom.com
@@ -1510,7 +1496,6 @@
 0.0.0.0 dorsch-gartenhandel.com
 0.0.0.0 dortmund-wappen.de
 0.0.0.0 dosenberry.de
-0.0.0.0 dot-address.com
 0.0.0.0 doumonde.com
 0.0.0.0 downgradeios7.com
 0.0.0.0 downloadcydiainstaller.weebly.com
@@ -1526,14 +1511,12 @@
 0.0.0.0 draussenfeet.de
 0.0.0.0 drberg.eu
 0.0.0.0 dreameur.top
-0.0.0.0 dreamfold.top
 0.0.0.0 dreammerdre.com
 0.0.0.0 dreamoco.com
 0.0.0.0 dreamsparfum.com
 0.0.0.0 dreamykissen.de
 0.0.0.0 dreastique.de
 0.0.0.0 dreirei.com
-0.0.0.0 dresdensein.com
 0.0.0.0 dresscodoff.ru
 0.0.0.0 dressfat.com
 0.0.0.0 dressfirst.com
@@ -1870,6 +1853,7 @@
 0.0.0.0 eysdfsdfsd.myshopify.com
 0.0.0.0 f2fequinehauling.com
 0.0.0.0 fabionapoli.com
+0.0.0.0 fabnetstudio.com
 0.0.0.0 fabrikverkaufmerrellch.com
 0.0.0.0 fabulous-k.com
 0.0.0.0 facebestsell.xyz
@@ -2003,6 +1987,7 @@
 0.0.0.0 finflix.de
 0.0.0.0 finkerkette.de
 0.0.0.0 finmove.net
+0.0.0.0 finosso.com
 0.0.0.0 fintegral.fund
 0.0.0.0 fipecampania.it
 0.0.0.0 firalo.de
@@ -2298,7 +2283,6 @@
 0.0.0.0 girlsruby.com
 0.0.0.0 giveloveshop.site
 0.0.0.0 givenic.com
-0.0.0.0 givoza.store
 0.0.0.0 gizupp.com
 0.0.0.0 gkl-teampublic.de
 0.0.0.0 gkp-nordhorn.de
@@ -2666,7 +2650,6 @@
 0.0.0.0 hotels-colorado.net
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 hotels-in-riga.de
-0.0.0.0 hotels-in-tyrol.com
 0.0.0.0 hotelsinvienna.org
 0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelsofnewyorkcity.net
@@ -2790,6 +2773,7 @@
 0.0.0.0 impruneta.de
 0.0.0.0 imyazdz.shop
 0.0.0.0 imzauberstuebchen.de
+0.0.0.0 incerunmen.com
 0.0.0.0 inc-real.com
 0.0.0.0 indonesiahotel24.com
 0.0.0.0 inedito.fr
@@ -3029,6 +3013,7 @@
 0.0.0.0 kickvee.com
 0.0.0.0 kidebro.com
 0.0.0.0 kidniva.uk
+0.0.0.0 kidoriman.com
 0.0.0.0 kikana-handel.com
 0.0.0.0 kikichoices.myshopify.com
 0.0.0.0 kilokits.com
@@ -3372,6 +3357,7 @@
 0.0.0.0 lowaonlineshops.de
 0.0.0.0 lowaosterreich.at
 0.0.0.0 lowasale.de
+0.0.0.0 lowela.de
 0.0.0.0 lowpricemoncler.top
 0.0.0.0 lozaraty.com
 0.0.0.0 lozoro.de
@@ -3533,6 +3519,7 @@
 0.0.0.0 mc-miner.com
 0.0.0.0 mcoaltmeds.com
 0.0.0.0 mctrl-marktforschung.com
+0.0.0.0 mdates.com
 0.0.0.0 mealsonwheels.at
 0.0.0.0 mebs.ch
 0.0.0.0 media-deals24.de
@@ -3819,6 +3806,7 @@
 0.0.0.0 moorningitalia.com
 0.0.0.0 morbidtales.de
 0.0.0.0 moreclothes.store
+0.0.0.0 moredates.com
 0.0.0.0 mosano.de
 0.0.0.0 mosessions.com
 0.0.0.0 mosetravel.de
@@ -4927,7 +4915,6 @@
 0.0.0.0 sensefums.com
 0.0.0.0 senthiln.top
 0.0.0.0 seoyou.de
-0.0.0.0 sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 sepshoe.com
 0.0.0.0 sepsneakers.co
@@ -4955,7 +4942,6 @@
 0.0.0.0 shaxu.top
 0.0.0.0 shccamps.com
 0.0.0.0 sheadora.com
-0.0.0.0 shebeautys.com
 0.0.0.0 sheheaven.com
 0.0.0.0 shelbs.de
 0.0.0.0 shelbz.de
@@ -5697,12 +5683,12 @@
 0.0.0.0 tusneumuehl.de
 0.0.0.0 tuyyds.store
 0.0.0.0 tv-gesundheit.at
+0.0.0.0 tvidler.com
 0.0.0.0 tvmarket.club
 0.0.0.0 twilight-fans.de
 0.0.0.0 twinsbc.de
 0.0.0.0 twovillas.com
 0.0.0.0 txsxj.com
-0.0.0.0 tyfereth.com
 0.0.0.0 tymusiccenter.com
 0.0.0.0 typisch-tierliebe.de
 0.0.0.0 uaddylotto.top
@@ -5797,7 +5783,6 @@
 0.0.0.0 vacplux.com
 0.0.0.0 vaggv.com
 0.0.0.0 vagomarkt.com
-0.0.0.0 vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 valty-heater.com
 0.0.0.0 valurabeauty.com
@@ -5868,6 +5853,7 @@
 0.0.0.0 vespin24.de
 0.0.0.0 vespin-versand.de
 0.0.0.0 vetola.de
+0.0.0.0 vevor.de
 0.0.0.0 vfcsnc.shop
 0.0.0.0 vga.unternehmer-2014.de
 0.0.0.0 vgr8.com
@@ -6565,6 +6551,7 @@
 0.0.0.0 www.avasuite.com
 0.0.0.0 www.avengeapollo.com
 0.0.0.0 www.avrilamaya.com
+0.0.0.0 www.awanzi.com
 0.0.0.0 www.awb-nordstadt.de
 0.0.0.0 www.awfulert.online
 0.0.0.0 www.aw-handel.de
@@ -7265,21 +7252,18 @@
 0.0.0.0 www.cr8newyork.com
 0.0.0.0 www.craftsmaner.de
 0.0.0.0 www.craftterns.com
-0.0.0.0 www.craniine.top
 0.0.0.0 www.crateel.com
 0.0.0.0 www.crazy-cooper.de
 0.0.0.0 www.credivisor.at
 0.0.0.0 www.cremant.at
 0.0.0.0 www.crocsat.at
 0.0.0.0 www.crocsoutletdeutschland.com
-0.0.0.0 www.crossine.top
 0.0.0.0 www.cryptmaketrade.com
 0.0.0.0 www.cryptoinas.com
 0.0.0.0 www.cryptoprime.eu
 0.0.0.0 www.cryptotradingfxt.com
 0.0.0.0 www.crystalfashion.vip
 0.0.0.0 www.crystalsoul.de
-0.0.0.0 www.csbdbuy.com
 0.0.0.0 www.csguis.com
 0.0.0.0 www.csunbox.com
 0.0.0.0 www.ctbike.pl
@@ -7291,7 +7275,6 @@
 0.0.0.0 www.cunteny.com
 0.0.0.0 www.cuoed.top
 0.0.0.0 www.curlycurler.de
-0.0.0.0 www.currencytrademaster.online
 0.0.0.0 www.curryfpw.top
 0.0.0.0 www.custably.com
 0.0.0.0 www.cutepets.site
@@ -7305,7 +7288,6 @@
 0.0.0.0 www.cydiajailbreak.org
 0.0.0.0 www.cydiapro.com
 0.0.0.0 www.cymgrup.com
-0.0.0.0 www.cytness.top
 0.0.0.0 www.dachdecker-otto.de
 0.0.0.0 www.daddeln.net
 0.0.0.0 www.daflix.de
@@ -7352,7 +7334,6 @@
 0.0.0.0 www.davidkimboyle.net
 0.0.0.0 www.davidoutwear.com
 0.0.0.0 www.daygpl.shop
-0.0.0.0 www.dayswithg.com
 0.0.0.0 www.daytradinginstitutionpro.com
 0.0.0.0 www.dazsistmeins.at
 0.0.0.0 www.dbackdrop.de
@@ -7382,7 +7363,6 @@
 0.0.0.0 www.dein-croozer.de
 0.0.0.0 www.dein-elektroshop.de
 0.0.0.0 www.deine-modewelt.com
-0.0.0.0 www.deinetierliebe.de
 0.0.0.0 www.dein-gartenheld.de
 0.0.0.0 www.dein-gartenmarkt.de
 0.0.0.0 www.deinhandwerkershop.de
@@ -7398,7 +7378,6 @@
 0.0.0.0 www.delikatessen-band.de
 0.0.0.0 www.delix.at
 0.0.0.0 www.delonghi-de.shop
-0.0.0.0 www.deltacryptotrade.com
 0.0.0.0 www.deltaexpressdelivery.com
 0.0.0.0 www.deluxeaffaire.ch
 0.0.0.0 www.deluxeaffaire.com
@@ -7425,16 +7404,13 @@
 0.0.0.0 www.derkatzenshop.de
 0.0.0.0 www.dernaturlotus.com
 0.0.0.0 www.der-reiseexperte.de
-0.0.0.0 www.dertaunus.com
 0.0.0.0 www.der-terrarist.de
 0.0.0.0 www.derudte.com
 0.0.0.0 www.derumzugshelfer.at
 0.0.0.0 www.derurban.at
 0.0.0.0 www.desamishop.com
 0.0.0.0 www.desayleddisplay.fr
-0.0.0.0 www.descontom.com
 0.0.0.0 www.deshopmytrendy.com
-0.0.0.0 www.designerdna.net
 0.0.0.0 www.designer-dream.com
 0.0.0.0 www.designer-second-hand-shop.com
 0.0.0.0 www.designparlament.de
@@ -7454,7 +7430,6 @@
 0.0.0.0 www.deutschermarkts.com
 0.0.0.0 www.deutschesholz.com
 0.0.0.0 www.deutschetroniks.com
-0.0.0.0 www.devado.de
 0.0.0.0 www.deveclo.com
 0.0.0.0 www.devoteeshoes.com
 0.0.0.0 www.dewelschutz.de
@@ -7469,7 +7444,6 @@
 0.0.0.0 www.didikkirwanto.com
 0.0.0.0 www.didi-tec.de
 0.0.0.0 www.didro.de
-0.0.0.0 www.diebuchten.com
 0.0.0.0 www.die-hebamme-koeln.de
 0.0.0.0 www.dieselofficialsale.de
 0.0.0.0 www.diesel-osterreich.com
@@ -7508,7 +7482,6 @@
 0.0.0.0 www.djabcu.com
 0.0.0.0 www.dkirmizu.com
 0.0.0.0 www.dlanshop.com
-0.0.0.0 www.dlv-elektronik.de
 0.0.0.0 www.dmsmax.com
 0.0.0.0 www.dmxstocktrade.online
 0.0.0.0 www.dobetom.com
@@ -7539,7 +7512,6 @@
 0.0.0.0 www.dormamu.com
 0.0.0.0 www.dortmund-wappen.de
 0.0.0.0 www.dosenberry.de
-0.0.0.0 www.dot-address.com
 0.0.0.0 www.doumonde.com
 0.0.0.0 www.downgradeios7.com
 0.0.0.0 www.downloadpangu.org
@@ -7553,14 +7525,12 @@
 0.0.0.0 www.draussenfeet.de
 0.0.0.0 www.drberg.eu
 0.0.0.0 www.dreameur.top
-0.0.0.0 www.dreamfold.top
 0.0.0.0 www.dreammerdre.com
 0.0.0.0 www.dreamoco.com
 0.0.0.0 www.dreamsparfum.com
 0.0.0.0 www.dreamykissen.de
 0.0.0.0 www.dreastique.de
 0.0.0.0 www.dreirei.com
-0.0.0.0 www.dresdensein.com
 0.0.0.0 www.dresscodoff.ru
 0.0.0.0 www.dressfat.com
 0.0.0.0 www.dressfirst.com
@@ -7866,6 +7836,7 @@
 0.0.0.0 www.eyachfischer.de
 0.0.0.0 www.f2fequinehauling.com
 0.0.0.0 www.fabionapoli.com
+0.0.0.0 www.fabnetstudio.com
 0.0.0.0 www.fabrikverkaufmerrellch.com
 0.0.0.0 www.fabulous-k.com
 0.0.0.0 www.facebestsell.xyz
@@ -7988,6 +7959,7 @@
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
+0.0.0.0 www.finosso.com
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
 0.0.0.0 www.firma-leitner.at
@@ -8593,7 +8565,6 @@
 0.0.0.0 www.hotels-colorado.net
 0.0.0.0 www.hotelsinperm.ru
 0.0.0.0 www.hotels-in-riga.de
-0.0.0.0 www.hotels-in-tyrol.com
 0.0.0.0 www.hotelsinvienna.org
 0.0.0.0 www.hotelsofmenorca.com
 0.0.0.0 www.hotelsofnewyorkcity.net
@@ -8700,6 +8671,7 @@
 0.0.0.0 www.impruneta.de
 0.0.0.0 www.imyazdz.shop
 0.0.0.0 www.imzauberstuebchen.de
+0.0.0.0 www.incerunmen.com
 0.0.0.0 www.inc-real.com
 0.0.0.0 www.indonesiahotel24.com
 0.0.0.0 www.inedito.fr
@@ -8930,6 +8902,7 @@
 0.0.0.0 www.kickersdeutschland.top
 0.0.0.0 www.kidebro.com
 0.0.0.0 www.kidniva.uk
+0.0.0.0 www.kidoriman.com
 0.0.0.0 www.kilokits.com
 0.0.0.0 www.kimberlybisger.com
 0.0.0.0 www.kimplay.de
@@ -9253,6 +9226,7 @@
 0.0.0.0 www.lowadeutschland.de
 0.0.0.0 www.lowaosterreich.at
 0.0.0.0 www.lowasale.de
+0.0.0.0 www.lowela.de
 0.0.0.0 www.lozaraty.com
 0.0.0.0 www.lozoro.de
 0.0.0.0 www.lprhomes.com
@@ -9404,6 +9378,7 @@
 0.0.0.0 www.mc-miner.com
 0.0.0.0 www.mcoaltmeds.com
 0.0.0.0 www.mctrl-marktforschung.com
+0.0.0.0 www.mdates.com
 0.0.0.0 www.mealsonwheels.at
 0.0.0.0 www.media-deals24.de
 0.0.0.0 www.mediafritz.com
@@ -9644,6 +9619,7 @@
 0.0.0.0 www.moorningitalia.com
 0.0.0.0 www.morbidtales.de
 0.0.0.0 www.moreclothes.store
+0.0.0.0 www.moredates.com
 0.0.0.0 www.mosano.de
 0.0.0.0 www.mosessions.com
 0.0.0.0 www.mosetravel.de
@@ -10668,7 +10644,6 @@
 0.0.0.0 www.sensefums.com
 0.0.0.0 www.senthiln.top
 0.0.0.0 www.seoyou.de
-0.0.0.0 www.sepkicks.com
 0.0.0.0 www.seprun.com
 0.0.0.0 www.sepshoe.com
 0.0.0.0 www.sepsneakers.co
@@ -10696,7 +10671,6 @@
 0.0.0.0 www.shaxu.top
 0.0.0.0 www.shccamps.com
 0.0.0.0 www.sheadora.com
-0.0.0.0 www.shebeautys.com
 0.0.0.0 www.sheheaven.com
 0.0.0.0 www.shelbs.de
 0.0.0.0 www.shelbz.de
@@ -11363,12 +11337,12 @@
 0.0.0.0 www.tusneumuehl.de
 0.0.0.0 www.tuyyds.store
 0.0.0.0 www.tv-gesundheit.at
+0.0.0.0 www.tvidler.com
 0.0.0.0 www.tvmarket.club
 0.0.0.0 www.twilight-fans.de
 0.0.0.0 www.twinsbc.de
 0.0.0.0 www.twovillas.com
 0.0.0.0 www.txsxj.com
-0.0.0.0 www.tyfereth.com
 0.0.0.0 www.tymusiccenter.com
 0.0.0.0 www.uaddylotto.top
 0.0.0.0 www.ubertorch.com
@@ -11443,7 +11417,6 @@
 0.0.0.0 www.vacplux.com
 0.0.0.0 www.vaggv.com
 0.0.0.0 www.vagomarkt.com
-0.0.0.0 www.vakkerlight.com
 0.0.0.0 www.valanza.de
 0.0.0.0 www.valty-heater.com
 0.0.0.0 www.valurabeauty.com
@@ -11503,6 +11476,7 @@
 0.0.0.0 www.veryvoga.fr
 0.0.0.0 www.vesinhhoatam.com
 0.0.0.0 www.vetola.de
+0.0.0.0 www.vevor.de
 0.0.0.0 www.vfcsnc.shop
 0.0.0.0 www.vgr8.com
 0.0.0.0 www.viagrafuerfrauen.com
