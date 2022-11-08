@@ -14,59 +14,7 @@ www.asadcdn.com
 # Express.de Videos
 player-feedback-v1.glomex.com
 
-# Amazon Shopping
-*.images-amazon.com
-c.amazon-adsystem.com
-dp-gw-na.amazon.com
-dp-gw-*.amazon.com
-fls-*.amazon-adsystem.com
-fls-cn.amazon.cn
-fls-cn.amazon.com
-fls-eu.amazon.ae
-fls-eu.amazon.co.uk
-fls-eu.amazon.com
-fls-eu.amazon.de
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe.amazon.co.jp
-fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon.ca
-fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
-msh.amazon.co.uk
-unagi-*.amazon.com
-unagi.amazon.cn
-unagi.amazon.co.jp
-unagi.amazon.co.uk
-unagi.amazon.com
-unagi.amazon.com.au
-unagi.amazon.com.br
-unagi.amazon.de
-unagi.amazon.es
-unagi.amazon.fr
-unagi.amazon.in
-unagi.amazon.it
-# CNAME fls-*.amazon.com
-*.forester.a2z.com
-# gateway.prod.*.forester.a2z.com
-# endpoint.prod.*.forester.a2z.com
-
-# Amazon App
-# mads-*.amazon.com
-# mads-eu.amazon.com
-# mads.amazon-adsystem.com
-# mads.amazon.com
-
 # Amazon AWS
-*.awstrack.me
 aws.amazon.com
 bbuseruploads.s3.amazonaws.com
 kinesis.*.amazonaws.com
@@ -77,39 +25,20 @@ s3.amazonaws.com
 # Amazon Devices
 acsechocaptiveportal.com
 avs-alexa*.amazon.com
+msh.amazon.co.uk
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-ext.amazon.com
-
-# Amazon Video
-*.aiv-cdn.net
-*.aiv-cdn.net.c.footprint.net
-*.aiv-delivery.net
-*.amazonvideo.com
-*.atv-ext-*.amazon.com
-*.atv-ext.amazon.com
-*.atv-ps.amazon.com
-*.primevideo.com
-*.pv-cdn.net
-*.video.a2z.com
-d25xi40x97liuc.cloudfront.net
-dmqdd6hw24ucf.cloudfront.net
 
 # Apple
 # https://support.apple.com/en-us/HT210060
 *.apps.apple.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
-*.news.apple-dns.net
 *.safebrowsing.apple
 *.smoot.apple.com
-# *events.apple.com
-# *events.news.apple-dns.net
-# appleglobal.*.2o7.net
 cstat.apple.com
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
-feedbackws.icloud.com
-feedbackws.icloud.com.cn
 inappcheck*.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
@@ -121,18 +50,7 @@ ocsp*.apple.com
 securemvt.apple.com
 smp-device-content.apple.com
 stats.gc.apple.com
-# https://github.com/hagezi/dns-blocklists/issues/17
 xp.apple.com
-# iOS 16+
-# books-analytics-events.apple.com
-# books-analytics-events.news.apple-dns.net
-# notes-analytics-events.apple.com
-# notes-analytics-events.news.apple-dns.net
-# stocks-analytics-events.apple.com
-# stocks-analytics-events.news.apple-dns.net
-# Weatherdata sometimes not loading on iOS 16+ (fixed)
-# weather-analytics-events.apple.com
-# weather-analytics-events.news.apple-dns.net
 
 # Certificates
 *.digicert.com
@@ -144,38 +62,6 @@ xp.apple.com
 # Cloudflare
 cdn.cloudflare.net
 cdnjs.cloudflare.co
-
-# Discord
-*.discord.com
-*.discord.gg
-*.discord.media
-*.discordapp.com
-*.discordapp.net
-*.discordstatus.com
-
-# Disney+
-*.disney-plus.net
-*.disneyplus.com
-*.disneyplus.com.ssl.sc.omtrdc.net
-*.dss.map.fastly.net
-*.dssott.com
-*.dssott.com.akamaized.net
-*.search-api-disney.bamgrid.com
-cd-dmgz.bamgrid.com
-# cws-*.conviva.com
-# cws.conviva.com
-dvf2rc3rx4ypk.cloudfront.net
-
-# Disqus
-blog.disqus.com
-c.disquscdn.com
-d231vab146qzfb.cloudfront.net
-
-# Dropbox
-dl.dropbox.com
-dl.dropboxusercontent.com
-ns1.dropbox.com
-ns2.dropbox.com
 
 # Facebook
 *graph-video.facebook.com
@@ -193,13 +79,13 @@ web.facebook.com
 *.fbcdn.net
 
 # Github
-*.ghcr.io
-*.github.com
-*.github.map.fastly.net
-*.githubapp.com
-*.githubassets.com
-*.githubusercontent.com
+ghcr.io
+github.com
 github.io
+github.map.fastly.net
+githubapp.com
+githubassets.com
+githubusercontent.com
 gitlab.com
 raw.githubusercontent.com
 
@@ -257,156 +143,53 @@ video-stats.l.google.com
 yt3.ggpht.com
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
-# Breaks site layouts, videos and more on some sites
-googletagmanager.com
-# googletagservices.com
-www-googletagmanager.l.google.com
-www.googletagmanager.com
-# www.googletagservices.com
-
-# Gaming
-*.epicgames.com
-# Used by EA Desktop. Symptom: Missing download button
-*.split.io
-# Used by Origin for content delivery
-cdn.optimizely.com
-cdn2.optimizely.com
-cdn3.optimizely.com
 
 # Microsoft
 # https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 *.*-msedge.net
-# *.azure.com
 *.dds.microsoft.com
-# *.events.data.microsoft.com
-# *.events.data.trafficmanager.net
-# *.msedge.net
-*.nexusrules.live.com.akadns.net
-# *.office.com
-# *.office.net
-# *.office365.com
-# *.officeapps.live.com
-# *.outlook.com
-# *.outlookmobile.com
-# *.pipe.aria.microsoft.com
-# *.rewardsplatform.microsoft.com
 *.services.microsoft.com
 *.smartscreen-prod.microsoft.com
 *.teams.live.com
 *.teams.microsoft.com
 *.update.microsoft.com
-# *.vortex.data.microsoft.com
-# *.windows.com
 *api.*.microsoft.com
-# *events-data.trafficmanager.net
 *microsoft.online-metrix.net
+*v10.events.data.microsoft.com
+*v20.events.data.microsoft.com
 activity.windows.com
 arc.msn.com
 assets.activity.windows.com
 atm-settingsfe-prod-geo*.trafficmanager.net
-beacon.*.c-msedge.net
-# browser.events.data.microsoft.com
-# browser.events.data.trafficmanager.net
-# browser.pipe.aria.microsoft.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 g.live.com
 g.msn.com
 go.microsoft.com
 go.trouter.skype.com
-# ic3.events.data.microsoft.com
 js.monitor.azure.com
 login.microsoftonline.com
-# mobile.events.data.microsoft.com
-# mobile.events.data.trafficmanager.net
-# mobile.pipe.aria.microsoft.com
+nexusrules.live.com
+nexusrules.live.com.akadns.net
 nexusrules.officeapps.live.com
 onedscolprd*.*.cloudapp.azure.com
+prod.nexusrules.live.com.akadns.net
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
 target.microsoft.com
-# teams-events-data.trafficmanager.net
-# teams.events.data.microsoft.com
-# teams.nel.measure.office.net
 time.windows.com
 twc.trafficmanager.net
-v*.events.data.microsoft.com
 vlscppe.microsoft.com
 wcpstatic.microsoft.com
 windowsupdate.s.llnwi.net
 www.msftconnecttest.com
 
-# Netflix
-*.netflix.com
-*.netflix.net
-*.nflxext.com
-*.nflximg.com
-*.nflximg.net
-*.nflxso.net
-*.nflxvideo.net
-*apiproxy-*.elb.amazonaws.com
-*beaconserver-*.elb.amazonaws.com
-*ichnaea-*.elb.amazonaws.com
-
-# Nintendo Switch
-*.nintendo.com
-*.nintendo.net
-*.nintendowifi.net
-a1843.g.akamai.net
-
-# NVidia
-activation.gfe.nvidia.com
-events.gfe.nvidia.com
-gfwsl.geforce.com
-images.nvidiagrid.net
-services.gfe.nvidia.com
-
-# Paypal
-*.paypal-dynamic-*.map.fastly.net
-*.paypal.ca
-*.paypal.co.uk
-*.paypal.com
-*.paypal.map.fastly.net
-*.paypalobjects.com
-
-# Plex
-app.plex.tv
-cpms.spop10.ams.plex.bz
-cpms35.spop10.ams.plex.bz
-dashboard.plex.tv
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
-my.plexapp.com
-nine.plugins.plexapp.com
-node.plexapp.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
-staging.plex.tv
-status.plex.tv
-tvdb2.plex.tv
-tvthemes.plexapp.com
-
 # Samsung TV - System update check, ...
 acr0.samsungcloudsolution.com
 cdn.samsungcloudsolution.com
 time.samsungcloudsolution.com
-
-# Sony (Playstation)
-*.playstation.com
-*.playstation.com.edgekey.net
-*.playstation.com.ssl.d1.sc.omtrdc.net
-*.playstation.net
-*.sonycoment.loris-e.llnwd.net
-*.sonyentertainmentnetwork.com
-*.sonyjpnpsg-1.hs.llnwd.net
 
 # Signal
 signal.org
@@ -418,27 +201,6 @@ whispersystems.org
 heads*.spotify.com
 *.scdn.co
 wl.spotify.com
-
-# Steam
-*.s.team
-*.steam-chat.com
-*.steambroadcast.akamaized.net
-*.steamcdn-a.akamaihd.net
-*.steamchina.com
-*.steamcommunity-a.akamaihd.net
-*.steamcommunity.com
-*.steamcontent.com
-*.steamgames.com
-*.steampowered.com
-*.steampowered.com.8686c.com
-*.steamstatic.com
-*.steamstatic.com.8686c.com
-*.steamstore-a.akamaihd.net
-*.steamusercontent-a.akamaihd.net
-*.steamusercontent.com
-*.steamuserimages-a.akamaihd.net
-*.steamvideo-a.akamaihd.net
-*.valvesoftware.com
 
 # Telegram
 t.me
@@ -464,17 +226,31 @@ twitteroauth.com
 twitterstat.us
 twttr.com
 
-# Twitch
-# https://www.netify.ai/resources/applications/twitch
-*.ext-twitch.tv
-*.jtvnw.net
-*.live-video.net
-*.ttvnw.net
-*.twitch.okta.com
-*.twitch.map.fastly.net
-*.twitch.tv
-*.twitchcdn.net
-*.twitchsvc.net
+# WhatsApp
+wa.me
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
+whatsapp.com
+whatsapp.info
+whatsapp.net
+whatsapp.org
+whatsapp.tv
+whatsappbrand.com
+
+# Youtube
+*.googlevideo.com
+*.ytimg.com
+i.ytimg.com
+i1.ytimg.com
+s.youtube.com
+s.ytimg.com
+s2.youtube.com
+youtu.be
+youtube-nocookie.com
+
+# ------------------------------------------------
 
 # Videos on different websites do not start when the following domains are blocked:
 *.schneevonmorgen.com
@@ -503,42 +279,6 @@ video.xxxjmp.com
 videos-fms.jwpsrv.com
 videos.porndig.com
 
-# WhatsApp
-wa.me
-whatsapp-plus.info
-whatsapp-plus.me
-whatsapp-plus.net
-whatsapp.cc
-whatsapp.com
-whatsapp.info
-whatsapp.net
-whatsapp.org
-whatsapp.tv
-whatsappbrand.com
-
-# XBox
-*.xbox.com
-*.xboxab.com
-*.xboxab.net
-*.xboxlive.com
-*.xboxlive.com.akadns.net
-*.xboxlive.com.c.footprint.net
-*.xboxlive.com.edgekey.net
-*.xboxservices.com
-
-# Youtube
-*.googlevideo.com
-*.ytimg.com
-i.ytimg.com
-i1.ytimg.com
-s.youtube.com
-s.ytimg.com
-s2.youtube.com
-youtu.be
-youtube-nocookie.com
-
-# ------------------------------------------------
-
 # AdGuard
 *.adguard.com
 
@@ -559,20 +299,6 @@ tagger.opecloud.com
 
 # NextDNS
 *.nextdns.io
-
-# NextDNS recommended
-*.cloud.answerhub.com
-*.gov
-*.inc.com
-*.lenta.ru
-*.smartsheet.com
-ae01.alicdn.com
-app.link
-concierge.analytics.console.aws.a2z.com
-geo2.adobe.com
-get3.adobe.com
-teslarati-com-edge.ntv.io
-whoami.akamai.net
 
 # Cookies on various sites (spiegle.de ...)
 *.sp-prod.net
@@ -632,9 +358,6 @@ store.minisforum.de
 
 # https://github.com/hagezi/dns-blocklists/issues/3
 licenses.ashampoo.com
-
-# Edeka Marktsuche
-# cdn.tagcommander.com
 
 # n-tv Livestream
 te.technical-service.net
@@ -703,15 +426,9 @@ ftp.iij.ad.jp
 # https://github.com/badmojr/1Hosts/issues/581
 clientstream.launchdarkly.com
 
-# ORF TVThek App stucks on loading
-at-config.sensic.net
-
 # https://github.com/hagezi/dns-blocklists/issues/13
 img.myflixer.to
 myflixer.to
-
-# ServusTV App stucks on loading screen
-mobile-data.onetrust.io
 
 # store
 zeelool.com
@@ -822,27 +539,6 @@ edge.api.brightcove.com
 # domain reseller
 afternic.com
 
-# Adult sites
-nudevista.at
-nudevista.com
-adultfriendfinder.com
-adultwork.com
-anon-v.com
-bongacams.com
-cam4.fr
-cliphunter.com
-flirt4free.com
-freeadultcomix.com
-hentaiheroes.com
-hotpornfile.org
-loveme.com
-perfectgirls.net
-porn300.com
-pumaslove.com
-reallifecam.com
-showup.tv
-stripchat.com
-
 # Videos on tv.aftonbladet.se
 cdn.stream.schibsted.media
 
@@ -863,12 +559,6 @@ anime-loads.org
 player.cnevids.com
 cdn.mediavoice.com
 plugin.mediavoice.com
-
-# Videos on auto-motor-und-sport.de (fixed)
-# cdn.stroeerdigitalgroup.de
-
-# Videos / Adblock detection on autosport.com, formel1.de, ... (fixed)
-# static.adsafeprotected.com
 
 # Breaks site layput on bankofamerica.com
 staticweb.bankofamerica.com
