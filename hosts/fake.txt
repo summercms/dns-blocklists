@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Nov 2022 17:03 UTC
-# Version: 2022.1107.1703.32
+# Last modified: 08 Nov 2022 00:54 UTC
+# Version: 2022.1108.0054.50
 # Syntax: Hosts
-# Domains: 12074
+# Domains: 12052
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -766,12 +766,10 @@
 0.0.0.0 breitenbacher.store
 0.0.0.0 breitlingreplika.com
 0.0.0.0 bremen-fashion.de
-0.0.0.0 bremenzeig.com
 0.0.0.0 brendmsk.ru
 0.0.0.0 brennholzmuller.at
 0.0.0.0 brennholzshop24.com
 0.0.0.0 brennholz-und-pellets.com
-0.0.0.0 breviian.top
 0.0.0.0 brgab.com
 0.0.0.0 brickcreating.com
 0.0.0.0 brick-gear.com
@@ -862,7 +860,6 @@
 0.0.0.0 bvuyyds.shop
 0.0.0.0 bxtemas.com
 0.0.0.0 byberlin.de
-0.0.0.0 bybowie.de
 0.0.0.0 bybremen.de
 0.0.0.0 by-dermashop.de
 0.0.0.0 bydumont.de
@@ -914,7 +911,6 @@
 0.0.0.0 care4patients.de
 0.0.0.0 carethy.at
 0.0.0.0 cargadgetss.com
-0.0.0.0 cargo-transportspedition.com
 0.0.0.0 cargservicesdelnc.com
 0.0.0.0 carhirenice.co.uk
 0.0.0.0 carlhipperson.de
@@ -926,7 +922,6 @@
 0.0.0.0 carqiwireless.com
 0.0.0.0 carrelage-paulay.com
 0.0.0.0 carshades.at
-0.0.0.0 carter82y.com
 0.0.0.0 cartonmachinerysupply.com
 0.0.0.0 carvana-ag.de
 0.0.0.0 carvana-gmbh.com
@@ -939,7 +934,6 @@
 0.0.0.0 casa-padrino.de
 0.0.0.0 casapadrinos.de
 0.0.0.0 casefetish.com
-0.0.0.0 caseity.top
 0.0.0.0 caseking-elektro.com
 0.0.0.0 casimir-coburg.de
 0.0.0.0 castelloh.com
@@ -981,7 +975,6 @@
 0.0.0.0 ccdc2012.de
 0.0.0.0 cci-immobilien.de
 0.0.0.0 ccleboulou.com
-0.0.0.0 ccsneakerstore.com
 0.0.0.0 cddej.fr
 0.0.0.0 cdu-solidaritaet.de
 0.0.0.0 cealiey.com
@@ -997,7 +990,6 @@
 0.0.0.0 centralvalencia.es
 0.0.0.0 century-21.uk
 0.0.0.0 century-realestate.com
-0.0.0.0 centuryty.top
 0.0.0.0 cesar-klein-schule.de
 0.0.0.0 ceylonss.com
 0.0.0.0 cfcs.co.uk
@@ -1017,7 +1009,6 @@
 0.0.0.0 chatfever.at
 0.0.0.0 chatkontakte.com
 0.0.0.0 chatsingle.at
-0.0.0.0 chatteriepassions.com
 0.0.0.0 chcgkr.top
 0.0.0.0 cheap123.ru
 0.0.0.0 cheapbagmalluk.cn
@@ -1147,7 +1138,6 @@
 0.0.0.0 comerciouruguay.com
 0.0.0.0 comeyour.com
 0.0.0.0 comfie.de
-0.0.0.0 comfy-bra.store
 0.0.0.0 comfy-max.de
 0.0.0.0 comfymiss.com
 0.0.0.0 comfyplan.com
@@ -2014,7 +2004,6 @@
 0.0.0.0 finkerkette.de
 0.0.0.0 finmove.net
 0.0.0.0 fintegral.fund
-0.0.0.0 fintegral.world
 0.0.0.0 fipecampania.it
 0.0.0.0 firalo.de
 0.0.0.0 firma-leitner.at
@@ -2842,7 +2831,6 @@
 0.0.0.0 interiorbyjuan.com
 0.0.0.0 internationaalverhuisadvies.nl
 0.0.0.0 internationalerumzug.de
-0.0.0.0 interseroh-brandneu.de
 0.0.0.0 intoleranztest.com
 0.0.0.0 intosmile.nl
 0.0.0.0 int-re.com
@@ -6881,12 +6869,10 @@
 0.0.0.0 www.breitenbacher.store
 0.0.0.0 www.breitlingreplika.com
 0.0.0.0 www.bremen-fashion.de
-0.0.0.0 www.bremenzeig.com
 0.0.0.0 www.brendmsk.ru
 0.0.0.0 www.brennholzmuller.at
 0.0.0.0 www.brennholzshop24.com
 0.0.0.0 www.brennholz-und-pellets.com
-0.0.0.0 www.breviian.top
 0.0.0.0 www.brgab.com
 0.0.0.0 www.brickcreating.com
 0.0.0.0 www.brick-gear.com
@@ -6972,7 +6958,6 @@
 0.0.0.0 www.bvuyyds.shop
 0.0.0.0 www.bxtemas.com
 0.0.0.0 www.byberlin.de
-0.0.0.0 www.bybowie.de
 0.0.0.0 www.bybremen.de
 0.0.0.0 www.by-dermashop.de
 0.0.0.0 www.bydumont.de
@@ -7032,7 +7017,6 @@
 0.0.0.0 www.carqiwireless.com
 0.0.0.0 www.carrelage-paulay.com
 0.0.0.0 www.carshades.at
-0.0.0.0 www.carter82y.com
 0.0.0.0 www.cartonmachinerysupply.com
 0.0.0.0 www.carvana-ag.de
 0.0.0.0 www.carvana-gmbh.com
@@ -7045,7 +7029,6 @@
 0.0.0.0 www.casa-padrino.de
 0.0.0.0 www.casapadrinos.de
 0.0.0.0 www.casefetish.com
-0.0.0.0 www.caseity.top
 0.0.0.0 www.caseking-elektro.com
 0.0.0.0 www.casimir-coburg.de
 0.0.0.0 www.castelloh.com
@@ -7101,7 +7084,6 @@
 0.0.0.0 www.centralvalencia.es
 0.0.0.0 www.century-21.uk
 0.0.0.0 www.century-realestate.com
-0.0.0.0 www.centuryty.top
 0.0.0.0 www.cesar-klein-schule.de
 0.0.0.0 www.ceylonss.com
 0.0.0.0 www.cflscene.com
@@ -7119,7 +7101,6 @@
 0.0.0.0 www.chatfever.at
 0.0.0.0 www.chatkontakte.com
 0.0.0.0 www.chatsingle.at
-0.0.0.0 www.chatteriepassions.com
 0.0.0.0 www.chcgkr.top
 0.0.0.0 www.cheap123.ru
 0.0.0.0 www.cheapbagmalluk.cn
@@ -7237,7 +7218,6 @@
 0.0.0.0 www.comerciouruguay.com
 0.0.0.0 www.comeyour.com
 0.0.0.0 www.comfie.de
-0.0.0.0 www.comfy-bra.store
 0.0.0.0 www.comfy-max.de
 0.0.0.0 www.comfymiss.com
 0.0.0.0 www.comfyplan.com
@@ -8008,7 +7988,6 @@
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
-0.0.0.0 www.fintegral.world
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
 0.0.0.0 www.firma-leitner.at
@@ -8760,7 +8739,6 @@
 0.0.0.0 www.interiorbyjuan.com
 0.0.0.0 www.internationaalverhuisadvies.nl
 0.0.0.0 www.internationalerumzug.de
-0.0.0.0 www.interseroh-brandneu.de
 0.0.0.0 www.intoleranztest.com
 0.0.0.0 www.intosmile.nl
 0.0.0.0 www.int-re.com
