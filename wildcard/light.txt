@@ -59718,7 +59718,6 @@
 *.h-fedex.online-metrix.net
 *.hfh72u.web.app
 *.hfhkru4co0.digital
-*.h-fidelity.online-metrix.net
 *.h-fisglobal.online-metrix.net
 *.hfljsy.top
 *.hfma.demdex.net
