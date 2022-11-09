@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 00:53 UTC
-# Version: 2022.1109.0053.31
+# Last modified: 09 Nov 2022 14:52 UTC
+# Version: 2022.1109.1452.54
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6243
+# Domains: 6221
 #
 *.11trikots.com
 *.123brennholz.com
@@ -518,6 +518,7 @@
 *.bbvipanswer.shop
 *.bcm-shop.de
 *.bc-rheine.de
+*.bdshop.com
 *.beathel.com
 *.beatricefalck-art.de
 *.beauteousu.com
@@ -672,6 +673,7 @@
 *.black-forestcake.com
 *.blackwidow.at
 *.blade-pirates.de
+*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -1321,6 +1323,7 @@
 *.deinseitensprung.com
 *.deiste.top
 *.dejonk.de
+*.de.justfashionnow.com
 *.dekopause.at
 *.deleju.info
 *.delhihurricanes.com
@@ -2404,7 +2407,6 @@
 *.hallobh.de
 *.hallohaus.co
 *.hallohaus.com
-*.hamburg-hotel.net
 *.hamega.net
 *.hammer-schmid.com
 *.handbagbrandsonline.com
@@ -2435,7 +2437,6 @@
 *.harpecy.com
 *.harshoping.com
 *.hartmann-versand.de
-*.haus-delrio.com
 *.haus-der-bos.com
 *.hausderschonheit-de.store
 *.haus-drelo.com
@@ -2443,7 +2444,6 @@
 *.haushalt-deals.net
 *.haushalt-depot.de
 *.haushalt-jansen.net
-*.haushaltland.de
 *.haushalt-schuhmann.com
 *.haushaltskoenig.de
 *.haushaltsreich.de
@@ -2454,10 +2454,8 @@
 *.haus-media.de
 *.hausprodukte.shop
 *.hausprodukte.store
-*.haus-stmartin.de
 *.haustechnik-muenchen.de
 *.haustierbedarf-friedman.com
-*.hausttion.top
 *.haveivtax.shop
 *.hawaiird.com
 *.hawalili.de
@@ -2474,7 +2472,6 @@
 *.healthful-pills.com
 *.health-socks.de
 *.heaokshop.com
-*.heatskin-online.com
 *.heavenallure.com
 *.hebero.de
 *.hederich-co.de
@@ -2509,7 +2506,6 @@
 *.henryo.de
 *.henrystyle.de
 *.heraldik-leitfaden.de
-*.herdog.de
 *.herrenmode-pietro.com
 *.herrngarten.de
 *.herzens-mensch.de
@@ -2600,6 +2596,7 @@
 *.hotels-colorado.net
 *.hotelsinperm.ru
 *.hotels-in-riga.de
+*.hotels-in-tyrol.com
 *.hotelsinvienna.org
 *.hotelsofmenorca.com
 *.hotelsofnewyorkcity.net
@@ -2620,7 +2617,6 @@
 *.hq-shopping.de
 *.hr2021.com
 *.hr.outlet2021.com
-*.hr.outletonlineshops2021.ru
 *.hrqeepy.top
 *.hrzqbjx.top
 *.hsk-bessel.de
@@ -2666,7 +2662,6 @@
 *.hypesneakers.co
 *.hypnose-gluecklich.de
 *.hywkl.com
-*.iably.top
 *.iamkamu.de
 *.iancheer.com
 *.iauvon.com
@@ -2699,7 +2694,6 @@
 *.ihre-hausverwalter.de
 *.iiguidek.top
 *.ijintender.com
-*.ikakleha.top
 *.ikarus-flugdienst.de
 *.ilamparas.com
 *.ilamparas.de
@@ -2783,7 +2777,6 @@
 *.irenekleider.de
 *.irgendenner.de
 *.iridesce.shop
-*.irishpub-solingen.de
 *.irishteddy.de
 *.iris-perschmann.de
 *.ironman-israel.com
@@ -2791,7 +2784,6 @@
 *.ismartelectronicsltd.com
 *.ismody.com
 *.isosmart.de
-*.isuzu-muenchen.de
 *.italiadesigns.com
 *.itcloth.net
 *.itcon-engineering.de
@@ -2801,14 +2793,12 @@
 *.i-translogistics.com
 *.iued.ch
 *.ivi-design.de
-*.ixrapido.top
 *.iylsor.top
 *.izecarts.com
 *.jackenwellensteyn.com
 *.jackeoutlet.top
 *.jackview.com
 *.jackwolfskinaustria.co.at
-*.jackwolfskinwerksverkauf.com
 *.jafar-france.fr
 *.jagd-mentz.de
 *.jaguaresonline.com
@@ -2835,7 +2825,6 @@
 *.jeulia.de
 *.jgfrqhh.top
 *.jieper.com
-*.jinghanliang.com
 *.jkarnil.com
 *.jlbreuer-shop.de
 *.j-lehmann.de
@@ -2846,13 +2835,11 @@
 *.joglia.com
 *.johanneslemke.de
 *.johannes-lerch.de
-*.joinality.top
 *.joinyous.com
 *.jojolikes.com
 *.joman-shopping.com
 *.jomvon-trans.com
 *.jongleur-te.de
-*.jonnyhe.com
 *.jookostakookosta.com
 *.jordanonlineshop.de
 *.jordanstockx.com
@@ -2870,7 +2857,6 @@
 *.julireh.com
 *.justasitsounds.com
 *.justclothes.club
-*.justhdfilme.com
 *.justlo.tv
 *.justshopy4u.com
 *.justvanilla.de
@@ -2955,7 +2941,6 @@
 *.kgdcalld.com
 *.khantherapie.de
 *.khbrz.com
-*.khujo-neu.de
 *.kiabrand.com
 *.kiaranews.com
 *.kickersdeutschland.top
@@ -2970,7 +2955,6 @@
 *.kimplay.de
 *.kimtisor.com
 *.kindduckling.com
-*.kinderhausfridolin.de
 *.kinderinsel-rosenheim.de
 *.kinderkumpel.de
 *.king7seven.com
@@ -3063,7 +3047,6 @@
 *.kornblumen.myshopify.com
 *.kortsdam.de
 *.koscielnya.com
-*.kqivlfk.top
 *.krabihotelsthailand.net
 *.kramerversand.de
 *.kratomstore.de
@@ -3074,7 +3057,6 @@
 *.kreispiraten-of.de
 *.kreisverbandleer.de
 *.kristroom.ru
-*.krobboshop.de
 *.kronen-apotheke-schweinfurt-app.de
 *.kruegers-hausgeraete.de
 *.kruggolife.com
@@ -3084,7 +3066,6 @@
 *.kua.clubestyle.com
 *.kuechen-xxl.de
 *.kugel-lernfoerderung.de
-*.kuhlmannbekleidung.de
 *.kukulade.de
 *.kulturion.de
 *.kumbini.de
@@ -3142,10 +3123,8 @@
 *.latestinvestmentopportunity.com
 *.latexcatfish.com
 *.laubfall.de
-*.laudeer.top
 *.laufschule-janson.de
 *.laurenz.top
-*.lavers.de
 *.lavinchi.de
 *.lavitaroquetas.com
 *.lavonde.de
@@ -4273,7 +4252,6 @@
 *.pinkni.com
 *.pinoplay.de
 *.pintrentz.de
-*.pinvige.com
 *.pipizo.de
 *.pipscryptofx.com
 *.pipz.xyz

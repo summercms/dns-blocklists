@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 00:53 UTC
-# Version: 2022.1109.0053.31
+# Last modified: 09 Nov 2022 14:52 UTC
+# Version: 2022.1109.1452.54
 # Syntax: Domains
-# Domains: 11968
+# Domains: 11924
 #
 11trikots.com
 123brennholz.com
@@ -520,6 +520,7 @@ bbnfp.com
 bbvipanswer.shop
 bcm-shop.de
 bc-rheine.de
+bdshop.com
 bdsm.de.wundertesting.com
 beathel.com
 beatricefalck-art.de
@@ -675,6 +676,7 @@ bjorkcoffee.com
 black-forestcake.com
 blackwidow.at
 blade-pirates.de
+blaroken.com
 blaudonau.de
 blaue-dragoner.de
 blauerhein.de
@@ -1330,6 +1332,7 @@ deinschuhwerk.de
 deinseitensprung.com
 deiste.top
 dejonk.de
+de.justfashionnow.com
 dekopause.at
 deleju.info
 delhihurricanes.com
@@ -2423,7 +2426,6 @@ halipax.com
 hallobh.de
 hallohaus.co
 hallohaus.com
-hamburg-hotel.net
 hamega.net
 hammer-schmid.com
 handbagbrandsonline.com
@@ -2454,7 +2456,6 @@ harmonie-fuhrerschein.de
 harpecy.com
 harshoping.com
 hartmann-versand.de
-haus-delrio.com
 haus-der-bos.com
 hausderschonheit-de.store
 haus-drelo.com
@@ -2462,7 +2463,6 @@ hauser-personal.de
 haushalt-deals.net
 haushalt-depot.de
 haushalt-jansen.net
-haushaltland.de
 haushalt-schuhmann.com
 haushaltskoenig.de
 haushaltsreich.de
@@ -2473,10 +2473,8 @@ haus-marienthal.de
 haus-media.de
 hausprodukte.shop
 hausprodukte.store
-haus-stmartin.de
 haustechnik-muenchen.de
 haustierbedarf-friedman.com
-hausttion.top
 haveivtax.shop
 hawaiird.com
 hawalili.de
@@ -2493,7 +2491,6 @@ healthfirst.at
 healthful-pills.com
 health-socks.de
 heaokshop.com
-heatskin-online.com
 heavenallure.com
 hebero.de
 hederich-co.de
@@ -2528,7 +2525,6 @@ hennac.com
 henryo.de
 henrystyle.de
 heraldik-leitfaden.de
-herdog.de
 herrenmode-pietro.com
 herrngarten.de
 herzens-mensch.de
@@ -2620,6 +2616,7 @@ hotels-colombo.com
 hotels-colorado.net
 hotelsinperm.ru
 hotels-in-riga.de
+hotels-in-tyrol.com
 hotelsinvienna.org
 hotelsofmenorca.com
 hotelsofnewyorkcity.net
@@ -2641,7 +2638,6 @@ hq-shopping.de
 hr2021.com
 hr.hr2021.com
 hr.outlet2021.com
-hr.outletonlineshops2021.ru
 hrqeepy.top
 hrzqbjx.top
 hsk-bessel.de
@@ -2687,7 +2683,6 @@ hypescrape.com
 hypesneakers.co
 hypnose-gluecklich.de
 hywkl.com
-iably.top
 iamkamu.de
 iancheer.com
 iauvon.com
@@ -2720,7 +2715,6 @@ igreenwegreen.com
 ihre-hausverwalter.de
 iiguidek.top
 ijintender.com
-ikakleha.top
 ikarus-flugdienst.de
 ilamparas.com
 ilamparas.de
@@ -2804,7 +2798,6 @@ ique-robot.de
 irenekleider.de
 irgendenner.de
 iridesce.shop
-irishpub-solingen.de
 irishteddy.de
 iris-perschmann.de
 ironman-israel.com
@@ -2812,7 +2805,6 @@ isabelhumpert.de
 ismartelectronicsltd.com
 ismody.com
 isosmart.de
-isuzu-muenchen.de
 italiadesigns.com
 itcloth.net
 itcon-engineering.de
@@ -2822,14 +2814,12 @@ itguruu.com
 i-translogistics.com
 iued.ch
 ivi-design.de
-ixrapido.top
 iylsor.top
 izecarts.com
 jackenwellensteyn.com
 jackeoutlet.top
 jackview.com
 jackwolfskinaustria.co.at
-jackwolfskinwerksverkauf.com
 jafar-france.fr
 jagd-mentz.de
 jaguaresonline.com
@@ -2856,7 +2846,6 @@ jessagarrett.com
 jeulia.de
 jgfrqhh.top
 jieper.com
-jinghanliang.com
 jkarnil.com
 jlbreuer-shop.de
 j-lehmann.de
@@ -2867,13 +2856,11 @@ joeygo.com
 joglia.com
 johanneslemke.de
 johannes-lerch.de
-joinality.top
 joinyous.com
 jojolikes.com
 joman-shopping.com
 jomvon-trans.com
 jongleur-te.de
-jonnyhe.com
 jookostakookosta.com
 jordanonlineshop.de
 jordanstockx.com
@@ -2891,7 +2878,6 @@ julhouse.shop
 julireh.com
 justasitsounds.com
 justclothes.club
-justhdfilme.com
 justlo.tv
 justshopy4u.com
 justvanilla.de
@@ -2977,7 +2963,6 @@ kfz-hogen.de
 kgdcalld.com
 khantherapie.de
 khbrz.com
-khujo-neu.de
 kiabrand.com
 kiaranews.com
 kickersdeutschland.top
@@ -2992,7 +2977,6 @@ kimberlybisger.com
 kimplay.de
 kimtisor.com
 kindduckling.com
-kinderhausfridolin.de
 kinderinsel-rosenheim.de
 kinderkumpel.de
 king7seven.com
@@ -3085,7 +3069,6 @@ koretrak.kaufen
 kornblumen.myshopify.com
 kortsdam.de
 koscielnya.com
-kqivlfk.top
 krabihotelsthailand.net
 kramerversand.de
 kratomstore.de
@@ -3096,7 +3079,6 @@ kredit-ohne-auskunft.at
 kreispiraten-of.de
 kreisverbandleer.de
 kristroom.ru
-krobboshop.de
 kronen-apotheke-schweinfurt-app.de
 kruegers-hausgeraete.de
 kruggolife.com
@@ -3106,7 +3088,6 @@ ktristandy.com
 kua.clubestyle.com
 kuechen-xxl.de
 kugel-lernfoerderung.de
-kuhlmannbekleidung.de
 kukulade.de
 kulturion.de
 kumbini.de
@@ -3164,10 +3145,8 @@ lasuperhousse.com
 latestinvestmentopportunity.com
 latexcatfish.com
 laubfall.de
-laudeer.top
 laufschule-janson.de
 laurenz.top
-lavers.de
 lavinchi.de
 lavitaroquetas.com
 lavonde.de
@@ -4295,7 +4274,6 @@ pinkkola.com
 pinkni.com
 pinoplay.de
 pintrentz.de
-pinvige.com
 pipizo.de
 pipscryptofx.com
 pipz.xyz
@@ -6606,6 +6584,7 @@ www.bbnfp.com
 www.bbvipanswer.shop
 www.bcm-shop.de
 www.bc-rheine.de
+www.bdshop.com
 www.beathel.com
 www.beatricefalck-art.de
 www.beauteousu.com
@@ -6746,6 +6725,7 @@ www.bjorkcoffee.com
 www.black-forestcake.com
 www.blackwidow.at
 www.blade-pirates.de
+www.blaroken.com
 www.blaudonau.de
 www.blaue-dragoner.de
 www.blauerhein.de
@@ -8325,7 +8305,6 @@ www.halipax.com
 www.hallobh.de
 www.hallohaus.co
 www.hallohaus.com
-www.hamburg-hotel.net
 www.hamega.net
 www.hammer-schmid.com
 www.handbagbrandsonline.com
@@ -8350,7 +8329,6 @@ www.harlandco.com
 www.harmonie-fuhrerschein.de
 www.harpecy.com
 www.hartmann-versand.de
-www.haus-delrio.com
 www.haus-der-bos.com
 www.hausderschonheit-de.store
 www.haus-drelo.com
@@ -8358,7 +8336,6 @@ www.hauser-personal.de
 www.haushalt-deals.net
 www.haushalt-depot.de
 www.haushalt-jansen.net
-www.haushaltland.de
 www.haushaltskoenig.de
 www.haushaltsreich.de
 www.haushalt-xxl.de
@@ -8366,10 +8343,8 @@ www.haus-marienthal.de
 www.haus-media.de
 www.hausprodukte.shop
 www.hausprodukte.store
-www.haus-stmartin.de
 www.haustechnik-muenchen.de
 www.haustierbedarf-friedman.com
-www.hausttion.top
 www.haveivtax.shop
 www.hawaiird.com
 www.hawalili.de
@@ -8386,7 +8361,6 @@ www.healthfirst.at
 www.healthful-pills.com
 www.health-socks.de
 www.heaokshop.com
-www.heatskin-online.com
 www.heavenallure.com
 www.hebero.de
 www.hederich-co.de
@@ -8421,7 +8395,6 @@ www.hennac.com
 www.henryo.de
 www.henrystyle.de
 www.heraldik-leitfaden.de
-www.herdog.de
 www.herrenmode-pietro.com
 www.herrngarten.de
 www.herzens-mensch.de
@@ -8506,6 +8479,7 @@ www.hotels-colombo.com
 www.hotels-colorado.net
 www.hotelsinperm.ru
 www.hotels-in-riga.de
+www.hotels-in-tyrol.com
 www.hotelsinvienna.org
 www.hotelsofmenorca.com
 www.hotelsofnewyorkcity.net
@@ -8566,7 +8540,6 @@ www.hypescrape.com
 www.hypesneakers.co
 www.hypnose-gluecklich.de
 www.hywkl.com
-www.iably.top
 www.iamkamu.de
 www.iancheer.com
 www.iauvon.com
@@ -8594,7 +8567,6 @@ www.igreenwegreen.com
 www.ihre-hausverwalter.de
 www.iiguidek.top
 www.ijintender.com
-www.ikakleha.top
 www.ikarus-flugdienst.de
 www.ilamparas.com
 www.ilamparas.de
@@ -8670,14 +8642,12 @@ www.iqfleet.de
 www.ique-robot.de
 www.irenekleider.de
 www.irgendenner.de
-www.irishpub-solingen.de
 www.irishteddy.de
 www.iris-perschmann.de
 www.ironman-israel.com
 www.isabelhumpert.de
 www.ismartelectronicsltd.com
 www.ismody.com
-www.isuzu-muenchen.de
 www.italiadesigns.com
 www.itcloth.net
 www.itcon-engineering.de
@@ -8687,13 +8657,11 @@ www.itguruu.com
 www.i-translogistics.com
 www.iued.ch
 www.ivi-design.de
-www.ixrapido.top
 www.iylsor.top
 www.izecarts.com
 www.jackenwellensteyn.com
 www.jackeoutlet.top
 www.jackview.com
-www.jackwolfskinwerksverkauf.com
 www.jafar-france.fr
 www.jagd-mentz.de
 www.jaguaresonline.com
@@ -8720,7 +8688,6 @@ www.jessagarrett.com
 www.jeulia.de
 www.jgfrqhh.top
 www.jieper.com
-www.jinghanliang.com
 www.jkarnil.com
 www.jlbreuer-shop.de
 www.j-lehmann.de
@@ -8731,13 +8698,11 @@ www.joeygo.com
 www.joglia.com
 www.johanneslemke.de
 www.johannes-lerch.de
-www.joinality.top
 www.joinyous.com
 www.jojolikes.com
 www.joman-shopping.com
 www.jomvon-trans.com
 www.jongleur-te.de
-www.jonnyhe.com
 www.jookostakookosta.com
 www.jordanonlineshop.de
 www.jordanstockx.com
@@ -8755,7 +8720,6 @@ www.julhouse.shop
 www.julireh.com
 www.justasitsounds.com
 www.justclothes.club
-www.justhdfilme.com
 www.justlo.tv
 www.justshopy4u.com
 www.justvanilla.de
@@ -8838,7 +8802,6 @@ www.kfz-hogen.de
 www.kgdcalld.com
 www.khantherapie.de
 www.khbrz.com
-www.khujo-neu.de
 www.kiabrand.com
 www.kiaranews.com
 www.kickersdeutschland.top
@@ -8850,7 +8813,6 @@ www.kimberlybisger.com
 www.kimplay.de
 www.kimtisor.com
 www.kindduckling.com
-www.kinderhausfridolin.de
 www.kinderinsel-rosenheim.de
 www.kinderkumpel.de
 www.king7seven.com
@@ -8938,7 +8900,6 @@ www.koogoshop.com
 www.koretrak.kaufen
 www.kortsdam.de
 www.koscielnya.com
-www.kqivlfk.top
 www.krabihotelsthailand.net
 www.kramerversand.de
 www.kraussmedien.de
@@ -8948,7 +8909,6 @@ www.kredit-ohne-auskunft.at
 www.kreispiraten-of.de
 www.kreisverbandleer.de
 www.kristroom.ru
-www.krobboshop.de
 www.kronen-apotheke-schweinfurt-app.de
 www.kruegers-hausgeraete.de
 www.kruggolife.com
@@ -8957,7 +8917,6 @@ www.kswissschuhes.com
 www.ktristandy.com
 www.kuechen-xxl.de
 www.kugel-lernfoerderung.de
-www.kuhlmannbekleidung.de
 www.kukulade.de
 www.kulturion.de
 www.kumbini.de
@@ -9013,10 +8972,8 @@ www.lasuperhousse.com
 www.latestinvestmentopportunity.com
 www.latexcatfish.com
 www.laubfall.de
-www.laudeer.top
 www.laufschule-janson.de
 www.laurenz.top
-www.lavers.de
 www.lavinchi.de
 www.lavitaroquetas.com
 www.lavonde.de
@@ -10029,7 +9986,6 @@ www.pinkkola.com
 www.pinkni.com
 www.pinoplay.de
 www.pintrentz.de
-www.pinvige.com
 www.pipscryptofx.com
 www.pipz.xyz
 www.pismaprawne.com

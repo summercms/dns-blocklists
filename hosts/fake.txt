@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 00:53 UTC
-# Version: 2022.1109.0053.31
+# Last modified: 09 Nov 2022 14:52 UTC
+# Version: 2022.1109.1452.54
 # Syntax: Hosts
-# Domains: 11968
+# Domains: 11924
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -520,6 +520,7 @@
 0.0.0.0 bbvipanswer.shop
 0.0.0.0 bcm-shop.de
 0.0.0.0 bc-rheine.de
+0.0.0.0 bdshop.com
 0.0.0.0 bdsm.de.wundertesting.com
 0.0.0.0 beathel.com
 0.0.0.0 beatricefalck-art.de
@@ -675,6 +676,7 @@
 0.0.0.0 black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 blade-pirates.de
+0.0.0.0 blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 blaue-dragoner.de
 0.0.0.0 blauerhein.de
@@ -1330,6 +1332,7 @@
 0.0.0.0 deinseitensprung.com
 0.0.0.0 deiste.top
 0.0.0.0 dejonk.de
+0.0.0.0 de.justfashionnow.com
 0.0.0.0 dekopause.at
 0.0.0.0 deleju.info
 0.0.0.0 delhihurricanes.com
@@ -2423,7 +2426,6 @@
 0.0.0.0 hallobh.de
 0.0.0.0 hallohaus.co
 0.0.0.0 hallohaus.com
-0.0.0.0 hamburg-hotel.net
 0.0.0.0 hamega.net
 0.0.0.0 hammer-schmid.com
 0.0.0.0 handbagbrandsonline.com
@@ -2454,7 +2456,6 @@
 0.0.0.0 harpecy.com
 0.0.0.0 harshoping.com
 0.0.0.0 hartmann-versand.de
-0.0.0.0 haus-delrio.com
 0.0.0.0 haus-der-bos.com
 0.0.0.0 hausderschonheit-de.store
 0.0.0.0 haus-drelo.com
@@ -2462,7 +2463,6 @@
 0.0.0.0 haushalt-deals.net
 0.0.0.0 haushalt-depot.de
 0.0.0.0 haushalt-jansen.net
-0.0.0.0 haushaltland.de
 0.0.0.0 haushalt-schuhmann.com
 0.0.0.0 haushaltskoenig.de
 0.0.0.0 haushaltsreich.de
@@ -2473,10 +2473,8 @@
 0.0.0.0 haus-media.de
 0.0.0.0 hausprodukte.shop
 0.0.0.0 hausprodukte.store
-0.0.0.0 haus-stmartin.de
 0.0.0.0 haustechnik-muenchen.de
 0.0.0.0 haustierbedarf-friedman.com
-0.0.0.0 hausttion.top
 0.0.0.0 haveivtax.shop
 0.0.0.0 hawaiird.com
 0.0.0.0 hawalili.de
@@ -2493,7 +2491,6 @@
 0.0.0.0 healthful-pills.com
 0.0.0.0 health-socks.de
 0.0.0.0 heaokshop.com
-0.0.0.0 heatskin-online.com
 0.0.0.0 heavenallure.com
 0.0.0.0 hebero.de
 0.0.0.0 hederich-co.de
@@ -2528,7 +2525,6 @@
 0.0.0.0 henryo.de
 0.0.0.0 henrystyle.de
 0.0.0.0 heraldik-leitfaden.de
-0.0.0.0 herdog.de
 0.0.0.0 herrenmode-pietro.com
 0.0.0.0 herrngarten.de
 0.0.0.0 herzens-mensch.de
@@ -2620,6 +2616,7 @@
 0.0.0.0 hotels-colorado.net
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 hotels-in-riga.de
+0.0.0.0 hotels-in-tyrol.com
 0.0.0.0 hotelsinvienna.org
 0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelsofnewyorkcity.net
@@ -2641,7 +2638,6 @@
 0.0.0.0 hr2021.com
 0.0.0.0 hr.hr2021.com
 0.0.0.0 hr.outlet2021.com
-0.0.0.0 hr.outletonlineshops2021.ru
 0.0.0.0 hrqeepy.top
 0.0.0.0 hrzqbjx.top
 0.0.0.0 hsk-bessel.de
@@ -2687,7 +2683,6 @@
 0.0.0.0 hypesneakers.co
 0.0.0.0 hypnose-gluecklich.de
 0.0.0.0 hywkl.com
-0.0.0.0 iably.top
 0.0.0.0 iamkamu.de
 0.0.0.0 iancheer.com
 0.0.0.0 iauvon.com
@@ -2720,7 +2715,6 @@
 0.0.0.0 ihre-hausverwalter.de
 0.0.0.0 iiguidek.top
 0.0.0.0 ijintender.com
-0.0.0.0 ikakleha.top
 0.0.0.0 ikarus-flugdienst.de
 0.0.0.0 ilamparas.com
 0.0.0.0 ilamparas.de
@@ -2804,7 +2798,6 @@
 0.0.0.0 irenekleider.de
 0.0.0.0 irgendenner.de
 0.0.0.0 iridesce.shop
-0.0.0.0 irishpub-solingen.de
 0.0.0.0 irishteddy.de
 0.0.0.0 iris-perschmann.de
 0.0.0.0 ironman-israel.com
@@ -2812,7 +2805,6 @@
 0.0.0.0 ismartelectronicsltd.com
 0.0.0.0 ismody.com
 0.0.0.0 isosmart.de
-0.0.0.0 isuzu-muenchen.de
 0.0.0.0 italiadesigns.com
 0.0.0.0 itcloth.net
 0.0.0.0 itcon-engineering.de
@@ -2822,14 +2814,12 @@
 0.0.0.0 i-translogistics.com
 0.0.0.0 iued.ch
 0.0.0.0 ivi-design.de
-0.0.0.0 ixrapido.top
 0.0.0.0 iylsor.top
 0.0.0.0 izecarts.com
 0.0.0.0 jackenwellensteyn.com
 0.0.0.0 jackeoutlet.top
 0.0.0.0 jackview.com
 0.0.0.0 jackwolfskinaustria.co.at
-0.0.0.0 jackwolfskinwerksverkauf.com
 0.0.0.0 jafar-france.fr
 0.0.0.0 jagd-mentz.de
 0.0.0.0 jaguaresonline.com
@@ -2856,7 +2846,6 @@
 0.0.0.0 jeulia.de
 0.0.0.0 jgfrqhh.top
 0.0.0.0 jieper.com
-0.0.0.0 jinghanliang.com
 0.0.0.0 jkarnil.com
 0.0.0.0 jlbreuer-shop.de
 0.0.0.0 j-lehmann.de
@@ -2867,13 +2856,11 @@
 0.0.0.0 joglia.com
 0.0.0.0 johanneslemke.de
 0.0.0.0 johannes-lerch.de
-0.0.0.0 joinality.top
 0.0.0.0 joinyous.com
 0.0.0.0 jojolikes.com
 0.0.0.0 joman-shopping.com
 0.0.0.0 jomvon-trans.com
 0.0.0.0 jongleur-te.de
-0.0.0.0 jonnyhe.com
 0.0.0.0 jookostakookosta.com
 0.0.0.0 jordanonlineshop.de
 0.0.0.0 jordanstockx.com
@@ -2891,7 +2878,6 @@
 0.0.0.0 julireh.com
 0.0.0.0 justasitsounds.com
 0.0.0.0 justclothes.club
-0.0.0.0 justhdfilme.com
 0.0.0.0 justlo.tv
 0.0.0.0 justshopy4u.com
 0.0.0.0 justvanilla.de
@@ -2977,7 +2963,6 @@
 0.0.0.0 kgdcalld.com
 0.0.0.0 khantherapie.de
 0.0.0.0 khbrz.com
-0.0.0.0 khujo-neu.de
 0.0.0.0 kiabrand.com
 0.0.0.0 kiaranews.com
 0.0.0.0 kickersdeutschland.top
@@ -2992,7 +2977,6 @@
 0.0.0.0 kimplay.de
 0.0.0.0 kimtisor.com
 0.0.0.0 kindduckling.com
-0.0.0.0 kinderhausfridolin.de
 0.0.0.0 kinderinsel-rosenheim.de
 0.0.0.0 kinderkumpel.de
 0.0.0.0 king7seven.com
@@ -3085,7 +3069,6 @@
 0.0.0.0 kornblumen.myshopify.com
 0.0.0.0 kortsdam.de
 0.0.0.0 koscielnya.com
-0.0.0.0 kqivlfk.top
 0.0.0.0 krabihotelsthailand.net
 0.0.0.0 kramerversand.de
 0.0.0.0 kratomstore.de
@@ -3096,7 +3079,6 @@
 0.0.0.0 kreispiraten-of.de
 0.0.0.0 kreisverbandleer.de
 0.0.0.0 kristroom.ru
-0.0.0.0 krobboshop.de
 0.0.0.0 kronen-apotheke-schweinfurt-app.de
 0.0.0.0 kruegers-hausgeraete.de
 0.0.0.0 kruggolife.com
@@ -3106,7 +3088,6 @@
 0.0.0.0 kua.clubestyle.com
 0.0.0.0 kuechen-xxl.de
 0.0.0.0 kugel-lernfoerderung.de
-0.0.0.0 kuhlmannbekleidung.de
 0.0.0.0 kukulade.de
 0.0.0.0 kulturion.de
 0.0.0.0 kumbini.de
@@ -3164,10 +3145,8 @@
 0.0.0.0 latestinvestmentopportunity.com
 0.0.0.0 latexcatfish.com
 0.0.0.0 laubfall.de
-0.0.0.0 laudeer.top
 0.0.0.0 laufschule-janson.de
 0.0.0.0 laurenz.top
-0.0.0.0 lavers.de
 0.0.0.0 lavinchi.de
 0.0.0.0 lavitaroquetas.com
 0.0.0.0 lavonde.de
@@ -4295,7 +4274,6 @@
 0.0.0.0 pinkni.com
 0.0.0.0 pinoplay.de
 0.0.0.0 pintrentz.de
-0.0.0.0 pinvige.com
 0.0.0.0 pipizo.de
 0.0.0.0 pipscryptofx.com
 0.0.0.0 pipz.xyz
@@ -6606,6 +6584,7 @@
 0.0.0.0 www.bbvipanswer.shop
 0.0.0.0 www.bcm-shop.de
 0.0.0.0 www.bc-rheine.de
+0.0.0.0 www.bdshop.com
 0.0.0.0 www.beathel.com
 0.0.0.0 www.beatricefalck-art.de
 0.0.0.0 www.beauteousu.com
@@ -6746,6 +6725,7 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 www.blackwidow.at
 0.0.0.0 www.blade-pirates.de
+0.0.0.0 www.blaroken.com
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
@@ -8325,7 +8305,6 @@
 0.0.0.0 www.hallobh.de
 0.0.0.0 www.hallohaus.co
 0.0.0.0 www.hallohaus.com
-0.0.0.0 www.hamburg-hotel.net
 0.0.0.0 www.hamega.net
 0.0.0.0 www.hammer-schmid.com
 0.0.0.0 www.handbagbrandsonline.com
@@ -8350,7 +8329,6 @@
 0.0.0.0 www.harmonie-fuhrerschein.de
 0.0.0.0 www.harpecy.com
 0.0.0.0 www.hartmann-versand.de
-0.0.0.0 www.haus-delrio.com
 0.0.0.0 www.haus-der-bos.com
 0.0.0.0 www.hausderschonheit-de.store
 0.0.0.0 www.haus-drelo.com
@@ -8358,7 +8336,6 @@
 0.0.0.0 www.haushalt-deals.net
 0.0.0.0 www.haushalt-depot.de
 0.0.0.0 www.haushalt-jansen.net
-0.0.0.0 www.haushaltland.de
 0.0.0.0 www.haushaltskoenig.de
 0.0.0.0 www.haushaltsreich.de
 0.0.0.0 www.haushalt-xxl.de
@@ -8366,10 +8343,8 @@
 0.0.0.0 www.haus-media.de
 0.0.0.0 www.hausprodukte.shop
 0.0.0.0 www.hausprodukte.store
-0.0.0.0 www.haus-stmartin.de
 0.0.0.0 www.haustechnik-muenchen.de
 0.0.0.0 www.haustierbedarf-friedman.com
-0.0.0.0 www.hausttion.top
 0.0.0.0 www.haveivtax.shop
 0.0.0.0 www.hawaiird.com
 0.0.0.0 www.hawalili.de
@@ -8386,7 +8361,6 @@
 0.0.0.0 www.healthful-pills.com
 0.0.0.0 www.health-socks.de
 0.0.0.0 www.heaokshop.com
-0.0.0.0 www.heatskin-online.com
 0.0.0.0 www.heavenallure.com
 0.0.0.0 www.hebero.de
 0.0.0.0 www.hederich-co.de
@@ -8421,7 +8395,6 @@
 0.0.0.0 www.henryo.de
 0.0.0.0 www.henrystyle.de
 0.0.0.0 www.heraldik-leitfaden.de
-0.0.0.0 www.herdog.de
 0.0.0.0 www.herrenmode-pietro.com
 0.0.0.0 www.herrngarten.de
 0.0.0.0 www.herzens-mensch.de
@@ -8506,6 +8479,7 @@
 0.0.0.0 www.hotels-colorado.net
 0.0.0.0 www.hotelsinperm.ru
 0.0.0.0 www.hotels-in-riga.de
+0.0.0.0 www.hotels-in-tyrol.com
 0.0.0.0 www.hotelsinvienna.org
 0.0.0.0 www.hotelsofmenorca.com
 0.0.0.0 www.hotelsofnewyorkcity.net
@@ -8566,7 +8540,6 @@
 0.0.0.0 www.hypesneakers.co
 0.0.0.0 www.hypnose-gluecklich.de
 0.0.0.0 www.hywkl.com
-0.0.0.0 www.iably.top
 0.0.0.0 www.iamkamu.de
 0.0.0.0 www.iancheer.com
 0.0.0.0 www.iauvon.com
@@ -8594,7 +8567,6 @@
 0.0.0.0 www.ihre-hausverwalter.de
 0.0.0.0 www.iiguidek.top
 0.0.0.0 www.ijintender.com
-0.0.0.0 www.ikakleha.top
 0.0.0.0 www.ikarus-flugdienst.de
 0.0.0.0 www.ilamparas.com
 0.0.0.0 www.ilamparas.de
@@ -8670,14 +8642,12 @@
 0.0.0.0 www.ique-robot.de
 0.0.0.0 www.irenekleider.de
 0.0.0.0 www.irgendenner.de
-0.0.0.0 www.irishpub-solingen.de
 0.0.0.0 www.irishteddy.de
 0.0.0.0 www.iris-perschmann.de
 0.0.0.0 www.ironman-israel.com
 0.0.0.0 www.isabelhumpert.de
 0.0.0.0 www.ismartelectronicsltd.com
 0.0.0.0 www.ismody.com
-0.0.0.0 www.isuzu-muenchen.de
 0.0.0.0 www.italiadesigns.com
 0.0.0.0 www.itcloth.net
 0.0.0.0 www.itcon-engineering.de
@@ -8687,13 +8657,11 @@
 0.0.0.0 www.i-translogistics.com
 0.0.0.0 www.iued.ch
 0.0.0.0 www.ivi-design.de
-0.0.0.0 www.ixrapido.top
 0.0.0.0 www.iylsor.top
 0.0.0.0 www.izecarts.com
 0.0.0.0 www.jackenwellensteyn.com
 0.0.0.0 www.jackeoutlet.top
 0.0.0.0 www.jackview.com
-0.0.0.0 www.jackwolfskinwerksverkauf.com
 0.0.0.0 www.jafar-france.fr
 0.0.0.0 www.jagd-mentz.de
 0.0.0.0 www.jaguaresonline.com
@@ -8720,7 +8688,6 @@
 0.0.0.0 www.jeulia.de
 0.0.0.0 www.jgfrqhh.top
 0.0.0.0 www.jieper.com
-0.0.0.0 www.jinghanliang.com
 0.0.0.0 www.jkarnil.com
 0.0.0.0 www.jlbreuer-shop.de
 0.0.0.0 www.j-lehmann.de
@@ -8731,13 +8698,11 @@
 0.0.0.0 www.joglia.com
 0.0.0.0 www.johanneslemke.de
 0.0.0.0 www.johannes-lerch.de
-0.0.0.0 www.joinality.top
 0.0.0.0 www.joinyous.com
 0.0.0.0 www.jojolikes.com
 0.0.0.0 www.joman-shopping.com
 0.0.0.0 www.jomvon-trans.com
 0.0.0.0 www.jongleur-te.de
-0.0.0.0 www.jonnyhe.com
 0.0.0.0 www.jookostakookosta.com
 0.0.0.0 www.jordanonlineshop.de
 0.0.0.0 www.jordanstockx.com
@@ -8755,7 +8720,6 @@
 0.0.0.0 www.julireh.com
 0.0.0.0 www.justasitsounds.com
 0.0.0.0 www.justclothes.club
-0.0.0.0 www.justhdfilme.com
 0.0.0.0 www.justlo.tv
 0.0.0.0 www.justshopy4u.com
 0.0.0.0 www.justvanilla.de
@@ -8838,7 +8802,6 @@
 0.0.0.0 www.kgdcalld.com
 0.0.0.0 www.khantherapie.de
 0.0.0.0 www.khbrz.com
-0.0.0.0 www.khujo-neu.de
 0.0.0.0 www.kiabrand.com
 0.0.0.0 www.kiaranews.com
 0.0.0.0 www.kickersdeutschland.top
@@ -8850,7 +8813,6 @@
 0.0.0.0 www.kimplay.de
 0.0.0.0 www.kimtisor.com
 0.0.0.0 www.kindduckling.com
-0.0.0.0 www.kinderhausfridolin.de
 0.0.0.0 www.kinderinsel-rosenheim.de
 0.0.0.0 www.kinderkumpel.de
 0.0.0.0 www.king7seven.com
@@ -8938,7 +8900,6 @@
 0.0.0.0 www.koretrak.kaufen
 0.0.0.0 www.kortsdam.de
 0.0.0.0 www.koscielnya.com
-0.0.0.0 www.kqivlfk.top
 0.0.0.0 www.krabihotelsthailand.net
 0.0.0.0 www.kramerversand.de
 0.0.0.0 www.kraussmedien.de
@@ -8948,7 +8909,6 @@
 0.0.0.0 www.kreispiraten-of.de
 0.0.0.0 www.kreisverbandleer.de
 0.0.0.0 www.kristroom.ru
-0.0.0.0 www.krobboshop.de
 0.0.0.0 www.kronen-apotheke-schweinfurt-app.de
 0.0.0.0 www.kruegers-hausgeraete.de
 0.0.0.0 www.kruggolife.com
@@ -8957,7 +8917,6 @@
 0.0.0.0 www.ktristandy.com
 0.0.0.0 www.kuechen-xxl.de
 0.0.0.0 www.kugel-lernfoerderung.de
-0.0.0.0 www.kuhlmannbekleidung.de
 0.0.0.0 www.kukulade.de
 0.0.0.0 www.kulturion.de
 0.0.0.0 www.kumbini.de
@@ -9013,10 +8972,8 @@
 0.0.0.0 www.latestinvestmentopportunity.com
 0.0.0.0 www.latexcatfish.com
 0.0.0.0 www.laubfall.de
-0.0.0.0 www.laudeer.top
 0.0.0.0 www.laufschule-janson.de
 0.0.0.0 www.laurenz.top
-0.0.0.0 www.lavers.de
 0.0.0.0 www.lavinchi.de
 0.0.0.0 www.lavitaroquetas.com
 0.0.0.0 www.lavonde.de
@@ -10029,7 +9986,6 @@
 0.0.0.0 www.pinkni.com
 0.0.0.0 www.pinoplay.de
 0.0.0.0 www.pintrentz.de
-0.0.0.0 www.pinvige.com
 0.0.0.0 www.pipscryptofx.com
 0.0.0.0 www.pipz.xyz
 0.0.0.0 www.pismaprawne.com
