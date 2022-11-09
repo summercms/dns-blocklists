@@ -29,6 +29,54 @@
 ! https://github.com/Perflyst/PiHoleBlocklist/issues/138
 @@|mas-ext.amazon.com^
 
+! Amazon Shopping
+@@||images-amazon.com^
+@@|c.amazon-adsystem.com^
+@@|dp-gw-na.amazon.com^
+@@|dp-gw-*.amazon.com^
+@@|fls-*.amazon-adsystem.com^
+@@|fls-cn.amazon.cn^
+@@|fls-cn.amazon.com^
+@@|fls-eu.amazon.ae^
+@@|fls-eu.amazon.co.uk^
+@@|fls-eu.amazon.com^
+@@|fls-eu.amazon.de^
+@@|fls-eu.amazon.es^
+@@|fls-eu.amazon.fr^
+@@|fls-eu.amazon.in^
+@@|fls-eu.amazon.it^
+@@|fls-eu.amazon.nl^
+@@|fls-eu.amazon.sa^
+@@|fls-eu.amazon.se^
+@@|fls-fe.amazon.co.jp^
+@@|fls-fe.amazon.com^
+@@|fls-fe.amazon.com.au^
+@@|fls-fe.amazon.sg^
+@@|fls-na.amazon.ca^
+@@|fls-na.amazon.com^
+@@|fls-na.amazon.com.br^
+@@|fls-na.amazon.com.mx^
+@@|unagi-*.amazon.com^
+@@|unagi.amazon.cn^
+@@|unagi.amazon.co.jp^
+@@|unagi.amazon.co.uk^
+@@|unagi.amazon.com^
+@@|unagi.amazon.com.au^
+@@|unagi.amazon.com.br^
+@@|unagi.amazon.de^
+@@|unagi.amazon.es^
+@@|unagi.amazon.fr^
+@@|unagi.amazon.in^
+@@|unagi.amazon.it^
+! CNAME fls-*.amazon.com
+@@||forester.a2z.com^
+! gateway.prod.*.forester.a2z.com
+! endpoint.prod.*.forester.a2z.com
+
+! Amazon Video
+@@|d25xi40x97liuc.cloudfront.net^
+@@|dmqdd6hw24ucf.cloudfront.net^
+
 ! Apple
 ! https://support.apple.com/en-us/HT210060
 @@||apps.apple.com^
@@ -62,6 +110,12 @@
 ! Cloudflare
 @@|cdn.cloudflare.net^
 @@|cdnjs.cloudflare.co^
+
+! Dropbox
+@@|dl.dropbox.com^
+@@|dl.dropboxusercontent.com^
+@@|ns1.dropbox.com^
+@@|ns2.dropbox.com^
 
 ! Facebook
 @@|*graph-video.facebook.com^
@@ -164,10 +218,12 @@
 @@|atm-settingsfe-prod-geo*.trafficmanager.net^
 @@|continuum.dds.microsoft.com^
 @@|cs.dds.microsoft.com^
+@@|fp.msedge.net^
 @@|g.live.com^
 @@|g.msn.com^
 @@|go.microsoft.com^
 @@|go.trouter.skype.com^
+@@|insideruser.microsoft.com^
 @@|js.monitor.azure.com^
 @@|login.microsoftonline.com^
 @@|nexusrules.live.com^
@@ -410,9 +466,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/10
 @@|ks.cn^
 @@|www.ks.cn^
-
-! https://github.com/hagezi/dns-blocklists/issues/12
-@@|networkbest.ru.com^
 
 ! https://github.com/AdAway/adaway.github.io/issues/338
 @@|pi.pardot.com^
