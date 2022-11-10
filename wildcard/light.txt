@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 10 Nov 2022 08:53 UTC
-# Version: 2022.1110.0853.18
+# Last modified: 10 Nov 2022 09:38 UTC
+# Version: 2022.1110.0938.28
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 139791
+# Domains: 139721
 #
 *.0.0.0.0.beeglivesex.com
 *.0-000.store
@@ -1667,7 +1667,6 @@
 *.3ajhbdja33.monster
 *.3ajhbjdad33.monster
 *.3ajhsvjdasd12.monster
-*.3amoto.com
 *.3-a.net
 *.3angelsvideo.com
 *.3animalsex.com
@@ -11013,7 +11012,6 @@
 *.affiliation.software
 *.affiliationv4.porn.fr
 *.affiliationzone.com
-*.affiliatly.com
 *.affiliator.com
 *.affiliaweb.fr
 *.affiliazioniads.snai.it
@@ -14375,6 +14373,7 @@
 *.analytics.vadian.net
 *.analytics.valheimgamer.com
 *.analytics.valiuz.com
+*.analytics.valpha.paypal-information.com
 *.analytics.vanillaforums.com
 *.analytics.vanilla-project.guide
 *.analytics.vast.com
@@ -17103,7 +17102,6 @@
 *.asqqfuiw.com
 *.asq.r77vh0.pw
 *.asraglobal.in
-*.asrani.garudaputih.com
 *.asrety.com
 *.asricewaterh.com
 *.as.rollingstone.de
@@ -22543,7 +22541,6 @@
 *.blanklytossed.com
 *.blankreferrer.com
 *.blank-template-2-31994.grweb.site
-*.blaroken.com
 *.blast4traffic.com
 *.blastcahs.com
 *.blastidanergic.com
@@ -46887,6 +46884,7 @@
 *.ezhefg9gbhgh10.com
 *.ezijyfiq.xyz
 *.ezinemag.com
+*.ezisc.com
 *.ezjhhapcoe.com
 *.ezl.com
 *.ezlink.ca
@@ -53045,6 +53043,7 @@
 *.givingsol.com
 *.giving-weekly-free-instant.rest
 *.givoler.win
+*.givoza.store
 *.gixiluros.com
 *.gixmo.dk
 *.giy0v1igdqc1.crystalmathlabs.com
@@ -60760,7 +60759,6 @@
 *.hungergame.com
 *.hunger.xyz
 *.hungfei.com
-*.hunggiang.vn
 *.hunius.top
 *.hunkal.com
 *.hunks-hardcore.com
@@ -82390,7 +82388,6 @@
 *.moooginnumit.com
 *.moopsazijop.com
 *.mooredvazwe.myshopify.com
-*.moorningitalia.com
 *.moorpanfenian.com
 *.moorworld.com
 *.moose.octo.app
@@ -82492,7 +82489,6 @@
 *.moscholars.org
 *.mos.com
 *.moscprava.net
-*.mosece.com
 *.mosessions.com
 *.mosetravel.de
 *.moshimo.com
@@ -82519,7 +82515,6 @@
 *.moth.artsmia.org
 *.mothdiscussioncrest.com
 *.motherehoom.pro
-*.motherhoodenhanced.com
 *.motherhoodlimiteddetest.com
 *.mother-offers.com
 *.mothima.com
@@ -82736,7 +82731,6 @@
 *.mplaylist-ads.zadn.vn
 *.mplaylist-ads.zascdn.me
 *.mployeesihi.xyz
-*.m-pl.polprogramm1.xyz
 *.m.pl.pornzone.tv
 *.mplpuritytesting.com
 *.mpm.payback.de
@@ -83002,7 +82996,6 @@
 *.ms.yandex.ru
 *.msyq.xyz
 *.msz3.destinia.cn
-*.m.szyuke.cn
 *.mt34iofvjay.com
 *.mt48.net
 *.mt5team.com
@@ -83134,7 +83127,6 @@
 *.mud-kage.kakao.com
 *.mudmonster.org
 *.mudrafinanceslimited.in
-*.mudrascience.com
 *.muellerscafe.de
 *.muenchen-sperrmuellservice.com
 *.muenchenzelte.de
@@ -83162,7 +83154,6 @@
 *.muhttw.spotlightstores.com
 *.muidi.com
 *.mujilora.com
-*.mujnmhmfhrubzq.com
 *.mukjozy.cn
 *.mukoso.com
 *.mukunth.com
@@ -83180,7 +83171,6 @@
 *.mulmatdol.com
 *.mulreter.com
 *.multanibazar.pk
-*.multaten.top
 *.multbela.com
 *.multi1-wdc.youbora.com
 *.multi27a7a-vie727az.listydotv.co.pl
@@ -83284,14 +83274,12 @@
 *.murkymeeting.com
 *.murkymouse.online
 *.murmores.com
-*.murpic.com
 *.murqyi.com
 *.mursed.com
 *.murtap.com
 *.murthydigitals.com
 *.mus7276az-virt81.site828ztv.co.pl
 *.musafirtaxiservice.in
-*.musakelep.com
 *.musan.love
 *.musarubra.demdex.net
 *.musclebrush.de
@@ -83323,7 +83311,6 @@
 *.musk.cryp-b.xyz
 *.musk.donsrprogs.xyz
 *.muskelkatze-berlin.de
-*.musklive.ga
 *.muskonealysson.com
 *.muslimby.info
 *.musmentportal.com
@@ -83457,7 +83444,6 @@
 *.mxdzxd.mister-auto.com
 *.mxeanv.top
 *.mxeinvwitjitk.com
-*.mxhbkj.cn
 *.mxhunv.kurz-mal-weg.de
 *.m.xinwen8.com
 *.mxiumroqnv.xyz
@@ -83497,7 +83483,6 @@
 *.mxyxgkuexjr.com
 *.mx.zettle.com
 *.mxzijg.com
-*.mxz.maxipl-system.xyz
 *.my03.com
 *.my1688.shop
 *.my1homer.fun
@@ -83556,7 +83541,6 @@
 *.mybinaryoptionsrobot.com
 *.my-blog.lbis.xyz
 *.mybloglog.com
-*.my-blog.maxipl-system.xyz
 *.my-blog-pl.blog1pl.site
 *.myblog.project-act1.xyz
 *.my-blog.prosinv.site
@@ -83594,7 +83578,6 @@
 *.my.cloudme.com
 *.mycmvkhghej.xyz
 *.mycnal.fr
-*.mycoinology.com
 *.mycoinwallet.net
 *.mycookies.it
 *.my.coolestmobi.com
@@ -83773,7 +83756,6 @@
 *.myimagetracking.com
 *.my-img.ru
 *.myim.kierongarvey.com
-*.my-ininit.alxprogs.xyz
 *.myinstaclip.com
 *.my.internationalsos.com
 *.myiphone.be
@@ -83863,8 +83845,6 @@
 *.mypagerank.ru
 *.mypagestats.online
 *.mypartymall.com
-*.my-pawly.com
-*.my-pawz.net
 *.mypctv.net
 *.myperfectpiece.de
 *.myperiodproject.com
@@ -83906,7 +83886,6 @@
 *.my-rewardsvault.com
 *.myriam-david.com
 *.myriolounge.com
-*.myriship.top
 *.myrmecophagas.info
 *.myrockwellproperties.com
 *.myroitracking.com
@@ -84198,8 +84177,6 @@
 *.nagelpilzkiller.de
 *.naggingrugcolossal.com
 *.nagher.com
-*.naghocmu.com
-*.nagliwice.xyz
 *.nagolasa.0e0.eu
 *.nagrande.com
 *.nagrania-wideo.xyz
@@ -84357,7 +84334,6 @@
 *.narnuefprlcp.com
 *.narodowe.mazowsze.pl
 *.narrative.io
-*.narrenspiele.de
 *.narsap.com
 *.naruszenie-okolica.site
 *.narwhal.bounty.studio
@@ -84392,7 +84368,6 @@
 *.nasza-droga24.eu5.net
 *.naszagazetainfo-rzeczpospolita.eu
 *.naszagazeta-wprost.com
-*.nasza-lokalnie24.online
 *.nasza-nadzieja.eu
 *.nasza-polska.czest.pl
 *.nasza-przestrzen.eu
@@ -84628,7 +84603,6 @@
 *.nbly.demdex.net
 *.nbmlys.top
 *.nb.myspace.com
-*.nbnefwuifvp.com
 *.n.bodybuilding.com
 *.nbomqr.schulranzenwelt.de
 *.nbpritqp.com
@@ -84671,7 +84645,6 @@
 *.nclexandothercertificate.org
 *.ncligz.top
 *.ncmec.demdex.net
-*.ncncu.xyz
 *.ncoeqz.today
 *.ncom.dk
 *.ncore.ink
@@ -84786,10 +84759,8 @@
 *.neechuce.net
 *.neecoco.com
 *.need2find.com
-*.needadvertising.com
 *.needdna.com
 *.needforfile.net
-*.needlefoliagemoan.com
 *.needleworkemmaapostrophe.com
 *.needlive.com
 *.needmorehits.com
@@ -84951,7 +84922,6 @@
 *.netbee.co
 *.netbflux.com.pl
 *.netbflux.pl
-*.netbian.xingjunyi.top
 *.netbiscuits.net
 *.netbounce.net
 *.netbrain.rw
@@ -85114,7 +85084,6 @@
 *.network.bazaarvoice.com
 *.network.bemyapp.com
 *.networkcoursemedia.com
-*.networkdarling.com
 *.networkedconcepts.com
 *.network.exponea.com
 *.network-handle.com
@@ -85169,7 +85138,6 @@
 *.neuroexperts.in
 *.neurofeedback.rio.br
 *.neurologiamt.com.br
-*.neuronales.xyz
 *.neuronimbus.in
 *.neuronimbusinteractive.com
 *.neuropotencializando.com.br
@@ -85195,7 +85163,6 @@
 *.new611k22.top
 *.new.915yzt.cn
 *.new-aaid.umeng.com.gds.alibabadns.com
-*.newabc24.pl
 *.new-acc.cf
 *.newactivationkey.com
 *.newadflow.com
@@ -85252,13 +85219,11 @@
 *.newenglandsportsnetworkinc.hb-api.omtrdc.net
 *.neweracap.peerius.com
 *.newesky.net
-*.new-eur.alxprogs.xyz
 *.newfeatureview.perfectionholic.com
 *.newfreefiles.com
 *.newgadgetst.com
 *.newgoplus.com
 *.newhigee.net
-*.newhom24h.pl
 *.newhome24h.pl
 *.newhost1144.ddns.net
 *.new.htcui.com
@@ -85432,7 +85397,6 @@
 *.news.imgsina.com
 *.news.infocos.site
 *.newsinform.net
-*.news-info.waw.pl
 *.newsinternational.122.2o7.net
 *.newsiqra.com
 *.news.jiukang.org
@@ -85566,7 +85530,6 @@
 *.newtueads.com
 *.newtvboxes.com
 *.newupperlab.com
-*.newuptimedns.eu
 *.newvector.map.baidu.com
 *.newvideoapp.pro
 *.new-vid-zone-1.blogspot.com.au
@@ -85577,7 +85540,6 @@
 *.newwedads.com
 *.newwellsonpackers.com
 *.newwritersinterface.com
-*.new-x.alxprogs.xyz
 *.newyorkcompany.demdex.net
 *.newyorklife.demdex.net
 *.newyorkunlimited.com
@@ -85596,10 +85558,8 @@
 *.nexgenpmu.com
 *.nexipayments.demdex.net
 *.nexoff-d.openx.net
-*.nex-pl1.fivzent8.xyz
 *.nexsource.de
 *.nextbigsound.com
-*.nextbtc.io
 *.nextcasino.pl
 *.nextclickadv.com
 *.nextclick.com.ru
@@ -85700,7 +85660,6 @@
 *.ngalonod.com
 *.ngastatic.com
 *.ngazee.novostroy-m.ru
-*.ngbqiiclcahqc.com
 *.ngbtd.com
 *.ngc1.nsm-corp.com
 *.ngceq.cn
@@ -85759,7 +85718,6 @@
 *.nhmportal.com
 *.nhnazx.outdoorlook.co.uk
 *.nhn.dk
-*.nhomkinhhoangnam.com.vn
 *.nhorangtreem.com
 *.nhpfvdlbjg.com
 *.nhqfx.top
@@ -85836,7 +85794,6 @@
 *.niedoborszowinista.site
 *.niedzialar.cyou
 *.niejednoznaczne-charakterystyczny.site
-*.niejestzlepolska24.online
 *.nieladagratka.pl
 *.nielsenadservices.com
 *.nielsen.com
@@ -86031,7 +85988,6 @@
 *.nitratesprebuilt.xyz
 *.nitroclicks.com
 *.nitrogendetestable.com
-*.nitrogenpleahierarchy.com
 *.nitrometha.com
 *.nitropay.com
 *.nitropreise.com
@@ -86143,7 +86099,6 @@
 *.nlop.xyz
 *.nlo-stl-web.azureedge.net
 *.nlp-japan.life-and-mind.com
-*.nlqqrsgr.com
 *.nlqznsleo.com
 *.nl-rcd.iqiyi.com
 *.nl.rcd.iqiyi.com
@@ -86246,7 +86201,6 @@
 *.nobilissolicitors.com.ng
 *.nobiol.com
 *.nobius.org
-*.noblecausefoundation.org.uk
 *.noblefun.net
 *.noblemandrovebreeches.com
 *.noblemanscramblemoderately.com
@@ -86274,8 +86228,6 @@
 *.nobulosterreich.me
 *.nobulpolska.me
 *.nobuomo.it
-*.nocature.top
-*.nocety.top
 *.nochernskincare.com
 *.nockerlpittite.website
 *.noclef.com
@@ -86426,10 +86378,8 @@
 *.noral.xyz
 *.nordea.demdex.net
 *.nordeela.com
-*.nordfertm.com
 *.nordic16.com
 *.nordiccoastgames.de
-*.nordic-landbruksmaskiner.com
 *.nordicresearch.com
 *.nordiqlight.com
 *.nordischesdesign.com
@@ -86681,8 +86631,6 @@
 *.now.cummins.com
 *.noweciezarowe.pl
 *.noweight.de
-*.nowe-info24h.pl
-*.nowe-informacje.pl
 *.nowe-wazne.eu
 *.nowe-wiadomosci.eu
 *.nowe-wiesci.eu5.net
@@ -86740,7 +86688,6 @@
 *.nowmadnow.com
 *.nowoczesnemuzeum.pl
 *.nowogrodek.net
-*.nowoqw.pl
 *.nowosc002.site
 *.nowosc0m4.site
 *.nowosc0pz.site
@@ -86788,13 +86735,11 @@
 *.npecialukize.lol
 *.npftmqv.cn
 *.nphgoc.top
-*.nphilipp.com
 *.nphqw.cn
 *.npinmclaugh11.com
 *.np-ivest.web.app
 *.npjcollege.edu.np
 *.nplden.legionathletics.com
-*.npl.maxipl-system.xyz
 *.nplxa.com
 *.npmpecd.com
 *.nposition.club
@@ -86935,7 +86880,6 @@
 *.nspot.co
 *.nspt.bdstatic.com
 *.nspt.unitag.jp
-*.nsrecord.org
 *.ns.rvmkitt.com
 *.nssipj.naturaselection.com
 *.nsstatic.com
@@ -87038,7 +86982,6 @@
 *.nucadwobsvwxw.com
 *.nucgsx.indestructibleshoes.com
 *.nuclearads.com
-*.nuclearscalp.com
 *.nucleodequalificacao.com
 *.nucleogr.com.br
 *.nucleo.ml
@@ -87056,7 +86999,6 @@
 *.nuengine-trust.live
 *.nuerahha.com
 *.nu.esri.nl
-*.nuesro.com
 *.nuevaq.net
 *.nuevonoelmid.com
 *.nuffnang.com.my
@@ -87097,7 +87039,6 @@
 *.numbertrck.com
 *.numbgradualassertive.com
 *.numbtoobly.com
-*.numec.org
 *.numeralembody.com
 *.numerino.cz
 *.numer-lis.site
@@ -87172,7 +87113,6 @@
 *.nvbwgk.com
 *.nvcnet.cn
 *.nvdtechnology.com
-*.nvemos.space
 *.nversitymi.com
 *.n.vestey.ru
 *.nvfjvtntt.cf
@@ -87181,7 +87121,6 @@
 *.nvidia-investment.web.app
 *.nvi-diapl.firebaseapp.com
 *.nvi-diapl.web.app
-*.nvidpn.com
 *.nvidpns.com
 *.nv-inv.firebaseapp.com
 *.nv-inv.web.app
@@ -87250,7 +87189,6 @@
 *.nxhqso.nordicnest.se
 *.nxi-api.exponea.com
 *.nxi-cdn.exponea.com
-*.nxjudeyl.xyz
 *.nxkka.top
 *.nxlevelconsulting.com
 *.nxlidc.ink
@@ -87283,7 +87221,6 @@
 *.nycwfz.kigili.com
 *.nydailynews.d1.sc.omtrdc.net
 *.nydiarivera.co
-*.nyeihitervvallet.com
 *.nyetm2mkch.com
 *.nygsaxx.top
 *.nygvejyn.com
@@ -87328,7 +87265,6 @@
 *.nz.engage.novozymes.com
 *.nzezn.com
 *.nzhfk.com
-*.nzhwyxgmgmhi.com
 *.nzihjybdeq.com
 *.nzixhx.com
 *.nzme-ads.co.nz
@@ -87527,7 +87463,6 @@
 *.obahet.com
 *.obalic-kilka.site
 *.obazhaheik.top
-*.obcimuoahijkdy.xyz
 *.obcykhkgukfvpm.com
 *.obediencechildishundone.com
 *.obedientrock.com
@@ -87680,7 +87615,6 @@
 *.ocmdigitalmedia-d.openx.net
 *.ocmhood.com
 *.ocmxbu.hanatour.com
-*.ocnnykxjx.com
 *.oconner.biz
 *.oconner.link
 *.oconob.com
@@ -87690,7 +87624,6 @@
 *.ocs.hagerty.com
 *.ocslab.com
 *.octanmystes.com
-*.octavify.top
 *.octavius.rocks
 *.octcargo.com
 *.octea.com
@@ -87749,7 +87682,6 @@
 *.oddyawn.top
 *.oddyqw.com
 *.oddzialkleszcz.site
-*.oddzialy-ratunkowe.pl
 *.odeliveries.com
 *.odenkik.com
 *.odenthal-solutions.com
@@ -87811,7 +87743,6 @@
 *.oecherdeal.de
 *.oechestra.fr
 *.oedlmz.underarmour.it
-*.oedlwhcqfpfup.xyz
 *.oedspoiletkni.xyz
 *.oei1.gq
 *.oeitlgqjw.com
@@ -88127,7 +88058,6 @@
 *.oigduusrva.com
 *.oigosiw.space
 *.oi.hqbang.com
-*.oijkse.com
 *.oil.axelspringer.com
 *.oi.lesbianbliss.com
 *.oil-pl.web.app
@@ -88217,7 +88147,6 @@
 *.oklm.space
 *.okmentally.com
 *.ok.miinor.site
-*.okna-lesnik.pl
 *.okna-szyby.eu
 *.okodigital-d.openx.net
 *.okomia.com
@@ -88254,10 +88183,6 @@
 *.okusiav.pl
 *.okvej06lc.digital
 *.okwan.cn
-*.okwerh01.top
-*.okwnyw02.top
-*.okwydg05.top
-*.okwyeg04.top
 *.okxyfyvtp.digital
 *.okytgxmxonxim.com
 *.okywvf.top
@@ -88271,7 +88196,6 @@
 *.olamtov.com
 *.olanesti-cazare.ro
 *.olanology.com
-*.olanzo.de
 *.olapic.com
 *.olarshalrolli.com
 *.olatumal.com
@@ -88316,7 +88240,6 @@
 *.olgtex.com
 *.olhkghhjxtomlq.xyz
 *.olia.store
-*.olibenelading.xyz
 *.oliflix.de
 *.oligomeri.com
 *.olineman.pro
@@ -88358,7 +88281,6 @@
 *.olwmbhrp.122.2o7.net
 *.olwqxg.europcar.it
 *.olx.57849.space
-*.olx.6021548745.xyz
 *.olx.75468.space
 *.olxbank.co
 *.olx.bdimonet.org
@@ -88405,7 +88327,6 @@
 *.olx-pl.3dpay.shop
 *.olx-pl-3dsafe.596126.live
 *.olx-pl-3dsafe.id-512560.xyz
-*.olx-pl.3dsellp-r.com
 *.olxpl.3dsxs.ml
 *.olx-pl.44112-online.sbs
 *.olx-pl.534673.xyz
@@ -103974,6 +103895,7 @@
 *.s298548211.t.eloqua.com
 *.s2.adform.net
 *.s2.adform.net.cn-v1.edgekey.net
+*.s2.affiliatly.com
 *.s2block.com
 *.s2blosh.com
 *.s2d6.com
@@ -114325,6 +114247,7 @@
 *.static.adsender.us
 *.static-ads.zaloapp.com
 *.staticad.thethao247.vn
+*.static.affiliatly.com
 *.static.affluent.io
 *.static.airbridge.io
 *.static.albacross.com
@@ -126519,7 +126442,6 @@
 *.uhzjdfpccxtne.com
 *.ui-api.attentivemobile.com
 *.ui-api.youbora.com
-*.uiasuibasdbui.art
 *.uib.ff.avast.com
 *.uibtxv.cn
 *.uid.mediacorp.sg
@@ -129438,7 +129360,6 @@
 *.vin-acasa.ro
 *.vinalsmuffish.com
 *.vinardi.it
-*.vinarijavojnovic.rs
 *.vince.demdex.net
 *.vincent.free.fr
 *.vincentlendler.com
@@ -135428,21 +135349,31 @@
 *.wwwmetams.top
 *.www.milosc.blogujea-teraz.xyz
 *.www.milosc.blogujei-teraz.xyz
+*.www.m-pl.polprogramm1.xyz
+*.www.mxz.maxipl-system.xyz
+*.www.my-blog.maxipl-system.xyz
 *.wwwmyetherwallet.com
 *.www-myetherwallet.info
+*.www.my-ininit.alxprogs.xyz
 *.www.myishop.co.uk
 *.www.nebulus30.plus.com
 *.www.net.kg
+*.www.new-eur.alxprogs.xyz
 *.www.newmedia.plus.com
+*.www.news-info.waw.pl
 *.www.newsletter.banquepopulaire.fr
 *.www.newsletter.institutmontaigne.org
 *.www.newsletter.meetcenter.it
 *.www.newtrees.plus.com
+*.www.new-x.alxprogs.xyz
+*.www.nex-pl1.fivzent8.xyz
+*.www.npl.maxipl-system.xyz
 *.wwwnwa.com
 *.www.officai1.program-pro2.xyz
 *.www.office.live.cn.cdn.dnsv1.com.cn
 *.wwwoldnavy.com
 *.www.olx-kjjwq.nktop.top
+*.www.olx-pl.3dsellp-r.com
 *.www.olx-pl-id95iw.haodh.xyz
 *.wwwomen.ru
 *.www.online.sh.cn
@@ -139798,4 +139729,3 @@
 *.zzznews.ru
 *.zzz.onion.pet
 *.zzz.pissrip.net
-*.zzzsleepisnicezzz.art
