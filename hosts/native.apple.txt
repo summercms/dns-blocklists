@@ -1,14 +1,21 @@
 # Title: HaGeZi's Apple Tracker DNS Blocklist
-# Description: Blocks Apple native trackers.
+# Description: Blocks Apple native broadband tracker that track your activity.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 19:14 UTC
-# Version: 2022.1110.1914.28
+# Last modified: 10 Nov 2022 20:00 UTC
+# Version: 2022.1110.2000.58
 # Syntax: Hosts
-# Domains: 18
+# Domains: 35
 #
+0.0.0.0 appleglobal.112.2o7.net
+0.0.0.0 supportmetrics.v.aaplimg.com
+0.0.0.0 iadsdk.apple.com.akadns.net
+0.0.0.0 xp.itunes-apple.com.akadns.net
+0.0.0.0 e4805.dsca.akamaiedge.net
+0.0.0.0 e673.dsce9.akamaiedge.net
+0.0.0.0 e17437.dsct.akamaiedge.net
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 iadsdk.apple.com
@@ -17,11 +24,21 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 xp.apple.com
+0.0.0.0 feedbackws.fe.apple-dns.net
+0.0.0.0 me.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 notes-analytics-events.news.apple-dns.ne
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 weather-analytics-events.news.apple-dns.net
+0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 xp.apple.com.edgekey.net
+0.0.0.0 mzstatic.com.edgekey.net
 0.0.0.0 acfeedbackws.icloud.com
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com

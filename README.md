@@ -12,12 +12,13 @@
 9. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
 10. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
 11. [Personal](#personal) - *My manually maintained blacklist*
-12. [Credits](#credits)
-13. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
-14. [Recommendation](#recommendation) / [NextDNS](#nextdns)
-15. [About](#about) / [Referral Domains](#referral)
-16. [Sources/Statistics](usedsources.md)
-17. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
+12. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
+13. [Credits](#credits)
+14. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
+15. [Recommendation](#recommendation) / [NextDNS](#nextdns)
+16. [About](#about) / [Referral Domains](#referral)
+17. [Sources/Statistics](usedsources.md)
+18. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
 ### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro and pro++)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
@@ -230,6 +231,18 @@
 
 ---
 
+### ***Native Tracker - Broadband tracker of devices and operating systems*** <a name="native"></a>
+*Blocks native broadband tracker from devices and operating systems that frequently run at the operating system level and track your activity.*         
+              
+***The native broadband tracker are already included in the Light, Normal, Pro and Pro++ lists.***
+                   
+| Device | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
+|:-------|:--------|:------|:--------|:--------|:--------|:---------|
+| Apple (iOS, macOS, tvOS) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.apple.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt) |
+
+**Expires:** *Updated regularly*
+
+---
 ### ***Credits*** <a name="credits"></a>
 
 **A huge thank you to the following list maintainers of the [sources used](usedsources.md), alphabetical order:**
