@@ -1683,3 +1683,6 @@ web-assets.stylitics.com.cdn.cloudflare.net
 # News site
 dailycaller.com
 
+# Application Insights data on the Azure portal
+*.aimon.applicationinsights.io
+
