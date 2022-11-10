@@ -216,7 +216,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *Contains blockable hosts that I found during DNS monitoring. Ads, Tracking, Badware and more.*         
         
-**Entries:** *880 domains/hosts - 590 compressed domains*
+**Entries:** *884 domains/hosts - 594 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -233,16 +233,16 @@
 
 ### ***Native Tracker - Broadband tracker of devices and operating systems*** <a name="native"></a>
 *Blocks native broadband tracker from devices and operating systems that frequently run at the operating system level and track your activity.*         
-              
-***The native broadband tracker are already included in the Light, Normal, Pro and Pro++ lists.***
-                   
+                  
 | Device | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
 |:-------|:--------|:------|:--------|:--------|:--------|:---------|
 | Apple (iOS, macOS, tvOS) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.apple.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt) |
+| Microsoft (Windows, Office) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.winoffice.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt) |
 
 **Expires:** *Updated regularly*
 
 ---
+
 ### ***Credits*** <a name="credits"></a>
 
 **A huge thank you to the following list maintainers of the [sources used](usedsources.md), alphabetical order:**
