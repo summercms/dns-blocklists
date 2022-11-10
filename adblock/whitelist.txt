@@ -1685,4 +1685,5 @@
 
 ! Application Insights data on the Azure portal
 @@||aimon.applicationinsights.io^
+@@|applicationinsights.io^
 
