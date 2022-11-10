@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 18:58 UTC
-# Version: 2022.1109.1858.05
+# Last modified: 09 Nov 2022 19:22 UTC
+# Version: 2022.1109.1922.05
 # Syntax: Hosts
-# Domains: 884
+# Domains: 870
 #
 0.0.0.0 t.1und1.de
 0.0.0.0 24coinix.com
@@ -534,38 +534,24 @@
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 au-v10.events.data.microsoft.com
-0.0.0.0 au-v20.events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
-0.0.0.0 eu-v10.events.data.microsoft.com
-0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 ic3.events.data.microsoft.com
-0.0.0.0 jp-v10.events.data.microsoft.com
-0.0.0.0 jp-v20.events.data.microsoft.com
 0.0.0.0 kmwatson.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 nw-umwatson.events.data.microsoft.com
 0.0.0.0 teams.events.data.microsoft.com
-0.0.0.0 uk-v20.events.data.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
-0.0.0.0 us-v10.events.data.microsoft.com
-0.0.0.0 us-v20.events.data.microsoft.com
-0.0.0.0 us4-v20.events.data.microsoft.com
-0.0.0.0 us5-v20.events.data.microsoft.com
 0.0.0.0 watson.events.data.microsoft.com
 0.0.0.0 events-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 au.vortex-win.data.microsoft.com
 0.0.0.0 de.vortex-win.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 uk.vortex-win.data.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
-0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 alpha.telemetry.microsoft.com
