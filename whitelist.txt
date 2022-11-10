@@ -1550,3 +1550,9 @@ s.ss2.us
 # Breaks Fidelity login
 h-fidelity.online-metrix.net
 
+# Mastodon instance
+ioc.exchange
+
+# Shopping tables on verabradley.com
+js.klevu.com
+
