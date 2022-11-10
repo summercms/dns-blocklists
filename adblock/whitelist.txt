@@ -74,8 +74,17 @@
 ! endpoint.prod.*.forester.a2z.com
 
 ! Amazon Video
+@@|aiv-cdn.net^
+@@|aiv-cdn.net.c.footprint.net^
+@@|aiv-delivery.net^
+@@|amazonvideo.com^
+@@|atv-ext-*.amazon.com^
+@@|atv-ext.amazon.com^
+@@|atv-ps.amazon.com^
 @@|d25xi40x97liuc.cloudfront.net^
 @@|dmqdd6hw24ucf.cloudfront.net^
+@@|primevideo.com^
+@@|pv-cdn.net^
 
 ! Apple
 ! https://support.apple.com/en-us/HT210060
@@ -111,6 +120,30 @@
 ! Cloudflare
 @@|cdn.cloudflare.net^
 @@|cdnjs.cloudflare.co^
+
+! Discord
+@@|discord.com^
+@@|discord.gg^
+@@|discord.media^
+@@|discordapp.com^
+@@|discordapp.net^
+@@|discordstatus.com^
+
+! Disney+
+@@|disney-plus.net^
+@@|disneyplus.com^
+@@|disneyplus.com.ssl.sc.omtrdc.net^
+@@|dss.map.fastly.net^
+@@|dssott.com^
+@@|dssott.com.akamaized.net^
+@@|search-api-disney.bamgrid.com^
+@@|cd-dmgz.bamgrid.com^
+@@|dvf2rc3rx4ypk.cloudfront.net^
+
+! Disqus
+@@|blog.disqus.com^
+@@|c.disquscdn.com^
+@@|d231vab146qzfb.cloudfront.net^
 
 ! Dropbox
 @@|dl.dropbox.com^
@@ -246,6 +279,65 @@
 @@|windowsupdate.s.llnwi.net^
 @@|www.msftconnecttest.com^
 
+! Netflix
+@@|netflix.com^
+@@|netflix.net^
+@@|nflxext.com^
+@@|nflximg.com^
+@@|nflximg.net^
+@@|nflxso.net^
+@@|nflxvideo.net^
+
+! Nintendo Switch
+@@|nintendo.com^
+@@|nintendo.net^
+@@|nintendowifi.net^
+@@|a1843.g.akamai.net^
+
+! NVidia
+@@|activation.gfe.nvidia.com^
+@@|gfwsl.geforce.com^
+@@|images.nvidiagrid.net^
+@@|services.gfe.nvidia.com^
+
+! Paypal
+@@|paypal-dynamic-map.fastly.net^
+@@|paypal.ca^
+@@|paypal.co.uk^
+@@|paypal.com^
+@@|paypal.map.fastly.net^
+@@|paypalobjects.com^
+
+! Sony (Playstation)
+@@|playstation.com^
+@@|playstation.com.edgekey.net^
+@@|playstation.com.ssl.d1.sc.omtrdc.net^
+@@|playstation.net^
+@@|sonycoment.loris-e.llnwd.net^
+@@|sonyentertainmentnetwork.com^
+@@|sonyjpnpsg-1.hs.llnwd.net^
+
+! Steam
+@@|s.team^
+@@|steam-chat.com^
+@@|steambroadcast.akamaized.net^
+@@|steamcdn-a.akamaihd.net^
+@@|steamchina.com^
+@@|steamcommunity-a.akamaihd.net^
+@@|steamcommunity.com^
+@@|steamcontent.com^
+@@|steamgames.com^
+@@|steampowered.com^
+@@|steampowered.com.8686c.com^
+@@|steamstatic.com^
+@@|steamstatic.com.8686c.com^
+@@|steamstore-a.akamaihd.net^
+@@|steamusercontent-a.akamaihd.net^
+@@|steamusercontent.com^
+@@|steamuserimages-a.akamaihd.net^
+@@|steamvideo-a.akamaihd.net^
+@@|valvesoftware.com^
+
 ! Samsung TV - System update check, ...
 @@|acr0.samsungcloudsolution.com^
 @@|cdn.samsungcloudsolution.com^
@@ -268,6 +360,17 @@
 @@|telegram.org^
 @@|telesco.pe^
 @@|tg.dev^
+
+! Twitch
+@@|ext-twitch.tv^
+@@|jtvnw.net^
+@@|live-video.net^
+@@|ttvnw.net^
+@@|twitch.okta.com^
+@@|twitch.map.fastly.net^
+@@|twitch.tv^
+@@|twitchcdn.net^
+@@|twitchsvc.net^
 
 ! Twitter
 @@|ads.twitter.com^
@@ -298,6 +401,16 @@
 @@|whatsapp.org^
 @@|whatsapp.tv^
 @@|whatsappbrand.com^
+
+! XBox
+@@|xbox.com^
+@@|xboxab.com^
+@@|xboxab.net^
+@@|xboxlive.com^
+@@|xboxlive.com.akadns.net^
+@@|xboxlive.com.c.footprint.net^
+@@|xboxlive.com.edgekey.net^
+@@|xboxservices.com^
 
 ! Youtube
 @@||googlevideo.com^
@@ -1566,4 +1679,7 @@
 @@|stylitics.com^
 @@|web-assets.stylitics.com^
 @@|web-assets.stylitics.com.cdn.cloudflare.net^
+
+! News site
+@@|dailycaller.com^
 
