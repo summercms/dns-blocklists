@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Nov 2022 14:52 UTC
-! Version: 2022.1109.1452.54
+! Last modified: 10 Nov 2022 00:53 UTC
+! Version: 2022.1110.0053.06
 ! Syntax: AdBlock
-! Domains: 6221
+! Domains: 6205
 !
 ||11trikots.com^
 ||123brennholz.com^
@@ -3197,7 +3197,6 @@
 ||lieb-schafft.de^
 ||lifestyle-gastronomie.de^
 ||lifestyle-leder.de^
-||ligatose.top^
 ||lighteu.de^
 ||lightflix.de^
 ||lightsaber.com^
@@ -3210,7 +3209,6 @@
 ||limassolrealestate.com^
 ||limebrandco.com^
 ||limitgreen.com^
-||linashop.de^
 ||lindela.de^
 ||linear-antrieb.de^
 ||linearnetrik.de^
@@ -3220,9 +3218,7 @@
 ||lingoget.com^
 ||linh-nguyen.de^
 ||lioray.com^
-||lisaundich.de^
 ||litise.com^
-||litrust.top^
 ||littlebo.at^
 ||littlecow.co.kr^
 ||liudadaa.com^
@@ -3261,7 +3257,6 @@
 ||londonsunny.com^
 ||lonestarchaos.com^
 ||longtime-gothic.de^
-||lookent.top^
 ||lookslikesummer.com^
 ||loomzo.com^
 ||loosshy.com^
@@ -3295,7 +3290,6 @@
 ||lucifertech.com^
 ||lucimen.com^
 ||luckfashions.com^
-||luckingleaves.com^
 ||lucullusacademy.com^
 ||lucybreeze.com^
 ||luisrora.com^
@@ -3358,7 +3352,6 @@
 ||makourtis.com^
 ||malawitreff.de^
 ||maldives-hotelsresorts.com^
-||maleny.de^
 ||malereikopie.de^
 ||mallorca-homerentals.com^
 ||mallorca-rentvillas.com^
@@ -3381,7 +3374,6 @@
 ||manuela-ley.de^
 ||marashhome.de^
 ||marbill-test03.club^
-||marcel-versand.com^
 ||marcveriont.de^
 ||margareteworm.de^
 ||margittaweiss.de^
@@ -3426,8 +3418,6 @@
 ||maxnovelty.com^
 ||maxxdrinks.com^
 ||maxxi.tech^
-||mayabi-deutschland.com^
-||maybracht.net^
 ||mayeroutlet.com^
 ||mayrhofen-hotels.at^
 ||mazobuylove.site^
@@ -3491,7 +3481,6 @@
 ||megaflix.de^
 ||megahood.de^
 ||megahood.store^
-||megaluous.top^
 ||megaose.xyz^
 ||megarabat.shop^
 ||megausefulstuff.com^
@@ -3590,8 +3579,6 @@
 ||midatlanticstore.com^
 ||mielano.de^
 ||mietwagenvermietungweltweit.de^
-||mig-bergmannsfeld.de^
-||mighting.top^
 ||mih-luehr.de^
 ||mihorga.com^
 ||mikalau.com^
@@ -3607,7 +3594,6 @@
 ||milzy.de^
 ||mimiplay.de^
 ||mimty.de^
-||minacj.com^
 ||minaflix.de^
 ||mincil.de^
 ||mineshoop.com^
@@ -3647,13 +3633,11 @@
 ||mmfit.eu^
 ||m.milanoo.com^
 ||mmwggm.top^
-||mnemonage.top^
 ||mnlsbjsy.com^
 ||mnoramemeti.com^
 ||mobiflix.de^
 ||mobileklean.com^
 ||modchips24.com^
-||mode-1.eu^
 ||modeberger.com^
 ||modeboutique.store^
 ||mode-diva.de^

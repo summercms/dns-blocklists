@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 14:52 UTC
-# Version: 2022.1109.1452.54
+# Last modified: 10 Nov 2022 00:53 UTC
+# Version: 2022.1110.0053.06
 # Syntax: DNSMasq
-# Domains: 6221
+# Domains: 6205
 #
 address=/11trikots.com/#
 address=/123brennholz.com/#
@@ -3197,7 +3197,6 @@ address=/liebly.de/#
 address=/lieb-schafft.de/#
 address=/lifestyle-gastronomie.de/#
 address=/lifestyle-leder.de/#
-address=/ligatose.top/#
 address=/lighteu.de/#
 address=/lightflix.de/#
 address=/lightsaber.com/#
@@ -3210,7 +3209,6 @@ address=/lilafkj.com/#
 address=/limassolrealestate.com/#
 address=/limebrandco.com/#
 address=/limitgreen.com/#
-address=/linashop.de/#
 address=/lindela.de/#
 address=/linear-antrieb.de/#
 address=/linearnetrik.de/#
@@ -3220,9 +3218,7 @@ address=/linenhomestudio.com/#
 address=/lingoget.com/#
 address=/linh-nguyen.de/#
 address=/lioray.com/#
-address=/lisaundich.de/#
 address=/litise.com/#
-address=/litrust.top/#
 address=/littlebo.at/#
 address=/littlecow.co.kr/#
 address=/liudadaa.com/#
@@ -3261,7 +3257,6 @@ address=/lomvera.com/#
 address=/londonsunny.com/#
 address=/lonestarchaos.com/#
 address=/longtime-gothic.de/#
-address=/lookent.top/#
 address=/lookslikesummer.com/#
 address=/loomzo.com/#
 address=/loosshy.com/#
@@ -3295,7 +3290,6 @@ address=/lubeck-marktplatz.com/#
 address=/lucifertech.com/#
 address=/lucimen.com/#
 address=/luckfashions.com/#
-address=/luckingleaves.com/#
 address=/lucullusacademy.com/#
 address=/lucybreeze.com/#
 address=/luisrora.com/#
@@ -3358,7 +3352,6 @@ address=/makitabillig.de/#
 address=/makourtis.com/#
 address=/malawitreff.de/#
 address=/maldives-hotelsresorts.com/#
-address=/maleny.de/#
 address=/malereikopie.de/#
 address=/mallorca-homerentals.com/#
 address=/mallorca-rentvillas.com/#
@@ -3381,7 +3374,6 @@ address=/manualsguru.com/#
 address=/manuela-ley.de/#
 address=/marashhome.de/#
 address=/marbill-test03.club/#
-address=/marcel-versand.com/#
 address=/marcveriont.de/#
 address=/margareteworm.de/#
 address=/margittaweiss.de/#
@@ -3426,8 +3418,6 @@ address=/max-liquid.com/#
 address=/maxnovelty.com/#
 address=/maxxdrinks.com/#
 address=/maxxi.tech/#
-address=/mayabi-deutschland.com/#
-address=/maybracht.net/#
 address=/mayeroutlet.com/#
 address=/mayrhofen-hotels.at/#
 address=/mazobuylove.site/#
@@ -3491,7 +3481,6 @@ address=/me-fit.de/#
 address=/megaflix.de/#
 address=/megahood.de/#
 address=/megahood.store/#
-address=/megaluous.top/#
 address=/megaose.xyz/#
 address=/megarabat.shop/#
 address=/megausefulstuff.com/#
@@ -3590,8 +3579,6 @@ address=/microstarinn.com/#
 address=/midatlanticstore.com/#
 address=/mielano.de/#
 address=/mietwagenvermietungweltweit.de/#
-address=/mig-bergmannsfeld.de/#
-address=/mighting.top/#
 address=/mih-luehr.de/#
 address=/mihorga.com/#
 address=/mikalau.com/#
@@ -3607,7 +3594,6 @@ address=/milopup.de/#
 address=/milzy.de/#
 address=/mimiplay.de/#
 address=/mimty.de/#
-address=/minacj.com/#
 address=/minaflix.de/#
 address=/mincil.de/#
 address=/mineshoop.com/#
@@ -3647,13 +3633,11 @@ address=/mmatrailers.com/#
 address=/mmfit.eu/#
 address=/m.milanoo.com/#
 address=/mmwggm.top/#
-address=/mnemonage.top/#
 address=/mnlsbjsy.com/#
 address=/mnoramemeti.com/#
 address=/mobiflix.de/#
 address=/mobileklean.com/#
 address=/modchips24.com/#
-address=/mode-1.eu/#
 address=/modeberger.com/#
 address=/modeboutique.store/#
 address=/mode-diva.de/#

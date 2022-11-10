@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 14:52 UTC
-# Version: 2022.1109.1452.54
+# Last modified: 10 Nov 2022 00:53 UTC
+# Version: 2022.1110.0053.06
 # Syntax: Hosts
-# Domains: 11924
+# Domains: 11892
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -3219,7 +3219,6 @@
 0.0.0.0 lieb-schafft.de
 0.0.0.0 lifestyle-gastronomie.de
 0.0.0.0 lifestyle-leder.de
-0.0.0.0 ligatose.top
 0.0.0.0 lighteu.de
 0.0.0.0 lightflix.de
 0.0.0.0 lightsaber.com
@@ -3232,7 +3231,6 @@
 0.0.0.0 limassolrealestate.com
 0.0.0.0 limebrandco.com
 0.0.0.0 limitgreen.com
-0.0.0.0 linashop.de
 0.0.0.0 lindela.de
 0.0.0.0 linear-antrieb.de
 0.0.0.0 linearnetrik.de
@@ -3242,9 +3240,7 @@
 0.0.0.0 lingoget.com
 0.0.0.0 linh-nguyen.de
 0.0.0.0 lioray.com
-0.0.0.0 lisaundich.de
 0.0.0.0 litise.com
-0.0.0.0 litrust.top
 0.0.0.0 littlebo.at
 0.0.0.0 littlecow.co.kr
 0.0.0.0 liudadaa.com
@@ -3283,7 +3279,6 @@
 0.0.0.0 londonsunny.com
 0.0.0.0 lonestarchaos.com
 0.0.0.0 longtime-gothic.de
-0.0.0.0 lookent.top
 0.0.0.0 lookslikesummer.com
 0.0.0.0 loomzo.com
 0.0.0.0 loosshy.com
@@ -3317,7 +3312,6 @@
 0.0.0.0 lucifertech.com
 0.0.0.0 lucimen.com
 0.0.0.0 luckfashions.com
-0.0.0.0 luckingleaves.com
 0.0.0.0 lucullusacademy.com
 0.0.0.0 lucybreeze.com
 0.0.0.0 luisrora.com
@@ -3380,7 +3374,6 @@
 0.0.0.0 makourtis.com
 0.0.0.0 malawitreff.de
 0.0.0.0 maldives-hotelsresorts.com
-0.0.0.0 maleny.de
 0.0.0.0 malereikopie.de
 0.0.0.0 mallorca-homerentals.com
 0.0.0.0 mallorca-rentvillas.com
@@ -3403,7 +3396,6 @@
 0.0.0.0 manuela-ley.de
 0.0.0.0 marashhome.de
 0.0.0.0 marbill-test03.club
-0.0.0.0 marcel-versand.com
 0.0.0.0 marcveriont.de
 0.0.0.0 margareteworm.de
 0.0.0.0 margittaweiss.de
@@ -3448,8 +3440,6 @@
 0.0.0.0 maxnovelty.com
 0.0.0.0 maxxdrinks.com
 0.0.0.0 maxxi.tech
-0.0.0.0 mayabi-deutschland.com
-0.0.0.0 maybracht.net
 0.0.0.0 mayeroutlet.com
 0.0.0.0 mayrhofen-hotels.at
 0.0.0.0 mazobuylove.site
@@ -3513,7 +3503,6 @@
 0.0.0.0 megaflix.de
 0.0.0.0 megahood.de
 0.0.0.0 megahood.store
-0.0.0.0 megaluous.top
 0.0.0.0 megaose.xyz
 0.0.0.0 megarabat.shop
 0.0.0.0 megausefulstuff.com
@@ -3612,8 +3601,6 @@
 0.0.0.0 midatlanticstore.com
 0.0.0.0 mielano.de
 0.0.0.0 mietwagenvermietungweltweit.de
-0.0.0.0 mig-bergmannsfeld.de
-0.0.0.0 mighting.top
 0.0.0.0 mih-luehr.de
 0.0.0.0 mihorga.com
 0.0.0.0 mikalau.com
@@ -3629,7 +3616,6 @@
 0.0.0.0 milzy.de
 0.0.0.0 mimiplay.de
 0.0.0.0 mimty.de
-0.0.0.0 minacj.com
 0.0.0.0 minaflix.de
 0.0.0.0 mincil.de
 0.0.0.0 mineshoop.com
@@ -3669,13 +3655,11 @@
 0.0.0.0 mmfit.eu
 0.0.0.0 m.milanoo.com
 0.0.0.0 mmwggm.top
-0.0.0.0 mnemonage.top
 0.0.0.0 mnlsbjsy.com
 0.0.0.0 mnoramemeti.com
 0.0.0.0 mobiflix.de
 0.0.0.0 mobileklean.com
 0.0.0.0 modchips24.com
-0.0.0.0 mode-1.eu
 0.0.0.0 modeberger.com
 0.0.0.0 modeboutique.store
 0.0.0.0 mode-diva.de
@@ -9040,7 +9024,6 @@
 0.0.0.0 www.lieb-schafft.de
 0.0.0.0 www.lifestyle-gastronomie.de
 0.0.0.0 www.lifestyle-leder.de
-0.0.0.0 www.ligatose.top
 0.0.0.0 www.lighteu.de
 0.0.0.0 www.lightflix.de
 0.0.0.0 www.lightsaber.com
@@ -9053,7 +9036,6 @@
 0.0.0.0 www.limassolrealestate.com
 0.0.0.0 www.limebrandco.com
 0.0.0.0 www.limitgreen.com
-0.0.0.0 www.linashop.de
 0.0.0.0 www.lindela.de
 0.0.0.0 www.linear-antrieb.de
 0.0.0.0 www.linearnetrik.de
@@ -9063,9 +9045,7 @@
 0.0.0.0 www.lingoget.com
 0.0.0.0 www.linh-nguyen.de
 0.0.0.0 www.lioray.com
-0.0.0.0 www.lisaundich.de
 0.0.0.0 www.litise.com
-0.0.0.0 www.litrust.top
 0.0.0.0 www.littlebo.at
 0.0.0.0 www.liudadaa.com
 0.0.0.0 www.livegoodtv.com
@@ -9102,7 +9082,6 @@
 0.0.0.0 www.londonsunny.com
 0.0.0.0 www.lonestarchaos.com
 0.0.0.0 www.longtime-gothic.de
-0.0.0.0 www.lookent.top
 0.0.0.0 www.lookslikesummer.com
 0.0.0.0 www.loomzo.com
 0.0.0.0 www.loosshy.com
@@ -9133,7 +9112,6 @@
 0.0.0.0 www.lucifertech.com
 0.0.0.0 www.lucimen.com
 0.0.0.0 www.luckfashions.com
-0.0.0.0 www.luckingleaves.com
 0.0.0.0 www.lucullusacademy.com
 0.0.0.0 www.lucybreeze.com
 0.0.0.0 www.luisrora.com
@@ -9193,7 +9171,6 @@
 0.0.0.0 www.makourtis.com
 0.0.0.0 www.malawitreff.de
 0.0.0.0 www.maldives-hotelsresorts.com
-0.0.0.0 www.maleny.de
 0.0.0.0 www.malereikopie.de
 0.0.0.0 www.mallorca-homerentals.com
 0.0.0.0 www.mallorca-rentvillas.com
@@ -9215,7 +9192,6 @@
 0.0.0.0 www.manuela-ley.de
 0.0.0.0 www.marashhome.de
 0.0.0.0 www.marbill-test03.club
-0.0.0.0 www.marcel-versand.com
 0.0.0.0 www.marcveriont.de
 0.0.0.0 www.margareteworm.de
 0.0.0.0 www.margittaweiss.de
@@ -9256,8 +9232,6 @@
 0.0.0.0 www.maxnovelty.com
 0.0.0.0 www.maxxdrinks.com
 0.0.0.0 www.maxxi.tech
-0.0.0.0 www.mayabi-deutschland.com
-0.0.0.0 www.maybracht.net
 0.0.0.0 www.mayeroutlet.com
 0.0.0.0 www.mayrhofen-hotels.at
 0.0.0.0 www.mazobuylove.site
@@ -9316,7 +9290,6 @@
 0.0.0.0 www.me-fit.de
 0.0.0.0 www.megaflix.de
 0.0.0.0 www.megahood.store
-0.0.0.0 www.megaluous.top
 0.0.0.0 www.megaose.xyz
 0.0.0.0 www.megarabat.shop
 0.0.0.0 www.megausefulstuff.com
@@ -9392,8 +9365,6 @@
 0.0.0.0 www.midatlanticstore.com
 0.0.0.0 www.mielano.de
 0.0.0.0 www.mietwagenvermietungweltweit.de
-0.0.0.0 www.mig-bergmannsfeld.de
-0.0.0.0 www.mighting.top
 0.0.0.0 www.mih-luehr.de
 0.0.0.0 www.mihorga.com
 0.0.0.0 www.mikalau.com
@@ -9408,7 +9379,6 @@
 0.0.0.0 www.milzy.de
 0.0.0.0 www.mimiplay.de
 0.0.0.0 www.mimty.de
-0.0.0.0 www.minacj.com
 0.0.0.0 www.minaflix.de
 0.0.0.0 www.mincil.de
 0.0.0.0 www.mineshoop.com
@@ -9445,13 +9415,11 @@
 0.0.0.0 www.mmatrailers.com
 0.0.0.0 www.mmfit.eu
 0.0.0.0 www.mmwggm.top
-0.0.0.0 www.mnemonage.top
 0.0.0.0 www.mnlsbjsy.com
 0.0.0.0 www.mnoramemeti.com
 0.0.0.0 www.mobiflix.de
 0.0.0.0 www.mobileklean.com
 0.0.0.0 www.modchips24.com
-0.0.0.0 www.mode-1.eu
 0.0.0.0 www.modeboutique.store
 0.0.0.0 www.mode-diva.de
 0.0.0.0 www.modeengels.de

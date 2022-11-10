@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 14:52 UTC
-# Version: 2022.1109.1452.54
+# Last modified: 10 Nov 2022 00:53 UTC
+# Version: 2022.1110.0053.06
 # Syntax: Domains
-# Domains: 11924
+# Domains: 11892
 #
 11trikots.com
 123brennholz.com
@@ -3219,7 +3219,6 @@ liebly.de
 lieb-schafft.de
 lifestyle-gastronomie.de
 lifestyle-leder.de
-ligatose.top
 lighteu.de
 lightflix.de
 lightsaber.com
@@ -3232,7 +3231,6 @@ lilafkj.com
 limassolrealestate.com
 limebrandco.com
 limitgreen.com
-linashop.de
 lindela.de
 linear-antrieb.de
 linearnetrik.de
@@ -3242,9 +3240,7 @@ linenhomestudio.com
 lingoget.com
 linh-nguyen.de
 lioray.com
-lisaundich.de
 litise.com
-litrust.top
 littlebo.at
 littlecow.co.kr
 liudadaa.com
@@ -3283,7 +3279,6 @@ lomvera.com
 londonsunny.com
 lonestarchaos.com
 longtime-gothic.de
-lookent.top
 lookslikesummer.com
 loomzo.com
 loosshy.com
@@ -3317,7 +3312,6 @@ lubeck-marktplatz.com
 lucifertech.com
 lucimen.com
 luckfashions.com
-luckingleaves.com
 lucullusacademy.com
 lucybreeze.com
 luisrora.com
@@ -3380,7 +3374,6 @@ makitabillig.de
 makourtis.com
 malawitreff.de
 maldives-hotelsresorts.com
-maleny.de
 malereikopie.de
 mallorca-homerentals.com
 mallorca-rentvillas.com
@@ -3403,7 +3396,6 @@ manualsguru.com
 manuela-ley.de
 marashhome.de
 marbill-test03.club
-marcel-versand.com
 marcveriont.de
 margareteworm.de
 margittaweiss.de
@@ -3448,8 +3440,6 @@ max-liquid.com
 maxnovelty.com
 maxxdrinks.com
 maxxi.tech
-mayabi-deutschland.com
-maybracht.net
 mayeroutlet.com
 mayrhofen-hotels.at
 mazobuylove.site
@@ -3513,7 +3503,6 @@ me-fit.de
 megaflix.de
 megahood.de
 megahood.store
-megaluous.top
 megaose.xyz
 megarabat.shop
 megausefulstuff.com
@@ -3612,8 +3601,6 @@ microstarinn.com
 midatlanticstore.com
 mielano.de
 mietwagenvermietungweltweit.de
-mig-bergmannsfeld.de
-mighting.top
 mih-luehr.de
 mihorga.com
 mikalau.com
@@ -3629,7 +3616,6 @@ milopup.de
 milzy.de
 mimiplay.de
 mimty.de
-minacj.com
 minaflix.de
 mincil.de
 mineshoop.com
@@ -3669,13 +3655,11 @@ mmatrailers.com
 mmfit.eu
 m.milanoo.com
 mmwggm.top
-mnemonage.top
 mnlsbjsy.com
 mnoramemeti.com
 mobiflix.de
 mobileklean.com
 modchips24.com
-mode-1.eu
 modeberger.com
 modeboutique.store
 mode-diva.de
@@ -9040,7 +9024,6 @@ www.liebly.de
 www.lieb-schafft.de
 www.lifestyle-gastronomie.de
 www.lifestyle-leder.de
-www.ligatose.top
 www.lighteu.de
 www.lightflix.de
 www.lightsaber.com
@@ -9053,7 +9036,6 @@ www.lilafkj.com
 www.limassolrealestate.com
 www.limebrandco.com
 www.limitgreen.com
-www.linashop.de
 www.lindela.de
 www.linear-antrieb.de
 www.linearnetrik.de
@@ -9063,9 +9045,7 @@ www.linenhomestudio.com
 www.lingoget.com
 www.linh-nguyen.de
 www.lioray.com
-www.lisaundich.de
 www.litise.com
-www.litrust.top
 www.littlebo.at
 www.liudadaa.com
 www.livegoodtv.com
@@ -9102,7 +9082,6 @@ www.lomvera.com
 www.londonsunny.com
 www.lonestarchaos.com
 www.longtime-gothic.de
-www.lookent.top
 www.lookslikesummer.com
 www.loomzo.com
 www.loosshy.com
@@ -9133,7 +9112,6 @@ www.lubeck-marktplatz.com
 www.lucifertech.com
 www.lucimen.com
 www.luckfashions.com
-www.luckingleaves.com
 www.lucullusacademy.com
 www.lucybreeze.com
 www.luisrora.com
@@ -9193,7 +9171,6 @@ www.makitabillig.de
 www.makourtis.com
 www.malawitreff.de
 www.maldives-hotelsresorts.com
-www.maleny.de
 www.malereikopie.de
 www.mallorca-homerentals.com
 www.mallorca-rentvillas.com
@@ -9215,7 +9192,6 @@ www.manualsguru.com
 www.manuela-ley.de
 www.marashhome.de
 www.marbill-test03.club
-www.marcel-versand.com
 www.marcveriont.de
 www.margareteworm.de
 www.margittaweiss.de
@@ -9256,8 +9232,6 @@ www.max-liquid.com
 www.maxnovelty.com
 www.maxxdrinks.com
 www.maxxi.tech
-www.mayabi-deutschland.com
-www.maybracht.net
 www.mayeroutlet.com
 www.mayrhofen-hotels.at
 www.mazobuylove.site
@@ -9316,7 +9290,6 @@ www.meetmyflirt.com
 www.me-fit.de
 www.megaflix.de
 www.megahood.store
-www.megaluous.top
 www.megaose.xyz
 www.megarabat.shop
 www.megausefulstuff.com
@@ -9392,8 +9365,6 @@ www.microstarinn.com
 www.midatlanticstore.com
 www.mielano.de
 www.mietwagenvermietungweltweit.de
-www.mig-bergmannsfeld.de
-www.mighting.top
 www.mih-luehr.de
 www.mihorga.com
 www.mikalau.com
@@ -9408,7 +9379,6 @@ www.milopup.de
 www.milzy.de
 www.mimiplay.de
 www.mimty.de
-www.minacj.com
 www.minaflix.de
 www.mincil.de
 www.mineshoop.com
@@ -9445,13 +9415,11 @@ www.m-lounge-germany.de
 www.mmatrailers.com
 www.mmfit.eu
 www.mmwggm.top
-www.mnemonage.top
 www.mnlsbjsy.com
 www.mnoramemeti.com
 www.mobiflix.de
 www.mobileklean.com
 www.modchips24.com
-www.mode-1.eu
 www.modeboutique.store
 www.mode-diva.de
 www.modeengels.de
