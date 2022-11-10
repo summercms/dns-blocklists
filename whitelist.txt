@@ -1556,3 +1556,14 @@ ioc.exchange
 # Shopping tables on verabradley.com
 js.klevu.com
 
+# Dicks Sporting Goods website catalog will not show product listings
+tag.dickssportinggoods.com
+
+# T-Mobile Tuesdays in-app messages
+device-api.urbanairship.com
+
+# kohls.com product catalog images
+stylitics.com
+web-assets.stylitics.com
+web-assets.stylitics.com.cdn.cloudflare.net
+

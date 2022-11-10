@@ -445,6 +445,7 @@ monitor.clickcease.com
 mx-go.kelkoogroup.net
 mydealz.digidip.net
 nb-go.kelkoogroup.net
+newslink.reuters.com
 nl-go.kelkoogroup.net
 no-go.kelkoogroup.net
 ojrq.net
