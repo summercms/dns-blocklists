@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 00:53 UTC
-# Version: 2022.1110.0053.06
+# Last modified: 10 Nov 2022 09:09 UTC
+# Version: 2022.1110.0909.21
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6205
+# Domains: 6191
 #
 *.11trikots.com
 *.123brennholz.com
@@ -30,7 +30,6 @@
 *.2radwelten.de
 *.30netzteil.de
 *.365ersatzteile.de
-*.3amoto.com
 *.3bands4you.at
 *.3clin.de
 *.3kjailbreak.com
@@ -673,7 +672,6 @@
 *.black-forestcake.com
 *.blackwidow.at
 *.blade-pirates.de
-*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -2249,6 +2247,7 @@
 *.girlsruby.com
 *.giveloveshop.site
 *.givenic.com
+*.givoza.store
 *.gizupp.com
 *.gkl-teampublic.de
 *.gkp-nordhorn.de
@@ -3715,7 +3714,6 @@
 *.moonplay.de
 *.moonsoy.com
 *.mooredvazwe.myshopify.com
-*.moorningitalia.com
 *.morbidtales.de
 *.moreclothes.store
 *.moredates.com
@@ -3744,7 +3742,6 @@
 *.muhlwegfahrschule.com
 *.muidi.com
 *.mullerr.de
-*.multaten.top
 *.mum-moden.de
 *.munbrand.com
 *.mundobrands.de
@@ -3789,12 +3786,9 @@
 *.mynecklace.de
 *.mynewpink.com
 *.mypartymall.com
-*.my-pawly.com
-*.my-pawz.net
 *.myperfectpiece.de
 *.myperiodproject.com
 *.myriam-david.com
-*.myriship.top
 *.myschuhe.com
 *.myscreen.site
 *.mysellshop.site
@@ -3813,7 +3807,6 @@
 *.namethispodcast.com
 *.namicloth.com
 *.nanashopi.com
-*.narrenspiele.de
 *.natalie-bayas.de
 *.natas-berlin.de
 *.nationalmuseum.at
@@ -3924,8 +3917,6 @@
 *.nobullosterreich.at
 *.nobullosterreich.com
 *.nobulosterreich.me
-*.nocature.top
-*.nocety.top
 *.noderecords.de
 *.nohrak.com
 *.nolimitsound.de
@@ -3933,9 +3924,7 @@
 *.nooranenonen.com
 *.nootica.de
 *.noral.xyz
-*.nordfertm.com
 *.nordiccoastgames.de
-*.nordic-landbruksmaskiner.com
 *.nordischesdesign.com
 *.nordsee-hooksiel.de
 *.nordvian.com
@@ -3959,7 +3948,6 @@
 *.nowflix.de
 *.now.illegalstore.xyz
 *.nowistherevolution.com
-*.nphilipp.com
 *.nsebtik.com
 *.ntonio.de
 *.ntxmickeymantle.com
@@ -3978,7 +3966,6 @@
 *.obrath-gmbh.de
 *.obsthalle-froeschau.de
 *.oclegends.org
-*.octavify.top
 *.octora.de
 *.odenkik.com
 *.oexpel.com
@@ -4013,7 +4000,6 @@
 *.oktando.de
 *.olahagencyh.com
 *.olakork.com
-*.olanzo.de
 *.oldbeibi.com
 *.oleean.com
 *.oliflix.de

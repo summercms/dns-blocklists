@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 00:53 UTC
-# Version: 2022.1110.0053.06
+# Last modified: 10 Nov 2022 09:09 UTC
+# Version: 2022.1110.0909.21
 # Syntax: DNSMasq
-# Domains: 6205
+# Domains: 6191
 #
 address=/11trikots.com/#
 address=/123brennholz.com/#
@@ -30,7 +30,6 @@ address=/2rad-schwarz.de/#
 address=/2radwelten.de/#
 address=/30netzteil.de/#
 address=/365ersatzteile.de/#
-address=/3amoto.com/#
 address=/3bands4you.at/#
 address=/3clin.de/#
 address=/3kjailbreak.com/#
@@ -673,7 +672,6 @@ address=/bjorkcoffee.com/#
 address=/black-forestcake.com/#
 address=/blackwidow.at/#
 address=/blade-pirates.de/#
-address=/blaroken.com/#
 address=/blaudonau.de/#
 address=/blaue-dragoner.de/#
 address=/blauerhein.de/#
@@ -2249,6 +2247,7 @@ address=/ginsengrai.top/#
 address=/girlsruby.com/#
 address=/giveloveshop.site/#
 address=/givenic.com/#
+address=/givoza.store/#
 address=/gizupp.com/#
 address=/gkl-teampublic.de/#
 address=/gkp-nordhorn.de/#
@@ -3715,7 +3714,6 @@ address=/moonlampofficial.com/#
 address=/moonplay.de/#
 address=/moonsoy.com/#
 address=/mooredvazwe.myshopify.com/#
-address=/moorningitalia.com/#
 address=/morbidtales.de/#
 address=/moreclothes.store/#
 address=/moredates.com/#
@@ -3744,7 +3742,6 @@ address=/muesdey.com/#
 address=/muhlwegfahrschule.com/#
 address=/muidi.com/#
 address=/mullerr.de/#
-address=/multaten.top/#
 address=/mum-moden.de/#
 address=/munbrand.com/#
 address=/mundobrands.de/#
@@ -3789,12 +3786,9 @@ address=/mymodeboutique.de/#
 address=/mynecklace.de/#
 address=/mynewpink.com/#
 address=/mypartymall.com/#
-address=/my-pawly.com/#
-address=/my-pawz.net/#
 address=/myperfectpiece.de/#
 address=/myperiodproject.com/#
 address=/myriam-david.com/#
-address=/myriship.top/#
 address=/myschuhe.com/#
 address=/myscreen.site/#
 address=/mysellshop.site/#
@@ -3813,7 +3807,6 @@ address=/nalaiandco.com/#
 address=/namethispodcast.com/#
 address=/namicloth.com/#
 address=/nanashopi.com/#
-address=/narrenspiele.de/#
 address=/natalie-bayas.de/#
 address=/natas-berlin.de/#
 address=/nationalmuseum.at/#
@@ -3924,8 +3917,6 @@ address=/nobull-osterreich.at/#
 address=/nobullosterreich.at/#
 address=/nobullosterreich.com/#
 address=/nobulosterreich.me/#
-address=/nocature.top/#
-address=/nocety.top/#
 address=/noderecords.de/#
 address=/nohrak.com/#
 address=/nolimitsound.de/#
@@ -3933,9 +3924,7 @@ address=/noobwatch03.io/#
 address=/nooranenonen.com/#
 address=/nootica.de/#
 address=/noral.xyz/#
-address=/nordfertm.com/#
 address=/nordiccoastgames.de/#
-address=/nordic-landbruksmaskiner.com/#
 address=/nordischesdesign.com/#
 address=/nordsee-hooksiel.de/#
 address=/nordvian.com/#
@@ -3959,7 +3948,6 @@ address=/noweight.de/#
 address=/nowflix.de/#
 address=/now.illegalstore.xyz/#
 address=/nowistherevolution.com/#
-address=/nphilipp.com/#
 address=/nsebtik.com/#
 address=/ntonio.de/#
 address=/ntxmickeymantle.com/#
@@ -3978,7 +3966,6 @@ address=/obindo.de/#
 address=/obrath-gmbh.de/#
 address=/obsthalle-froeschau.de/#
 address=/oclegends.org/#
-address=/octavify.top/#
 address=/octora.de/#
 address=/odenkik.com/#
 address=/oexpel.com/#
@@ -4013,7 +4000,6 @@ address=/okonjoseph.com/#
 address=/oktando.de/#
 address=/olahagencyh.com/#
 address=/olakork.com/#
-address=/olanzo.de/#
 address=/oldbeibi.com/#
 address=/oleean.com/#
 address=/oliflix.de/#
