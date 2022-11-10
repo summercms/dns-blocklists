@@ -4,18 +4,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 20:03 UTC
-# Version: 2022.1110.2003.35
+# Last modified: 10 Nov 2022 20:26 UTC
+# Version: 2022.1110.2026.43
 # Syntax: Domains
-# Domains: 35
+# Domains: 24
 #
-appleglobal.112.2o7.net
-supportmetrics.v.aaplimg.com
-iadsdk.apple.com.akadns.net
-xp.itunes-apple.com.akadns.net
-e4805.dsca.akamaiedge.net
-e673.dsce9.akamaiedge.net
-e17437.dsct.akamaiedge.net
 api-adservices.apple.com
 books-analytics-events.apple.com
 iadsdk.apple.com
@@ -24,7 +17,6 @@ cf.iadsdk.apple.com
 tr.iadsdk.apple.com
 metrics.apple.com
 notes-analytics-events.apple.com
-prd-usw2-requestattribution-iad.apple.com
 securemetrics.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
@@ -36,9 +28,6 @@ books-analytics-events.news.apple-dns.net
 notes-analytics-events.news.apple-dns.net
 stocks-analytics-events.news.apple-dns.net
 weather-analytics-events.news.apple-dns.net
-iadsdk.apple.com.edgekey.net
-xp.apple.com.edgekey.net
-mzstatic.com.edgekey.net
 acfeedbackws.icloud.com
 feedbackws.icloud.com
 metrics.icloud.com
