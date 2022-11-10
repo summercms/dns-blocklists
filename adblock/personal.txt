@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 10 Nov 2022 01:21 UTC
-! Version: 2022.1110.0121.15
+! Last modified: 10 Nov 2022 16:45 UTC
+! Version: 2022.1110.1645.59
 ! Syntax: AdBlock
-! Domains: 582
+! Domains: 590
 !
 ||t.1und1.de^
 ||24coinix.com^
@@ -255,7 +255,12 @@
 ||ssl-google-analytics.l.google.com^
 ||www-google-analytics.l.google.com^
 ||google-analytics.com^
+||afs.googleadservices.com^
 ||pagead2.googleadservices.com^
+||partner.googleadservices.com^
+||partner46.googleadservices.com^
+||partnerssl.googleadservices.com^
+||privacysandbox.googleadservices.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -400,6 +405,8 @@
 ||sanalytics.myspreadshop.de^
 ||sanalytics.myspreadshop.net^
 ||tracking.myzufall.de^
+||dzc-metrics.mzstatic.com^
+||metrics.mzstatic.com^
 ||metrics.n-tv.de^
 ||t.nativendo.de^
 ||track.netpoint-media.de^
@@ -548,6 +555,7 @@
 ||pdw-usr.userreport.com^
 ||visitanalytics.userreport.com^
 ||tracking.vcommission.com^
+||analytics.verabradley.com^
 ||analytics.vfr-verlag.de^
 ||videostep.com^
 ||vjd2trk.com^

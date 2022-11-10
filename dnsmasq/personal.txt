@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 01:21 UTC
-# Version: 2022.1110.0121.15
+# Last modified: 10 Nov 2022 16:45 UTC
+# Version: 2022.1110.1645.59
 # Syntax: DNSMasq
-# Domains: 582
+# Domains: 590
 #
 address=/t.1und1.de/#
 address=/24coinix.com/#
@@ -255,7 +255,12 @@ address=/pagead-googlehosted.l.google.com/#
 address=/ssl-google-analytics.l.google.com/#
 address=/www-google-analytics.l.google.com/#
 address=/google-analytics.com/#
+address=/afs.googleadservices.com/#
 address=/pagead2.googleadservices.com/#
+address=/partner.googleadservices.com/#
+address=/partner46.googleadservices.com/#
+address=/partnerssl.googleadservices.com/#
+address=/privacysandbox.googleadservices.com/#
 address=/androidtvchannels-pa.googleapis.com/#
 address=/androidtvwatsonfe-pa.googleapis.com/#
 address=/crashlyticsreports-pa.googleapis.com/#
@@ -400,6 +405,8 @@ address=/analytics.myhermes.de/#
 address=/sanalytics.myspreadshop.de/#
 address=/sanalytics.myspreadshop.net/#
 address=/tracking.myzufall.de/#
+address=/dzc-metrics.mzstatic.com/#
+address=/metrics.mzstatic.com/#
 address=/metrics.n-tv.de/#
 address=/t.nativendo.de/#
 address=/track.netpoint-media.de/#
@@ -548,6 +555,7 @@ address=/usemaxserver.de/#
 address=/pdw-usr.userreport.com/#
 address=/visitanalytics.userreport.com/#
 address=/tracking.vcommission.com/#
+address=/analytics.verabradley.com/#
 address=/analytics.vfr-verlag.de/#
 address=/videostep.com/#
 address=/vjd2trk.com/#
