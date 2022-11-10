@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 19:22 UTC
-# Version: 2022.1109.1922.05
+# Last modified: 10 Nov 2022 01:21 UTC
+# Version: 2022.1110.0121.15
 # Syntax: Hosts
-# Domains: 870
+# Domains: 872
 #
 0.0.0.0 t.1und1.de
 0.0.0.0 24coinix.com
@@ -120,7 +120,6 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 vanheim.ff.avast.com
-0.0.0.0 web.diagnostic.networking.aws.dev
 0.0.0.0 adv-cloudfilse.azureedge.net
 0.0.0.0 cdnnwlive.azureedge.net
 0.0.0.0 fp-cdn.azureedge.net
@@ -223,8 +222,6 @@
 0.0.0.0 clicktut.site
 0.0.0.0 www.clicktut.site
 0.0.0.0 realtimeanalytics.yext.com.cdn.cloudflare.net
-0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
-0.0.0.0 dxz5jxhrrzigf.cloudfront.net
 0.0.0.0 analytics.clouso-server.de
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 aviary.amazon.co.jp
@@ -237,6 +234,11 @@
 0.0.0.0 p97-feedbackws.icloud.com.cn
 0.0.0.0 analytics.comunio.de
 0.0.0.0 t.lto.connectaserver.de
+0.0.0.0 delivery.consentmanager.net
+0.0.0.0 a.delivery.consentmanager.net
+0.0.0.0 b.delivery.consentmanager.net
+0.0.0.0 c.delivery.consentmanager.net
+0.0.0.0 d.delivery.consentmanager.net
 0.0.0.0 track.conversion-cowboys.com
 0.0.0.0 metrics.cottonbird.de
 0.0.0.0 crashlytics.com
