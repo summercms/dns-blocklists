@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 09:09 UTC
-# Version: 2022.1110.0909.21
+# Last modified: 10 Nov 2022 16:17 UTC
+# Version: 2022.1110.1617.35
 # Syntax: Hosts
-# Domains: 11864
+# Domains: 11824
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -4064,16 +4064,12 @@
 0.0.0.0 openuplife.com
 0.0.0.0 optic-dias.ru
 0.0.0.0 optimafx.net
-0.0.0.0 optioncryptofx.com
 0.0.0.0 oqianlege.top
 0.0.0.0 orajalifei.com
 0.0.0.0 ordernow24.de
 0.0.0.0 ordritnow.com
-0.0.0.0 ordtic.top
 0.0.0.0 oricgermany.de
-0.0.0.0 original-pandora-schmuck.com
 0.0.0.0 originals-clothing.de
-0.0.0.0 originalshrvatska.co
 0.0.0.0 orisley.com
 0.0.0.0 orizo.de
 0.0.0.0 orrebol.com
@@ -4110,7 +4106,6 @@
 0.0.0.0 outletsbuy.site
 0.0.0.0 outletscell.site
 0.0.0.0 outletsmichaelkors.us.com
-0.0.0.0 outletsonline.ru
 0.0.0.0 outletssell.site
 0.0.0.0 outletuggoutletuk.com
 0.0.0.0 outlet.us.com
@@ -4139,7 +4134,6 @@
 0.0.0.0 pamura.com
 0.0.0.0 panamajackschweiz.com
 0.0.0.0 panamajackwien.at
-0.0.0.0 pandoracharmsausverkauf.de
 0.0.0.0 pandorairelandonline.com
 0.0.0.0 pannaholidays.com
 0.0.0.0 pannale.com
@@ -4151,16 +4145,13 @@
 0.0.0.0 paradiso24.com
 0.0.0.0 parajumpersitaly.com
 0.0.0.0 parisinpink.com
-0.0.0.0 parkers-williams.com
 0.0.0.0 partnerimwald.ch
 0.0.0.0 partsm.top
 0.0.0.0 pascher.top
 0.0.0.0 passamera.de
 0.0.0.0 passion-fotos.de
-0.0.0.0 pative.shop
 0.0.0.0 patrickvetter.de
 0.0.0.0 paulinasinger.com
-0.0.0.0 pavan.top
 0.0.0.0 pawppithouse.com
 0.0.0.0 paxosgloballogistics.com
 0.0.0.0 payback-ltd.com
@@ -4183,14 +4174,11 @@
 0.0.0.0 pellet-holz.com
 0.0.0.0 pen-bella.de
 0.0.0.0 penederbasis.com
-0.0.0.0 penette.top
 0.0.0.0 pension-heuhexe.de
 0.0.0.0 peoalfonsi.it
 0.0.0.0 people.purecap.xyz
 0.0.0.0 peptet.xyz
-0.0.0.0 peptible.top
 0.0.0.0 peranty.xyz
-0.0.0.0 perfectcoin.cc
 0.0.0.0 perfectgift.online
 0.0.0.0 perfect-home.co
 0.0.0.0 perfect-invest.ltd
@@ -4220,12 +4208,8 @@
 0.0.0.0 pfotenfans.com
 0.0.0.0 pfotenschule-bremen.de
 0.0.0.0 pg99.cc
-0.0.0.0 pharma-esp.com
-0.0.0.0 phemcy.top
-0.0.0.0 phemenne.top
 0.0.0.0 pherkin.xyz
 0.0.0.0 phoberose.com
-0.0.0.0 phoenix-ag.ch
 0.0.0.0 phonekong.com
 0.0.0.0 picatrawler.com
 0.0.0.0 picknick-liebe.de
@@ -4239,7 +4223,6 @@
 0.0.0.0 pilotshof.com
 0.0.0.0 pimestocktrade.com
 0.0.0.0 pinguid.xyz
-0.0.0.0 pinguier.top
 0.0.0.0 pinkkola.com
 0.0.0.0 pinkni.com
 0.0.0.0 pinoplay.de
@@ -4275,11 +4258,8 @@
 0.0.0.0 playted.de
 0.0.0.0 playvid.de
 0.0.0.0 playvox.de
-0.0.0.0 plesiess.top
 0.0.0.0 plessner-holz.com
-0.0.0.0 pluriholz.com
 0.0.0.0 plusbaumarkt.de
-0.0.0.0 pluvior.top
 0.0.0.0 pm365.ga
 0.0.0.0 pmf24.com
 0.0.0.0 pmpkp.com
@@ -9771,16 +9751,12 @@
 0.0.0.0 www.openuplife.com
 0.0.0.0 www.optic-dias.ru
 0.0.0.0 www.optimafx.net
-0.0.0.0 www.optioncryptofx.com
 0.0.0.0 www.oqianlege.top
 0.0.0.0 www.orajalifei.com
 0.0.0.0 www.ordernow24.de
 0.0.0.0 www.ordritnow.com
-0.0.0.0 www.ordtic.top
 0.0.0.0 www.oricgermany.de
-0.0.0.0 www.original-pandora-schmuck.com
 0.0.0.0 www.originals-clothing.de
-0.0.0.0 www.originalshrvatska.co
 0.0.0.0 www.orisley.com
 0.0.0.0 www.orizo.de
 0.0.0.0 www.orrebol.com
@@ -9810,7 +9786,6 @@
 0.0.0.0 www.outletsbestsell.site
 0.0.0.0 www.outletsbuy.site
 0.0.0.0 www.outletscell.site
-0.0.0.0 www.outletsonline.ru
 0.0.0.0 www.outletssell.site
 0.0.0.0 www.outletuggoutletuk.com
 0.0.0.0 www.out-runningde.com
@@ -9833,7 +9808,6 @@
 0.0.0.0 www.pamura.com
 0.0.0.0 www.panamajackschweiz.com
 0.0.0.0 www.panamajackwien.at
-0.0.0.0 www.pandoracharmsausverkauf.de
 0.0.0.0 www.pandorairelandonline.com
 0.0.0.0 www.pannaholidays.com
 0.0.0.0 www.panzer-industriebedarf.de
@@ -9843,15 +9817,12 @@
 0.0.0.0 www.paradiso24.com
 0.0.0.0 www.parajumpersitaly.com
 0.0.0.0 www.parisinpink.com
-0.0.0.0 www.parkers-williams.com
 0.0.0.0 www.partnerimwald.ch
 0.0.0.0 www.partsm.top
 0.0.0.0 www.pascher.top
 0.0.0.0 www.passamera.de
 0.0.0.0 www.passion-fotos.de
-0.0.0.0 www.pative.shop
 0.0.0.0 www.paulinasinger.com
-0.0.0.0 www.pavan.top
 0.0.0.0 www.pawppithouse.com
 0.0.0.0 www.paxosgloballogistics.com
 0.0.0.0 www.payback-ltd.com
@@ -9873,11 +9844,8 @@
 0.0.0.0 www.peiaoa.com
 0.0.0.0 www.pen-bella.de
 0.0.0.0 www.penederbasis.com
-0.0.0.0 www.penette.top
 0.0.0.0 www.pension-heuhexe.de
 0.0.0.0 www.peoalfonsi.it
-0.0.0.0 www.peptible.top
-0.0.0.0 www.perfectcoin.cc
 0.0.0.0 www.perfectgift.online
 0.0.0.0 www.perfect-home.co
 0.0.0.0 www.perfect-invest.ltd
@@ -9904,11 +9872,7 @@
 0.0.0.0 www.pfotenfans.com
 0.0.0.0 www.pfotenschule-bremen.de
 0.0.0.0 www.pg99.cc
-0.0.0.0 www.pharma-esp.com
-0.0.0.0 www.phemcy.top
-0.0.0.0 www.phemenne.top
 0.0.0.0 www.phoberose.com
-0.0.0.0 www.phoenix-ag.ch
 0.0.0.0 www.phonekong.com
 0.0.0.0 www.picatrawler.com
 0.0.0.0 www.picknick-liebe.de
@@ -9921,7 +9885,6 @@
 0.0.0.0 www.pillenpalast.com
 0.0.0.0 www.pilotshof.com
 0.0.0.0 www.pimestocktrade.com
-0.0.0.0 www.pinguier.top
 0.0.0.0 www.pinkkola.com
 0.0.0.0 www.pinkni.com
 0.0.0.0 www.pinoplay.de
@@ -9954,11 +9917,8 @@
 0.0.0.0 www.playted.de
 0.0.0.0 www.playvid.de
 0.0.0.0 www.playvox.de
-0.0.0.0 www.plesiess.top
 0.0.0.0 www.plessner-holz.com
-0.0.0.0 www.pluriholz.com
 0.0.0.0 www.plusbaumarkt.de
-0.0.0.0 www.pluvior.top
 0.0.0.0 www.pm365.ga
 0.0.0.0 www.pmf24.com
 0.0.0.0 www.pmpkp.com

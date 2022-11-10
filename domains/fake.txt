@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 09:09 UTC
-# Version: 2022.1110.0909.21
+# Last modified: 10 Nov 2022 16:17 UTC
+# Version: 2022.1110.1617.35
 # Syntax: Domains
-# Domains: 11864
+# Domains: 11824
 #
 11trikots.com
 123brennholz.com
@@ -4064,16 +4064,12 @@ openedijti.com
 openuplife.com
 optic-dias.ru
 optimafx.net
-optioncryptofx.com
 oqianlege.top
 orajalifei.com
 ordernow24.de
 ordritnow.com
-ordtic.top
 oricgermany.de
-original-pandora-schmuck.com
 originals-clothing.de
-originalshrvatska.co
 orisley.com
 orizo.de
 orrebol.com
@@ -4110,7 +4106,6 @@ outletsbestsell.site
 outletsbuy.site
 outletscell.site
 outletsmichaelkors.us.com
-outletsonline.ru
 outletssell.site
 outletuggoutletuk.com
 outlet.us.com
@@ -4139,7 +4134,6 @@ pamule.com
 pamura.com
 panamajackschweiz.com
 panamajackwien.at
-pandoracharmsausverkauf.de
 pandorairelandonline.com
 pannaholidays.com
 pannale.com
@@ -4151,16 +4145,13 @@ papsttasche.de
 paradiso24.com
 parajumpersitaly.com
 parisinpink.com
-parkers-williams.com
 partnerimwald.ch
 partsm.top
 pascher.top
 passamera.de
 passion-fotos.de
-pative.shop
 patrickvetter.de
 paulinasinger.com
-pavan.top
 pawppithouse.com
 paxosgloballogistics.com
 payback-ltd.com
@@ -4183,14 +4174,11 @@ peiaoa.com
 pellet-holz.com
 pen-bella.de
 penederbasis.com
-penette.top
 pension-heuhexe.de
 peoalfonsi.it
 people.purecap.xyz
 peptet.xyz
-peptible.top
 peranty.xyz
-perfectcoin.cc
 perfectgift.online
 perfect-home.co
 perfect-invest.ltd
@@ -4220,12 +4208,8 @@ pfm-magazin.at
 pfotenfans.com
 pfotenschule-bremen.de
 pg99.cc
-pharma-esp.com
-phemcy.top
-phemenne.top
 pherkin.xyz
 phoberose.com
-phoenix-ag.ch
 phonekong.com
 picatrawler.com
 picknick-liebe.de
@@ -4239,7 +4223,6 @@ pillenpalast.com
 pilotshof.com
 pimestocktrade.com
 pinguid.xyz
-pinguier.top
 pinkkola.com
 pinkni.com
 pinoplay.de
@@ -4275,11 +4258,8 @@ playstore.de
 playted.de
 playvid.de
 playvox.de
-plesiess.top
 plessner-holz.com
-pluriholz.com
 plusbaumarkt.de
-pluvior.top
 pm365.ga
 pmf24.com
 pmpkp.com
@@ -9771,16 +9751,12 @@ www.openedijti.com
 www.openuplife.com
 www.optic-dias.ru
 www.optimafx.net
-www.optioncryptofx.com
 www.oqianlege.top
 www.orajalifei.com
 www.ordernow24.de
 www.ordritnow.com
-www.ordtic.top
 www.oricgermany.de
-www.original-pandora-schmuck.com
 www.originals-clothing.de
-www.originalshrvatska.co
 www.orisley.com
 www.orizo.de
 www.orrebol.com
@@ -9810,7 +9786,6 @@ www.outlet-online.com
 www.outletsbestsell.site
 www.outletsbuy.site
 www.outletscell.site
-www.outletsonline.ru
 www.outletssell.site
 www.outletuggoutletuk.com
 www.out-runningde.com
@@ -9833,7 +9808,6 @@ www.pamule.com
 www.pamura.com
 www.panamajackschweiz.com
 www.panamajackwien.at
-www.pandoracharmsausverkauf.de
 www.pandorairelandonline.com
 www.pannaholidays.com
 www.panzer-industriebedarf.de
@@ -9843,15 +9817,12 @@ www.papsttasche.de
 www.paradiso24.com
 www.parajumpersitaly.com
 www.parisinpink.com
-www.parkers-williams.com
 www.partnerimwald.ch
 www.partsm.top
 www.pascher.top
 www.passamera.de
 www.passion-fotos.de
-www.pative.shop
 www.paulinasinger.com
-www.pavan.top
 www.pawppithouse.com
 www.paxosgloballogistics.com
 www.payback-ltd.com
@@ -9873,11 +9844,8 @@ www.pegnitzratzen.de
 www.peiaoa.com
 www.pen-bella.de
 www.penederbasis.com
-www.penette.top
 www.pension-heuhexe.de
 www.peoalfonsi.it
-www.peptible.top
-www.perfectcoin.cc
 www.perfectgift.online
 www.perfect-home.co
 www.perfect-invest.ltd
@@ -9904,11 +9872,7 @@ www.pfm-magazin.at
 www.pfotenfans.com
 www.pfotenschule-bremen.de
 www.pg99.cc
-www.pharma-esp.com
-www.phemcy.top
-www.phemenne.top
 www.phoberose.com
-www.phoenix-ag.ch
 www.phonekong.com
 www.picatrawler.com
 www.picknick-liebe.de
@@ -9921,7 +9885,6 @@ www.pillenbox.com
 www.pillenpalast.com
 www.pilotshof.com
 www.pimestocktrade.com
-www.pinguier.top
 www.pinkkola.com
 www.pinkni.com
 www.pinoplay.de
@@ -9954,11 +9917,8 @@ www.playstore.de
 www.playted.de
 www.playvid.de
 www.playvox.de
-www.plesiess.top
 www.plessner-holz.com
-www.pluriholz.com
 www.plusbaumarkt.de
-www.pluvior.top
 www.pm365.ga
 www.pmf24.com
 www.pmpkp.com

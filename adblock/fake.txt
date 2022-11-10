@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 10 Nov 2022 09:09 UTC
-! Version: 2022.1110.0909.21
+! Last modified: 10 Nov 2022 16:17 UTC
+! Version: 2022.1110.1617.35
 ! Syntax: AdBlock
-! Domains: 6191
+! Domains: 6171
 !
 ||11trikots.com^
 ||123brennholz.com^
@@ -4042,16 +4042,12 @@
 ||openuplife.com^
 ||optic-dias.ru^
 ||optimafx.net^
-||optioncryptofx.com^
 ||oqianlege.top^
 ||orajalifei.com^
 ||ordernow24.de^
 ||ordritnow.com^
-||ordtic.top^
 ||oricgermany.de^
-||original-pandora-schmuck.com^
 ||originals-clothing.de^
-||originalshrvatska.co^
 ||orisley.com^
 ||orizo.de^
 ||orrebol.com^
@@ -4088,7 +4084,6 @@
 ||outletsbuy.site^
 ||outletscell.site^
 ||outletsmichaelkors.us.com^
-||outletsonline.ru^
 ||outletssell.site^
 ||outletuggoutletuk.com^
 ||outlet.us.com^
@@ -4117,7 +4112,6 @@
 ||pamura.com^
 ||panamajackschweiz.com^
 ||panamajackwien.at^
-||pandoracharmsausverkauf.de^
 ||pandorairelandonline.com^
 ||pannaholidays.com^
 ||pannale.com^
@@ -4129,16 +4123,13 @@
 ||paradiso24.com^
 ||parajumpersitaly.com^
 ||parisinpink.com^
-||parkers-williams.com^
 ||partnerimwald.ch^
 ||partsm.top^
 ||pascher.top^
 ||passamera.de^
 ||passion-fotos.de^
-||pative.shop^
 ||patrickvetter.de^
 ||paulinasinger.com^
-||pavan.top^
 ||pawppithouse.com^
 ||paxosgloballogistics.com^
 ||payback-ltd.com^
@@ -4161,14 +4152,11 @@
 ||pellet-holz.com^
 ||pen-bella.de^
 ||penederbasis.com^
-||penette.top^
 ||pension-heuhexe.de^
 ||peoalfonsi.it^
 ||people.purecap.xyz^
 ||peptet.xyz^
-||peptible.top^
 ||peranty.xyz^
-||perfectcoin.cc^
 ||perfectgift.online^
 ||perfect-home.co^
 ||perfect-invest.ltd^
@@ -4198,12 +4186,8 @@
 ||pfotenfans.com^
 ||pfotenschule-bremen.de^
 ||pg99.cc^
-||pharma-esp.com^
-||phemcy.top^
-||phemenne.top^
 ||pherkin.xyz^
 ||phoberose.com^
-||phoenix-ag.ch^
 ||phonekong.com^
 ||picatrawler.com^
 ||picknick-liebe.de^
@@ -4217,7 +4201,6 @@
 ||pilotshof.com^
 ||pimestocktrade.com^
 ||pinguid.xyz^
-||pinguier.top^
 ||pinkkola.com^
 ||pinkni.com^
 ||pinoplay.de^
@@ -4253,11 +4236,8 @@
 ||playted.de^
 ||playvid.de^
 ||playvox.de^
-||plesiess.top^
 ||plessner-holz.com^
-||pluriholz.com^
 ||plusbaumarkt.de^
-||pluvior.top^
 ||pm365.ga^
 ||pmf24.com^
 ||pmpkp.com^
