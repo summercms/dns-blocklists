@@ -38925,7 +38925,6 @@
 ||deviatemysticallocking.com^
 ||device9.com^
 ||device-api.asnapieu.com^
-||device-api.urbanairship.com^
 ||device-bridge.net^
 ||device-help.info^
 ||deviceid.trueleadid.com^

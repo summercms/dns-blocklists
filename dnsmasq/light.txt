@@ -38925,7 +38925,6 @@ address=/deviantart.crwdcntrl.net/#
 address=/deviatemysticallocking.com/#
 address=/device9.com/#
 address=/device-api.asnapieu.com/#
-address=/device-api.urbanairship.com/#
 address=/device-bridge.net/#
 address=/device-help.info/#
 address=/deviceid.trueleadid.com/#
