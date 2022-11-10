@@ -98,7 +98,8 @@
 @@|securemvt.apple.com^
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
-@@|xp.apple.com^
+! https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558
+! xp.apple.com
 
 ! Certificates
 @@||digicert.com^
@@ -211,7 +212,9 @@
 @@|*api.*.microsoft.com^
 @@|*microsoft.online-metrix.net^
 @@|*v10.events.data.microsoft.com^
+@@|*v10.vortex-win.data.microsoft.com^
 @@|*v20.events.data.microsoft.com^
+@@|*v20.vortex-win.data.microsoft.com^
 @@|activity.windows.com^
 @@|arc.msn.com^
 @@|assets.activity.windows.com^
@@ -229,6 +232,7 @@
 @@|nexusrules.live.com^
 @@|nexusrules.live.com.akadns.net^
 @@|nexusrules.officeapps.live.com^
+@@|onecollector.cloudapp.aria.akadns.net^
 @@|onedscolprd*.*.cloudapp.azure.com^
 @@|prod.nexusrules.live.com.akadns.net^
 @@|self-events-data.trafficmanager.net^
@@ -536,9 +540,6 @@
 
 ! Verbraucherzentrale NRW (detected by NRD)
 @@|fakeshop-finder.nrw^
-
-! Breaks Paypal purchase processing on some german shopping sites
-@@|*paypalxm.siteintercept.qualtrics.com^
 
 ! required for steam purchases
 @@|t.paypal.com^
@@ -1097,8 +1098,7 @@
 @@|sdk-02.moengage.com^
 
 ! Surveys and more
-@@||qualtrics.com^
-@@||qprod2.net^
+@@|qualtrics.com^
 
 ! Videos on heise.de
 @@|cdnapisec.kaltura.com^
