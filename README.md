@@ -264,7 +264,7 @@ My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) ar
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
 
-*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.         *
+*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*         
 *They are updated and maintained daily.*
 
 #### Referral Domains <a name="referral"></a>
