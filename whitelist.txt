@@ -94,15 +94,15 @@ pv-cdn.net
 *.safebrowsing.apple
 *.smoot.apple.com
 cstat.apple.com
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
+# doh.dns.apple.com
+# doh.dns.apple.com.v.aaplimg.com
 inappcheck*.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
-mask-api.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
-mask.icloud.com
+# mask-api.icloud.com
+# mask-h2.icloud.com
+# mask.apple-dns.net
+# mask.icloud.com
 ocsp*.apple.com
 securemvt.apple.com
 smp-device-content.apple.com
@@ -281,12 +281,18 @@ www.msftconnecttest.com
 
 # Netflix
 netflix.com
-netflix.net
-nflxext.com
-nflximg.com
-nflximg.net
-nflxso.net
-nflxvideo.net
+*.netflix.net
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
+ichnaea.netflix.com
+ichnaea.dradis.netflix.com
+ichnaea.*.origin.prodaa.netflix.com
+nrdp.nccp.netflix.com
+nrdp.nccp.dradis.netflix.com
+nrdp.nccp.*.origin.prodaa.netflix.com
 
 # Nintendo Switch
 nintendo.com
