@@ -1693,3 +1693,6 @@ dailycaller.com
 *.aimon.applicationinsights.io
 applicationinsights.io
 
+# RBC Two step authentication
+d3tracking.rbc.com
+
