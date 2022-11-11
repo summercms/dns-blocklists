@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 16:17 UTC
-# Version: 2022.1110.1617.35
+# Last modified: 11 Nov 2022 00:53 UTC
+# Version: 2022.1111.0053.17
 # Syntax: Hosts
-# Domains: 11824
+# Domains: 11781
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -4292,7 +4292,6 @@
 0.0.0.0 potenzguru.co
 0.0.0.0 potenz-kaufhaus.de
 0.0.0.0 potenzmittel-apotheke.eu
-0.0.0.0 potory.top
 0.0.0.0 pottenmoor.de
 0.0.0.0 powercityi.com
 0.0.0.0 powergamestop.de
@@ -4304,7 +4303,6 @@
 0.0.0.0 ppneww.top
 0.0.0.0 pqhw.com
 0.0.0.0 pradler-media.com
-0.0.0.0 praving.top
 0.0.0.0 preisschock.com
 0.0.0.0 premiumcasualdating.at
 0.0.0.0 premiumcasualdating.ch
@@ -4328,7 +4326,6 @@
 0.0.0.0 price-fee.com
 0.0.0.0 primatop.de
 0.0.0.0 primavergleich.de
-0.0.0.0 primawise.top
 0.0.0.0 primelogisticllc.com
 0.0.0.0 printyourgesicht24.de
 0.0.0.0 privatecustomart.com
@@ -4364,10 +4361,8 @@
 0.0.0.0 pskonsolen.de
 0.0.0.0 psyconsilium.de
 0.0.0.0 psyges.de
-0.0.0.0 pteronory.top
 0.0.0.0 pthipv.com
 0.0.0.0 pts-personal.de
-0.0.0.0 publicess.top
 0.0.0.0 pudnowa.com
 0.0.0.0 puhotka.ru
 0.0.0.0 pumacredit.de
@@ -4393,7 +4388,6 @@
 0.0.0.0 pytssw.com
 0.0.0.0 qaitey.com
 0.0.0.0 qakppo.top
-0.0.0.0 qdevelope.com
 0.0.0.0 qenova.com
 0.0.0.0 qepmtn.shop
 0.0.0.0 qeridoo-kids.de
@@ -4417,7 +4411,6 @@
 0.0.0.0 qwoeg.com
 0.0.0.0 qzzfg7zy0r.online
 0.0.0.0 rabattdisne.com
-0.0.0.0 rabattdisney.com
 0.0.0.0 rabatteundcoupons.de
 0.0.0.0 rabatt.feenladen.at
 0.0.0.0 rachety.xyz
@@ -4425,7 +4418,6 @@
 0.0.0.0 radbekleidung4u.com
 0.0.0.0 radeondelivery.com
 0.0.0.0 rader-loewen.de
-0.0.0.0 radfahrershop.com
 0.0.0.0 rad-fahrrad.de
 0.0.0.0 radikhub.com
 0.0.0.0 radinod.com
@@ -4440,9 +4432,7 @@
 0.0.0.0 raealed.club
 0.0.0.0 ra-fragrance.co.uk
 0.0.0.0 ra-ganske.de
-0.0.0.0 ra-gleissner.de
 0.0.0.0 raidntrail.com
-0.0.0.0 raiment.nyc
 0.0.0.0 rainbeating.com
 0.0.0.0 rainbowsendgoa.com
 0.0.0.0 rakasti.de
@@ -4455,11 +4445,9 @@
 0.0.0.0 ranjnagupta.com
 0.0.0.0 ranthambhorekothi.com
 0.0.0.0 rapidprotrades.com
-0.0.0.0 raptment.top
 0.0.0.0 rareplantworld.com
 0.0.0.0 rasengarten.com
 0.0.0.0 rases.work
-0.0.0.0 rasition.top
 0.0.0.0 ratemyaxe.com
 0.0.0.0 ravenprombagsoutlet2021.com
 0.0.0.0 ravensburger-krippenland.de
@@ -4487,7 +4475,6 @@
 0.0.0.0 redactjuri.fr
 0.0.0.0 redebcna.com
 0.0.0.0 red-estate.com
-0.0.0.0 redexcoln.com
 0.0.0.0 redflix.de
 0.0.0.0 reeboknanonz.com
 0.0.0.0 reel-market.de
@@ -4496,7 +4483,6 @@
 0.0.0.0 regenmantel24.de
 0.0.0.0 regensaar.com
 0.0.0.0 reginaop.com
-0.0.0.0 regionit.top
 0.0.0.0 regio-treuhand.de
 0.0.0.0 registerwegweiser.info
 0.0.0.0 regli-coaching.com
@@ -4514,7 +4500,6 @@
 0.0.0.0 reisebuero-mueller.co
 0.0.0.0 reise-tipps.at
 0.0.0.0 reiseweltat6.wixsite.com
-0.0.0.0 reiterhof-geidner.de
 0.0.0.0 related-ag.com
 0.0.0.0 relaxify.de
 0.0.0.0 reli-lex.de
@@ -4580,7 +4565,6 @@
 0.0.0.0 richtigwillig.at
 0.0.0.0 richtigwillig.ch
 0.0.0.0 richtigwillig.de
-0.0.0.0 ridero-bikes.uk
 0.0.0.0 ridgwa.com
 0.0.0.0 ridlog.com
 0.0.0.0 riedlingen-fewo.de
@@ -4593,7 +4577,6 @@
 0.0.0.0 riotintofx-crypto.com
 0.0.0.0 riptidesoccer.org
 0.0.0.0 riquedevil.de
-0.0.0.0 riskfier.top
 0.0.0.0 ristoroparadiso.it
 0.0.0.0 ritter-mode.com
 0.0.0.0 rivalla.de
@@ -4605,7 +4588,6 @@
 0.0.0.0 rnobudz.top
 0.0.0.0 robbylake.com
 0.0.0.0 robuxforyou.info
-0.0.0.0 rockule.top
 0.0.0.0 rockwell-berlin.de
 0.0.0.0 rocolee.com
 0.0.0.0 roderixu.top
@@ -4627,13 +4609,11 @@
 0.0.0.0 romaplay.de
 0.0.0.0 romda.dk
 0.0.0.0 ronain.com
-0.0.0.0 ronald-schminke.de
 0.0.0.0 roncartoons.de
 0.0.0.0 roof-tube.com
 0.0.0.0 roomard.xyz
 0.0.0.0 roombrand.ru
 0.0.0.0 roomflix.de
-0.0.0.0 roomster.top
 0.0.0.0 rosasommer.com
 0.0.0.0 rosedoris.com
 0.0.0.0 rosemaryf.com
@@ -4663,7 +4643,6 @@
 0.0.0.0 rub-guben.de
 0.0.0.0 rubyfo.com
 0.0.0.0 ruckusclothing.com
-0.0.0.0 rudolf-karl.de
 0.0.0.0 rugkin.xyz
 0.0.0.0 rukez.de
 0.0.0.0 rundesilberlinge.de
@@ -4681,7 +4660,6 @@
 0.0.0.0 sagstern.com
 0.0.0.0 sakaziq.com
 0.0.0.0 salcarriers.com
-0.0.0.0 saleonline.storesoutlet2021.ru
 0.0.0.0 salesconsulter.de
 0.0.0.0 sallofino.de
 0.0.0.0 salomonaschweiz.com
@@ -9948,7 +9926,6 @@
 0.0.0.0 www.potenzguru.co
 0.0.0.0 www.potenz-kaufhaus.de
 0.0.0.0 www.potenzmittel-apotheke.eu
-0.0.0.0 www.potory.top
 0.0.0.0 www.pottenmoor.de
 0.0.0.0 www.powercityi.com
 0.0.0.0 www.powergamestop.de
@@ -9958,7 +9935,6 @@
 0.0.0.0 www.ppchen.de
 0.0.0.0 www.ppneww.top
 0.0.0.0 www.pqhw.com
-0.0.0.0 www.praving.top
 0.0.0.0 www.preisschock.com
 0.0.0.0 www.premiumcasualdating.at
 0.0.0.0 www.premiumcasualdating.ch
@@ -9982,7 +9958,6 @@
 0.0.0.0 www.price-fee.com
 0.0.0.0 www.primatop.de
 0.0.0.0 www.primavergleich.de
-0.0.0.0 www.primawise.top
 0.0.0.0 www.primelogisticllc.com
 0.0.0.0 www.printyourgesicht24.de
 0.0.0.0 www.privatecustomart.com
@@ -10014,10 +9989,8 @@
 0.0.0.0 www.pskonsolen.de
 0.0.0.0 www.psyconsilium.de
 0.0.0.0 www.psyges.de
-0.0.0.0 www.pteronory.top
 0.0.0.0 www.pthipv.com
 0.0.0.0 www.pts-personal.de
-0.0.0.0 www.publicess.top
 0.0.0.0 www.pudnowa.com
 0.0.0.0 www.puhotka.ru
 0.0.0.0 www.pumacredit.de
@@ -10042,7 +10015,6 @@
 0.0.0.0 www.pytssw.com
 0.0.0.0 www.qaitey.com
 0.0.0.0 www.qakppo.top
-0.0.0.0 www.qdevelope.com
 0.0.0.0 www.qenova.com
 0.0.0.0 www.qepmtn.shop
 0.0.0.0 www.qeridoo-kids.de
@@ -10062,13 +10034,11 @@
 0.0.0.0 www.qwoeg.com
 0.0.0.0 www.qzzfg7zy0r.online
 0.0.0.0 www.rabattdisne.com
-0.0.0.0 www.rabattdisney.com
 0.0.0.0 www.rabatteundcoupons.de
 0.0.0.0 www.radaflex.de
 0.0.0.0 www.radbekleidung4u.com
 0.0.0.0 www.radeondelivery.com
 0.0.0.0 www.rader-loewen.de
-0.0.0.0 www.radfahrershop.com
 0.0.0.0 www.rad-fahrrad.de
 0.0.0.0 www.radikhub.com
 0.0.0.0 www.radinod.com
@@ -10082,9 +10052,7 @@
 0.0.0.0 www.radyo-muzik.com
 0.0.0.0 www.raealed.club
 0.0.0.0 www.ra-ganske.de
-0.0.0.0 www.ra-gleissner.de
 0.0.0.0 www.raidntrail.com
-0.0.0.0 www.raiment.nyc
 0.0.0.0 www.rainbeating.com
 0.0.0.0 www.rainbowsendgoa.com
 0.0.0.0 www.rakasti.de
@@ -10097,11 +10065,9 @@
 0.0.0.0 www.ranjnagupta.com
 0.0.0.0 www.ranthambhorekothi.com
 0.0.0.0 www.rapidprotrades.com
-0.0.0.0 www.raptment.top
 0.0.0.0 www.rareplantworld.com
 0.0.0.0 www.rasengarten.com
 0.0.0.0 www.rases.work
-0.0.0.0 www.rasition.top
 0.0.0.0 www.ratemyaxe.com
 0.0.0.0 www.ravenprombagsoutlet2021.com
 0.0.0.0 www.ravensburger-krippenland.de
@@ -10128,7 +10094,6 @@
 0.0.0.0 www.redactjuri.fr
 0.0.0.0 www.redebcna.com
 0.0.0.0 www.red-estate.com
-0.0.0.0 www.redexcoln.com
 0.0.0.0 www.redflix.de
 0.0.0.0 www.reeboknanonz.com
 0.0.0.0 www.reel-market.de
@@ -10137,7 +10102,6 @@
 0.0.0.0 www.regenmantel24.de
 0.0.0.0 www.regensaar.com
 0.0.0.0 www.reginaop.com
-0.0.0.0 www.regionit.top
 0.0.0.0 www.regio-treuhand.de
 0.0.0.0 www.registerwegweiser.info
 0.0.0.0 www.regli-coaching.com
@@ -10154,7 +10118,6 @@
 0.0.0.0 www.reisebuero-krah.de
 0.0.0.0 www.reisebuero-mueller.co
 0.0.0.0 www.reise-tipps.at
-0.0.0.0 www.reiterhof-geidner.de
 0.0.0.0 www.related-ag.com
 0.0.0.0 www.relaxify.de
 0.0.0.0 www.reli-lex.de
@@ -10218,7 +10181,6 @@
 0.0.0.0 www.richtigwillig.at
 0.0.0.0 www.richtigwillig.ch
 0.0.0.0 www.richtigwillig.de
-0.0.0.0 www.ridero-bikes.uk
 0.0.0.0 www.ridgwa.com
 0.0.0.0 www.ridlog.com
 0.0.0.0 www.riedlingen-fewo.de
@@ -10230,7 +10192,6 @@
 0.0.0.0 www.riotintofx-crypto.com
 0.0.0.0 www.riptidesoccer.org
 0.0.0.0 www.riquedevil.de
-0.0.0.0 www.riskfier.top
 0.0.0.0 www.ristoroparadiso.it
 0.0.0.0 www.ritter-mode.com
 0.0.0.0 www.rivalla.de
@@ -10242,7 +10203,6 @@
 0.0.0.0 www.rnobudz.top
 0.0.0.0 www.robbylake.com
 0.0.0.0 www.robuxforyou.info
-0.0.0.0 www.rockule.top
 0.0.0.0 www.rockwell-berlin.de
 0.0.0.0 www.rocolee.com
 0.0.0.0 www.roderixu.top
@@ -10264,12 +10224,10 @@
 0.0.0.0 www.romaplay.de
 0.0.0.0 www.romda.dk
 0.0.0.0 www.ronain.com
-0.0.0.0 www.ronald-schminke.de
 0.0.0.0 www.roncartoons.de
 0.0.0.0 www.roof-tube.com
 0.0.0.0 www.roombrand.ru
 0.0.0.0 www.roomflix.de
-0.0.0.0 www.roomster.top
 0.0.0.0 www.rosasommer.com
 0.0.0.0 www.rosemaryf.com
 0.0.0.0 www.rosenberg-drogerie.net
@@ -10298,7 +10256,6 @@
 0.0.0.0 www.rub-guben.de
 0.0.0.0 www.rubyfo.com
 0.0.0.0 www.ruckusclothing.com
-0.0.0.0 www.rudolf-karl.de
 0.0.0.0 www.rundesilberlinge.de
 0.0.0.0 www.runningexperience.de
 0.0.0.0 www.russellbromleyschuhe.com

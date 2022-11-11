@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Nov 2022 16:17 UTC
-# Version: 2022.1110.1617.35
+# Last modified: 11 Nov 2022 00:53 UTC
+# Version: 2022.1111.0053.17
 # Syntax: Domains
-# Domains: 11824
+# Domains: 11781
 #
 11trikots.com
 123brennholz.com
@@ -4292,7 +4292,6 @@ potentialar.com
 potenzguru.co
 potenz-kaufhaus.de
 potenzmittel-apotheke.eu
-potory.top
 pottenmoor.de
 powercityi.com
 powergamestop.de
@@ -4304,7 +4303,6 @@ ppchen.de
 ppneww.top
 pqhw.com
 pradler-media.com
-praving.top
 preisschock.com
 premiumcasualdating.at
 premiumcasualdating.ch
@@ -4328,7 +4326,6 @@ prettylittlekitchen.com
 price-fee.com
 primatop.de
 primavergleich.de
-primawise.top
 primelogisticllc.com
 printyourgesicht24.de
 privatecustomart.com
@@ -4364,10 +4361,8 @@ pr-ruehle.de
 pskonsolen.de
 psyconsilium.de
 psyges.de
-pteronory.top
 pthipv.com
 pts-personal.de
-publicess.top
 pudnowa.com
 puhotka.ru
 pumacredit.de
@@ -4393,7 +4388,6 @@ pyroxtrem.com
 pytssw.com
 qaitey.com
 qakppo.top
-qdevelope.com
 qenova.com
 qepmtn.shop
 qeridoo-kids.de
@@ -4417,7 +4411,6 @@ quolak.de
 qwoeg.com
 qzzfg7zy0r.online
 rabattdisne.com
-rabattdisney.com
 rabatteundcoupons.de
 rabatt.feenladen.at
 rachety.xyz
@@ -4425,7 +4418,6 @@ radaflex.de
 radbekleidung4u.com
 radeondelivery.com
 rader-loewen.de
-radfahrershop.com
 rad-fahrrad.de
 radikhub.com
 radinod.com
@@ -4440,9 +4432,7 @@ radyo-muzik.com
 raealed.club
 ra-fragrance.co.uk
 ra-ganske.de
-ra-gleissner.de
 raidntrail.com
-raiment.nyc
 rainbeating.com
 rainbowsendgoa.com
 rakasti.de
@@ -4455,11 +4445,9 @@ rangpoa.com
 ranjnagupta.com
 ranthambhorekothi.com
 rapidprotrades.com
-raptment.top
 rareplantworld.com
 rasengarten.com
 rases.work
-rasition.top
 ratemyaxe.com
 ravenprombagsoutlet2021.com
 ravensburger-krippenland.de
@@ -4487,7 +4475,6 @@ rechtsanwalt-eickelberg.de
 redactjuri.fr
 redebcna.com
 red-estate.com
-redexcoln.com
 redflix.de
 reeboknanonz.com
 reel-market.de
@@ -4496,7 +4483,6 @@ refreshedts.online
 regenmantel24.de
 regensaar.com
 reginaop.com
-regionit.top
 regio-treuhand.de
 registerwegweiser.info
 regli-coaching.com
@@ -4514,7 +4500,6 @@ reisebuero-krah.de
 reisebuero-mueller.co
 reise-tipps.at
 reiseweltat6.wixsite.com
-reiterhof-geidner.de
 related-ag.com
 relaxify.de
 reli-lex.de
@@ -4580,7 +4565,6 @@ richtigwild.at
 richtigwillig.at
 richtigwillig.ch
 richtigwillig.de
-ridero-bikes.uk
 ridgwa.com
 ridlog.com
 riedlingen-fewo.de
@@ -4593,7 +4577,6 @@ rinkieker.de
 riotintofx-crypto.com
 riptidesoccer.org
 riquedevil.de
-riskfier.top
 ristoroparadiso.it
 ritter-mode.com
 rivalla.de
@@ -4605,7 +4588,6 @@ rkzhb.com
 rnobudz.top
 robbylake.com
 robuxforyou.info
-rockule.top
 rockwell-berlin.de
 rocolee.com
 roderixu.top
@@ -4627,13 +4609,11 @@ romantisches-mecklenburg.de
 romaplay.de
 romda.dk
 ronain.com
-ronald-schminke.de
 roncartoons.de
 roof-tube.com
 roomard.xyz
 roombrand.ru
 roomflix.de
-roomster.top
 rosasommer.com
 rosedoris.com
 rosemaryf.com
@@ -4663,7 +4643,6 @@ rtcmarkt.com
 rub-guben.de
 rubyfo.com
 ruckusclothing.com
-rudolf-karl.de
 rugkin.xyz
 rukez.de
 rundesilberlinge.de
@@ -4681,7 +4660,6 @@ sabines-laden.com
 sagstern.com
 sakaziq.com
 salcarriers.com
-saleonline.storesoutlet2021.ru
 salesconsulter.de
 sallofino.de
 salomonaschweiz.com
@@ -9948,7 +9926,6 @@ www.potentialar.com
 www.potenzguru.co
 www.potenz-kaufhaus.de
 www.potenzmittel-apotheke.eu
-www.potory.top
 www.pottenmoor.de
 www.powercityi.com
 www.powergamestop.de
@@ -9958,7 +9935,6 @@ www.pozo-agua.com
 www.ppchen.de
 www.ppneww.top
 www.pqhw.com
-www.praving.top
 www.preisschock.com
 www.premiumcasualdating.at
 www.premiumcasualdating.ch
@@ -9982,7 +9958,6 @@ www.prettylittlekitchen.com
 www.price-fee.com
 www.primatop.de
 www.primavergleich.de
-www.primawise.top
 www.primelogisticllc.com
 www.printyourgesicht24.de
 www.privatecustomart.com
@@ -10014,10 +9989,8 @@ www.pr-ruehle.de
 www.pskonsolen.de
 www.psyconsilium.de
 www.psyges.de
-www.pteronory.top
 www.pthipv.com
 www.pts-personal.de
-www.publicess.top
 www.pudnowa.com
 www.puhotka.ru
 www.pumacredit.de
@@ -10042,7 +10015,6 @@ www.pyroxtrem.com
 www.pytssw.com
 www.qaitey.com
 www.qakppo.top
-www.qdevelope.com
 www.qenova.com
 www.qepmtn.shop
 www.qeridoo-kids.de
@@ -10062,13 +10034,11 @@ www.quinlet.xyz
 www.qwoeg.com
 www.qzzfg7zy0r.online
 www.rabattdisne.com
-www.rabattdisney.com
 www.rabatteundcoupons.de
 www.radaflex.de
 www.radbekleidung4u.com
 www.radeondelivery.com
 www.rader-loewen.de
-www.radfahrershop.com
 www.rad-fahrrad.de
 www.radikhub.com
 www.radinod.com
@@ -10082,9 +10052,7 @@ www.rad-xpert.de
 www.radyo-muzik.com
 www.raealed.club
 www.ra-ganske.de
-www.ra-gleissner.de
 www.raidntrail.com
-www.raiment.nyc
 www.rainbeating.com
 www.rainbowsendgoa.com
 www.rakasti.de
@@ -10097,11 +10065,9 @@ www.rangpoa.com
 www.ranjnagupta.com
 www.ranthambhorekothi.com
 www.rapidprotrades.com
-www.raptment.top
 www.rareplantworld.com
 www.rasengarten.com
 www.rases.work
-www.rasition.top
 www.ratemyaxe.com
 www.ravenprombagsoutlet2021.com
 www.ravensburger-krippenland.de
@@ -10128,7 +10094,6 @@ www.rechtsanwalt-eickelberg.de
 www.redactjuri.fr
 www.redebcna.com
 www.red-estate.com
-www.redexcoln.com
 www.redflix.de
 www.reeboknanonz.com
 www.reel-market.de
@@ -10137,7 +10102,6 @@ www.refreshedts.online
 www.regenmantel24.de
 www.regensaar.com
 www.reginaop.com
-www.regionit.top
 www.regio-treuhand.de
 www.registerwegweiser.info
 www.regli-coaching.com
@@ -10154,7 +10118,6 @@ www.reisebuero-kirsch.com
 www.reisebuero-krah.de
 www.reisebuero-mueller.co
 www.reise-tipps.at
-www.reiterhof-geidner.de
 www.related-ag.com
 www.relaxify.de
 www.reli-lex.de
@@ -10218,7 +10181,6 @@ www.richtigwild.at
 www.richtigwillig.at
 www.richtigwillig.ch
 www.richtigwillig.de
-www.ridero-bikes.uk
 www.ridgwa.com
 www.ridlog.com
 www.riedlingen-fewo.de
@@ -10230,7 +10192,6 @@ www.rinkieker.de
 www.riotintofx-crypto.com
 www.riptidesoccer.org
 www.riquedevil.de
-www.riskfier.top
 www.ristoroparadiso.it
 www.ritter-mode.com
 www.rivalla.de
@@ -10242,7 +10203,6 @@ www.rkzhb.com
 www.rnobudz.top
 www.robbylake.com
 www.robuxforyou.info
-www.rockule.top
 www.rockwell-berlin.de
 www.rocolee.com
 www.roderixu.top
@@ -10264,12 +10224,10 @@ www.romantisches-mecklenburg.de
 www.romaplay.de
 www.romda.dk
 www.ronain.com
-www.ronald-schminke.de
 www.roncartoons.de
 www.roof-tube.com
 www.roombrand.ru
 www.roomflix.de
-www.roomster.top
 www.rosasommer.com
 www.rosemaryf.com
 www.rosenberg-drogerie.net
@@ -10298,7 +10256,6 @@ www.rtcmarkt.com
 www.rub-guben.de
 www.rubyfo.com
 www.ruckusclothing.com
-www.rudolf-karl.de
 www.rundesilberlinge.de
 www.runningexperience.de
 www.russellbromleyschuhe.com
