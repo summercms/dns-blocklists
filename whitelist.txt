@@ -1703,3 +1703,6 @@ services.chipotle.com
 # apple-dns.net
 apple-dns.net
 
+# Articles on buzzfee.com
+abeagle-public.buzzfeed.com
+
