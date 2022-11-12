@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Nov 2022 14:32 UTC
-# Version: 2022.1111.1432.29
+# Last modified: 12 Nov 2022 01:22 UTC
+# Version: 2022.1112.0122.36
 # Syntax: DNSMasq
-# Domains: 592
+# Domains: 593
 #
 address=/t.1und1.de/#
 address=/24coinix.com/#
@@ -181,6 +181,7 @@ address=/grs.dbankcloud.asia/#
 address=/grs.dbankcloud.cn/#
 address=/grs.dbankcloud.com/#
 address=/grs.platform.dbankcloud.ru/#
+address=/logservice-dre.platform.dbankcloud.cn/#
 address=/ddjiayou.cn/#
 address=/tracker.debiantestserver.de/#
 address=/analytics.debutify.com/#
