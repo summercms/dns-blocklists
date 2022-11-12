@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 00:48 UTC
-# Version: 2022.1112.0048.19
+# Last modified: 12 Nov 2022 05:37 UTC
+# Version: 2022.1112.0537.14
 # Syntax: DNSMasq
-# Domains: 887
+# Domains: 886
 #
 address=/012proxy.ga/#
 address=/12vpx.com/#
@@ -76,7 +76,6 @@ address=/anonymousvpn.info/#
 address=/anonymousvpn.org/#
 address=/anonymster.com/#
 address=/doh.dns.apple.com/#
-address=/apple-dns.net/#
 address=/doh.applied-privacy.net/#
 address=/dot1.applied-privacy.net/#
 address=/doh.appliedprivacy.net/#

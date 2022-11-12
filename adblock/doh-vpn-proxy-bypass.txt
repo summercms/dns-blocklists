@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 12 Nov 2022 00:48 UTC
-! Version: 2022.1112.0048.19
+! Last modified: 12 Nov 2022 05:37 UTC
+! Version: 2022.1112.0537.14
 ! Syntax: AdBlock
-! Domains: 887
+! Domains: 886
 !
 ||012proxy.ga^
 ||12vpx.com^
@@ -76,7 +76,6 @@
 ||anonymousvpn.org^
 ||anonymster.com^
 ||doh.dns.apple.com^
-||apple-dns.net^
 ||doh.applied-privacy.net^
 ||dot1.applied-privacy.net^
 ||doh.appliedprivacy.net^
