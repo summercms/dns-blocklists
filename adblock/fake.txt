@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 12 Nov 2022 00:53 UTC
-! Version: 2022.1112.0053.19
+! Last modified: 12 Nov 2022 07:18 UTC
+! Version: 2022.1112.0718.19
 ! Syntax: AdBlock
-! Domains: 6090
+! Domains: 6076
 !
 ||11trikots.com^
 ||123brennholz.com^
@@ -484,7 +484,6 @@
 ||barando-online.de^
 ||barando-shop.de^
 ||barbaravonfrisch.at^
-||barbefisch.de^
 ||barborabatt.com^
 ||barboutletus.com^
 ||bardacstore.com^
@@ -672,7 +671,6 @@
 ||black-forestcake.com^
 ||blackwidow.at^
 ||blade-pirates.de^
-||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -1765,7 +1763,6 @@
 ||etradecapitals.com^
 ||etr-karlsruhe.de^
 ||eu.2bagsvalley.cn^
-||eubiofficial.com^
 ||euchcte.top^
 ||eulengewisper.de^
 ||eurlogistic.com^
@@ -3120,7 +3117,6 @@
 ||lasportivaosterreich.at^
 ||lastore.net^
 ||lastresortshipping.com^
-||lasuperhousse.com^
 ||latestinvestmentopportunity.com^
 ||latexcatfish.com^
 ||laubfall.de^
@@ -3231,7 +3227,6 @@
 ||livinghome-shop.de^
 ||livingluxe.de^
 ||livoda.de^
-||livsy.de^
 ||lizabete.com^
 ||lizenzdeal.de^
 ||ljiankun.com^
@@ -4245,7 +4240,6 @@
 ||pmpkp.com^
 ||pmsciart.com^
 ||pogelos.de^
-||pointdsgn.com^
 ||point-x.shop^
 ||pokestores.com^
 ||polenboeller-bestellen.com^
@@ -5517,7 +5511,6 @@
 ||uggbootssale-deutschland.net^
 ||uggboots.us.org^
 ||uggcp.com^
-||uggexpress.com.au^
 ||uggoutletosterreich.com^
 ||uggslipperssale.top^
 ||uggsmen.top^
@@ -5731,7 +5724,6 @@
 ||volpe-shop.de^
 ||voltus-elektroshop.de^
 ||vom-goldenchamp.de^
-||vondacoco.com^
 ||vonpundl.de^
 ||voodoo-cable.de^
 ||voreno.de^
@@ -5860,7 +5852,6 @@
 ||whatstore.de^
 ||whecler.top^
 ||whiindia.org^
-||whileics.top^
 ||wholesale-burberry.com^
 ||whs-shop.ru^
 ||whsyspa.top^
@@ -5899,7 +5890,6 @@
 ||wirlaufenzurschule.de^
 ||wir-sind-goldhandel.de^
 ||wirtschaftliches.com^
-||wirva.de^
 ||wisatareligi.com^
 ||wise-carrytrucks.com^
 ||wiselux.co^
@@ -5919,13 +5909,11 @@
 ||wohnmobilurlaub24.de^
 ||wohntraumland.de^
 ||wolffashion.de^
-||wolf-juergen.de^
 ||wolfplay.de^
 ||wolverineschuhes.de^
 ||womensdailystore.de^
 ||wonderbacks.store^
 ||wonderdream.co^
-||wood-art-germany.de^
 ||woodensbag.shop^
 ||woodoclock.de^
 ||wood-ohanlon.com^
@@ -5946,7 +5934,6 @@
 ||wqnck.com^
 ||wrhxg.com^
 ||wristbandpin.com^
-||wrongian.top^
 ||wsocialis.com^
 ||wt-hagen.de^
 ||wt-schwentinental.de^
@@ -5957,7 +5944,6 @@
 ||wunschau.de^
 ||wunschfans.de^
 ||wwd.bags2020c.cz^
-||wwd.sneaker2020a.com^
 ||wwf.bags2020a.com^
 ||wxnlucky.com^
 ||wynajemwroclaw.com^
