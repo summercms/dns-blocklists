@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Nov 2022 00:53 UTC
-# Version: 2022.1111.0053.17
+# Last modified: 12 Nov 2022 00:53 UTC
+# Version: 2022.1112.0053.19
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6149
+# Domains: 6090
 #
 *.11trikots.com
 *.123brennholz.com
@@ -672,6 +672,7 @@
 *.black-forestcake.com
 *.blackwidow.at
 *.blade-pirates.de
+*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -2406,6 +2407,7 @@
 *.hallobh.de
 *.hallohaus.co
 *.hallohaus.com
+*.hamburg-hotel.net
 *.hamega.net
 *.hammer-schmid.com
 *.handbagbrandsonline.com
@@ -4649,10 +4651,8 @@
 *.samfanco.com
 *.samofotografie.de
 *.samuna.net
-*.sancteur.top
 *.sandkproject.com
 *.sandra-schwarz.de
-*.sandra-und-tobias.de
 *.sanfter-kaffe.de
 *.sansapoten.com
 *.santikadesign.com
@@ -4675,7 +4675,6 @@
 *.savela.de
 *.savesshop.com
 *.saweushop.com
-*.sbv-management.de
 *.sbwecm.top
 *.scarpaschuheoutlet.at
 *.scarpaschuhesale.at
@@ -4730,7 +4729,6 @@
 *.screenacy.co
 *.screenwithenvy.de
 *.scribblepen.com
-*.scribot.top
 *.sebastiankoth.de
 *.secretcasual.at
 *.secretcasual.ch
@@ -4753,7 +4751,6 @@
 *.seitensprungexklusiv.de
 *.seitensprung-heute.com
 *.selected-software.de
-*.seleod.com
 *.selina-nails.de
 *.selivoo.de
 *.sellbest.eu
@@ -4766,7 +4763,6 @@
 *.seniorendatingagentur.at
 *.seniorlivinglab.ch
 *.sensalve.de
-*.sensefums.com
 *.senthiln.top
 *.seoyou.de
 *.seprun.com
@@ -4858,13 +4854,11 @@
 *.shopwithpalo.com
 *.shreshaenterprises.com
 *.shw-haushalt.de
-*.sia-coins.com
 *.siaeglisiwoodltd.com
 *.siamrose.com
 *.sibuyan.de
 *.sichernow.com
 *.siebelleberlin.com
-*.siebmaster.de
 *.sielyss.com
 *.sikarint.com
 *.sikatechnologie.com
@@ -4907,7 +4901,6 @@
 *.slightsmeell.com
 *.slimyliquid.de
 *.slimyvita.de
-*.slubmauritius.com
 *.slutmedtandlaegeskraek.dk
 *.smartautofxtrades.online
 *.smartbuyglasses.at
@@ -4922,7 +4915,6 @@
 *.smtkauf.de
 *.smushgame.com
 *.smxrt.de
-*.sneakers4you.eu
 *.sneakersbrook18.com
 *.sneakers-center.com
 *.sneakerspalette-de.com
@@ -4936,16 +4928,12 @@
 *.sofa-sauber.com
 *.soflix.de
 *.so-fm.de
-*.solaceous.top
-*.solandis.com
 *.solanex.de
 *.solanzo.de
 *.solarcheck.at
 *.solar-liquid.de
 *.solarnetz.at
 *.solarrichter.net
-*.soldieret.top
-*.solidish.top
 *.solmtxa.com
 *.solonix.de
 *.solooks.com
@@ -4981,7 +4969,6 @@
 *.spereur.xyz
 *.spherecryptos.com
 *.spiegler1.de
-*.spiele-grotte.de
 *.spielekonsole-market.com
 *.spieleund-konsolen.com
 *.spielmobil-ottocar.de
@@ -5002,7 +4989,6 @@
 *.sport-handel24.de
 *.sporth.net
 *.sporthotel-schwerin.de
-*.sportmitbauch.de
 *.sportnewsdirect.com
 *.sport-rausch.de
 *.sports-discount.net
@@ -5012,7 +4998,6 @@
 *.sporty-you.club
 *.sprachgenie.at
 *.sprayitonyou.com
-*.spree-elektro.de
 *.sprint-market.com
 *.sputty.xyz
 *.spyder-outlet.com
@@ -5080,7 +5065,6 @@
 *.storeaustria.com
 *.storecheap.fun
 *.store.dobot.cc
-*.storeety.top
 *.storeincart.club
 *.storesbuy.site
 *.store.useum.org
@@ -5090,14 +5074,12 @@
 *.strandkorbia.com
 *.strassenware.de
 *.strategic-expansion.com
-*.strausskoeln.de
 *.strawberrymilkshop.com
 *.streamago.de
 *.streamcloud-deutsch.com
 *.streamday.de
 *.streamex.de
 *.streamflix.de
-*.streamfy.de
 *.streamlox.com
 *.streamore.de
 *.streamtime.de
@@ -5140,7 +5122,6 @@
 *.superie.de
 *.supernele.de
 *.superpostalservice.com
-*.superpreis-shop.com
 *.superschuhenwelt.de.com
 *.supersocken.de
 *.supersofabezug.com
@@ -5148,7 +5129,6 @@
 *.suplsan.com
 *.supmestar.com
 *.supportfortross.org
-*.supraine.top
 *.supr.com
 *.supreme-beauty.de
 *.supromo.de
@@ -5157,7 +5137,6 @@
 *.susannes-beauty.de
 *.susanreginato.com
 *.susshaus.com
-*.svadisile.com
 *.svadli.de
 *.svoberbilk09.de
 *.swatpants.com
@@ -5195,7 +5174,6 @@
 *.taloive.xyz
 *.tanghf.com
 *.tanja-bosch.de
-*.tanzen-ist-gesundheit.de
 *.tapemedia.de
 *.tappe-media.com
 *.tapsung.com
@@ -5229,7 +5207,6 @@
 *.technik-chef.de
 *.technik-doku-design.de
 *.technikhood.de
-*.technikhood.shop
 *.technikhuebner.de
 *.technikkirchner.de
 *.technikschaefer.de
@@ -5250,7 +5227,6 @@
 *.templesinaikc.org
 *.temptlife.com
 *.tendaisy.com
-*.tengoa.com
 *.tensel-markt.de
 *.tenutacastelvenezze.com
 *.teras.at
@@ -5320,7 +5296,6 @@
 *.thenewcasa.com
 *.thenorthfacedeutschland.de
 *.theonlinecorner.xyz
-*.theoprax-sachsen.de
 *.theordinaryme.de
 *.thepeppymay.com
 *.thephones.net
@@ -5339,13 +5314,11 @@
 *.theshopcenter.store
 *.thesissypantystore.com
 *.thesoleuniverse.com
-*.thetabuy.com
 *.theteamnew.myshopify.com
 *.thethomasonline.com
 *.thewatchmaker1.weebly.com
 *.thielebuch.de
 *.thinkfast.games
-*.thomafvs.com
 *.thomassabo-deutschland.com
 *.thomassaboonline.de
 *.thomas-saboonlineshop.com
@@ -5354,19 +5327,15 @@
 *.thomassabosales.com
 *.thomassabos-onlineshop.com
 *.thomassabouksale.com
-*.thul-christensen.de
 *.thunderissa.com
 *.thursdayboots.de
 *.thursdaybootsdeutschiand.com
 *.thyman.xyz
-*.thymious.top
-*.thyral.top
 *.tiere.at
 *.tierfriedhof-kamps.de
 *.tierliebeshop.com
 *.tierrasales.de
 *.tilidin-kaufen.com
-*.tilsolw.com
 *.timberlandrakuten.com
 *.timberland-schweiz.com
 *.timberlandstiefel.de
@@ -5375,7 +5344,6 @@
 *.timesofnaukri.com
 *.timyllc.com
 *.timzin.de
-*.tingnybaby.com
 *.tinnitus-losung.com
 *.tipchico.com
 *.tiraloshop.com
@@ -5393,7 +5361,6 @@
 *.tobiflix.de
 *.todayil.com
 *.together.purecap.xyz
-*.toitious.top
 *.tokblog.site
 *.toklog.site
 *.tolosix.com
@@ -5419,7 +5386,6 @@
 *.topflix.de
 *.topgood.xyz
 *.tophausgames.de
-*.topial.top
 *.toplily.com
 *.topmarket24hr.com
 *.topmodareps.es
@@ -5433,15 +5399,12 @@
 *.top-velos.com
 *.topyieldoptions.online
 *.torbianelli.com
-*.torshelp.top
 *.totalloseweight.com
 *.totaltv.store
 *.totiate.xyz
-*.totifier.top
 *.totofashion2021.com
 *.touchy.at
 *.tour-de-hell.de
-*.tovepre.com
 *.towardssource.com
 *.toxello.de
 *.toybrickgear.com
@@ -5449,7 +5412,6 @@
 *.toypremium.com
 *.toysworld.club
 *.tozido.de
-*.traciebunny.com
 *.track-ni.org
 *.trade-comp.com
 *.tradeinvestigate.uno
@@ -5461,7 +5423,6 @@
 *.trainerstorunshoes.uk.com
 *.tralingo.de
 *.transporter-footwear.com
-*.transportes-arditrans-sl.com
 *.tr-assekuranz.de
 *.traum-deko.de
 *.traumland24.net
@@ -5472,7 +5433,6 @@
 *.travisscottofficial.com
 *.treatcosmetic.com
 *.treffenzeit.com
-*.trematic.top
 *.trencystore.com
 *.trendalter.com
 *.trendersapps.com
@@ -5488,13 +5448,10 @@
 *.trendypreis.de
 *.treppauf-treppab.de
 *.tretrollerladen.de
-*.trikoa.com
 *.trikots4u.com
 *.trikotsale.de
 *.trimzy.de
 *.trinitop.com
-*.tripodproductions.net
-*.tripsence.top
 *.triviatrade.com
 *.tronicversand.net
 *.trophal.de
@@ -5511,7 +5468,6 @@
 *.trusted-shop-nr3821.de
 *.trusted-shop-nr3892.de
 *.trusted-shop-nr8392.de
-*.trust-immo.com
 *.trustss.com
 *.truuly.de
 *.trycheahoney.site
@@ -5528,8 +5484,6 @@
 *.tudio.de
 *.tugaflix.de
 *.tunka.callmehats.com
-*.turbofy.top
-*.turchyn.de
 *.turkeycoachrental.com
 *.tusneumuehl.de
 *.tuyyds.store
@@ -5593,7 +5547,6 @@
 *.uniqdsn.com
 *.unique-print.de
 *.unitedseniors.de
-*.unitic.top
 *.unity-real.com
 *.universalbundle.com
 *.universalprotection.de
@@ -5631,7 +5584,6 @@
 *.uwzrxu.top
 *.uyqwb.com
 *.vacioy.com
-*.vacplux.com
 *.vaggv.com
 *.vagomarkt.com
 *.valanza.de
@@ -5665,7 +5617,6 @@
 *.vejoheza.top
 *.velhaven.net
 *.veloberlin.de
-*.velurio.com
 *.vemoso.de
 *.venacquaro.it
 *.vendial.de
@@ -5678,7 +5629,6 @@
 *.vera-mode.com
 *.veranoclothing.de
 *.verbotenefrucht.com
-*.verdiro.de
 *.verenabunte.com
 *.verios-gaming.de
 *.verkauf-kaminholz.de
@@ -5699,7 +5649,6 @@
 *.vertrauenwin.de
 *.veryvoga.de
 *.veryvoga.es
-*.veryvoga.fr
 *.vesinhhoatam.com
 *.vespin24.de
 *.vespin-versand.de
@@ -5773,7 +5722,6 @@
 *.vodula.de
 *.vogelwild-coaching.de
 *.vogtlandmakler.de
-*.voiceform.top
 *.voila.unternehmer-2014.de
 *.volex.io
 *.volina.de
@@ -5794,7 +5742,6 @@
 *.vozero-online.de
 *.vp-bionic.com
 *.vponary.com
-*.vpselektro.com
 *.vrczda.com
 *.vsahiltd.com
 *.vs-home.de
@@ -5823,7 +5770,6 @@
 *.wanford.com
 *.wang-caravan.com
 *.wanparky.com
-*.wapptey.com
 *.warenholzmarkt.de
 *.warevo.de
 *.warmshopper.myshopify.com
@@ -5841,8 +5787,6 @@
 *.waynewrite.com
 *.wayplay.de
 *.waysla.com
-*.waziwazi.de
-*.wearejaycoshop.com
 *.wearfashion.club
 *.webbusinessalerts.com
 *.webestry.life
@@ -5875,8 +5819,6 @@
 *.wellreplicas.to
 *.welpenkaufen.at
 *.welpenkaufen.ch
-*.welpenplatz.com
-*.weltbasar.com
 *.weltex.co
 *.weltweit-akkus.de
 *.wemidwestkids.com
@@ -5905,7 +5847,6 @@
 *.westshares.com
 *.wetting.de
 *.weuayshop.com
-*.wf-schenning.de
 *.wggkr.com
 *.wgl-europetransport.com
 *.wgmannheim.de

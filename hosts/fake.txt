@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Nov 2022 00:53 UTC
-# Version: 2022.1111.0053.17
+# Last modified: 12 Nov 2022 00:53 UTC
+# Version: 2022.1112.0053.19
 # Syntax: Hosts
-# Domains: 11781
+# Domains: 11664
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -675,6 +675,7 @@
 0.0.0.0 black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 blade-pirates.de
+0.0.0.0 blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 blaue-dragoner.de
 0.0.0.0 blauerhein.de
@@ -2425,6 +2426,7 @@
 0.0.0.0 hallobh.de
 0.0.0.0 hallohaus.co
 0.0.0.0 hallohaus.com
+0.0.0.0 hamburg-hotel.net
 0.0.0.0 hamega.net
 0.0.0.0 hammer-schmid.com
 0.0.0.0 handbagbrandsonline.com
@@ -4672,10 +4674,8 @@
 0.0.0.0 samfanco.com
 0.0.0.0 samofotografie.de
 0.0.0.0 samuna.net
-0.0.0.0 sancteur.top
 0.0.0.0 sandkproject.com
 0.0.0.0 sandra-schwarz.de
-0.0.0.0 sandra-und-tobias.de
 0.0.0.0 sanfter-kaffe.de
 0.0.0.0 sansapoten.com
 0.0.0.0 santikadesign.com
@@ -4698,7 +4698,6 @@
 0.0.0.0 savela.de
 0.0.0.0 savesshop.com
 0.0.0.0 saweushop.com
-0.0.0.0 sbv-management.de
 0.0.0.0 sbwecm.top
 0.0.0.0 scarpaschuheoutlet.at
 0.0.0.0 scarpaschuhesale.at
@@ -4753,7 +4752,6 @@
 0.0.0.0 screenacy.co
 0.0.0.0 screenwithenvy.de
 0.0.0.0 scribblepen.com
-0.0.0.0 scribot.top
 0.0.0.0 sebastiankoth.de
 0.0.0.0 secretcasual.at
 0.0.0.0 secretcasual.ch
@@ -4776,7 +4774,6 @@
 0.0.0.0 seitensprungexklusiv.de
 0.0.0.0 seitensprung-heute.com
 0.0.0.0 selected-software.de
-0.0.0.0 seleod.com
 0.0.0.0 selina-nails.de
 0.0.0.0 selivoo.de
 0.0.0.0 sellbest.eu
@@ -4789,7 +4786,6 @@
 0.0.0.0 seniorendatingagentur.at
 0.0.0.0 seniorlivinglab.ch
 0.0.0.0 sensalve.de
-0.0.0.0 sensefums.com
 0.0.0.0 senthiln.top
 0.0.0.0 seoyou.de
 0.0.0.0 seprun.com
@@ -4882,13 +4878,11 @@
 0.0.0.0 shopwithpalo.com
 0.0.0.0 shreshaenterprises.com
 0.0.0.0 shw-haushalt.de
-0.0.0.0 sia-coins.com
 0.0.0.0 siaeglisiwoodltd.com
 0.0.0.0 siamrose.com
 0.0.0.0 sibuyan.de
 0.0.0.0 sichernow.com
 0.0.0.0 siebelleberlin.com
-0.0.0.0 siebmaster.de
 0.0.0.0 sielyss.com
 0.0.0.0 sikarint.com
 0.0.0.0 sikatechnologie.com
@@ -4931,7 +4925,6 @@
 0.0.0.0 slightsmeell.com
 0.0.0.0 slimyliquid.de
 0.0.0.0 slimyvita.de
-0.0.0.0 slubmauritius.com
 0.0.0.0 slutmedtandlaegeskraek.dk
 0.0.0.0 smartautofxtrades.online
 0.0.0.0 smartbuyglasses.at
@@ -4946,7 +4939,6 @@
 0.0.0.0 smtkauf.de
 0.0.0.0 smushgame.com
 0.0.0.0 smxrt.de
-0.0.0.0 sneakers4you.eu
 0.0.0.0 sneakersbrook18.com
 0.0.0.0 sneakers-center.com
 0.0.0.0 sneakerspalette-de.com
@@ -4960,16 +4952,12 @@
 0.0.0.0 sofa-sauber.com
 0.0.0.0 soflix.de
 0.0.0.0 so-fm.de
-0.0.0.0 solaceous.top
-0.0.0.0 solandis.com
 0.0.0.0 solanex.de
 0.0.0.0 solanzo.de
 0.0.0.0 solarcheck.at
 0.0.0.0 solar-liquid.de
 0.0.0.0 solarnetz.at
 0.0.0.0 solarrichter.net
-0.0.0.0 soldieret.top
-0.0.0.0 solidish.top
 0.0.0.0 solmtxa.com
 0.0.0.0 solonix.de
 0.0.0.0 solooks.com
@@ -5005,7 +4993,6 @@
 0.0.0.0 spereur.xyz
 0.0.0.0 spherecryptos.com
 0.0.0.0 spiegler1.de
-0.0.0.0 spiele-grotte.de
 0.0.0.0 spielekonsole-market.com
 0.0.0.0 spieleund-konsolen.com
 0.0.0.0 spielmobil-ottocar.de
@@ -5026,7 +5013,6 @@
 0.0.0.0 sport-handel24.de
 0.0.0.0 sporth.net
 0.0.0.0 sporthotel-schwerin.de
-0.0.0.0 sportmitbauch.de
 0.0.0.0 sportnewsdirect.com
 0.0.0.0 sport-rausch.de
 0.0.0.0 sports-discount.net
@@ -5036,7 +5022,6 @@
 0.0.0.0 sporty-you.club
 0.0.0.0 sprachgenie.at
 0.0.0.0 sprayitonyou.com
-0.0.0.0 spree-elektro.de
 0.0.0.0 sprint-market.com
 0.0.0.0 sputty.xyz
 0.0.0.0 spyder-outlet.com
@@ -5105,7 +5090,6 @@
 0.0.0.0 storeaustria.com
 0.0.0.0 storecheap.fun
 0.0.0.0 store.dobot.cc
-0.0.0.0 storeety.top
 0.0.0.0 storeincart.club
 0.0.0.0 storesbuy.site
 0.0.0.0 store.useum.org
@@ -5115,14 +5099,12 @@
 0.0.0.0 strandkorbia.com
 0.0.0.0 strassenware.de
 0.0.0.0 strategic-expansion.com
-0.0.0.0 strausskoeln.de
 0.0.0.0 strawberrymilkshop.com
 0.0.0.0 streamago.de
 0.0.0.0 streamcloud-deutsch.com
 0.0.0.0 streamday.de
 0.0.0.0 streamex.de
 0.0.0.0 streamflix.de
-0.0.0.0 streamfy.de
 0.0.0.0 streamlox.com
 0.0.0.0 streamore.de
 0.0.0.0 streamtime.de
@@ -5166,7 +5148,6 @@
 0.0.0.0 superie.de
 0.0.0.0 supernele.de
 0.0.0.0 superpostalservice.com
-0.0.0.0 superpreis-shop.com
 0.0.0.0 superschuhenwelt.de.com
 0.0.0.0 supersocken.de
 0.0.0.0 supersofabezug.com
@@ -5174,7 +5155,6 @@
 0.0.0.0 suplsan.com
 0.0.0.0 supmestar.com
 0.0.0.0 supportfortross.org
-0.0.0.0 supraine.top
 0.0.0.0 supr.com
 0.0.0.0 supreme-beauty.de
 0.0.0.0 supromo.de
@@ -5183,7 +5163,6 @@
 0.0.0.0 susannes-beauty.de
 0.0.0.0 susanreginato.com
 0.0.0.0 susshaus.com
-0.0.0.0 svadisile.com
 0.0.0.0 svadli.de
 0.0.0.0 svoberbilk09.de
 0.0.0.0 swatpants.com
@@ -5221,7 +5200,6 @@
 0.0.0.0 taloive.xyz
 0.0.0.0 tanghf.com
 0.0.0.0 tanja-bosch.de
-0.0.0.0 tanzen-ist-gesundheit.de
 0.0.0.0 tapemedia.de
 0.0.0.0 tappe-media.com
 0.0.0.0 tapsung.com
@@ -5255,7 +5233,6 @@
 0.0.0.0 technik-chef.de
 0.0.0.0 technik-doku-design.de
 0.0.0.0 technikhood.de
-0.0.0.0 technikhood.shop
 0.0.0.0 technikhuebner.de
 0.0.0.0 technikkirchner.de
 0.0.0.0 technikschaefer.de
@@ -5276,7 +5253,6 @@
 0.0.0.0 templesinaikc.org
 0.0.0.0 temptlife.com
 0.0.0.0 tendaisy.com
-0.0.0.0 tengoa.com
 0.0.0.0 tensel-markt.de
 0.0.0.0 tenutacastelvenezze.com
 0.0.0.0 teras.at
@@ -5346,7 +5322,6 @@
 0.0.0.0 thenewcasa.com
 0.0.0.0 thenorthfacedeutschland.de
 0.0.0.0 theonlinecorner.xyz
-0.0.0.0 theoprax-sachsen.de
 0.0.0.0 theordinaryme.de
 0.0.0.0 thepeppymay.com
 0.0.0.0 thephones.net
@@ -5365,13 +5340,11 @@
 0.0.0.0 theshopcenter.store
 0.0.0.0 thesissypantystore.com
 0.0.0.0 thesoleuniverse.com
-0.0.0.0 thetabuy.com
 0.0.0.0 theteamnew.myshopify.com
 0.0.0.0 thethomasonline.com
 0.0.0.0 thewatchmaker1.weebly.com
 0.0.0.0 thielebuch.de
 0.0.0.0 thinkfast.games
-0.0.0.0 thomafvs.com
 0.0.0.0 thomassabo-deutschland.com
 0.0.0.0 thomassaboonline.de
 0.0.0.0 thomas-saboonlineshop.com
@@ -5380,19 +5353,15 @@
 0.0.0.0 thomassabosales.com
 0.0.0.0 thomassabos-onlineshop.com
 0.0.0.0 thomassabouksale.com
-0.0.0.0 thul-christensen.de
 0.0.0.0 thunderissa.com
 0.0.0.0 thursdayboots.de
 0.0.0.0 thursdaybootsdeutschiand.com
 0.0.0.0 thyman.xyz
-0.0.0.0 thymious.top
-0.0.0.0 thyral.top
 0.0.0.0 tiere.at
 0.0.0.0 tierfriedhof-kamps.de
 0.0.0.0 tierliebeshop.com
 0.0.0.0 tierrasales.de
 0.0.0.0 tilidin-kaufen.com
-0.0.0.0 tilsolw.com
 0.0.0.0 timberlandrakuten.com
 0.0.0.0 timberland-schweiz.com
 0.0.0.0 timberlandstiefel.de
@@ -5401,7 +5370,6 @@
 0.0.0.0 timesofnaukri.com
 0.0.0.0 timyllc.com
 0.0.0.0 timzin.de
-0.0.0.0 tingnybaby.com
 0.0.0.0 tinnitus-losung.com
 0.0.0.0 tipchico.com
 0.0.0.0 tiraloshop.com
@@ -5419,7 +5387,6 @@
 0.0.0.0 tobiflix.de
 0.0.0.0 todayil.com
 0.0.0.0 together.purecap.xyz
-0.0.0.0 toitious.top
 0.0.0.0 tokblog.site
 0.0.0.0 toklog.site
 0.0.0.0 tolosix.com
@@ -5445,7 +5412,6 @@
 0.0.0.0 topflix.de
 0.0.0.0 topgood.xyz
 0.0.0.0 tophausgames.de
-0.0.0.0 topial.top
 0.0.0.0 toplily.com
 0.0.0.0 topmarket24hr.com
 0.0.0.0 topmodareps.es
@@ -5459,15 +5425,12 @@
 0.0.0.0 top-velos.com
 0.0.0.0 topyieldoptions.online
 0.0.0.0 torbianelli.com
-0.0.0.0 torshelp.top
 0.0.0.0 totalloseweight.com
 0.0.0.0 totaltv.store
 0.0.0.0 totiate.xyz
-0.0.0.0 totifier.top
 0.0.0.0 totofashion2021.com
 0.0.0.0 touchy.at
 0.0.0.0 tour-de-hell.de
-0.0.0.0 tovepre.com
 0.0.0.0 towardssource.com
 0.0.0.0 toxello.de
 0.0.0.0 toybrickgear.com
@@ -5475,7 +5438,6 @@
 0.0.0.0 toypremium.com
 0.0.0.0 toysworld.club
 0.0.0.0 tozido.de
-0.0.0.0 traciebunny.com
 0.0.0.0 track-ni.org
 0.0.0.0 trade-comp.com
 0.0.0.0 tradeinvestigate.uno
@@ -5487,7 +5449,6 @@
 0.0.0.0 trainerstorunshoes.uk.com
 0.0.0.0 tralingo.de
 0.0.0.0 transporter-footwear.com
-0.0.0.0 transportes-arditrans-sl.com
 0.0.0.0 tr-assekuranz.de
 0.0.0.0 traum-deko.de
 0.0.0.0 traumland24.net
@@ -5498,7 +5459,6 @@
 0.0.0.0 travisscottofficial.com
 0.0.0.0 treatcosmetic.com
 0.0.0.0 treffenzeit.com
-0.0.0.0 trematic.top
 0.0.0.0 trencystore.com
 0.0.0.0 trendalter.com
 0.0.0.0 trendersapps.com
@@ -5514,13 +5474,10 @@
 0.0.0.0 trendypreis.de
 0.0.0.0 treppauf-treppab.de
 0.0.0.0 tretrollerladen.de
-0.0.0.0 trikoa.com
 0.0.0.0 trikots4u.com
 0.0.0.0 trikotsale.de
 0.0.0.0 trimzy.de
 0.0.0.0 trinitop.com
-0.0.0.0 tripodproductions.net
-0.0.0.0 tripsence.top
 0.0.0.0 triviatrade.com
 0.0.0.0 tronicversand.net
 0.0.0.0 trophal.de
@@ -5537,7 +5494,6 @@
 0.0.0.0 trusted-shop-nr3821.de
 0.0.0.0 trusted-shop-nr3892.de
 0.0.0.0 trusted-shop-nr8392.de
-0.0.0.0 trust-immo.com
 0.0.0.0 trustss.com
 0.0.0.0 truuly.de
 0.0.0.0 trycheahoney.site
@@ -5554,8 +5510,6 @@
 0.0.0.0 tudio.de
 0.0.0.0 tugaflix.de
 0.0.0.0 tunka.callmehats.com
-0.0.0.0 turbofy.top
-0.0.0.0 turchyn.de
 0.0.0.0 turkeycoachrental.com
 0.0.0.0 tusneumuehl.de
 0.0.0.0 tuyyds.store
@@ -5619,7 +5573,6 @@
 0.0.0.0 uniqdsn.com
 0.0.0.0 unique-print.de
 0.0.0.0 unitedseniors.de
-0.0.0.0 unitic.top
 0.0.0.0 unity-real.com
 0.0.0.0 universalbundle.com
 0.0.0.0 universalprotection.de
@@ -5657,7 +5610,6 @@
 0.0.0.0 uwzrxu.top
 0.0.0.0 uyqwb.com
 0.0.0.0 vacioy.com
-0.0.0.0 vacplux.com
 0.0.0.0 vaggv.com
 0.0.0.0 vagomarkt.com
 0.0.0.0 valanza.de
@@ -5691,7 +5643,6 @@
 0.0.0.0 vejoheza.top
 0.0.0.0 velhaven.net
 0.0.0.0 veloberlin.de
-0.0.0.0 velurio.com
 0.0.0.0 vemoso.de
 0.0.0.0 venacquaro.it
 0.0.0.0 vendial.de
@@ -5704,7 +5655,6 @@
 0.0.0.0 vera-mode.com
 0.0.0.0 veranoclothing.de
 0.0.0.0 verbotenefrucht.com
-0.0.0.0 verdiro.de
 0.0.0.0 verenabunte.com
 0.0.0.0 verios-gaming.de
 0.0.0.0 verkauf-kaminholz.de
@@ -5725,7 +5675,6 @@
 0.0.0.0 vertrauenwin.de
 0.0.0.0 veryvoga.de
 0.0.0.0 veryvoga.es
-0.0.0.0 veryvoga.fr
 0.0.0.0 vesinhhoatam.com
 0.0.0.0 vespin24.de
 0.0.0.0 vespin-versand.de
@@ -5799,7 +5748,6 @@
 0.0.0.0 vodula.de
 0.0.0.0 vogelwild-coaching.de
 0.0.0.0 vogtlandmakler.de
-0.0.0.0 voiceform.top
 0.0.0.0 voila.unternehmer-2014.de
 0.0.0.0 volex.io
 0.0.0.0 volina.de
@@ -5820,7 +5768,6 @@
 0.0.0.0 vozero-online.de
 0.0.0.0 vp-bionic.com
 0.0.0.0 vponary.com
-0.0.0.0 vpselektro.com
 0.0.0.0 vrczda.com
 0.0.0.0 vsahiltd.com
 0.0.0.0 vs-home.de
@@ -5849,7 +5796,6 @@
 0.0.0.0 wanford.com
 0.0.0.0 wang-caravan.com
 0.0.0.0 wanparky.com
-0.0.0.0 wapptey.com
 0.0.0.0 warenholzmarkt.de
 0.0.0.0 warevo.de
 0.0.0.0 warmshopper.myshopify.com
@@ -5867,8 +5813,6 @@
 0.0.0.0 waynewrite.com
 0.0.0.0 wayplay.de
 0.0.0.0 waysla.com
-0.0.0.0 waziwazi.de
-0.0.0.0 wearejaycoshop.com
 0.0.0.0 wearfashion.club
 0.0.0.0 webbusinessalerts.com
 0.0.0.0 webestry.life
@@ -5901,8 +5845,6 @@
 0.0.0.0 wellreplicas.to
 0.0.0.0 welpenkaufen.at
 0.0.0.0 welpenkaufen.ch
-0.0.0.0 welpenplatz.com
-0.0.0.0 weltbasar.com
 0.0.0.0 weltex.co
 0.0.0.0 weltweit-akkus.de
 0.0.0.0 wemidwestkids.com
@@ -5931,7 +5873,6 @@
 0.0.0.0 westshares.com
 0.0.0.0 wetting.de
 0.0.0.0 weuayshop.com
-0.0.0.0 wf-schenning.de
 0.0.0.0 wggkr.com
 0.0.0.0 wgl-europetransport.com
 0.0.0.0 wgmannheim.de
@@ -6652,6 +6593,7 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 www.blackwidow.at
 0.0.0.0 www.blade-pirates.de
+0.0.0.0 www.blaroken.com
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
@@ -8231,6 +8173,7 @@
 0.0.0.0 www.hallobh.de
 0.0.0.0 www.hallohaus.co
 0.0.0.0 www.hallohaus.com
+0.0.0.0 www.hamburg-hotel.net
 0.0.0.0 www.hamega.net
 0.0.0.0 www.hammer-schmid.com
 0.0.0.0 www.handbagbrandsonline.com
@@ -10283,10 +10226,8 @@
 0.0.0.0 www.samfanco.com
 0.0.0.0 www.samofotografie.de
 0.0.0.0 www.samuna.net
-0.0.0.0 www.sancteur.top
 0.0.0.0 www.sandkproject.com
 0.0.0.0 www.sandra-schwarz.de
-0.0.0.0 www.sandra-und-tobias.de
 0.0.0.0 www.sanfter-kaffe.de
 0.0.0.0 www.sansapoten.com
 0.0.0.0 www.santikadesign.com
@@ -10308,7 +10249,6 @@
 0.0.0.0 www.savela.de
 0.0.0.0 www.savesshop.com
 0.0.0.0 www.saweushop.com
-0.0.0.0 www.sbv-management.de
 0.0.0.0 www.sbwecm.top
 0.0.0.0 www.scarpaschuheoutlet.at
 0.0.0.0 www.scarpaschuhesale.at
@@ -10363,7 +10303,6 @@
 0.0.0.0 www.screenacy.co
 0.0.0.0 www.screenwithenvy.de
 0.0.0.0 www.scribblepen.com
-0.0.0.0 www.scribot.top
 0.0.0.0 www.sebastiankoth.de
 0.0.0.0 www.secretcasual.at
 0.0.0.0 www.secretcasual.ch
@@ -10384,7 +10323,6 @@
 0.0.0.0 www.seitensprungexklusiv.de
 0.0.0.0 www.seitensprung-heute.com
 0.0.0.0 www.selected-software.de
-0.0.0.0 www.seleod.com
 0.0.0.0 www.selina-nails.de
 0.0.0.0 www.selivoo.de
 0.0.0.0 www.sellbest.eu
@@ -10396,7 +10334,6 @@
 0.0.0.0 www.sendros.de
 0.0.0.0 www.seniorendatingagentur.at
 0.0.0.0 www.seniorlivinglab.ch
-0.0.0.0 www.sensefums.com
 0.0.0.0 www.senthiln.top
 0.0.0.0 www.seoyou.de
 0.0.0.0 www.seprun.com
@@ -10473,13 +10410,11 @@
 0.0.0.0 www.shopwithpalo.com
 0.0.0.0 www.shreshaenterprises.com
 0.0.0.0 www.shw-haushalt.de
-0.0.0.0 www.sia-coins.com
 0.0.0.0 www.siaeglisiwoodltd.com
 0.0.0.0 www.siamrose.com
 0.0.0.0 www.sibuyan.de
 0.0.0.0 www.sichernow.com
 0.0.0.0 www.siebelleberlin.com
-0.0.0.0 www.siebmaster.de
 0.0.0.0 www.sielyss.com
 0.0.0.0 www.sikarint.com
 0.0.0.0 www.sikatechnologie.com
@@ -10515,7 +10450,6 @@
 0.0.0.0 www.slightsmeell.com
 0.0.0.0 www.slimyliquid.de
 0.0.0.0 www.slimyvita.de
-0.0.0.0 www.slubmauritius.com
 0.0.0.0 www.slutmedtandlaegeskraek.dk
 0.0.0.0 www.smartautofxtrades.online
 0.0.0.0 www.smartbuyglasses.at
@@ -10528,7 +10462,6 @@
 0.0.0.0 www.smilewithstyle.at
 0.0.0.0 www.smushgame.com
 0.0.0.0 www.smxrt.de
-0.0.0.0 www.sneakers4you.eu
 0.0.0.0 www.sneakersbrook18.com
 0.0.0.0 www.sneakers-center.com
 0.0.0.0 www.sneakerz2020.com
@@ -10541,16 +10474,12 @@
 0.0.0.0 www.sofa-sauber.com
 0.0.0.0 www.soflix.de
 0.0.0.0 www.so-fm.de
-0.0.0.0 www.solaceous.top
-0.0.0.0 www.solandis.com
 0.0.0.0 www.solanex.de
 0.0.0.0 www.solanzo.de
 0.0.0.0 www.solarcheck.at
 0.0.0.0 www.solar-liquid.de
 0.0.0.0 www.solarnetz.at
 0.0.0.0 www.solarrichter.net
-0.0.0.0 www.soldieret.top
-0.0.0.0 www.solidish.top
 0.0.0.0 www.solmtxa.com
 0.0.0.0 www.solonix.de
 0.0.0.0 www.solooks.com
@@ -10583,7 +10512,6 @@
 0.0.0.0 www.speer-muc.de
 0.0.0.0 www.spherecryptos.com
 0.0.0.0 www.spiegler1.de
-0.0.0.0 www.spiele-grotte.de
 0.0.0.0 www.spielekonsole-market.com
 0.0.0.0 www.spieleund-konsolen.com
 0.0.0.0 www.spielmobil-ottocar.de
@@ -10600,7 +10528,6 @@
 0.0.0.0 www.sport-handel24.de
 0.0.0.0 www.sporth.net
 0.0.0.0 www.sporthotel-schwerin.de
-0.0.0.0 www.sportmitbauch.de
 0.0.0.0 www.sportnewsdirect.com
 0.0.0.0 www.sport-rausch.de
 0.0.0.0 www.sports-discount.net
@@ -10670,7 +10597,6 @@
 0.0.0.0 www.storeakku.com
 0.0.0.0 www.storeaustria.com
 0.0.0.0 www.storecheap.fun
-0.0.0.0 www.storeety.top
 0.0.0.0 www.storeincart.club
 0.0.0.0 www.storesbuy.site
 0.0.0.0 www.storkwersborg.de
@@ -10678,14 +10604,12 @@
 0.0.0.0 www.strahlentier.de
 0.0.0.0 www.strassenware.de
 0.0.0.0 www.strategic-expansion.com
-0.0.0.0 www.strausskoeln.de
 0.0.0.0 www.strawberrymilkshop.com
 0.0.0.0 www.streamago.de
 0.0.0.0 www.streamcloud-deutsch.com
 0.0.0.0 www.streamday.de
 0.0.0.0 www.streamex.de
 0.0.0.0 www.streamflix.de
-0.0.0.0 www.streamfy.de
 0.0.0.0 www.streamlox.com
 0.0.0.0 www.streamore.de
 0.0.0.0 www.streamtime.de
@@ -10726,13 +10650,11 @@
 0.0.0.0 www.superie.de
 0.0.0.0 www.supernele.de
 0.0.0.0 www.superpostalservice.com
-0.0.0.0 www.superpreis-shop.com
 0.0.0.0 www.supersocken.de
 0.0.0.0 www.supersofabezug.com
 0.0.0.0 www.supertigers.de
 0.0.0.0 www.supmestar.com
 0.0.0.0 www.supportfortross.org
-0.0.0.0 www.supraine.top
 0.0.0.0 www.supr.com
 0.0.0.0 www.supreme-beauty.de
 0.0.0.0 www.supromo.de
@@ -10741,7 +10663,6 @@
 0.0.0.0 www.susannes-beauty.de
 0.0.0.0 www.susanreginato.com
 0.0.0.0 www.susshaus.com
-0.0.0.0 www.svadisile.com
 0.0.0.0 www.svadli.de
 0.0.0.0 www.swatpants.com
 0.0.0.0 www.swatreact.com
@@ -10777,7 +10698,6 @@
 0.0.0.0 www.tallerfelix.com
 0.0.0.0 www.tanghf.com
 0.0.0.0 www.tanja-bosch.de
-0.0.0.0 www.tanzen-ist-gesundheit.de
 0.0.0.0 www.tapemedia.de
 0.0.0.0 www.tappe-media.com
 0.0.0.0 www.tapsung.com
@@ -10806,7 +10726,6 @@
 0.0.0.0 www.techmeta.store
 0.0.0.0 www.technik-chef.de
 0.0.0.0 www.technik-doku-design.de
-0.0.0.0 www.technikhood.shop
 0.0.0.0 www.technik-schnaeppchen-shop.de
 0.0.0.0 www.techno-max.de
 0.0.0.0 www.techswap.de
@@ -10823,7 +10742,6 @@
 0.0.0.0 www.templesinaikc.org
 0.0.0.0 www.temptlife.com
 0.0.0.0 www.tendaisy.com
-0.0.0.0 www.tengoa.com
 0.0.0.0 www.tensel-markt.de
 0.0.0.0 www.tenutacastelvenezze.com
 0.0.0.0 www.teras.at
@@ -10892,7 +10810,6 @@
 0.0.0.0 www.thenewcasa.com
 0.0.0.0 www.thenorthfacedeutschland.de
 0.0.0.0 www.theonlinecorner.xyz
-0.0.0.0 www.theoprax-sachsen.de
 0.0.0.0 www.theordinaryme.de
 0.0.0.0 www.thepeppymay.com
 0.0.0.0 www.thephones.net
@@ -10911,11 +10828,9 @@
 0.0.0.0 www.theshopcenter.store
 0.0.0.0 www.thesissypantystore.com
 0.0.0.0 www.thesoleuniverse.com
-0.0.0.0 www.thetabuy.com
 0.0.0.0 www.thethomasonline.com
 0.0.0.0 www.thielebuch.de
 0.0.0.0 www.thinkfast.games
-0.0.0.0 www.thomafvs.com
 0.0.0.0 www.thomassabo-deutschland.com
 0.0.0.0 www.thomassaboonline.de
 0.0.0.0 www.thomas-saboonlineshop.com
@@ -10923,18 +10838,14 @@
 0.0.0.0 www.thomassabosales.com
 0.0.0.0 www.thomassabos-onlineshop.com
 0.0.0.0 www.thomassabouksale.com
-0.0.0.0 www.thul-christensen.de
 0.0.0.0 www.thunderissa.com
 0.0.0.0 www.thursdayboots.de
 0.0.0.0 www.thursdaybootsdeutschiand.com
-0.0.0.0 www.thymious.top
-0.0.0.0 www.thyral.top
 0.0.0.0 www.tiere.at
 0.0.0.0 www.tierfriedhof-kamps.de
 0.0.0.0 www.tierliebeshop.com
 0.0.0.0 www.tierrasales.de
 0.0.0.0 www.tilidin-kaufen.com
-0.0.0.0 www.tilsolw.com
 0.0.0.0 www.timberlandrakuten.com
 0.0.0.0 www.timberland-schweiz.com
 0.0.0.0 www.timberlandstiefel.de
@@ -10942,7 +10853,6 @@
 0.0.0.0 www.timental.de
 0.0.0.0 www.timesofnaukri.com
 0.0.0.0 www.timyllc.com
-0.0.0.0 www.tingnybaby.com
 0.0.0.0 www.tinnitus-losung.com
 0.0.0.0 www.tipchico.com
 0.0.0.0 www.tiraloshop.com
@@ -10959,7 +10869,6 @@
 0.0.0.0 www.tobiasliegl.de
 0.0.0.0 www.tobiflix.de
 0.0.0.0 www.todayil.com
-0.0.0.0 www.toitious.top
 0.0.0.0 www.tokblog.site
 0.0.0.0 www.toklog.site
 0.0.0.0 www.tolosix.com
@@ -10985,7 +10894,6 @@
 0.0.0.0 www.topflix.de
 0.0.0.0 www.topgood.xyz
 0.0.0.0 www.tophausgames.de
-0.0.0.0 www.topial.top
 0.0.0.0 www.toplily.com
 0.0.0.0 www.topmarket24hr.com
 0.0.0.0 www.topmodareps.es
@@ -10999,14 +10907,11 @@
 0.0.0.0 www.top-velos.com
 0.0.0.0 www.topyieldoptions.online
 0.0.0.0 www.torbianelli.com
-0.0.0.0 www.torshelp.top
 0.0.0.0 www.totalloseweight.com
 0.0.0.0 www.totaltv.store
 0.0.0.0 www.totiate.xyz
-0.0.0.0 www.totifier.top
 0.0.0.0 www.totofashion2021.com
 0.0.0.0 www.tour-de-hell.de
-0.0.0.0 www.tovepre.com
 0.0.0.0 www.towardssource.com
 0.0.0.0 www.toxello.de
 0.0.0.0 www.toybrickgear.com
@@ -11014,7 +10919,6 @@
 0.0.0.0 www.toypremium.com
 0.0.0.0 www.toysworld.club
 0.0.0.0 www.tozido.de
-0.0.0.0 www.traciebunny.com
 0.0.0.0 www.track-ni.org
 0.0.0.0 www.trade-comp.com
 0.0.0.0 www.tradeinvestigate.uno
@@ -11025,7 +10929,6 @@
 0.0.0.0 www.trainer-cube.de
 0.0.0.0 www.tralingo.de
 0.0.0.0 www.transporter-footwear.com
-0.0.0.0 www.transportes-arditrans-sl.com
 0.0.0.0 www.tr-assekuranz.de
 0.0.0.0 www.traum-deko.de
 0.0.0.0 www.traumland24.net
@@ -11036,7 +10939,6 @@
 0.0.0.0 www.travisscottofficial.com
 0.0.0.0 www.treatcosmetic.com
 0.0.0.0 www.treffenzeit.com
-0.0.0.0 www.trematic.top
 0.0.0.0 www.trencystore.com
 0.0.0.0 www.trendalter.com
 0.0.0.0 www.trendersapps.com
@@ -11052,13 +10954,10 @@
 0.0.0.0 www.trendypreis.de
 0.0.0.0 www.treppauf-treppab.de
 0.0.0.0 www.tretrollerladen.de
-0.0.0.0 www.trikoa.com
 0.0.0.0 www.trikots4u.com
 0.0.0.0 www.trikotsale.de
 0.0.0.0 www.trimzy.de
 0.0.0.0 www.trinitop.com
-0.0.0.0 www.tripodproductions.net
-0.0.0.0 www.tripsence.top
 0.0.0.0 www.triviatrade.com
 0.0.0.0 www.tronicversand.net
 0.0.0.0 www.trophal.de
@@ -11073,7 +10972,6 @@
 0.0.0.0 www.trusted-shop-nr18374.de
 0.0.0.0 www.trusted-shop-nr2803.de
 0.0.0.0 www.trusted-shop-nr3892.de
-0.0.0.0 www.trust-immo.com
 0.0.0.0 www.trustss.com
 0.0.0.0 www.truuly.de
 0.0.0.0 www.trycheahoney.site
@@ -11086,8 +10984,6 @@
 0.0.0.0 www.tsz-stadtilm.de
 0.0.0.0 www.ttgun.com
 0.0.0.0 www.tugaflix.de
-0.0.0.0 www.turbofy.top
-0.0.0.0 www.turchyn.de
 0.0.0.0 www.turkeycoachrental.com
 0.0.0.0 www.tusneumuehl.de
 0.0.0.0 www.tuyyds.store
@@ -11139,7 +11035,6 @@
 0.0.0.0 www.uniqdsn.com
 0.0.0.0 www.unique-print.de
 0.0.0.0 www.unitedseniors.de
-0.0.0.0 www.unitic.top
 0.0.0.0 www.unity-real.com
 0.0.0.0 www.universalbundle.com
 0.0.0.0 www.universalprotection.de
@@ -11169,7 +11064,6 @@
 0.0.0.0 www.uwzrxu.top
 0.0.0.0 www.uyqwb.com
 0.0.0.0 www.vacioy.com
-0.0.0.0 www.vacplux.com
 0.0.0.0 www.vaggv.com
 0.0.0.0 www.vagomarkt.com
 0.0.0.0 www.valanza.de
@@ -11198,7 +11092,6 @@
 0.0.0.0 www.vejoheza.top
 0.0.0.0 www.velhaven.net
 0.0.0.0 www.veloberlin.de
-0.0.0.0 www.velurio.com
 0.0.0.0 www.vemoso.de
 0.0.0.0 www.venacquaro.it
 0.0.0.0 www.vendial.de
@@ -11211,7 +11104,6 @@
 0.0.0.0 www.vera-mode.com
 0.0.0.0 www.veranoclothing.de
 0.0.0.0 www.verbotenefrucht.com
-0.0.0.0 www.verdiro.de
 0.0.0.0 www.verenabunte.com
 0.0.0.0 www.verios-gaming.de
 0.0.0.0 www.verkauf-kaminholz.de
@@ -11228,7 +11120,6 @@
 0.0.0.0 www.vertrauenwin.de
 0.0.0.0 www.veryvoga.de
 0.0.0.0 www.veryvoga.es
-0.0.0.0 www.veryvoga.fr
 0.0.0.0 www.vesinhhoatam.com
 0.0.0.0 www.vetola.de
 0.0.0.0 www.vevor.de
@@ -11294,7 +11185,6 @@
 0.0.0.0 www.vnhome.de
 0.0.0.0 www.vogelwild-coaching.de
 0.0.0.0 www.vogtlandmakler.de
-0.0.0.0 www.voiceform.top
 0.0.0.0 www.volex.io
 0.0.0.0 www.volina.de
 0.0.0.0 www.volkersheim-bockenem.de
@@ -11313,7 +11203,6 @@
 0.0.0.0 www.vozero-online.de
 0.0.0.0 www.vp-bionic.com
 0.0.0.0 www.vponary.com
-0.0.0.0 www.vpselektro.com
 0.0.0.0 www.vrczda.com
 0.0.0.0 www.vsahiltd.com
 0.0.0.0 www.vs-home.de
@@ -11341,7 +11230,6 @@
 0.0.0.0 www.wanford.com
 0.0.0.0 www.wang-caravan.com
 0.0.0.0 www.wanparky.com
-0.0.0.0 www.wapptey.com
 0.0.0.0 www.warenholzmarkt.de
 0.0.0.0 www.warevo.de
 0.0.0.0 www.wasserspender-deutschland.de
@@ -11358,8 +11246,6 @@
 0.0.0.0 www.waynewrite.com
 0.0.0.0 www.wayplay.de
 0.0.0.0 www.waysla.com
-0.0.0.0 www.waziwazi.de
-0.0.0.0 www.wearejaycoshop.com
 0.0.0.0 www.wearfashion.club
 0.0.0.0 www.webbusinessalerts.com
 0.0.0.0 www.webestry.life
@@ -11391,8 +11277,6 @@
 0.0.0.0 www.wellreplicas.to
 0.0.0.0 www.welpenkaufen.at
 0.0.0.0 www.welpenkaufen.ch
-0.0.0.0 www.welpenplatz.com
-0.0.0.0 www.weltbasar.com
 0.0.0.0 www.weltex.co
 0.0.0.0 www.weltweit-akkus.de
 0.0.0.0 www.wemidwestkids.com
@@ -11418,7 +11302,6 @@
 0.0.0.0 www.westshares.com
 0.0.0.0 www.wetting.de
 0.0.0.0 www.weuayshop.com
-0.0.0.0 www.wf-schenning.de
 0.0.0.0 www.wggkr.com
 0.0.0.0 www.wgl-europetransport.com
 0.0.0.0 www.wgmannheim.de
