@@ -1709,3 +1709,6 @@
 ! EA Desktop App - Properties unavailable
 @@|sdk.split.io^
 
+! https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
+@@|appsumo.com^
+
