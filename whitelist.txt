@@ -1706,3 +1706,6 @@ apple-dns.net
 # Articles on buzzfee.com
 abeagle-public.buzzfeed.com
 
+# EA Desktop App - Properties unavailable
+sdk.split.io
+
