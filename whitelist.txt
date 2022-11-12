@@ -93,16 +93,17 @@ pv-cdn.net
 *.gc.fe.apple-dns.net
 *.safebrowsing.apple
 *.smoot.apple.com
+apple-dns.net
 cstat.apple.com
-# doh.dns.apple.com
-# doh.dns.apple.com.v.aaplimg.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 inappcheck*.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
-# mask-api.icloud.com
-# mask-h2.icloud.com
-# mask.apple-dns.net
-# mask.icloud.com
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
+mask.icloud.com
 ocsp*.apple.com
 securemvt.apple.com
 smp-device-content.apple.com
@@ -1698,4 +1699,7 @@ d3tracking.rbc.com
 
 # Chipotle account login
 services.chipotle.com
+
+# apple-dns.net
+apple-dns.net
 
