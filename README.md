@@ -15,10 +15,11 @@
 12. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
 13. [Credits](#credits)
 14. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
-15. [Recommendation](#recommendation) / [NextDNS](#nextdns)
-16. [About](#about) / [Referral Domains](#referral)
-17. [Sources/Statistics](usedsources.md)
-18. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
+15. [Recommendation](#recommendation)
+16. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns)
+17. [About](#about) / [Referral Domains](#referral)
+18. [Sources/Statistics](usedsources.md)
+19. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
 ### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro and pro++)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
@@ -29,7 +30,7 @@
 | [Light](https://github.com/hagezi/dns-blocklists#light)             | 348293<br>138072     |   |   | = | X | P |   |   |   | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1132757<br>296980     |   | = | X | X | P |   |   |   | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1376331<br>395962         | = | X | X | X | P |   |   |   | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1560325<br>443862 | ++ | X | X | X | P |   |   |   | X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1560324<br>443861 | ++ | X | X | X | P |   |   |   | X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -88,7 +89,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1560325 domains/hosts - 443862 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1560324 domains/hosts - 443861 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -258,17 +259,29 @@
 *DNS blocker offer a good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!         
 Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [uBlock](https://ublockorigin.com) or [AdGuard](https://adguard.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...) or the use of [eBlocker](https://eblocker.org/) with enabled pattern blocker as a network wide content blocker. I use [uBlock](https://ublockorigin.com) in my desktop browser and [AdGuard](https://adguard.com) on my mobile devices.*
 
-#### ***NextDNS*** <a name="nextdns"></a>        
+### ***Online DNS Services*** <a name="dnsservices"></a>        
 
-*On mobile devices, I recommend using [NextDNS](https://nextdns.io/?from=jvpyfdfc) if they are not connected to a home network with local DNS blocker.
+*If you don't run your own DNS server on your home network or if you are looking for additional protection for your mobile devices when they are not connected to the home network, then I recommend one of the following DNS services:*
+
+#### ***RethinkDNS - free*** <a name="rethinkdns"></a>
+
+*In [RethinkDNS](https://rethinkdns.com) you can use my blocklists:*
+
+| Blocklists | DNS-over-HTTPS | DNS-over-TLS | Apple Mobileconfig |
+|:-----------|:---------------|:-------------|:-------------------|
+| PRO + TIF  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
+| PRO PLUS + TIF | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
+
+#### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
+
+***Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).***
+           
 My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
 
 | Profile | NextDNS Blocklists                                          |
 |:--------|:----------------------------------------------------------------------------------------------------|
 | Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd + notracking                            |
 | Aggressive | 1Hosts (Pro) + AdGuard DNS filter + Steven Black + oisd + notracking + NoTrack Tracker Blocklist |
-
-***Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).***
 
 ---
 
