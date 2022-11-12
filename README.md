@@ -1,5 +1,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhagezi%2Fdns-blocklists&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 ## DNS Blocklists - *For a better internet!*
+
+### *Made with :heartbeat: for a safer internet and to keep the internet clean!*
+
 ### Table of Contents
 1. [Overview](#overview)
 2. [Multi light](#light) - *Hand brush: Light protection*
@@ -16,7 +19,7 @@
 13. [Credits](#credits)
 14. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 15. [Recommendation](#recommendation)
-16. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns)
+16. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns) / [AdGuardDNS](#adguarddns)
 17. [About](#about) / [Referral Domains](#referral)
 18. [Sources/Statistics](usedsources.md)
 19. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
@@ -235,6 +238,8 @@
 ### ***Native Tracker - Broadband tracker of devices and operating systems*** <a name="native"></a>
 *Blocks native broadband tracker from devices and operating systems that frequently run at the operating system level and track your activity.*         
                   
+***The native broadband trackers are already included in all blocklist versions (Personal, Light, Normal, Pro, Pro++)!***
+                         
 | Device | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
 |:-------|:--------|:------|:--------|:--------|:--------|:---------|
 | Apple (iOS, macOS, tvOS) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.apple.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt) |
@@ -269,19 +274,29 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS | Apple Mobileconfig |
 |:-----------|:---------------|:-------------|:-------------------|
-| PRO + TIF  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
-| PRO PLUS + TIF | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
+| Normal (PRO + TIF)  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
+| Aggressive (PRO plus + TIF) | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
-***Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).***
+*Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).*
            
-My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
+*My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
 
 | Profile | NextDNS Blocklists                                          |
 |:--------|:----------------------------------------------------------------------------------------------------|
 | Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd + notracking                            |
 | Aggressive | 1Hosts (Pro) + AdGuard DNS filter + Steven Black + oisd + notracking + NoTrack Tracker Blocklist |
+
+#### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
+
+*Unfortunately, my blocklists have not yet been included in [AdGuardDNS](https://adguard-dns.io).*
+           
+*My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
+
+| Profile | NextDNS Blocklists                                          |
+|:--------|:----------------------------------------------------------------------------------------------------|
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd full + notracking                            |
 
 ---
 
@@ -290,8 +305,10 @@ My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) ar
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
 
-*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*         
+*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Made with :heartbeat: for a safer internet.*         
 *They are updated and maintained daily.*
+           
+*Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*
 
 #### Referral Domains <a name="referral"></a>
 
@@ -305,7 +322,7 @@ This list can then be used as a blocklist to "undo" the whitelisting of referral
           
 #### Support Me <a name="support"></a>
 
-*If you like the project and you can benefit from it, leave a star (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!*
+*If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!*
          
 ***Thanks for your support!***
 
