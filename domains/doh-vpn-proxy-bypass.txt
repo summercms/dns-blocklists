@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 05:37 UTC
-# Version: 2022.1112.0537.14
+# Last modified: 12 Nov 2022 05:57 UTC
+# Version: 2022.1112.0557.31
 # Syntax: Domains
-# Domains: 973
+# Domains: 971
 #
 012proxy.ga
 12vpx.com
@@ -714,8 +714,6 @@ v6.rubyfish.cn
 rumpelsepp.org
 rusvpn.com
 dns1.ryan-palmer.com
-proxy.safebrowsing.apple
-token.safebrowsing.apple
 safeguardianvpn.com
 safervpn.com
 doh.safesurfer.io

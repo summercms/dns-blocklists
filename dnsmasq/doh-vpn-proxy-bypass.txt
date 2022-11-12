@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 05:37 UTC
-# Version: 2022.1112.0537.14
+# Last modified: 12 Nov 2022 05:57 UTC
+# Version: 2022.1112.0557.31
 # Syntax: DNSMasq
-# Domains: 886
+# Domains: 884
 #
 address=/012proxy.ga/#
 address=/12vpx.com/#
@@ -632,8 +632,6 @@ address=/v6.rubyfish.cn/#
 address=/rumpelsepp.org/#
 address=/rusvpn.com/#
 address=/dns1.ryan-palmer.com/#
-address=/proxy.safebrowsing.apple/#
-address=/token.safebrowsing.apple/#
 address=/safeguardianvpn.com/#
 address=/safervpn.com/#
 address=/doh.safesurfer.io/#
