@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 05:57 UTC
-# Version: 2022.1112.0557.31
+# Last modified: 12 Nov 2022 16:48 UTC
+# Version: 2022.1112.1648.22
 # Syntax: Domains
-# Domains: 971
+# Domains: 965
 #
 012proxy.ga
 12vpx.com
@@ -149,9 +149,6 @@ doh.bortzmeyer.fr
 tails.boum.org
 boxpn.com
 dns.brahma.world
-bravedns.com
-basic.bravedns.com
-free.bravedns.com
 tor.bravesoftware.com
 brazilproxy.info
 brovpn.io
@@ -700,9 +697,6 @@ rabbithole.site
 radmin-vpn.com
 rapidproxy.us
 kaitain.restena.lu
-rethinkdns.com
-basic.rethinkdns.com
-max.rethinkdns.com
 doh.rezhajul.io
 ringvpn.com
 ronfeed.com

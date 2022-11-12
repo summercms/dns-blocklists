@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 05:53 UTC
-# Version: 2022.1112.0553.02
+# Last modified: 12 Nov 2022 16:47 UTC
+# Version: 2022.1112.1647.28
 # Syntax: DNSMasq
-# Domains: 287
+# Domains: 285
 #
 address=/1and1-dns.de/#
 address=/233py.com/#
@@ -83,7 +83,6 @@ address=/doh.blockerdns.com/#
 address=/dns.blokada.org/#
 address=/doh.bortzmeyer.fr/#
 address=/dns.brahma.world/#
-address=/bravedns.com/#
 address=/2.dnscrypt-cert.captnemo.in/#
 address=/doh.captnemo.in/#
 address=/anycast.censurfridns.dk/#
@@ -257,7 +256,6 @@ address=/2.dnscrypt-cert.quad9.net/#
 address=/doh.quickline.ch/#
 address=/dot.quickline.ch/#
 address=/kaitain.restena.lu/#
-address=/rethinkdns.com/#
 address=/doh.rezhajul.io/#
 address=/dns.rubyfish.cn/#
 address=/ea-dns.rubyfish.cn/#

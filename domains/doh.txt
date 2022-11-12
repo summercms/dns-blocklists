@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 05:53 UTC
-# Version: 2022.1112.0553.02
+# Last modified: 12 Nov 2022 16:47 UTC
+# Version: 2022.1112.1647.28
 # Syntax: Domains
-# Domains: 352
+# Domains: 346
 #
 1and1-dns.de
 233py.com
@@ -92,9 +92,6 @@ example.doh.blockerdns.com
 dns.blokada.org
 doh.bortzmeyer.fr
 dns.brahma.world
-bravedns.com
-basic.bravedns.com
-free.bravedns.com
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
 anycast.censurfridns.dk
@@ -315,9 +312,6 @@ dns9.quad9.net
 doh.quickline.ch
 dot.quickline.ch
 kaitain.restena.lu
-rethinkdns.com
-basic.rethinkdns.com
-max.rethinkdns.com
 doh.rezhajul.io
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
