@@ -141,12 +141,12 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 
 File: extension.domains
 
-17224 total unique domains | 5020 (29%) included | 4919 (29%) removed | 7285 (42%) dead
+75269 total unique domains | 63065 (84%) included | 4919 (7%) removed | 7285 (10%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |       4% |   8% |      7% | https://anti-ad.net/adguard.txt
-  2 |       6% |  38% |      7% | https://raw.githubusercontent.com/z44499783/ChinaList2.0/master/ChinaList2.0.txt
-  3 |       6% |   4% |      3% | https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
+  1 |      74% |   8% |      7% | https://anti-ad.net/adguard.txt
+  2 |      55% |  38% |      7% | https://raw.githubusercontent.com/z44499783/ChinaList2.0/master/ChinaList2.0.txt
+  3 |      90% |   4% |      3% | https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```

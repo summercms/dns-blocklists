@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhagezi%2Fdns-blocklists&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 ## DNS Blocklists - *For a better internet!*
 
-### *Made with :heartbeat: for a safer internet and to keep the internet clean!*
+### *Made with :heartbeat: for a safer and cleaner internet!*
 
 ### Table of Contents
 1. [Overview](#overview)
@@ -33,7 +33,7 @@
 | [Light](https://github.com/hagezi/dns-blocklists#light)             | 348293<br>138072     |   |   | = | X | P |   |   |   | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1132757<br>296980     |   | = | X | X | P |   |   |   | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1376331<br>395962         | = | X | X | X | P |   |   |   | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1560324<br>443861 | ++ | X | X | X | P |   |   |   | X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1560321<br>443859 | ++ | X | X | X | P |   |   |   | X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -92,7 +92,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1560324 domains/hosts - 443861 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1560321 domains/hosts - 443859 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -151,7 +151,7 @@
 
 #### ***Complete Edition - Encrypted DNS Servers, VPN, TOR, Proxies*** <a name="bypass_all"></a>
        
-**Entries:** *971 domains/hosts - 884 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
+**Entries:** *965 domains/hosts - 882 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -166,7 +166,7 @@
 
 #### ***Encrypted DNS Servers only*** <a name="bypass_dns"></a>
        
-**Entries:** *352 domains/hosts - 287 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh)
+**Entries:** *346 domains/hosts - 285 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -305,7 +305,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
 
-*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Made with :heartbeat: for a safer internet.*         
+*The blocklists are based on [various sources](usedsources.md) and my own [blacklists](https://github.com/hagezi/dns-data-collection/tree/main/data). They were designed to avoid [false positive domains](whitelist.txt) as much as possible without losing effectiveness and efficiency. [Dead hosts](deadlist.txt) are regularly removed from the lists to keep them as small as possible. Made with :heartbeat: for a safer and cleaner internet.*         
 *They are updated and maintained daily.*
            
 *Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*
