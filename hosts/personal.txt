@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 01:22 UTC
-# Version: 2022.1112.0122.36
+# Last modified: 12 Nov 2022 07:47 UTC
+# Version: 2022.1112.0747.03
 # Syntax: Hosts
-# Domains: 891
+# Domains: 896
 #
 0.0.0.0 t.1und1.de
 0.0.0.0 24coinix.com
@@ -46,7 +46,9 @@
 0.0.0.0 analytics.si-p.adac.de
 0.0.0.0 analytics.adcanvas.com
 0.0.0.0 track.adcocktail.com
+0.0.0.0 adensemble.com
 0.0.0.0 pixel.adensemble.com
+0.0.0.0 www.adensemble.com
 0.0.0.0 shopify.admetrics.events
 0.0.0.0 analytics.bit.admin.ch
 0.0.0.0 adnxs.com
@@ -693,7 +695,9 @@
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 selfishsnake.com
+0.0.0.0 sendlane.com
 0.0.0.0 track.sendlane.com
+0.0.0.0 www.sendlane.com
 0.0.0.0 tmptrk.sensic.net
 0.0.0.0 trk.sensic.net
 0.0.0.0 sentry.io
@@ -721,6 +725,7 @@
 0.0.0.0 tracking.skylum.com
 0.0.0.0 slclktrk008.com
 0.0.0.0 www.slclktrk008.com
+0.0.0.0 zeroup3.slclktrk008.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 smartclip.net
 0.0.0.0 cdn.smartclip.net
