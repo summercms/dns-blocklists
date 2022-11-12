@@ -139,6 +139,15 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  83 |      72% |   0% |     28% | windows-office.txt
  84 |     100% |   0% |      0% | pro.txt
 
+File: extension.domains
+
+17224 total unique domains | 5020 (29%) included | 4919 (29%) removed | 7285 (42%) dead
+
+ Nr | Included | Dead | Removed | URL/File
+  1 |       4% |   8% |      7% | https://anti-ad.net/adguard.txt
+  2 |       6% |  38% |      7% | https://raw.githubusercontent.com/z44499783/ChinaList2.0/master/ChinaList2.0.txt
+  3 |       6% |   4% |      3% | https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
+
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### FAKE
@@ -266,23 +275,23 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### DOH-VPN-PROXY-BYPASS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-dead.txt)
 ```
-2309 total unique domains | 971 (42%) included | 3 (0%) removed | 1335 (58%) dead
+2309 total unique domains | 965 (42%) included | 9 (0%) removed | 1335 (58%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      91% |   9% |      0% | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-  2 |      93% |   7% |      0% | https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
+  1 |      89% |   9% |      2% | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+  2 |      92% |   7% |      0% | https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
   3 |      94% |   6% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
   4 |      87% |   9% |      4% | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains
   5 |      13% |  87% |      0% | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
-  6 |      99% |   1% |      0% | black.list.dohdot
+  6 |      97% |   1% |      2% | black.list.dohdot
 ```
 #### DOH
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-removed-dead.txt)
 ```
-355 total unique domains | 352 (99%) included | 0 (0%) removed | 3 (1%) dead
+355 total unique domains | 346 (97%) included | 6 (2%) removed | 3 (1%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      99% |   1% |      0% | black.list.dohdot
+  1 |      97% |   1% |      2% | black.list.dohdot
 ```
 #### NOSAFESEARCH
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-dead.txt)
@@ -434,6 +443,7 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
