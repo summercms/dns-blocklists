@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Nov 2022 01:23 UTC
-# Version: 2022.1113.0123.42
+# Last modified: 13 Nov 2022 20:56 UTC
+# Version: 2022.1113.2056.43
 # Syntax: Domains
-# Domains: 921
+# Domains: 954
 #
 t.1und1.de
 24coinix.com
@@ -60,6 +60,8 @@ ads4trk.com
 vrmom.ads4trk.com
 www.ads4trk.com
 pixel.adsafeprotected.com
+adsblue.net
+www.adsblue.net
 adserver01.de
 r.adserver01.de
 www.adserver01.de
@@ -93,6 +95,9 @@ aviary.amazon.com
 aviary.amazon.de
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com
+io-cookie-sync-1725936127.us-east-1.elb.amazonaws.com
+partners-alb-1113315349.us-east-1.elb.amazonaws.com
 track.americansongwriter.com
 analytics-debugger.com
 amp.analytics-debugger.com
@@ -143,6 +148,8 @@ hosts.vggwebsitetrackingprod.azurewebsites.net
 affiliatable1.b-cdn.net
 t.ba-content.de
 analytics.bahn-x.de
+tracker.bannerflow.com
+573c32a1082dcc0960609da2.tracker.bannerflow.com
 wsmetrics.batch.com
 t.baur.de
 analytics-static.ugc.bazaarvoice.com
@@ -228,9 +235,14 @@ api.cleverpush.com
 production.cleverpush.com
 static.cleverpush.com
 www.cleverpush.com
+s.clicknetic.media
 clicktut.site
 www.clicktut.site
+as-sec.casalemedia.com.cdn.cloudflare.net
+newrelic.com.cdn.cloudflare.net
+tls12.newrelic.com.cdn.cloudflare.net
 realtimeanalytics.yext.com.cdn.cloudflare.net
+d3p8zr0ffa9t17.cloudfront.net
 analytics.clouso-server.de
 analytics.cnd-motionmedia.de
 aviary.amazon.co.jp
@@ -239,6 +251,7 @@ analytics.ticketmaster.co.uk
 vsanalytics.visualsoft.co.uk
 analytics.comunio.de
 t.lto.connectaserver.de
+sdk.conscent.in
 delivery.consentmanager.net
 a.delivery.consentmanager.net
 b.delivery.consentmanager.net
@@ -326,6 +339,7 @@ mobile-events.eservice.emarsys.net
 webchannel-content.eservice.emarsys.net
 dyn.emetriq.de
 tracking.emons.de
+cdn.empower.net
 epagogerepines.com
 trackers.peerius.episerver.net
 tracking.ernstings-family.de
@@ -342,6 +356,8 @@ sanalytics.express.de
 track.express.de
 extentrackpro.com
 www.extentrackpro.com
+telemetry.eyeo.com
+eyeo-internal.telemetry.eyeo.com
 ezoicanalytics.com
 www.ezoicanalytics.com
 rt.familie.de
@@ -410,6 +426,7 @@ www.googletagservices.com
 gotrackier.com
 mmads.gotrackier.com
 www.gotrackier.com
+ads-cdn.grab.com
 r.grouponmail.de
 gsadserver.de
 banner.gsadserver.de
@@ -489,6 +506,9 @@ ict.infinity-tracking.net
 rt.inistrack.net
 analytics.init.de
 telemetry.sdk.inmobi.com
+inspectlet.io
+www.inspectlet.io
+hermes-us.inspidspad.com
 instabug.com
 api.instabug.com
 api-apm.instabug.com
@@ -507,6 +527,7 @@ www.ist-track.com
 matching.ivitrack.com
 metrics.jameda.de
 analytics.jjshouse.com
+pixel.jungroup.com
 tracking.kadewe.de
 kameleoon.com
 kameleoon.eu
@@ -611,6 +632,7 @@ telecommand.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 telemetry.urs.microsoft.com
 watson.microsoft.com
+playable-stats.mindworks-creative.com
 t.mail.mini.de
 mitsubilla.xyz
 www.mitsubilla.xyz
@@ -684,6 +706,8 @@ analytics-cdn.prensaiberica.es
 track.productsup.com
 my.profitmetrics.io
 tracking.projekte-leicht-gemacht.de
+adserverapi.psafe.com
+tracking.bi.psafe.com
 cdn.quantummetric.com
 emirates-app.quantummetric.com
 gtrack.reallifediy.com
@@ -707,6 +731,8 @@ notify-bugs-fra1.rtl.de
 session-bugs-fra1.rtl.de
 tracking.rtl.de
 analytics.rtl2.de
+publisher-pixel-go-fjguapqosq-uc.a.run.app
+publisher-pixel-oizncs36ra-uc.a.run.app
 sanalytics.rundschau-online.de
 tracking.s24.com
 pro-web-metrics.alias.s24cloud.net
@@ -740,6 +766,7 @@ widget.track.aws.sevensenders.com
 beacon.shazam.com
 track.shoparize.com
 track.shoptopdeal.com
+ad.simpledesign.ltd
 simptrack.com
 tm.simptrack.com
 tm707.simptrack.com
@@ -752,7 +779,6 @@ slclktrk008.com
 www.slclktrk008.com
 zeroup3.slclktrk008.com
 analytics.sleeknote.com
-smartclip.net
 cdn.smartclip.net
 dco.smartclip.net
 des.smartclip.net
@@ -761,9 +787,7 @@ errors.hbbtv.smartclip.net
 scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
 stats.smartclip.net
-sxp.smartclip.net
 ad.sxp.smartclip.net
-ad-ipd.sxp.smartclip.net
 bid.sxp.smartclip.net
 cache.sxp.smartclip.net
 des.sxp.smartclip.net
@@ -771,7 +795,6 @@ hoover.sxp.smartclip.net
 hoovermedia.sxp.smartclip.net
 stats.sxp.smartclip.net
 sync.sxp.smartclip.net
-www.smartclip.net
 analytics.smartvel.com
 analytics-pro.smartvel.com
 web-analytics.smile.io
@@ -780,6 +803,8 @@ web-tracker.smsbump.com
 beacon.sojern.com
 analytics.sostrenegrene.com
 press-tracking-api.sovendus.com
+spadsync.com
+www.spadsync.com
 sparta-tracking.xyz
 track.sparta-tracking.xyz
 sqrt-5041.de
@@ -820,6 +845,7 @@ cdn-magiclinks.trackonomics.net
 audit.trackverify.com
 trackvrs.com
 www.trackvrs.com
+ads-inmobi-comtm.trafficmanager.net
 browser.events.data.trafficmanager.net
 mobile.events.data.trafficmanager.net
 legacywatson.trafficmanager.net
@@ -855,6 +881,11 @@ pdw-usr.userreport.com
 visitanalytics.userreport.com
 tracking.vcommission.com
 analytics.verabradley.com
+veve.com
+izx59.veve.com
+mzn65.veve.com
+static-02.veve.com
+www.veve.com
 analytics.vfr-verlag.de
 videostep.com
 bid.videostep.com
@@ -893,6 +924,7 @@ track.wackojaco.com
 analytics.wasserstand-niederoesterreich.at
 rt.watson.de
 t.wayfair.de
+cdn.serve.admatic.com.tr.wcdnga.com
 analytics.webgains.io
 track.production.webgains.team
 webroutetrk.com
@@ -922,6 +954,7 @@ mc.yandex.ru
 startup-mobile.ap.yandex-net.ru
 analytics.ycdn.de
 realtimeanalytics.yext.com
+r.yoadx.net
 analytics.yogamehome.org
 t.nl.yves-rocher.de
 tracksrv.zdf.de

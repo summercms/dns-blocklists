@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Nov 2022 01:23 UTC
-# Version: 2022.1113.0123.42
+# Last modified: 13 Nov 2022 20:56 UTC
+# Version: 2022.1113.2056.43
 # Syntax: Hosts
-# Domains: 921
+# Domains: 954
 #
 0.0.0.0 t.1und1.de
 0.0.0.0 24coinix.com
@@ -60,6 +60,8 @@
 0.0.0.0 vrmom.ads4trk.com
 0.0.0.0 www.ads4trk.com
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 adsblue.net
+0.0.0.0 www.adsblue.net
 0.0.0.0 adserver01.de
 0.0.0.0 r.adserver01.de
 0.0.0.0 www.adserver01.de
@@ -93,6 +95,9 @@
 0.0.0.0 aviary.amazon.de
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com
+0.0.0.0 io-cookie-sync-1725936127.us-east-1.elb.amazonaws.com
+0.0.0.0 partners-alb-1113315349.us-east-1.elb.amazonaws.com
 0.0.0.0 track.americansongwriter.com
 0.0.0.0 analytics-debugger.com
 0.0.0.0 amp.analytics-debugger.com
@@ -143,6 +148,8 @@
 0.0.0.0 affiliatable1.b-cdn.net
 0.0.0.0 t.ba-content.de
 0.0.0.0 analytics.bahn-x.de
+0.0.0.0 tracker.bannerflow.com
+0.0.0.0 573c32a1082dcc0960609da2.tracker.bannerflow.com
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 t.baur.de
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -228,9 +235,14 @@
 0.0.0.0 production.cleverpush.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 www.cleverpush.com
+0.0.0.0 s.clicknetic.media
 0.0.0.0 clicktut.site
 0.0.0.0 www.clicktut.site
+0.0.0.0 as-sec.casalemedia.com.cdn.cloudflare.net
+0.0.0.0 newrelic.com.cdn.cloudflare.net
+0.0.0.0 tls12.newrelic.com.cdn.cloudflare.net
 0.0.0.0 realtimeanalytics.yext.com.cdn.cloudflare.net
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
 0.0.0.0 analytics.clouso-server.de
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 aviary.amazon.co.jp
@@ -239,6 +251,7 @@
 0.0.0.0 vsanalytics.visualsoft.co.uk
 0.0.0.0 analytics.comunio.de
 0.0.0.0 t.lto.connectaserver.de
+0.0.0.0 sdk.conscent.in
 0.0.0.0 delivery.consentmanager.net
 0.0.0.0 a.delivery.consentmanager.net
 0.0.0.0 b.delivery.consentmanager.net
@@ -326,6 +339,7 @@
 0.0.0.0 webchannel-content.eservice.emarsys.net
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 tracking.emons.de
+0.0.0.0 cdn.empower.net
 0.0.0.0 epagogerepines.com
 0.0.0.0 trackers.peerius.episerver.net
 0.0.0.0 tracking.ernstings-family.de
@@ -342,6 +356,8 @@
 0.0.0.0 track.express.de
 0.0.0.0 extentrackpro.com
 0.0.0.0 www.extentrackpro.com
+0.0.0.0 telemetry.eyeo.com
+0.0.0.0 eyeo-internal.telemetry.eyeo.com
 0.0.0.0 ezoicanalytics.com
 0.0.0.0 www.ezoicanalytics.com
 0.0.0.0 rt.familie.de
@@ -410,6 +426,7 @@
 0.0.0.0 gotrackier.com
 0.0.0.0 mmads.gotrackier.com
 0.0.0.0 www.gotrackier.com
+0.0.0.0 ads-cdn.grab.com
 0.0.0.0 r.grouponmail.de
 0.0.0.0 gsadserver.de
 0.0.0.0 banner.gsadserver.de
@@ -489,6 +506,9 @@
 0.0.0.0 rt.inistrack.net
 0.0.0.0 analytics.init.de
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 inspectlet.io
+0.0.0.0 www.inspectlet.io
+0.0.0.0 hermes-us.inspidspad.com
 0.0.0.0 instabug.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api-apm.instabug.com
@@ -507,6 +527,7 @@
 0.0.0.0 matching.ivitrack.com
 0.0.0.0 metrics.jameda.de
 0.0.0.0 analytics.jjshouse.com
+0.0.0.0 pixel.jungroup.com
 0.0.0.0 tracking.kadewe.de
 0.0.0.0 kameleoon.com
 0.0.0.0 kameleoon.eu
@@ -611,6 +632,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 watson.microsoft.com
+0.0.0.0 playable-stats.mindworks-creative.com
 0.0.0.0 t.mail.mini.de
 0.0.0.0 mitsubilla.xyz
 0.0.0.0 www.mitsubilla.xyz
@@ -684,6 +706,8 @@
 0.0.0.0 track.productsup.com
 0.0.0.0 my.profitmetrics.io
 0.0.0.0 tracking.projekte-leicht-gemacht.de
+0.0.0.0 adserverapi.psafe.com
+0.0.0.0 tracking.bi.psafe.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 emirates-app.quantummetric.com
 0.0.0.0 gtrack.reallifediy.com
@@ -707,6 +731,8 @@
 0.0.0.0 session-bugs-fra1.rtl.de
 0.0.0.0 tracking.rtl.de
 0.0.0.0 analytics.rtl2.de
+0.0.0.0 publisher-pixel-go-fjguapqosq-uc.a.run.app
+0.0.0.0 publisher-pixel-oizncs36ra-uc.a.run.app
 0.0.0.0 sanalytics.rundschau-online.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
@@ -740,6 +766,7 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 track.shoparize.com
 0.0.0.0 track.shoptopdeal.com
+0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 simptrack.com
 0.0.0.0 tm.simptrack.com
 0.0.0.0 tm707.simptrack.com
@@ -752,7 +779,6 @@
 0.0.0.0 www.slclktrk008.com
 0.0.0.0 zeroup3.slclktrk008.com
 0.0.0.0 analytics.sleeknote.com
-0.0.0.0 smartclip.net
 0.0.0.0 cdn.smartclip.net
 0.0.0.0 dco.smartclip.net
 0.0.0.0 des.smartclip.net
@@ -761,9 +787,7 @@
 0.0.0.0 scheduler.hbbtv.smartclip.net
 0.0.0.0 stats.hbbtv.smartclip.net
 0.0.0.0 stats.smartclip.net
-0.0.0.0 sxp.smartclip.net
 0.0.0.0 ad.sxp.smartclip.net
-0.0.0.0 ad-ipd.sxp.smartclip.net
 0.0.0.0 bid.sxp.smartclip.net
 0.0.0.0 cache.sxp.smartclip.net
 0.0.0.0 des.sxp.smartclip.net
@@ -771,7 +795,6 @@
 0.0.0.0 hoovermedia.sxp.smartclip.net
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 sync.sxp.smartclip.net
-0.0.0.0 www.smartclip.net
 0.0.0.0 analytics.smartvel.com
 0.0.0.0 analytics-pro.smartvel.com
 0.0.0.0 web-analytics.smile.io
@@ -780,6 +803,8 @@
 0.0.0.0 beacon.sojern.com
 0.0.0.0 analytics.sostrenegrene.com
 0.0.0.0 press-tracking-api.sovendus.com
+0.0.0.0 spadsync.com
+0.0.0.0 www.spadsync.com
 0.0.0.0 sparta-tracking.xyz
 0.0.0.0 track.sparta-tracking.xyz
 0.0.0.0 sqrt-5041.de
@@ -820,6 +845,7 @@
 0.0.0.0 audit.trackverify.com
 0.0.0.0 trackvrs.com
 0.0.0.0 www.trackvrs.com
+0.0.0.0 ads-inmobi-comtm.trafficmanager.net
 0.0.0.0 browser.events.data.trafficmanager.net
 0.0.0.0 mobile.events.data.trafficmanager.net
 0.0.0.0 legacywatson.trafficmanager.net
@@ -855,6 +881,11 @@
 0.0.0.0 visitanalytics.userreport.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 analytics.verabradley.com
+0.0.0.0 veve.com
+0.0.0.0 izx59.veve.com
+0.0.0.0 mzn65.veve.com
+0.0.0.0 static-02.veve.com
+0.0.0.0 www.veve.com
 0.0.0.0 analytics.vfr-verlag.de
 0.0.0.0 videostep.com
 0.0.0.0 bid.videostep.com
@@ -893,6 +924,7 @@
 0.0.0.0 analytics.wasserstand-niederoesterreich.at
 0.0.0.0 rt.watson.de
 0.0.0.0 t.wayfair.de
+0.0.0.0 cdn.serve.admatic.com.tr.wcdnga.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 track.production.webgains.team
 0.0.0.0 webroutetrk.com
@@ -922,6 +954,7 @@
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 analytics.ycdn.de
 0.0.0.0 realtimeanalytics.yext.com
+0.0.0.0 r.yoadx.net
 0.0.0.0 analytics.yogamehome.org
 0.0.0.0 t.nl.yves-rocher.de
 0.0.0.0 tracksrv.zdf.de

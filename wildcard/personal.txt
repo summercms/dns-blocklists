@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Nov 2022 01:23 UTC
-# Version: 2022.1113.0123.42
+# Last modified: 13 Nov 2022 20:56 UTC
+# Version: 2022.1113.2056.43
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 618
+# Domains: 660
 #
 *.t.1und1.de
 *.24coinix.com
@@ -38,6 +38,7 @@
 *.adnxs-simple.com
 *.ads4trk.com
 *.pixel.adsafeprotected.com
+*.adsblue.net
 *.adserver01.de
 *.adsit.ai
 *.adsymptotic.com
@@ -60,6 +61,9 @@
 *.aviary.amazon.de
 *.device-metrics-us.amazon.com
 *.device-metrics-us-2.amazon.com
+*.adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com
+*.io-cookie-sync-1725936127.us-east-1.elb.amazonaws.com
+*.partners-alb-1113315349.us-east-1.elb.amazonaws.com
 *.track.americansongwriter.com
 *.analytics-debugger.com
 *.r.apotheken-umschau.de
@@ -101,6 +105,7 @@
 *.affiliatable1.b-cdn.net
 *.t.ba-content.de
 *.analytics.bahn-x.de
+*.tracker.bannerflow.com
 *.wsmetrics.batch.com
 *.t.baur.de
 *.analytics-static.ugc.bazaarvoice.com
@@ -150,8 +155,12 @@
 *.smetrics.cinemaxx.de
 *.clarity.ms
 *.cleverpush.com
+*.s.clicknetic.media
 *.clicktut.site
+*.as-sec.casalemedia.com.cdn.cloudflare.net
+*.newrelic.com.cdn.cloudflare.net
 *.realtimeanalytics.yext.com.cdn.cloudflare.net
+*.d3p8zr0ffa9t17.cloudfront.net
 *.analytics.clouso-server.de
 *.analytics.cnd-motionmedia.de
 *.aviary.amazon.co.jp
@@ -160,6 +169,7 @@
 *.vsanalytics.visualsoft.co.uk
 *.analytics.comunio.de
 *.t.lto.connectaserver.de
+*.sdk.conscent.in
 *.delivery.consentmanager.net
 *.track.conversion-cowboys.com
 *.metrics.cottonbird.de
@@ -224,6 +234,7 @@
 *.eservice.emarsys.net
 *.dyn.emetriq.de
 *.tracking.emons.de
+*.cdn.empower.net
 *.epagogerepines.com
 *.trackers.peerius.episerver.net
 *.tracking.ernstings-family.de
@@ -234,6 +245,7 @@
 *.sanalytics.express.de
 *.track.express.de
 *.extentrackpro.com
+*.telemetry.eyeo.com
 *.ezoicanalytics.com
 *.rt.familie.de
 *.analytics.fatmedia.io
@@ -282,6 +294,7 @@
 *.googlesyndication.com
 *.googletagservices.com
 *.gotrackier.com
+*.ads-cdn.grab.com
 *.r.grouponmail.de
 *.gsadserver.de
 *.r.gutscheinmailer24.de
@@ -347,6 +360,8 @@
 *.rt.inistrack.net
 *.analytics.init.de
 *.telemetry.sdk.inmobi.com
+*.inspectlet.io
+*.hermes-us.inspidspad.com
 *.instabug.com
 *.ioam.de
 *.metrics.ionos.de
@@ -356,6 +371,7 @@
 *.matching.ivitrack.com
 *.metrics.jameda.de
 *.analytics.jjshouse.com
+*.pixel.jungroup.com
 *.tracking.kadewe.de
 *.kameleoon.com
 *.kameleoon.eu
@@ -415,6 +431,7 @@
 *.telemetry.microsoft.com
 *.telemetry.urs.microsoft.com
 *.watson.microsoft.com
+*.playable-stats.mindworks-creative.com
 *.t.mail.mini.de
 *.mitsubilla.xyz
 *.mjrhficjcbf.com
@@ -475,6 +492,8 @@
 *.track.productsup.com
 *.my.profitmetrics.io
 *.tracking.projekte-leicht-gemacht.de
+*.adserverapi.psafe.com
+*.tracking.bi.psafe.com
 *.cdn.quantummetric.com
 *.emirates-app.quantummetric.com
 *.gtrack.reallifediy.com
@@ -498,6 +517,8 @@
 *.session-bugs-fra1.rtl.de
 *.tracking.rtl.de
 *.analytics.rtl2.de
+*.publisher-pixel-go-fjguapqosq-uc.a.run.app
+*.publisher-pixel-oizncs36ra-uc.a.run.app
 *.sanalytics.rundschau-online.de
 *.tracking.s24.com
 *.pro-web-metrics.alias.s24cloud.net
@@ -518,13 +539,29 @@
 *.beacon.shazam.com
 *.track.shoparize.com
 *.track.shoptopdeal.com
+*.ad.simpledesign.ltd
 *.simptrack.com
 *.siteimproveanalytics.com
 *.analytics.sitewit.com
 *.tracking.skylum.com
 *.slclktrk008.com
 *.analytics.sleeknote.com
-*.smartclip.net
+*.cdn.smartclip.net
+*.dco.smartclip.net
+*.des.smartclip.net
+*.cdn.hbbtv.smartclip.net
+*.errors.hbbtv.smartclip.net
+*.scheduler.hbbtv.smartclip.net
+*.stats.hbbtv.smartclip.net
+*.stats.smartclip.net
+*.ad.sxp.smartclip.net
+*.bid.sxp.smartclip.net
+*.cache.sxp.smartclip.net
+*.des.sxp.smartclip.net
+*.hoover.sxp.smartclip.net
+*.hoovermedia.sxp.smartclip.net
+*.stats.sxp.smartclip.net
+*.sync.sxp.smartclip.net
 *.analytics.smartvel.com
 *.analytics-pro.smartvel.com
 *.web-analytics.smile.io
@@ -533,6 +570,7 @@
 *.beacon.sojern.com
 *.analytics.sostrenegrene.com
 *.press-tracking-api.sovendus.com
+*.spadsync.com
 *.sparta-tracking.xyz
 *.sqrt-5041.de
 *.tracking.srv2.de
@@ -558,6 +596,7 @@
 *.cdn-magiclinks.trackonomics.net
 *.audit.trackverify.com
 *.trackvrs.com
+*.ads-inmobi-comtm.trafficmanager.net
 *.browser.events.data.trafficmanager.net
 *.mobile.events.data.trafficmanager.net
 *.legacywatson.trafficmanager.net
@@ -584,6 +623,7 @@
 *.visitanalytics.userreport.com
 *.tracking.vcommission.com
 *.analytics.verabradley.com
+*.veve.com
 *.analytics.vfr-verlag.de
 *.videostep.com
 *.vjd2trk.com
@@ -594,6 +634,7 @@
 *.analytics.wasserstand-niederoesterreich.at
 *.rt.watson.de
 *.t.wayfair.de
+*.cdn.serve.admatic.com.tr.wcdnga.com
 *.analytics.webgains.io
 *.track.production.webgains.team
 *.webroutetrk.com
@@ -620,6 +661,7 @@
 *.startup-mobile.ap.yandex-net.ru
 *.analytics.ycdn.de
 *.realtimeanalytics.yext.com
+*.r.yoadx.net
 *.analytics.yogamehome.org
 *.t.nl.yves-rocher.de
 *.tracksrv.zdf.de
