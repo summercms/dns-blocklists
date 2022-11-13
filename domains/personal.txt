@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 07:47 UTC
-# Version: 2022.1112.0747.03
+# Last modified: 13 Nov 2022 01:23 UTC
+# Version: 2022.1113.0123.42
 # Syntax: Domains
-# Domains: 896
+# Domains: 921
 #
 t.1und1.de
 24coinix.com
@@ -114,7 +114,6 @@ supportmetrics.apple.com
 weather-analytics-events.apple.com
 xp.apple.com
 feedbackws.fe.apple-dns.net
-me.apple-dns.net
 books-analytics-events.news.apple-dns.net
 notes-analytics-events.news.apple-dns.net
 stocks-analytics-events.news.apple-dns.net
@@ -253,12 +252,18 @@ www.crashlytics.com
 crossdevicetracking.com
 retag.crossdevicetracking.com
 m.csqtrk.net
+ubacollect-drcn.cloud.dbankcloud.cn
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
+dnkeeper.dbankcloud.com
+ad-dra.dt.dbankcloud.com
+ad-dre.dt.dbankcloud.com
+ad-drru.dt.dbankcloud.com
 datacollector-dra.dt.dbankcloud.cn
 datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
 datacollector-drru.dt.dbankcloud.ru
+hisearch-dra.dt.dbankcloud.com
 metrics.dt.dbankcloud.cn
 metrics-dra.dt.dbankcloud.cn
 metrics1-drcn.dt.dbankcloud.cn
@@ -266,8 +271,14 @@ metrics5.dt.dbankcloud.ru
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
+adx-dra.op.dbankcloud.com
+adx-drcn.op.dbankcloud.cn
+adx-dre.op.dbankcloud.com
+adx-drru.op.dbankcloud.com
+dnkeeper.platform.dbankcloud.cn
 grs.platform.dbankcloud.ru
 logservice-dre.platform.dbankcloud.cn
+openlocation-drcn.platform.dbankcloud.com
 ddjiayou.cn
 puz.ddjiayou.cn
 tadata.ddjiayou.cn
@@ -301,6 +312,8 @@ dyntracker.de
 ad.dyntracker.de
 www.dyntracker.de
 analytics.edding.com
+adx-dre.op.dbankcloud.com.edgekey.net
+dsa-sslv6.hispace.hicloud.com.edgekey.net
 efarketingplansfo.xyz
 www.efarketingplansfo.xyz
 metrics.egencia.de
@@ -410,6 +423,7 @@ beacons5.gvt2.com
 beacons.gcp.gvt2.com
 beacons5.gvt3.com
 cdn.heapanalytics.com
+atlas-emui-drcn.hicloud.com
 data.hicloud.com
 metrics.data.hicloud.com
 metrics1.data.hicloud.com
@@ -417,24 +431,35 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
+dnkeeper.hicloud.com
 datacollector-dra.dt.hicloud.com
 datacollector-drcn.dt.hicloud.com
+datacollector-dre.dt.hicloud.com
 datacollector-drru.dt.hicloud.com
 logservice-drru.dt.hicloud.com
 metrics.dt.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics-drcn.dt.hicloud.com
 metrics6.dt.hicloud.com
+geo.hicloud.com
 grs.hicloud.com
+healthdata.hicloud.com
 logbak.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
+logtransform.hicloud.com
 adx-dra.op.hicloud.com
 adx-dre.op.hicloud.com
 events-dra.op.hicloud.com
+sdkserver-dra.op.hicloud.com
+opsdata.hicloud.com
 osscach2023.hicloud.tw
+configserver-dra.platform.hicloud.com
+feedback-dre.platform.hicloud.com
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.hicloud.com
+servicesupport.hicloud.com
+tracker-device-dre.things.hicloud.com
 gtrack.historictalk.com
 track.historictalk.com
 hitrackthat.com
