@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 07:18 UTC
-# Version: 2022.1112.0718.19
+# Last modified: 13 Nov 2022 00:54 UTC
+# Version: 2022.1113.0054.45
 # Syntax: Domains
-# Domains: 11636
+# Domains: 11614
 #
 11trikots.com
 123brennholz.com
@@ -6002,7 +6002,6 @@ www.aaafashion.ru
 www.aachentag.com
 www.aalborgfrivilligraad.dk
 www.aaliencart.com
-www.aamorav.com
 www.aavqb.com
 www.ababilhajjbd.com
 www.abaildonment.com
@@ -6017,7 +6016,6 @@ www.ab-homes.com
 www.abinaslawk.com
 www.abnehmen-einfach-gemacht.de
 www.abolder.com
-www.aboutbeingold.com
 www.above2021.com
 www.abqmvad.top
 www.acastleinthesun.com
@@ -6046,7 +6044,6 @@ www.admotours.de
 www.ado-ef.com
 www.adogadgets.com
 www.adolf.live
-www.ad-property.com
 www.adrian-beck.de
 www.adrianschwaiger.at
 www.adriennegray.at
@@ -6159,7 +6156,6 @@ www.alphasupplyco.com
 www.alpincenterbelalp.ch
 www.alro-stahlbau.de
 www.altaselektro.com
-www.altekino.de
 www.alter48.fr
 www.alternative-worlds.de
 www.alternzuhause.at
@@ -6230,7 +6226,6 @@ www.apdealhub.site
 www.aphidophaga.de
 www.apodeutschland.biz
 www.apollosstation.com
-www.apoonto.top
 www.apotheke24eu.com
 www.apotheke4all.is
 www.apotheke-billiger.com
@@ -6257,7 +6252,6 @@ www.arabues.de
 www.arbor-immobilien.de
 www.arcaktuell.de
 www.arcazhmanj.com
-www.archency.top
 www.architectes-fr.com
 www.archouston.com
 www.arcterjacketoutlet.com
@@ -6277,7 +6271,6 @@ www.arnold-steimle.de
 www.aromaleben.com
 www.arrsdo.com
 www.ars-conservare.de
-www.artdom.top
 www.artemondo.eu
 www.artkart.site
 www.artsyartisans.com
@@ -6327,7 +6320,6 @@ www.aurainfusions.com
 www.aurgkb.com
 www.austody.com
 www.austrianlove.com
-www.austriansolar.at
 www.austriashoes.com
 www.autoabdeckungsfabrik.com
 www.autobytel-euro.com
@@ -6424,7 +6416,6 @@ www.baumarkt-spahn.de
 www.baumpflege-spoerl.de
 www.baumwunsch.com
 www.bau-profis24.de
-www.baurino.com
 www.bauzeug.de
 www.bawabaonline.com
 www.bayease.com
@@ -6444,7 +6435,6 @@ www.beauttyan.com
 www.beauty365.ch
 www.beautypassword.com
 www.beautystudioceline.de
-www.bebennieh.top
 www.bedbreakfastbruges.be
 www.bedsonmall.shop
 www.beesforlease.de
@@ -6462,7 +6452,6 @@ www.bellissimoo.de
 www.belmarkt.net
 www.belovedaroma.com
 www.belsium.de
-www.beltimilano.com
 www.bemazenbest.site
 www.bemodern.de
 www.bemygalaxy.com
@@ -6542,7 +6531,6 @@ www.bikerspoint-riedstadt.de
 www.bikesbigbazar.com
 www.bikexschool.de
 www.bikeymikey.de
-www.bilalong.top
 www.bildertopf.de
 www.bilderwolke.de
 www.billigairmax.de
@@ -6575,7 +6563,6 @@ www.biwbcu.top
 www.bjorkcoffee.com
 www.black-forestcake.com
 www.blackwidow.at
-www.blade-pirates.de
 www.blaudonau.de
 www.blaue-dragoner.de
 www.blauerhein.de
@@ -6601,7 +6588,6 @@ www.bobbyananta.com
 www.bocarora.com
 www.bocceli.com
 www.bodasi.de
-www.bofone24.de
 www.bogdanski-salonbau.com
 www.bogneronlineshop.com
 www.bognerproductions.com
@@ -6654,7 +6640,6 @@ www.breadtaker.com
 www.breathofday.de
 www.breitenbacher-damenmode.com
 www.breitenbacher.shop
-www.breitenbacher.store
 www.breitlingreplika.com
 www.bremen-fashion.de
 www.brendmsk.ru
@@ -6683,7 +6668,6 @@ www.brushshope.com
 www.brycus.de
 www.brytei.com
 www.bsbb-fahrrad.de
-www.bshopvkr.com
 www.btcminer.website
 www.btctradingstrategies.com
 www.btklcoin.com
@@ -6746,7 +6730,6 @@ www.bvp-frobel.de
 www.bvuyyds.shop
 www.bxtemas.com
 www.byberlin.de
-www.bybremen.de
 www.by-dermashop.de
 www.bydumont.de
 www.byelvira.de
@@ -6768,7 +6751,6 @@ www.caledonia-ev.de
 www.callamondo.de
 www.callplan.at
 www.calocalsale.com
-www.cambase-berlin.de
 www.cambuyg.top
 www.camgem.de
 www.camhamster.at
@@ -6776,7 +6758,6 @@ www.cami-handel.de
 www.camperberlin.com
 www.camping-specialisten24.de
 www.camppolster.de
-www.canadagoosepromos-ch.com
 www.canbrace.com
 www.canderro.com
 www.candleriddleshop.com
@@ -6790,7 +6771,6 @@ www.caprin.net
 www.captainboot.de
 www.caraboo.at
 www.caravinga.com
-www.cardinkin.top
 www.cardione.at
 www.care4patients.de
 www.carethy.at
@@ -6848,11 +6828,9 @@ www.casuals.at
 www.casuals.ch
 www.catalia.de
 www.catatic.de
-www.catension.top
 www.caterpillardeutschland.de
 www.caterpillarosterreich.at
 www.caterpillarschuhe.at
-www.catharule.top
 www.cccnats.com
 www.ccdc2012.de
 www.cci-immobilien.de

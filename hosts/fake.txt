@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 07:18 UTC
-# Version: 2022.1112.0718.19
+# Last modified: 13 Nov 2022 00:54 UTC
+# Version: 2022.1113.0054.45
 # Syntax: Hosts
-# Domains: 11636
+# Domains: 11614
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -6002,7 +6002,6 @@
 0.0.0.0 www.aachentag.com
 0.0.0.0 www.aalborgfrivilligraad.dk
 0.0.0.0 www.aaliencart.com
-0.0.0.0 www.aamorav.com
 0.0.0.0 www.aavqb.com
 0.0.0.0 www.ababilhajjbd.com
 0.0.0.0 www.abaildonment.com
@@ -6017,7 +6016,6 @@
 0.0.0.0 www.abinaslawk.com
 0.0.0.0 www.abnehmen-einfach-gemacht.de
 0.0.0.0 www.abolder.com
-0.0.0.0 www.aboutbeingold.com
 0.0.0.0 www.above2021.com
 0.0.0.0 www.abqmvad.top
 0.0.0.0 www.acastleinthesun.com
@@ -6046,7 +6044,6 @@
 0.0.0.0 www.ado-ef.com
 0.0.0.0 www.adogadgets.com
 0.0.0.0 www.adolf.live
-0.0.0.0 www.ad-property.com
 0.0.0.0 www.adrian-beck.de
 0.0.0.0 www.adrianschwaiger.at
 0.0.0.0 www.adriennegray.at
@@ -6159,7 +6156,6 @@
 0.0.0.0 www.alpincenterbelalp.ch
 0.0.0.0 www.alro-stahlbau.de
 0.0.0.0 www.altaselektro.com
-0.0.0.0 www.altekino.de
 0.0.0.0 www.alter48.fr
 0.0.0.0 www.alternative-worlds.de
 0.0.0.0 www.alternzuhause.at
@@ -6230,7 +6226,6 @@
 0.0.0.0 www.aphidophaga.de
 0.0.0.0 www.apodeutschland.biz
 0.0.0.0 www.apollosstation.com
-0.0.0.0 www.apoonto.top
 0.0.0.0 www.apotheke24eu.com
 0.0.0.0 www.apotheke4all.is
 0.0.0.0 www.apotheke-billiger.com
@@ -6257,7 +6252,6 @@
 0.0.0.0 www.arbor-immobilien.de
 0.0.0.0 www.arcaktuell.de
 0.0.0.0 www.arcazhmanj.com
-0.0.0.0 www.archency.top
 0.0.0.0 www.architectes-fr.com
 0.0.0.0 www.archouston.com
 0.0.0.0 www.arcterjacketoutlet.com
@@ -6277,7 +6271,6 @@
 0.0.0.0 www.aromaleben.com
 0.0.0.0 www.arrsdo.com
 0.0.0.0 www.ars-conservare.de
-0.0.0.0 www.artdom.top
 0.0.0.0 www.artemondo.eu
 0.0.0.0 www.artkart.site
 0.0.0.0 www.artsyartisans.com
@@ -6327,7 +6320,6 @@
 0.0.0.0 www.aurgkb.com
 0.0.0.0 www.austody.com
 0.0.0.0 www.austrianlove.com
-0.0.0.0 www.austriansolar.at
 0.0.0.0 www.austriashoes.com
 0.0.0.0 www.autoabdeckungsfabrik.com
 0.0.0.0 www.autobytel-euro.com
@@ -6424,7 +6416,6 @@
 0.0.0.0 www.baumpflege-spoerl.de
 0.0.0.0 www.baumwunsch.com
 0.0.0.0 www.bau-profis24.de
-0.0.0.0 www.baurino.com
 0.0.0.0 www.bauzeug.de
 0.0.0.0 www.bawabaonline.com
 0.0.0.0 www.bayease.com
@@ -6444,7 +6435,6 @@
 0.0.0.0 www.beauty365.ch
 0.0.0.0 www.beautypassword.com
 0.0.0.0 www.beautystudioceline.de
-0.0.0.0 www.bebennieh.top
 0.0.0.0 www.bedbreakfastbruges.be
 0.0.0.0 www.bedsonmall.shop
 0.0.0.0 www.beesforlease.de
@@ -6462,7 +6452,6 @@
 0.0.0.0 www.belmarkt.net
 0.0.0.0 www.belovedaroma.com
 0.0.0.0 www.belsium.de
-0.0.0.0 www.beltimilano.com
 0.0.0.0 www.bemazenbest.site
 0.0.0.0 www.bemodern.de
 0.0.0.0 www.bemygalaxy.com
@@ -6542,7 +6531,6 @@
 0.0.0.0 www.bikesbigbazar.com
 0.0.0.0 www.bikexschool.de
 0.0.0.0 www.bikeymikey.de
-0.0.0.0 www.bilalong.top
 0.0.0.0 www.bildertopf.de
 0.0.0.0 www.bilderwolke.de
 0.0.0.0 www.billigairmax.de
@@ -6575,7 +6563,6 @@
 0.0.0.0 www.bjorkcoffee.com
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 www.blackwidow.at
-0.0.0.0 www.blade-pirates.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
@@ -6601,7 +6588,6 @@
 0.0.0.0 www.bocarora.com
 0.0.0.0 www.bocceli.com
 0.0.0.0 www.bodasi.de
-0.0.0.0 www.bofone24.de
 0.0.0.0 www.bogdanski-salonbau.com
 0.0.0.0 www.bogneronlineshop.com
 0.0.0.0 www.bognerproductions.com
@@ -6654,7 +6640,6 @@
 0.0.0.0 www.breathofday.de
 0.0.0.0 www.breitenbacher-damenmode.com
 0.0.0.0 www.breitenbacher.shop
-0.0.0.0 www.breitenbacher.store
 0.0.0.0 www.breitlingreplika.com
 0.0.0.0 www.bremen-fashion.de
 0.0.0.0 www.brendmsk.ru
@@ -6683,7 +6668,6 @@
 0.0.0.0 www.brycus.de
 0.0.0.0 www.brytei.com
 0.0.0.0 www.bsbb-fahrrad.de
-0.0.0.0 www.bshopvkr.com
 0.0.0.0 www.btcminer.website
 0.0.0.0 www.btctradingstrategies.com
 0.0.0.0 www.btklcoin.com
@@ -6746,7 +6730,6 @@
 0.0.0.0 www.bvuyyds.shop
 0.0.0.0 www.bxtemas.com
 0.0.0.0 www.byberlin.de
-0.0.0.0 www.bybremen.de
 0.0.0.0 www.by-dermashop.de
 0.0.0.0 www.bydumont.de
 0.0.0.0 www.byelvira.de
@@ -6768,7 +6751,6 @@
 0.0.0.0 www.callamondo.de
 0.0.0.0 www.callplan.at
 0.0.0.0 www.calocalsale.com
-0.0.0.0 www.cambase-berlin.de
 0.0.0.0 www.cambuyg.top
 0.0.0.0 www.camgem.de
 0.0.0.0 www.camhamster.at
@@ -6776,7 +6758,6 @@
 0.0.0.0 www.camperberlin.com
 0.0.0.0 www.camping-specialisten24.de
 0.0.0.0 www.camppolster.de
-0.0.0.0 www.canadagoosepromos-ch.com
 0.0.0.0 www.canbrace.com
 0.0.0.0 www.canderro.com
 0.0.0.0 www.candleriddleshop.com
@@ -6790,7 +6771,6 @@
 0.0.0.0 www.captainboot.de
 0.0.0.0 www.caraboo.at
 0.0.0.0 www.caravinga.com
-0.0.0.0 www.cardinkin.top
 0.0.0.0 www.cardione.at
 0.0.0.0 www.care4patients.de
 0.0.0.0 www.carethy.at
@@ -6848,11 +6828,9 @@
 0.0.0.0 www.casuals.ch
 0.0.0.0 www.catalia.de
 0.0.0.0 www.catatic.de
-0.0.0.0 www.catension.top
 0.0.0.0 www.caterpillardeutschland.de
 0.0.0.0 www.caterpillarosterreich.at
 0.0.0.0 www.caterpillarschuhe.at
-0.0.0.0 www.catharule.top
 0.0.0.0 www.cccnats.com
 0.0.0.0 www.ccdc2012.de
 0.0.0.0 www.cci-immobilien.de
