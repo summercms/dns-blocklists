@@ -1706,9 +1706,15 @@ apple-dns.net
 # Articles on buzzfee.com
 abeagle-public.buzzfeed.com
 
-# EA Desktop App - Properties unavailable
+# EA Desktop App - Properties/Download unavailable / Affects various apps
+auth.split.io
+cdn.split.io
+events.split.io
 sdk.split.io
 
 # https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 appsumo.com
+
+# Canary email app
+canarymail.io
 
