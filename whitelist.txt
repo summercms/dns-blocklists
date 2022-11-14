@@ -281,19 +281,20 @@ windowsupdate.s.llnwi.net
 www.msftconnecttest.com
 
 # Netflix
-netflix.com
 *.netflix.net
 *.nflxext.com
 *.nflximg.com
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-ichnaea.netflix.com
-ichnaea.dradis.netflix.com
-ichnaea.*.origin.prodaa.netflix.com
+api-global.netflix.com
+appboot.netflix.com
+netflix.com
+nrdp.nccp.*.netflix.com
 nrdp.nccp.netflix.com
-nrdp.nccp.dradis.netflix.com
-nrdp.nccp.*.origin.prodaa.netflix.com
+nrdp.prod.*.netflix.com
+nrdp.prod.ftl.netflix.com
+secure.netflix.com
 
 # Nintendo Switch
 nintendo.com
@@ -345,14 +346,75 @@ steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 valvesoftware.com
 
-# Samsung TV - System update check, ...
-acr0.samsungcloudsolution.com
-cdn.samsungcloudsolution.com
-time.samsungcloudsolution.com
-
 # Signal
 signal.org
 whispersystems.org
+
+# SmartTVs
+acr0.samsungcloudsolution.com
+announcements.vizio.com
+api-tv.spotify.com
+api.accuweather.com
+api.nfl.com
+api.vizio.com
+apicache.vudu.com
+applicast.ga.sony.net
+auth.samsungosp.com
+avpro.global.yamaha.com
+cdn.samsungcloudsolution.com
+cdns-content.dzcdn.net
+configprd.samsungcloudsolution.net
+dev-multiscreen.samsung.com
+deviceportal.nettvservices.com
+drscdn.500px.org
+epg.corio.com
+file2fxm.azureedge.net
+geo.opera.com
+gpm.samsungqbe.com
+hbbtv.prosieben.de
+hbbtv.redbutton.de
+hbbtv.zdf.de
+images.vizio.com
+infolink.pavv.co.kr
+itv.ard.de
+lcprd1.samsungcloudsolution.net
+location-api.hdhomerun.com
+mhc-ajax-eu-s2.myhomescreen.tv
+mhc-ajax-eu.myhomescreen.tv
+mhc-ajax-us.myhomescreen.tv
+mhc-eu.myhomescreen.tv
+mhc-us.myhomescreen.tv
+mhc-xpana-eu-s2.myhomescreen.tv
+mhc-xpana-eu.myhomescreen.tv
+mhc-xpana-us.myhomescreen.tv
+multiscreen.samsung.com
+ngfts.lge.com
+ns11.whois.co.kr
+osb-ussvc.samsungqbe.com
+otn.samsungcloudcdn.com
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+platform.cid.samba.tv
+portal.store.sonyentertainmentnetwork.com
+reg.biv.sony.tv
+samsungosp.com
+samsungotn.net
+samsungrm.net
+service.biv.sony.tv
+ssm1.internet.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
+time-a.timefreq.bldrdoc.gov
+time.samsungcloudsolution.com
+tuner-api.hdhomerun.com
+tv.deezer.com
+update.biv.sony.tv
+us.lgtvsdp.com
+vcs.vdspf.com
+www.ecdinterface.philips.com
+www.samsungotn.net
 
 # Spotify
 # Prevent problems with Spotify Premium
@@ -431,6 +493,12 @@ youtu.be
 youtube-nocookie.com
 
 # ------------------------------------------------
+
+# Axiad (https://www.axiad.com) provides Private Key Infrastructure (PKI)
+axiadids.net
+cloud.axiadids.net
+moog.cloud.axiadids.net
+crl.moog.cloud.axiadids.net
 
 # Videos on different websites do not start when the following domains are blocked:
 *.schneevonmorgen.com
