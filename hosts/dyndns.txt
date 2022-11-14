@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Nov 2022 05:26 UTC
-# Version: 2022.1111.0526.35
+# Last modified: 14 Nov 2022 08:41 UTC
+# Version: 2022.1114.0841.05
 # Syntax: Hosts
-# Domains: 802
+# Domains: 794
 #
 0.0.0.0 001www.com
 0.0.0.0 0x.no
@@ -17,7 +17,6 @@
 0.0.0.0 1cooldns.com
 0.0.0.0 1dumb.com
 0.0.0.0 2288.org
-0.0.0.0 22web.org
 0.0.0.0 24-7.ro
 0.0.0.0 25u.com
 0.0.0.0 2mydns.net
@@ -37,7 +36,6 @@
 0.0.0.0 4pu.com
 0.0.0.0 64-b.it
 0.0.0.0 6600.org
-0.0.0.0 66ghz.com
 0.0.0.0 688.org
 0.0.0.0 69.mu
 0.0.0.0 7766.org
@@ -99,7 +97,6 @@
 0.0.0.0 cleansite.info
 0.0.0.0 cleansite.us
 0.0.0.0 cloudwatch.net
-0.0.0.0 cloudwaysapps.com
 0.0.0.0 dynamicdns.co.uk
 0.0.0.0 nav.co.id
 0.0.0.0 no-ip.co.uk
@@ -128,6 +125,7 @@
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
+0.0.0.0 ddnslive.com
 0.0.0.0 deaftone.com
 0.0.0.0 dedyn.io
 0.0.0.0 dhcp.biz
@@ -189,7 +187,6 @@
 0.0.0.0 dvrlists.com
 0.0.0.0 dyn-o-saur.com
 0.0.0.0 dyn-vpn.de
-0.0.0.0 dynadot.com
 0.0.0.0 dynalias.com
 0.0.0.0 dynalias.net
 0.0.0.0 dynalias.org
@@ -351,7 +348,6 @@
 0.0.0.0 gr8name.biz
 0.0.0.0 groks-the.info
 0.0.0.0 groks-this.info
-0.0.0.0 gtempurl.com
 0.0.0.0 gw.lt
 0.0.0.0 h-o-s-t.name
 0.0.0.0 h0stname.net
@@ -392,7 +388,6 @@
 0.0.0.0 hs.vc
 0.0.0.0 https443.net
 0.0.0.0 https443.org
-0.0.0.0 hyperphp.com
 0.0.0.0 iamallama.com
 0.0.0.0 ignorelist.com
 0.0.0.0 iiiii.info
@@ -494,7 +489,6 @@
 0.0.0.0 ivi.pl
 0.0.0.0 iz.rs
 0.0.0.0 jetos.com
-0.0.0.0 jimdofree.com
 0.0.0.0 jkub.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 jungleheart.com
@@ -655,7 +649,6 @@
 0.0.0.0 pointto.us
 0.0.0.0 port0.org
 0.0.0.0 port25.biz
-0.0.0.0 preview-domain.com
 0.0.0.0 privatedns.org
 0.0.0.0 privatizehealthinsurance.net
 0.0.0.0 proxydns.com
@@ -782,7 +775,6 @@
 0.0.0.0 webhop.org
 0.0.0.0 webok.net
 0.0.0.0 webredirect.org
-0.0.0.0 weebly.com
 0.0.0.0 wha.la
 0.0.0.0 wifizone.org
 0.0.0.0 wikaba.com

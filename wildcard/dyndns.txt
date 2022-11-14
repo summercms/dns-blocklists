@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Nov 2022 05:26 UTC
-# Version: 2022.1111.0526.35
+# Last modified: 14 Nov 2022 08:41 UTC
+# Version: 2022.1114.0841.05
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 800
+# Domains: 792
 #
 *.001www.com
 *.0x.no
@@ -17,7 +17,6 @@
 *.1cooldns.com
 *.1dumb.com
 *.2288.org
-*.22web.org
 *.24-7.ro
 *.25u.com
 *.2mydns.net
@@ -37,7 +36,6 @@
 *.4pu.com
 *.64-b.it
 *.6600.org
-*.66ghz.com
 *.688.org
 *.69.mu
 *.7766.org
@@ -99,7 +97,6 @@
 *.cleansite.info
 *.cleansite.us
 *.cloudwatch.net
-*.cloudwaysapps.com
 *.dynamicdns.co.uk
 *.nav.co.id
 *.no-ip.co.uk
@@ -128,6 +125,7 @@
 *.ddnsgeek.com
 *.ddnsguru.com
 *.ddnsking.com
+*.ddnslive.com
 *.deaftone.com
 *.dedyn.io
 *.dhcp.biz
@@ -189,7 +187,6 @@
 *.dvrlists.com
 *.dyn-o-saur.com
 *.dyn-vpn.de
-*.dynadot.com
 *.dynalias.com
 *.dynalias.net
 *.dynalias.org
@@ -349,7 +346,6 @@
 *.gr8name.biz
 *.groks-the.info
 *.groks-this.info
-*.gtempurl.com
 *.gw.lt
 *.h-o-s-t.name
 *.h0stname.net
@@ -390,7 +386,6 @@
 *.hs.vc
 *.https443.net
 *.https443.org
-*.hyperphp.com
 *.iamallama.com
 *.ignorelist.com
 *.iiiii.info
@@ -492,7 +487,6 @@
 *.ivi.pl
 *.iz.rs
 *.jetos.com
-*.jimdofree.com
 *.jkub.com
 *.jumpingcrab.com
 *.jungleheart.com
@@ -653,7 +647,6 @@
 *.pointto.us
 *.port0.org
 *.port25.biz
-*.preview-domain.com
 *.privatedns.org
 *.privatizehealthinsurance.net
 *.proxydns.com
@@ -780,7 +773,6 @@
 *.webhop.org
 *.webok.net
 *.webredirect.org
-*.weebly.com
 *.wha.la
 *.wifizone.org
 *.wikaba.com
