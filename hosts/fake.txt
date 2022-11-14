@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Nov 2022 00:54 UTC
-# Version: 2022.1113.0054.45
+# Last modified: 14 Nov 2022 00:54 UTC
+# Version: 2022.1114.0054.37
 # Syntax: Hosts
-# Domains: 11614
+# Domains: 11584
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -2423,7 +2423,6 @@
 0.0.0.0 hallobh.de
 0.0.0.0 hallohaus.co
 0.0.0.0 hallohaus.com
-0.0.0.0 hamburg-hotel.net
 0.0.0.0 hamega.net
 0.0.0.0 hammer-schmid.com
 0.0.0.0 handbagbrandsonline.com
@@ -2967,7 +2966,6 @@
 0.0.0.0 kickvee.com
 0.0.0.0 kidebro.com
 0.0.0.0 kidniva.uk
-0.0.0.0 kidoriman.com
 0.0.0.0 kikana-handel.com
 0.0.0.0 kikichoices.myshopify.com
 0.0.0.0 kilokits.com
@@ -3455,7 +3453,6 @@
 0.0.0.0 mc-miner.com
 0.0.0.0 mcoaltmeds.com
 0.0.0.0 mctrl-marktforschung.com
-0.0.0.0 mdates.com
 0.0.0.0 mealsonwheels.at
 0.0.0.0 mebs.ch
 0.0.0.0 media-deals24.de
@@ -4782,6 +4779,7 @@
 0.0.0.0 sensalve.de
 0.0.0.0 senthiln.top
 0.0.0.0 seoyou.de
+0.0.0.0 sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 sepshoe.com
 0.0.0.0 sepsneakers.co
@@ -7020,7 +7018,6 @@
 0.0.0.0 www.cosykitchen.store
 0.0.0.0 www.cottontalkf.com
 0.0.0.0 www.countryattire.at
-0.0.0.0 www.coupleain.top
 0.0.0.0 www.courtl.shop
 0.0.0.0 www.coussin-masseur.fr
 0.0.0.0 www.coverlastic.com
@@ -7057,7 +7054,6 @@
 0.0.0.0 www.curryfpw.top
 0.0.0.0 www.custably.com
 0.0.0.0 www.cutepets.site
-0.0.0.0 www.cutics.top
 0.0.0.0 www.cutterfarm.de
 0.0.0.0 www.cvmaker.de
 0.0.0.0 www.cyclisto.de
@@ -7119,7 +7115,6 @@
 0.0.0.0 www.dc-belsen.de
 0.0.0.0 www.dcskaterschuhe.de
 0.0.0.0 www.dcsresearch.com
-0.0.0.0 www.deader.top
 0.0.0.0 www.dealmanias.com
 0.0.0.0 www.dealparty.nl
 0.0.0.0 www.dealsbay.site
@@ -7154,7 +7149,6 @@
 0.0.0.0 www.dekopause.at
 0.0.0.0 www.deleju.info
 0.0.0.0 www.delhihurricanes.com
-0.0.0.0 www.delikatessen-band.de
 0.0.0.0 www.delix.at
 0.0.0.0 www.delonghi-de.shop
 0.0.0.0 www.deltaexpressdelivery.com
@@ -7197,7 +7191,6 @@
 0.0.0.0 www.desktray.de
 0.0.0.0 www.despiertaverde.com
 0.0.0.0 www.destineding.com
-0.0.0.0 www.destinedy.com
 0.0.0.0 www.destinsauconditionnel.com
 0.0.0.0 www.deuducht.de
 0.0.0.0 www.deuhr.de
@@ -7268,12 +7261,10 @@
 0.0.0.0 www.docsmartensdeutschland.de
 0.0.0.0 www.docsvaporsupply.com
 0.0.0.0 www.doflix.de
-0.0.0.0 www.dogandliving.de
 0.0.0.0 www.dogarta.de
 0.0.0.0 www.doggenkirchner.de
 0.0.0.0 www.doggyplum.com
 0.0.0.0 www.dogsdreamaustria.at
-0.0.0.0 www.dogwoodi.com
 0.0.0.0 www.dohahotel24.com
 0.0.0.0 www.doktorpotenzmittel.ch
 0.0.0.0 www.doktor-potenzmittel.com
@@ -7303,7 +7294,6 @@
 0.0.0.0 www.dransay.com
 0.0.0.0 www.draussenfeet.de
 0.0.0.0 www.drberg.eu
-0.0.0.0 www.dreameur.top
 0.0.0.0 www.dreammerdre.com
 0.0.0.0 www.dreamoco.com
 0.0.0.0 www.dreamsparfum.com
@@ -7608,7 +7598,6 @@
 0.0.0.0 www.f2fequinehauling.com
 0.0.0.0 www.fabionapoli.com
 0.0.0.0 www.fabnetstudio.com
-0.0.0.0 www.fabrikverkaufmerrellch.com
 0.0.0.0 www.fabulous-k.com
 0.0.0.0 www.facebestsell.xyz
 0.0.0.0 www.facebystore.xyz
@@ -7657,7 +7646,6 @@
 0.0.0.0 www.fashionmia.com
 0.0.0.0 www.fashiontoto.com
 0.0.0.0 www.fashion-traum.com
-0.0.0.0 www.fastel.top
 0.0.0.0 www.fastigeriptv.live
 0.0.0.0 www.fasturbanlogistics.com
 0.0.0.0 www.fastyslim.de
@@ -7749,7 +7737,6 @@
 0.0.0.0 www.fkkrga.top
 0.0.0.0 www.fkonter.top
 0.0.0.0 www.flagshipmodels.com
-0.0.0.0 www.flaguette.de
 0.0.0.0 www.flamingo-de.com
 0.0.0.0 www.flash24tradefx.com
 0.0.0.0 www.flaviorossi.de
@@ -7787,7 +7774,6 @@
 0.0.0.0 www.flytte-udlandet.dk
 0.0.0.0 www.flzychina.com
 0.0.0.0 www.fmeseriasi.com
-0.0.0.0 www.fmncco.com
 0.0.0.0 www.fnpmarkets.co
 0.0.0.0 www.fnskinsnow.com
 0.0.0.0 www.folmy.de
@@ -7859,7 +7845,6 @@
 0.0.0.0 www.fuehrungszeugnis-online-beantragen.de
 0.0.0.0 www.fuehrungszeugnis.org
 0.0.0.0 www.fuesschentraeume.de
-0.0.0.0 www.fugitive.top
 0.0.0.0 www.funatv.de
 0.0.0.0 www.funkenlb.com
 0.0.0.0 www.funswan.de
@@ -7892,7 +7877,6 @@
 0.0.0.0 www.gamesalor.de
 0.0.0.0 www.gamesfox.de
 0.0.0.0 www.gamestopde.de
-0.0.0.0 www.gamestop-eu.com
 0.0.0.0 www.gamestopkonsoleplay.de
 0.0.0.0 www.gamestop-markt.de
 0.0.0.0 www.gamestopmarkt.de
@@ -7901,7 +7885,6 @@
 0.0.0.0 www.gamestp.de
 0.0.0.0 www.gametimejerseys.com
 0.0.0.0 www.game.toys
-0.0.0.0 www.gaminggmarkt.de
 0.0.0.0 www.gaming-konsolen.com
 0.0.0.0 www.gamingmarkt.de
 0.0.0.0 www.gamingo24.net
@@ -7978,7 +7961,6 @@
 0.0.0.0 www.gideonsarmymusic.com
 0.0.0.0 www.giesswein-outdoor.de
 0.0.0.0 www.giftinooy.com
-0.0.0.0 www.giftmarket.top
 0.0.0.0 www.giftworld.shop
 0.0.0.0 www.gigagamesclub.com
 0.0.0.0 www.gigantwebhost.de
@@ -7986,7 +7968,6 @@
 0.0.0.0 www.gigilovely.co
 0.0.0.0 www.gimbowl.com
 0.0.0.0 www.gimora.de
-0.0.0.0 www.ginkgo-blumen.de
 0.0.0.0 www.ginsengrai.top
 0.0.0.0 www.girlsruby.com
 0.0.0.0 www.giveloveshop.site
@@ -8003,7 +7984,6 @@
 0.0.0.0 www.global-elektro.com
 0.0.0.0 www.global-expressdelivery.com
 0.0.0.0 www.globaltradeoption.online
-0.0.0.0 www.glounu.com
 0.0.0.0 www.glowyplant.de
 0.0.0.0 www.gluckaro.de
 0.0.0.0 www.gluckbox.com
@@ -8013,7 +7993,6 @@
 0.0.0.0 www.gnoxx.de
 0.0.0.0 www.goandfind.online
 0.0.0.0 www.gocosmeticsurgery.com
-0.0.0.0 www.godwinkaluco.com
 0.0.0.0 www.go-dynergy.com
 0.0.0.0 www.go-e-bike.com
 0.0.0.0 www.goetzwache.de
@@ -8029,7 +8008,6 @@
 0.0.0.0 www.goldfuchs.at
 0.0.0.0 www.gold-handel-24.de
 0.0.0.0 www.goldhandel-heute.de
-0.0.0.0 www.goldhandel-kauf.de
 0.0.0.0 www.goldhandel-o-kaufen.de
 0.0.0.0 www.goldhandel-punkt.de
 0.0.0.0 www.gold-handel-sofort.de
@@ -8132,7 +8110,6 @@
 0.0.0.0 www.hallobh.de
 0.0.0.0 www.hallohaus.co
 0.0.0.0 www.hallohaus.com
-0.0.0.0 www.hamburg-hotel.net
 0.0.0.0 www.hamega.net
 0.0.0.0 www.hammer-schmid.com
 0.0.0.0 www.handbagbrandsonline.com
@@ -8155,10 +8132,8 @@
 0.0.0.0 www.happy-shopy.de
 0.0.0.0 www.harlandco.com
 0.0.0.0 www.harmonie-fuhrerschein.de
-0.0.0.0 www.harpecy.com
 0.0.0.0 www.hartmann-versand.de
 0.0.0.0 www.haus-der-bos.com
-0.0.0.0 www.hausderschonheit-de.store
 0.0.0.0 www.haus-drelo.com
 0.0.0.0 www.hauser-personal.de
 0.0.0.0 www.haushalt-deals.net
@@ -8204,7 +8179,6 @@
 0.0.0.0 www.heizprodukte.com
 0.0.0.0 www.heiztrends.de
 0.0.0.0 www.heldenbuch.de
-0.0.0.0 www.helenasladen.de
 0.0.0.0 www.helgabaron.de
 0.0.0.0 www.helikon-filme.de
 0.0.0.0 www.helix-sports.de
@@ -8384,7 +8358,6 @@
 0.0.0.0 www.iconmobel.com
 0.0.0.0 www.iconmobel.de
 0.0.0.0 www.iconstoretv.com
-0.0.0.0 www.icontreag.com
 0.0.0.0 www.idabitar.com
 0.0.0.0 www.idailyshop.com
 0.0.0.0 www.idealerwunsch.com
@@ -8496,7 +8469,6 @@
 0.0.0.0 www.jagute.de
 0.0.0.0 www.jamunto.de
 0.0.0.0 www.janasvakc.com
-0.0.0.0 www.janylia.com
 0.0.0.0 www.jasadoty.com
 0.0.0.0 www.jaycokicks.com
 0.0.0.0 www.jaygeesj.com
@@ -8579,7 +8551,6 @@
 0.0.0.0 www.kappawien.at
 0.0.0.0 www.karchgeraete.com
 0.0.0.0 www.karenmiss.com
-0.0.0.0 www.karen-vuong.com
 0.0.0.0 www.karin-selest.com
 0.0.0.0 www.karins-rasselbande.de
 0.0.0.0 www.karmavana.de
@@ -8635,7 +8606,6 @@
 0.0.0.0 www.kickersdeutschland.top
 0.0.0.0 www.kidebro.com
 0.0.0.0 www.kidniva.uk
-0.0.0.0 www.kidoriman.com
 0.0.0.0 www.kilokits.com
 0.0.0.0 www.kimberlybisger.com
 0.0.0.0 www.kimplay.de
@@ -9093,7 +9063,6 @@
 0.0.0.0 www.mc-miner.com
 0.0.0.0 www.mcoaltmeds.com
 0.0.0.0 www.mctrl-marktforschung.com
-0.0.0.0 www.mdates.com
 0.0.0.0 www.mealsonwheels.at
 0.0.0.0 www.media-deals24.de
 0.0.0.0 www.mediafritz.com
@@ -10292,6 +10261,7 @@
 0.0.0.0 www.seniorlivinglab.ch
 0.0.0.0 www.senthiln.top
 0.0.0.0 www.seoyou.de
+0.0.0.0 www.sepkicks.com
 0.0.0.0 www.seprun.com
 0.0.0.0 www.sepshoe.com
 0.0.0.0 www.sepsneakers.co

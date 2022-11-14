@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Nov 2022 00:54 UTC
-# Version: 2022.1113.0054.45
+# Last modified: 14 Nov 2022 00:54 UTC
+# Version: 2022.1114.0054.37
 # Syntax: Domains
-# Domains: 11614
+# Domains: 11584
 #
 11trikots.com
 123brennholz.com
@@ -2423,7 +2423,6 @@ halipax.com
 hallobh.de
 hallohaus.co
 hallohaus.com
-hamburg-hotel.net
 hamega.net
 hammer-schmid.com
 handbagbrandsonline.com
@@ -2967,7 +2966,6 @@ kickersdeutschland.top
 kickvee.com
 kidebro.com
 kidniva.uk
-kidoriman.com
 kikana-handel.com
 kikichoices.myshopify.com
 kilokits.com
@@ -3455,7 +3453,6 @@ mcjustice.de
 mc-miner.com
 mcoaltmeds.com
 mctrl-marktforschung.com
-mdates.com
 mealsonwheels.at
 mebs.ch
 media-deals24.de
@@ -4782,6 +4779,7 @@ seniorlivinglab.ch
 sensalve.de
 senthiln.top
 seoyou.de
+sepkicks.com
 seprun.com
 sepshoe.com
 sepsneakers.co
@@ -7020,7 +7018,6 @@ www.cosplayshow.com
 www.cosykitchen.store
 www.cottontalkf.com
 www.countryattire.at
-www.coupleain.top
 www.courtl.shop
 www.coussin-masseur.fr
 www.coverlastic.com
@@ -7057,7 +7054,6 @@ www.curlycurler.de
 www.curryfpw.top
 www.custably.com
 www.cutepets.site
-www.cutics.top
 www.cutterfarm.de
 www.cvmaker.de
 www.cyclisto.de
@@ -7119,7 +7115,6 @@ www.dbackdrop.de
 www.dc-belsen.de
 www.dcskaterschuhe.de
 www.dcsresearch.com
-www.deader.top
 www.dealmanias.com
 www.dealparty.nl
 www.dealsbay.site
@@ -7154,7 +7149,6 @@ www.dejonk.de
 www.dekopause.at
 www.deleju.info
 www.delhihurricanes.com
-www.delikatessen-band.de
 www.delix.at
 www.delonghi-de.shop
 www.deltaexpressdelivery.com
@@ -7197,7 +7191,6 @@ www.desiree-wilhelm.at
 www.desktray.de
 www.despiertaverde.com
 www.destineding.com
-www.destinedy.com
 www.destinsauconditionnel.com
 www.deuducht.de
 www.deuhr.de
@@ -7268,12 +7261,10 @@ www.doc-hygiene.de
 www.docsmartensdeutschland.de
 www.docsvaporsupply.com
 www.doflix.de
-www.dogandliving.de
 www.dogarta.de
 www.doggenkirchner.de
 www.doggyplum.com
 www.dogsdreamaustria.at
-www.dogwoodi.com
 www.dohahotel24.com
 www.doktorpotenzmittel.ch
 www.doktor-potenzmittel.com
@@ -7303,7 +7294,6 @@ www.dramatischegestalten.de
 www.dransay.com
 www.draussenfeet.de
 www.drberg.eu
-www.dreameur.top
 www.dreammerdre.com
 www.dreamoco.com
 www.dreamsparfum.com
@@ -7608,7 +7598,6 @@ www.eyachfischer.de
 www.f2fequinehauling.com
 www.fabionapoli.com
 www.fabnetstudio.com
-www.fabrikverkaufmerrellch.com
 www.fabulous-k.com
 www.facebestsell.xyz
 www.facebystore.xyz
@@ -7657,7 +7646,6 @@ www.fashionmanufaktur.at
 www.fashionmia.com
 www.fashiontoto.com
 www.fashion-traum.com
-www.fastel.top
 www.fastigeriptv.live
 www.fasturbanlogistics.com
 www.fastyslim.de
@@ -7749,7 +7737,6 @@ www.fjadsergen.com
 www.fkkrga.top
 www.fkonter.top
 www.flagshipmodels.com
-www.flaguette.de
 www.flamingo-de.com
 www.flash24tradefx.com
 www.flaviorossi.de
@@ -7787,7 +7774,6 @@ www.fluremoda.com
 www.flytte-udlandet.dk
 www.flzychina.com
 www.fmeseriasi.com
-www.fmncco.com
 www.fnpmarkets.co
 www.fnskinsnow.com
 www.folmy.de
@@ -7859,7 +7845,6 @@ www.fuehrungszeugnis.at
 www.fuehrungszeugnis-online-beantragen.de
 www.fuehrungszeugnis.org
 www.fuesschentraeume.de
-www.fugitive.top
 www.funatv.de
 www.funkenlb.com
 www.funswan.de
@@ -7892,7 +7877,6 @@ www.gamer-zone.store
 www.gamesalor.de
 www.gamesfox.de
 www.gamestopde.de
-www.gamestop-eu.com
 www.gamestopkonsoleplay.de
 www.gamestop-markt.de
 www.gamestopmarkt.de
@@ -7901,7 +7885,6 @@ www.gamestopshop.net
 www.gamestp.de
 www.gametimejerseys.com
 www.game.toys
-www.gaminggmarkt.de
 www.gaming-konsolen.com
 www.gamingmarkt.de
 www.gamingo24.net
@@ -7978,7 +7961,6 @@ www.gh-stadtwald.at
 www.gideonsarmymusic.com
 www.giesswein-outdoor.de
 www.giftinooy.com
-www.giftmarket.top
 www.giftworld.shop
 www.gigagamesclub.com
 www.gigantwebhost.de
@@ -7986,7 +7968,6 @@ www.gigasporthouse.com
 www.gigilovely.co
 www.gimbowl.com
 www.gimora.de
-www.ginkgo-blumen.de
 www.ginsengrai.top
 www.girlsruby.com
 www.giveloveshop.site
@@ -8003,7 +7984,6 @@ www.globalcryptotraders.com
 www.global-elektro.com
 www.global-expressdelivery.com
 www.globaltradeoption.online
-www.glounu.com
 www.glowyplant.de
 www.gluckaro.de
 www.gluckbox.com
@@ -8013,7 +7993,6 @@ www.gmixnchic.com
 www.gnoxx.de
 www.goandfind.online
 www.gocosmeticsurgery.com
-www.godwinkaluco.com
 www.go-dynergy.com
 www.go-e-bike.com
 www.goetzwache.de
@@ -8029,7 +8008,6 @@ www.goldenretrieverzuchter.de
 www.goldfuchs.at
 www.gold-handel-24.de
 www.goldhandel-heute.de
-www.goldhandel-kauf.de
 www.goldhandel-o-kaufen.de
 www.goldhandel-punkt.de
 www.gold-handel-sofort.de
@@ -8132,7 +8110,6 @@ www.halipax.com
 www.hallobh.de
 www.hallohaus.co
 www.hallohaus.com
-www.hamburg-hotel.net
 www.hamega.net
 www.hammer-schmid.com
 www.handbagbrandsonline.com
@@ -8155,10 +8132,8 @@ www.happyshopmall.com
 www.happy-shopy.de
 www.harlandco.com
 www.harmonie-fuhrerschein.de
-www.harpecy.com
 www.hartmann-versand.de
 www.haus-der-bos.com
-www.hausderschonheit-de.store
 www.haus-drelo.com
 www.hauser-personal.de
 www.haushalt-deals.net
@@ -8204,7 +8179,6 @@ www.heishein.com
 www.heizprodukte.com
 www.heiztrends.de
 www.heldenbuch.de
-www.helenasladen.de
 www.helgabaron.de
 www.helikon-filme.de
 www.helix-sports.de
@@ -8384,7 +8358,6 @@ www.icm-consulting.de
 www.iconmobel.com
 www.iconmobel.de
 www.iconstoretv.com
-www.icontreag.com
 www.idabitar.com
 www.idailyshop.com
 www.idealerwunsch.com
@@ -8496,7 +8469,6 @@ www.jaguaresonline.com
 www.jagute.de
 www.jamunto.de
 www.janasvakc.com
-www.janylia.com
 www.jasadoty.com
 www.jaycokicks.com
 www.jaygeesj.com
@@ -8579,7 +8551,6 @@ www.kanzleiklaus.de
 www.kappawien.at
 www.karchgeraete.com
 www.karenmiss.com
-www.karen-vuong.com
 www.karin-selest.com
 www.karins-rasselbande.de
 www.karmavana.de
@@ -8635,7 +8606,6 @@ www.kiaranews.com
 www.kickersdeutschland.top
 www.kidebro.com
 www.kidniva.uk
-www.kidoriman.com
 www.kilokits.com
 www.kimberlybisger.com
 www.kimplay.de
@@ -9093,7 +9063,6 @@ www.mcjustice.de
 www.mc-miner.com
 www.mcoaltmeds.com
 www.mctrl-marktforschung.com
-www.mdates.com
 www.mealsonwheels.at
 www.media-deals24.de
 www.mediafritz.com
@@ -10292,6 +10261,7 @@ www.seniorendatingagentur.at
 www.seniorlivinglab.ch
 www.senthiln.top
 www.seoyou.de
+www.sepkicks.com
 www.seprun.com
 www.sepshoe.com
 www.sepsneakers.co

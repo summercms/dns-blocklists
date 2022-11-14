@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Nov 2022 00:54 UTC
-! Version: 2022.1113.0054.45
+! Last modified: 14 Nov 2022 00:54 UTC
+! Version: 2022.1114.0054.37
 ! Syntax: AdBlock
-! Domains: 6076
+! Domains: 6075
 !
 ||11trikots.com^
 ||123brennholz.com^
@@ -676,6 +676,7 @@
 ||blauerhein.de^
 ||blickpunkt24.at^
 ||blitzschuhe.de^
+||bl.mdates.com^
 ||blobel-elektromarkt.com^
 ||bloomsocks.ca^
 ||blooseye.com^
@@ -2404,7 +2405,6 @@
 ||hallobh.de^
 ||hallohaus.co^
 ||hallohaus.com^
-||hamburg-hotel.net^
 ||hamega.net^
 ||hammer-schmid.com^
 ||handbagbrandsonline.com^
@@ -2945,7 +2945,6 @@
 ||kickvee.com^
 ||kidebro.com^
 ||kidniva.uk^
-||kidoriman.com^
 ||kikana-handel.com^
 ||kikichoices.myshopify.com^
 ||kilokits.com^
@@ -3433,7 +3432,6 @@
 ||mc-miner.com^
 ||mcoaltmeds.com^
 ||mctrl-marktforschung.com^
-||mdates.com^
 ||mealsonwheels.at^
 ||mebs.ch^
 ||media-deals24.de^
@@ -4759,6 +4757,7 @@
 ||sensalve.de^
 ||senthiln.top^
 ||seoyou.de^
+||sepkicks.com^
 ||seprun.com^
 ||sepshoe.com^
 ||sepsneakers.co^
