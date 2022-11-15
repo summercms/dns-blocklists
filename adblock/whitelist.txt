@@ -418,9 +418,12 @@
 
 ! Spotify
 ! Prevent problems with Spotify Premium
+@@||scdn.co^
+@@||spotify.com.akahost.net^
+@@||spotify.com.edgesuite.net^
 @@|*spotify-com.akamaized.net^
 @@|heads*.spotify.com^
-@@||scdn.co^
+@@|audio*.spotify.com^
 @@|wl.spotify.com^
 
 ! Telegram
