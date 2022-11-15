@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 Nov 2022 00:54 UTC
-# Version: 2022.1114.0054.37
+# Last modified: 15 Nov 2022 00:55 UTC
+# Version: 2022.1115.0055.10
 # Syntax: Hosts
-# Domains: 11584
+# Domains: 11561
 #
 0.0.0.0 11trikots.com
 0.0.0.0 123brennholz.com
@@ -30,6 +30,7 @@
 0.0.0.0 2radwelten.de
 0.0.0.0 30netzteil.de
 0.0.0.0 365ersatzteile.de
+0.0.0.0 3amoto.com
 0.0.0.0 3bands4you.at
 0.0.0.0 3clin.de
 0.0.0.0 3kjailbreak.com
@@ -486,6 +487,7 @@
 0.0.0.0 barando-online.de
 0.0.0.0 barando-shop.de
 0.0.0.0 barbaravonfrisch.at
+0.0.0.0 barbefisch.de
 0.0.0.0 barborabatt.com
 0.0.0.0 barboutletus.com
 0.0.0.0 bardacstore.com
@@ -674,6 +676,7 @@
 0.0.0.0 black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 blade-pirates.de
+0.0.0.0 blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 blaue-dragoner.de
 0.0.0.0 blauerhein.de
@@ -702,7 +705,6 @@
 0.0.0.0 bocarora.com
 0.0.0.0 bocceli.com
 0.0.0.0 bodasi.de
-0.0.0.0 bofone24.de
 0.0.0.0 bogdanski-salonbau.com
 0.0.0.0 bogner.in.ua
 0.0.0.0 bogneronlineshop.com
@@ -1329,7 +1331,6 @@
 0.0.0.0 deinseitensprung.com
 0.0.0.0 deiste.top
 0.0.0.0 dejonk.de
-0.0.0.0 de.justfashionnow.com
 0.0.0.0 dekopause.at
 0.0.0.0 deleju.info
 0.0.0.0 delhihurricanes.com
@@ -1471,7 +1472,6 @@
 0.0.0.0 docsmartensdeutschland.de
 0.0.0.0 docsvaporsupply.com
 0.0.0.0 doflix.de
-0.0.0.0 dogandliving.de
 0.0.0.0 dogarta.de
 0.0.0.0 doggenkirchner.de
 0.0.0.0 doggyplum.com
@@ -1778,6 +1778,7 @@
 0.0.0.0 etradecapitals.com
 0.0.0.0 etr-karlsruhe.de
 0.0.0.0 eu.2bagsvalley.cn
+0.0.0.0 eubiofficial.com
 0.0.0.0 euchcte.top
 0.0.0.0 eulengewisper.de
 0.0.0.0 eurlogistic.com
@@ -1973,7 +1974,6 @@
 0.0.0.0 finflix.de
 0.0.0.0 finkerkette.de
 0.0.0.0 finmove.net
-0.0.0.0 finosso.com
 0.0.0.0 fintegral.fund
 0.0.0.0 fintegral.world
 0.0.0.0 fipecampania.it
@@ -2157,7 +2157,6 @@
 0.0.0.0 gamesalor.de
 0.0.0.0 gamesfox.de
 0.0.0.0 gamestopde.de
-0.0.0.0 gamestop-eu.com
 0.0.0.0 gamestopkonsoleplay.de
 0.0.0.0 gamestop-markt.de
 0.0.0.0 gamestopmarkt.de
@@ -2383,7 +2382,6 @@
 0.0.0.0 growice.com
 0.0.0.0 grubano.de
 0.0.0.0 gruene-niederbarnim.de
-0.0.0.0 grungabau.com
 0.0.0.0 gshpanel.com
 0.0.0.0 gstastoreshop.de
 0.0.0.0 gtblogistics.com
@@ -3208,7 +3206,6 @@
 0.0.0.0 liebeskleidung.de
 0.0.0.0 lieblingsladen.co
 0.0.0.0 lieblingsmarket.com
-0.0.0.0 lieblings-mensch.com
 0.0.0.0 lieblingstaschen.com
 0.0.0.0 liebly.de
 0.0.0.0 lieb-schafft.de
@@ -3266,7 +3263,6 @@
 0.0.0.0 lofza.com
 0.0.0.0 lognm.com
 0.0.0.0 logoplay.de
-0.0.0.0 lokal-angebot.com
 0.0.0.0 lolitous.de
 0.0.0.0 loluva.com
 0.0.0.0 lomvera.com
@@ -3732,7 +3728,6 @@
 0.0.0.0 mooredvazwe.myshopify.com
 0.0.0.0 morbidtales.de
 0.0.0.0 moreclothes.store
-0.0.0.0 moredates.com
 0.0.0.0 mosano.de
 0.0.0.0 mosessions.com
 0.0.0.0 mosetravel.de
@@ -3771,7 +3766,6 @@
 0.0.0.0 muzenaudio.com
 0.0.0.0 mvbergweiler.de
 0.0.0.0 m.vbridal.com
-0.0.0.0 mvfurs.com
 0.0.0.0 mvpassistant.com
 0.0.0.0 mxnaaahizrt.com
 0.0.0.0 myalpins.com
@@ -4134,7 +4128,6 @@
 0.0.0.0 pantoletti.myshopify.com
 0.0.0.0 panzer-industriebedarf.de
 0.0.0.0 panzvor.com
-0.0.0.0 papageienzuchtheim.de
 0.0.0.0 papsttasche.de
 0.0.0.0 paradiso24.com
 0.0.0.0 parajumpersitaly.com
@@ -4259,6 +4252,7 @@
 0.0.0.0 pmpkp.com
 0.0.0.0 pmsciart.com
 0.0.0.0 pogelos.de
+0.0.0.0 pointdsgn.com
 0.0.0.0 point-x.shop
 0.0.0.0 pokestores.com
 0.0.0.0 polenboeller-bestellen.com
@@ -5292,7 +5286,6 @@
 0.0.0.0 thefraks.de
 0.0.0.0 thefunnysouls.com
 0.0.0.0 thegadgetshop.club
-0.0.0.0 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 0.0.0.0 thegiftone.com
 0.0.0.0 thegmbh.de
 0.0.0.0 thegooddeal.ch
@@ -5506,7 +5499,6 @@
 0.0.0.0 tusneumuehl.de
 0.0.0.0 tuyyds.store
 0.0.0.0 tv-gesundheit.at
-0.0.0.0 tvidler.com
 0.0.0.0 tvmarket.club
 0.0.0.0 twilight-fans.de
 0.0.0.0 twinsbc.de
@@ -5535,6 +5527,7 @@
 0.0.0.0 uggbootssale-deutschland.net
 0.0.0.0 uggboots.us.org
 0.0.0.0 uggcp.com
+0.0.0.0 uggexpress.com.au
 0.0.0.0 uggoutletosterreich.com
 0.0.0.0 uggslipperssale.top
 0.0.0.0 uggsmen.top
@@ -5603,6 +5596,7 @@
 0.0.0.0 vacioy.com
 0.0.0.0 vaggv.com
 0.0.0.0 vagomarkt.com
+0.0.0.0 vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 valty-heater.com
 0.0.0.0 valurabeauty.com
@@ -5670,7 +5664,6 @@
 0.0.0.0 vespin24.de
 0.0.0.0 vespin-versand.de
 0.0.0.0 vetola.de
-0.0.0.0 vevor.de
 0.0.0.0 vfcsnc.shop
 0.0.0.0 vga.unternehmer-2014.de
 0.0.0.0 vgr8.com
@@ -5748,6 +5741,7 @@
 0.0.0.0 volpe-shop.de
 0.0.0.0 voltus-elektroshop.de
 0.0.0.0 vom-goldenchamp.de
+0.0.0.0 vondacoco.com
 0.0.0.0 vonpundl.de
 0.0.0.0 voodoo-cable.de
 0.0.0.0 voreno.de
@@ -5914,6 +5908,7 @@
 0.0.0.0 wirlaufenzurschule.de
 0.0.0.0 wir-sind-goldhandel.de
 0.0.0.0 wirtschaftliches.com
+0.0.0.0 wirva.de
 0.0.0.0 wisatareligi.com
 0.0.0.0 wise-carrytrucks.com
 0.0.0.0 wiselux.co
@@ -5985,6 +5980,7 @@
 0.0.0.0 www.2rad-schwarz.de
 0.0.0.0 www.2radwelten.de
 0.0.0.0 www.365ersatzteile.de
+0.0.0.0 www.3amoto.com
 0.0.0.0 www.3clin.de
 0.0.0.0 www.3kjailbreak.com
 0.0.0.0 www.3mobile.at
@@ -6394,6 +6390,7 @@
 0.0.0.0 www.barando-online.de
 0.0.0.0 www.barando-shop.de
 0.0.0.0 www.barbaravonfrisch.at
+0.0.0.0 www.barbefisch.de
 0.0.0.0 www.barborabatt.com
 0.0.0.0 www.barboutletus.com
 0.0.0.0 www.bardacstore.com
@@ -6561,6 +6558,7 @@
 0.0.0.0 www.bjorkcoffee.com
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 www.blackwidow.at
+0.0.0.0 www.blaroken.com
 0.0.0.0 www.blaudonau.de
 0.0.0.0 www.blaue-dragoner.de
 0.0.0.0 www.blauerhein.de
@@ -7540,6 +7538,7 @@
 0.0.0.0 www.etniesosterreich.at
 0.0.0.0 www.etradecapitals.com
 0.0.0.0 www.etr-karlsruhe.de
+0.0.0.0 www.eubiofficial.com
 0.0.0.0 www.euchcte.top
 0.0.0.0 www.eulengewisper.de
 0.0.0.0 www.eurlogistic.com
@@ -7712,7 +7711,6 @@
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finkerkette.de
 0.0.0.0 www.finmove.net
-0.0.0.0 www.finosso.com
 0.0.0.0 www.fintegral.world
 0.0.0.0 www.fipecampania.it
 0.0.0.0 www.firalo.de
@@ -8072,7 +8070,6 @@
 0.0.0.0 www.growice.com
 0.0.0.0 www.grubano.de
 0.0.0.0 www.gruene-niederbarnim.de
-0.0.0.0 www.grungabau.com
 0.0.0.0 www.gshpanel.com
 0.0.0.0 www.gstastoreshop.de
 0.0.0.0 www.gtblogistics.com
@@ -8642,7 +8639,6 @@
 0.0.0.0 www.kiweecases.com
 0.0.0.0 www.kizaro.de
 0.0.0.0 www.kjsr-radeberg.de
-0.0.0.0 www.kketab.com
 0.0.0.0 www.kkiste.io
 0.0.0.0 www.kkiste.rest
 0.0.0.0 www.kkiste.su
@@ -8688,7 +8684,6 @@
 0.0.0.0 www.konsale-konsolen.com
 0.0.0.0 www.konsoleguru.de
 0.0.0.0 www.konsolei.biz
-0.0.0.0 www.konsolen-markt.com
 0.0.0.0 www.konsolen-online.com
 0.0.0.0 www.konsolenparadies.de
 0.0.0.0 www.konsumentenschuetzer.com
@@ -8722,7 +8717,6 @@
 0.0.0.0 www.kunstzeit-ruhr.de
 0.0.0.0 www.kureto.top
 0.0.0.0 www.kussleben.com
-0.0.0.0 www.kweziy.com
 0.0.0.0 www.kyliefoley.com
 0.0.0.0 www.kzv-kirdorf.de
 0.0.0.0 www.laasin.com
@@ -8803,7 +8797,6 @@
 0.0.0.0 www.lesandalouses.com
 0.0.0.0 www.lesehunde.de
 0.0.0.0 www.leselounge-berlin.de
-0.0.0.0 www.lesgrandsgats-sologne.com
 0.0.0.0 www.lestetesbrulees.ch
 0.0.0.0 www.lesvitalities.com
 0.0.0.0 www.letmode.com
@@ -8847,7 +8840,6 @@
 0.0.0.0 www.likesell.store
 0.0.0.0 www.lilafkj.com
 0.0.0.0 www.limassolrealestate.com
-0.0.0.0 www.limebrandco.com
 0.0.0.0 www.limitgreen.com
 0.0.0.0 www.lindela.de
 0.0.0.0 www.linear-antrieb.de
@@ -8872,7 +8864,6 @@
 0.0.0.0 www.lizabete.com
 0.0.0.0 www.lizenzdeal.de
 0.0.0.0 www.ljiankun.com
-0.0.0.0 www.lkalendar.com
 0.0.0.0 www.lkenshop.com
 0.0.0.0 www.llanos-performance.de
 0.0.0.0 www.llizzyeeo.com
@@ -8887,7 +8878,6 @@
 0.0.0.0 www.loewe-vom-sauerland.de
 0.0.0.0 www.lognm.com
 0.0.0.0 www.logoplay.de
-0.0.0.0 www.lokal-angebot.com
 0.0.0.0 www.lolitous.de
 0.0.0.0 www.loluva.com
 0.0.0.0 www.lomvera.com
@@ -9006,7 +8996,6 @@
 0.0.0.0 www.marbill-test03.club
 0.0.0.0 www.marcveriont.de
 0.0.0.0 www.margareteworm.de
-0.0.0.0 www.margittaweiss.de
 0.0.0.0 www.maria-gabriele.com
 0.0.0.0 www.marianneposa.de
 0.0.0.0 www.marinatedegg.shop
@@ -9149,7 +9138,6 @@
 0.0.0.0 www.menuggboots.top
 0.0.0.0 www.mephistoaustria.com
 0.0.0.0 www.merapack.com
-0.0.0.0 www.mercardo-olex.com
 0.0.0.0 www.mercator.direct
 0.0.0.0 www.mercimunich.de
 0.0.0.0 www.meronia.de
@@ -9200,8 +9188,6 @@
 0.0.0.0 www.mini-kennzeichen.de
 0.0.0.0 www.minimalsurvival.com
 0.0.0.0 www.miningcointrader.com
-0.0.0.0 www.miningexchange24.com
-0.0.0.0 www.miningfxtraders.com
 0.0.0.0 www.minkenundpalme.de
 0.0.0.0 www.minnetonkaschuhe.com
 0.0.0.0 www.miraiweb.org
@@ -9242,14 +9228,12 @@
 0.0.0.0 www.modellbahn-versandhaus.de
 0.0.0.0 www.modell-spielzeuge.club
 0.0.0.0 www.modency.de
-0.0.0.0 www.modern-family.uk
 0.0.0.0 www.modernindigo.com
 0.0.0.0 www.mode-shop-1.de
 0.0.0.0 www.mode-stars.com
 0.0.0.0 www.modetalente.com
 0.0.0.0 www.modetopper.com
 0.0.0.0 www.moditec.fr
-0.0.0.0 www.modovia.de
 0.0.0.0 www.modplay.de
 0.0.0.0 www.modulerdekor.com
 0.0.0.0 www.moebelhaus-clovis.de
@@ -9296,7 +9280,6 @@
 0.0.0.0 www.moonsoy.com
 0.0.0.0 www.morbidtales.de
 0.0.0.0 www.moreclothes.store
-0.0.0.0 www.moredates.com
 0.0.0.0 www.mosano.de
 0.0.0.0 www.mosessions.com
 0.0.0.0 www.mosetravel.de
@@ -9329,7 +9312,6 @@
 0.0.0.0 www.muzam.de
 0.0.0.0 www.muzenaudio.com
 0.0.0.0 www.mvbergweiler.de
-0.0.0.0 www.mvfurs.com
 0.0.0.0 www.mvpassistant.com
 0.0.0.0 www.mxnaaahizrt.com
 0.0.0.0 www.myalpins.com
@@ -9448,7 +9430,6 @@
 0.0.0.0 www.nicefreedating.com
 0.0.0.0 www.nichespares.com
 0.0.0.0 www.nicheten.com
-0.0.0.0 www.nicht-von-heise-kopieren.de
 0.0.0.0 www.nickanii.com
 0.0.0.0 www.nicolajimmy.club
 0.0.0.0 www.nidworkers.com
@@ -9468,7 +9449,6 @@
 0.0.0.0 www.nissan-nachrichten.de
 0.0.0.0 www.nitropreise.com
 0.0.0.0 www.nivaldo.de
-0.0.0.0 www.nivekco.com
 0.0.0.0 www.nixuy.com
 0.0.0.0 www.njeedecor.com
 0.0.0.0 www.njordoutdoors.com
@@ -9502,7 +9482,6 @@
 0.0.0.0 www.norwayhotel.net
 0.0.0.0 www.not-bad.shop
 0.0.0.0 www.notebookakku.at
-0.0.0.0 www.notebookakkus.at
 0.0.0.0 www.notfall-herzinfarkt.de
 0.0.0.0 www.notinstallateur24h.at
 0.0.0.0 www.nova-watch.co
@@ -9635,7 +9614,6 @@
 0.0.0.0 www.outletscell.site
 0.0.0.0 www.outletssell.site
 0.0.0.0 www.outletuggoutletuk.com
-0.0.0.0 www.out-runningde.com
 0.0.0.0 www.outsidelife.club
 0.0.0.0 www.ovalball.com
 0.0.0.0 www.ovhpharam.eu
@@ -9659,7 +9637,6 @@
 0.0.0.0 www.pannaholidays.com
 0.0.0.0 www.panzer-industriebedarf.de
 0.0.0.0 www.panzvor.com
-0.0.0.0 www.papageienzuchtheim.de
 0.0.0.0 www.papsttasche.de
 0.0.0.0 www.paradiso24.com
 0.0.0.0 www.parajumpersitaly.com
@@ -9771,6 +9748,7 @@
 0.0.0.0 www.pmpkp.com
 0.0.0.0 www.pmsciart.com
 0.0.0.0 www.pogelos.de
+0.0.0.0 www.pointdsgn.com
 0.0.0.0 www.point-x.shop
 0.0.0.0 www.pokestores.com
 0.0.0.0 www.polenboeller-bestellen.com
@@ -10914,7 +10892,6 @@
 0.0.0.0 www.tusneumuehl.de
 0.0.0.0 www.tuyyds.store
 0.0.0.0 www.tv-gesundheit.at
-0.0.0.0 www.tvidler.com
 0.0.0.0 www.tvmarket.club
 0.0.0.0 www.twilight-fans.de
 0.0.0.0 www.twinsbc.de
@@ -10992,6 +10969,7 @@
 0.0.0.0 www.vacioy.com
 0.0.0.0 www.vaggv.com
 0.0.0.0 www.vagomarkt.com
+0.0.0.0 www.vakkerlight.com
 0.0.0.0 www.valanza.de
 0.0.0.0 www.valty-heater.com
 0.0.0.0 www.valurabeauty.com
@@ -11048,7 +11026,6 @@
 0.0.0.0 www.veryvoga.es
 0.0.0.0 www.vesinhhoatam.com
 0.0.0.0 www.vetola.de
-0.0.0.0 www.vevor.de
 0.0.0.0 www.vfcsnc.shop
 0.0.0.0 www.vgr8.com
 0.0.0.0 www.viagrafuerfrauen.com
@@ -11118,6 +11095,7 @@
 0.0.0.0 www.vollmer-replica.com
 0.0.0.0 www.volpe-shop.de
 0.0.0.0 www.vom-goldenchamp.de
+0.0.0.0 www.vondacoco.com
 0.0.0.0 www.vonpundl.de
 0.0.0.0 www.voodoo-cable.de
 0.0.0.0 www.voreno.de
@@ -11275,6 +11253,7 @@
 0.0.0.0 www.wirlaufenzurschule.de
 0.0.0.0 www.wir-sind-goldhandel.de
 0.0.0.0 www.wirtschaftliches.com
+0.0.0.0 www.wirva.de
 0.0.0.0 www.wisatareligi.com
 0.0.0.0 www.wise-carrytrucks.com
 0.0.0.0 www.wiselux.co
@@ -11350,7 +11329,6 @@
 0.0.0.0 www.xsanrashop.top
 0.0.0.0 www.xspiegel.de
 0.0.0.0 www.xtekajans.com
-0.0.0.0 www.xtyress.com
 0.0.0.0 www.xunxuanx.top
 0.0.0.0 www.xxonnect.com
 0.0.0.0 www.xxxlcatering.at
@@ -11481,7 +11459,6 @@
 0.0.0.0 xsanrashop.top
 0.0.0.0 xspiegel.de
 0.0.0.0 xtekajans.com
-0.0.0.0 xtyress.com
 0.0.0.0 xunxuanx.top
 0.0.0.0 xxonnect.com
 0.0.0.0 xxxlcatering.at
