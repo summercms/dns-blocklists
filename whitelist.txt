@@ -1786,3 +1786,6 @@ appsumo.com
 # Canary email app
 canarymail.io
 
+# Mastodon instance
+norden.social
+
