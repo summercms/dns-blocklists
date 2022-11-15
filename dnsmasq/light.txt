@@ -120484,7 +120484,6 @@ address=/titral.com/#
 address=/tit.titulinvest.site/#
 address=/titudy.com/#
 address=/tiutoexoihna.com/#
-address=/tivan.naver.com/#
 address=/tivanoo.pl/#
 address=/tivetrainin.one/#
 address=/tivgxuzimt.com/#
