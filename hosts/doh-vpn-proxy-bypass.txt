@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 16:48 UTC
-# Version: 2022.1112.1648.22
+# Last modified: 15 Nov 2022 14:54 UTC
+# Version: 2022.1115.1454.53
 # Syntax: Hosts
-# Domains: 965
+# Domains: 958
 #
 0.0.0.0 012proxy.ga
 0.0.0.0 12vpx.com
@@ -516,13 +516,6 @@
 0.0.0.0 newipnow.com
 0.0.0.0 newvpn.cf
 0.0.0.0 newvpn.ga
-0.0.0.0 dns.nextdns.io
-0.0.0.0 anycast.dns.nextdns.io
-0.0.0.0 chromium.dns.nextdns.io
-0.0.0.0 firefox.dns.nextdns.io
-0.0.0.0 dns1.nextdns.io
-0.0.0.0 dns2.nextdns.io
-0.0.0.0 steering.nextdns.io
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
 0.0.0.0 ninjabrowse.com

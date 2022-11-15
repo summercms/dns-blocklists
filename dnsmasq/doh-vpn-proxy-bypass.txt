@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Nov 2022 16:48 UTC
-# Version: 2022.1112.1648.22
+# Last modified: 15 Nov 2022 14:54 UTC
+# Version: 2022.1115.1454.53
 # Syntax: DNSMasq
-# Domains: 882
+# Domains: 878
 #
 address=/012proxy.ga/#
 address=/12vpx.com/#
@@ -458,10 +458,6 @@ address=/dns.neutopia.org/#
 address=/newipnow.com/#
 address=/newvpn.cf/#
 address=/newvpn.ga/#
-address=/dns.nextdns.io/#
-address=/dns1.nextdns.io/#
-address=/dns2.nextdns.io/#
-address=/steering.nextdns.io/#
 address=/dnsotls.lab.nic.cl/#
 address=/odvr.nic.cz/#
 address=/ninjabrowse.com/#
