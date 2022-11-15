@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 Nov 2022 01:23 UTC
-# Version: 2022.1114.0123.19
+# Last modified: 15 Nov 2022 07:12 UTC
+# Version: 2022.1115.0712.12
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 660
+# Domains: 662
 #
 *.t.1und1.de
 *.24coinix.com
@@ -409,6 +409,7 @@
 *.fp.metricswpsh.com
 *.pipe.aria.microsoft.com
 *.browser.events.data.microsoft.com
+*.eu-office.events.data.microsoft.com
 *.functional.events.data.microsoft.com
 *.ic3.events.data.microsoft.com
 *.kmwatson.events.data.microsoft.com
@@ -597,6 +598,7 @@
 *.audit.trackverify.com
 *.trackvrs.com
 *.ads-inmobi-comtm.trafficmanager.net
+*.aria.events.data.trafficmanager.net
 *.browser.events.data.trafficmanager.net
 *.mobile.events.data.trafficmanager.net
 *.legacywatson.trafficmanager.net
