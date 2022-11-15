@@ -1789,3 +1789,9 @@ canarymail.io
 # Mastodon instance
 norden.social
 
+# Breaks naver.com
+tivan.naver.com
+
+# Greek school sites
+*.sch.gr
+
