@@ -312,12 +312,18 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
   1 |     100% |   0% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
   2 |     100% |   0% |      0% | black.list.dyndns
 ```
+#### HOSTER
+[whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/hoster-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/hoster-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/hoster-removed-dead.txt)
+```
+51 total unique domains | 51 (100%) included | 0 (0%) removed | 0 (0%) dead
+
+ Nr | Included | Dead | Removed | URL/File
+  1 |     100% |   0% |      0% | black.list.hoster
+```
 ---
 ### Subdomains
 *The matching/missing subdomains for domain and hosts lists are extracted from the following lists:*
 ```
-https://dbl.oisd.nl/
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
 https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt

@@ -14,15 +14,16 @@
 8. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
 9. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
 10. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
-11. [Personal](#personal) - *My manually maintained blacklist*
-12. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
-13. [Credits](#credits)
-14. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
-15. [Recommendation](#recommendation)
-16. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns) / [AdGuardDNS](#adguarddns)
-17. [About](#about) / [Referral Domains](#referral)
-18. [Sources/Statistics](usedsources.md)
-19. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
+11. [Badware Hoster](#hoster)- *Protects against the malicious use of free host services!*
+12. [Personal](#personal) - *My manually maintained blacklist*
+13. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
+14. [Credits](#credits)
+15. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
+16. [Recommendation](#recommendation)
+17. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns) / [AdGuardDNS](#adguarddns)
+18. [About](#about) / [Referral Domains](#referral)
+19. [Sources/Statistics](usedsources.md)
+20. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
 ### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro and pro++)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
@@ -212,6 +213,24 @@
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/dyndns.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/dyndns.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+
+**Expires:** *Updated regularly*
+
+---
+
+### ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
+*An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
+        
+**Entries:** *51 domains/hosts - 50 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#hoster)
+            
+| Format | Link | Can be used for |
+|:-------|:-----|:----------------|
+| Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/hoster.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/hoster.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/hoster.txt) | DNSMasq                                                              | 
+| Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
 
 **Expires:** *Updated regularly*
 
