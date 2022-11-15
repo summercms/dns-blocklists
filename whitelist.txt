@@ -434,15 +434,15 @@ telesco.pe
 tg.dev
 
 # Twitch
-ext-twitch.tv
-jtvnw.net
-live-video.net
-ttvnw.net
-twitch.okta.com
-twitch.map.fastly.net
-twitch.tv
-twitchcdn.net
-twitchsvc.net
+*.ext-twitch.tv
+*.jtvnw.net
+*.live-video.net
+*.ttvnw.net
+*.twitch.map.fastly.net
+*.twitch.okta.com
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
 
 # Twitter
 ads.twitter.com
