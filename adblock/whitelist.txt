@@ -1795,3 +1795,6 @@
 ! Greek school sites
 @@||sch.gr^
 
+! CDN - Breaks https://academic.oup.com/comjnl/article-abstract/62/8/1106/5298776?login=false
+@@|oup.silverchair-cdn.com^
+
