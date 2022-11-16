@@ -61,7 +61,6 @@
 @@||t.adcell.com^
 @@||a1.adform.net^
 @@||email-clk.adguard.com^
-@@||ad*.adfarm1.adition.com^
 @@||ad3.adfarm1.adition.com^
 @@||ad4.adfarm1.adition.com^
 @@||app.adjust.com^
@@ -82,7 +81,6 @@
 @@||aax*.amazon.it^
 @@||amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
-@@||aax*.amazon-adsystem.amazon.com^
 @@||aax*.amazon-adsystem.com^
 @@||click.member.americanexpress.com^
 @@||www.anrdoezrs.net^

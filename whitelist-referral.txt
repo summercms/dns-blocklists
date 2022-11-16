@@ -5,7 +5,6 @@ t.adcell.com
 adfoc.us
 a1.adform.net
 email-clk.adguard.com
-ad*.adfarm1.adition.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 adj.st
@@ -27,7 +26,6 @@ aax*.amazon.fr
 aax*.amazon.in
 aax*.amazon.it
 amazon-adsystem.amazon.com
-aax*.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
 amazon-adsystem.com
 aax*.amazon-adsystem.com
