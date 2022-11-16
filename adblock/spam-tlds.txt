@@ -5,8 +5,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 16 Nov 2022 17:30 UTC
-! Version: 2022.1116.1730.46
+! Last modified: 16 Nov 2022 17:47 UTC
+! Version: 2022.1116.1747.40
 ! Syntax: AdBlock
 !
 ||asia^
@@ -20,7 +20,6 @@
 ||casa^
 ||cf^
 ||click^
-||monster^
 ||cricket^
 ||cyou^
 ||date^
@@ -33,8 +32,10 @@
 ||icu^
 ||me^
 ||ml^
+||monster^
 ||quest^
 ||rest^
+||review^
 ||surf^
 ||tk^
 ||tokyo^
@@ -42,4 +43,3 @@
 ||webcam^
 ||work^
 ||xyz^
-||review^
