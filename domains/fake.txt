@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 15:01 UTC
-# Version: 2022.1115.1501.42
+# Last modified: 16 Nov 2022 00:55 UTC
+# Version: 2022.1116.0055.01
 # Syntax: Domains
-# Domains: 11469
+# Domains: 11465
 #
 willhaben.at.04300.id
 11trikots.com
@@ -10131,7 +10131,6 @@ www.topdigitalcashapp.com
 toperuecken.com
 www.toperuecken.com
 topfastget.com
-www.topfastget.com
 topflix.de
 www.topflix.de
 topgood.xyz
@@ -10390,7 +10389,6 @@ bestnikekickssale.uk.com
 thomassabooutlet.uk.com
 trainerstorunshoes.uk.com
 ullmann-versand.net
-www.ullmann-versand.net
 ultracurrencytrade.com
 www.ultracurrencytrade.com
 ultraheatpro.com
@@ -10583,7 +10581,6 @@ www.vendoofitnessgmbh.de
 veneracrea.com
 www.veneracrea.com
 venics.net
-www.venics.net
 ventatech.de
 www.ventatech.de
 veonaskincare.com
@@ -10967,7 +10964,6 @@ wemidwestkids.com
 www.wemidwestkids.com
 wenaviety.com
 wendt-bautischlerei.de
-www.wendt-bautischlerei.de
 wennlicht.com
 www.wennlicht.com
 werbungansbach.de

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 15:01 UTC
-# Version: 2022.1115.1501.42
+# Last modified: 16 Nov 2022 00:55 UTC
+# Version: 2022.1116.0055.01
 # Syntax: Hosts
-# Domains: 11469
+# Domains: 11465
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -10131,7 +10131,6 @@
 0.0.0.0 toperuecken.com
 0.0.0.0 www.toperuecken.com
 0.0.0.0 topfastget.com
-0.0.0.0 www.topfastget.com
 0.0.0.0 topflix.de
 0.0.0.0 www.topflix.de
 0.0.0.0 topgood.xyz
@@ -10390,7 +10389,6 @@
 0.0.0.0 thomassabooutlet.uk.com
 0.0.0.0 trainerstorunshoes.uk.com
 0.0.0.0 ullmann-versand.net
-0.0.0.0 www.ullmann-versand.net
 0.0.0.0 ultracurrencytrade.com
 0.0.0.0 www.ultracurrencytrade.com
 0.0.0.0 ultraheatpro.com
@@ -10583,7 +10581,6 @@
 0.0.0.0 veneracrea.com
 0.0.0.0 www.veneracrea.com
 0.0.0.0 venics.net
-0.0.0.0 www.venics.net
 0.0.0.0 ventatech.de
 0.0.0.0 www.ventatech.de
 0.0.0.0 veonaskincare.com
@@ -10967,7 +10964,6 @@
 0.0.0.0 www.wemidwestkids.com
 0.0.0.0 wenaviety.com
 0.0.0.0 wendt-bautischlerei.de
-0.0.0.0 www.wendt-bautischlerei.de
 0.0.0.0 wennlicht.com
 0.0.0.0 www.wennlicht.com
 0.0.0.0 werbungansbach.de
