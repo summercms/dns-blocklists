@@ -83,6 +83,7 @@
 ! Apple
 ! https://support.apple.com/en-us/HT210060
 @@||apps.apple.com^
+@@||cdn-apple.com^
 @@||gc.apple.com^
 @@||gc.fe.apple-dns.net^
 @@||safebrowsing.apple^
@@ -239,6 +240,7 @@
 @@||update.microsoft.com^
 @@|*api.*.microsoft.com^
 @@|*microsoft.online-metrix.net^
+@@|*ocsp.microsoft.com^
 @@|*v10.events.data.microsoft.com^
 @@|*v10.vortex-win.data.microsoft.com^
 @@|*v20.events.data.microsoft.com^
@@ -1806,4 +1808,31 @@
 ! Twibbonize
 @@|twibbonize.com^
 @@||twibbonize.com.cdn.ezoic.net^
+
+! CDN of Akamai
+@@|akamai-images-content.com^
+
+! Yandex Single Sign On
+@@||passport.yandex.ru^
+
+!  MX server for Yandex.Mail
+@@|mx.yandex.ru^
+
+! Yandex breaking
+@@||export.yandex.ru^
+@@||informer.yandex.ru^
+@@||share.yandex.ru^
+
+! Videos on ettoday.net
+@@|msg.ettoday.net^
+
+! Video Hosting
+@@|ff-01.com^
+@@|ff-02.com^
+@@|ff-03.com^
+@@|ff-04.com^
+@@|ff-05.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/65
+@@|overclockers.co.uk^
 
