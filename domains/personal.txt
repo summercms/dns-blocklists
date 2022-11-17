@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 Nov 2022 16:22 UTC
-# Version: 2022.1117.1622.15
+# Last modified: 17 Nov 2022 17:56 UTC
+# Version: 2022.1117.1756.52
 # Syntax: Domains
-# Domains: 4071
+# Domains: 3998
 #
 03f128fb44.com
 1000mercis.com
@@ -1068,22 +1068,6 @@ firebase-settings.crashlytics.com
 www.crashlytics.com
 crealytics.com
 www.crealytics.com
-createsend.com
-www.createsend.com
-createsend1.com
-www.createsend1.com
-createsend11.com
-www.createsend11.com
-createsend13.com
-www.createsend13.com
-createsend2.com
-www.createsend2.com
-createsend3.com
-www.createsend3.com
-createsend4.com
-www.createsend4.com
-createsend5.com
-www.createsend5.com
 analytics.credible.com
 crobo.com
 www.crobo.com
@@ -1343,22 +1327,6 @@ smetrics.el-mundo.net
 analytics.el-pato.de
 ela-3-tnk.com
 www.ela-3-tnk.com
-elabs10.com
-www.elabs10.com
-elabs11.com
-www.elabs11.com
-elabs12.com
-www.elabs12.com
-elabs13.com
-www.elabs13.com
-elabs3.com
-www.elabs3.com
-elabs5.com
-www.elabs5.com
-elabs6.com
-www.elabs6.com
-elabs7.com
-www.elabs7.com
 stats.elementary.io
 smetrics.eliquis.com
 smetrics.eliquis.de
@@ -1374,14 +1342,6 @@ mobile-events.eservice.emarsys.net
 webchannel-content.eservice.emarsys.net
 appanalytics.embarcadero.com
 dyn.emetriq.de
-emlfiles.com
-emlfiles1.com
-emlfiles2.com
-emlfiles3.com
-emlfiles4.com
-emlfiles5.com
-emlfiles8.com
-emlfiles9.com
 tracking.emons.de
 empower.net
 cdn.empower.net
@@ -2649,7 +2609,6 @@ ometria.email
 cdn.ometria.com
 trk.ometria.com
 www.ometria.com
-omgpl.com
 omgt1.com
 omgt3.com
 omgt6.com
@@ -2709,22 +2668,6 @@ www.owebanalytics.com
 smetrics.pacsun.com
 pagefair.net
 www.pagefair.net
-pages01.net
-www.pages01.net
-pages02.net
-www.pages02.net
-pages04.net
-www.pages04.net
-pages05.net
-www.pages05.net
-pages06.net
-www.pages06.net
-pages07.net
-www.pages07.net
-pages08.net
-www.pages08.net
-pages09.net
-www.pages09.net
 panachetech.com
 www.panachetech.com
 smetrics.panasonic.net
@@ -3024,21 +2967,6 @@ beacon.riskified.com
 smetrics.riteaid.com
 smetrics.riumachitearoom.jp
 check.analytics.rlcdn.com
-rm0001.net
-www.rm0001.net
-rm0002.net
-www.rm0002.net
-rm0003.net
-www.rm0003.net
-rm0004.net
-www.rm0004.net
-rm0005.net
-www.rm0005.net
-rm0009.net
-www.rm0009.net
-rm02.net
-www.rm02.net
-rm04.net
 client-telemetry.roblox.com
 smetrics.roche.de
 smetrics.rockandpop.cl
@@ -3222,7 +3150,6 @@ smetrics.showtimeanytime.com
 shrfbdg004.com
 www.shrfbdg004.com
 public.shtranssion.com
-sibautomation.com
 sidekickopen01.com
 sidekickopen03.com
 sidekickopen04.com

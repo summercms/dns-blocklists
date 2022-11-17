@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 Nov 2022 16:22 UTC
-# Version: 2022.1117.1622.15
+# Last modified: 17 Nov 2022 17:56 UTC
+# Version: 2022.1117.1756.52
 # Syntax: DNSMasq
-# Domains: 2879
+# Domains: 2837
 #
 address=/03f128fb44.com/#
 address=/1000mercis.com/#
@@ -755,14 +755,6 @@ address=/smetrics.crainsdetroit.com/#
 address=/smetrics.crainsnewyork.com/#
 address=/crashlytics.com/#
 address=/crealytics.com/#
-address=/createsend.com/#
-address=/createsend1.com/#
-address=/createsend11.com/#
-address=/createsend13.com/#
-address=/createsend2.com/#
-address=/createsend3.com/#
-address=/createsend4.com/#
-address=/createsend5.com/#
 address=/analytics.credible.com/#
 address=/crobo.com/#
 address=/crossdevicetracking.com/#
@@ -946,14 +938,6 @@ address=/ekomi-us.com/#
 address=/smetrics.el-mundo.net/#
 address=/analytics.el-pato.de/#
 address=/ela-3-tnk.com/#
-address=/elabs10.com/#
-address=/elabs11.com/#
-address=/elabs12.com/#
-address=/elabs13.com/#
-address=/elabs3.com/#
-address=/elabs5.com/#
-address=/elabs6.com/#
-address=/elabs7.com/#
 address=/stats.elementary.io/#
 address=/smetrics.eliquis.com/#
 address=/smetrics.eliquis.de/#
@@ -964,14 +948,6 @@ address=/emailvision.com/#
 address=/eservice.emarsys.net/#
 address=/appanalytics.embarcadero.com/#
 address=/dyn.emetriq.de/#
-address=/emlfiles.com/#
-address=/emlfiles1.com/#
-address=/emlfiles2.com/#
-address=/emlfiles3.com/#
-address=/emlfiles4.com/#
-address=/emlfiles5.com/#
-address=/emlfiles8.com/#
-address=/emlfiles9.com/#
 address=/tracking.emons.de/#
 address=/empower.net/#
 address=/enecto.com/#
@@ -1865,7 +1841,6 @@ address=/smetrics.omdia.com/#
 address=/omessage.com/#
 address=/ometria.com/#
 address=/ometria.email/#
-address=/omgpl.com/#
 address=/omgt1.com/#
 address=/omgt3.com/#
 address=/omgt6.com/#
@@ -1910,14 +1885,6 @@ address=/tracking.outspot.de/#
 address=/owebanalytics.com/#
 address=/smetrics.pacsun.com/#
 address=/pagefair.net/#
-address=/pages01.net/#
-address=/pages02.net/#
-address=/pages04.net/#
-address=/pages05.net/#
-address=/pages06.net/#
-address=/pages07.net/#
-address=/pages08.net/#
-address=/pages09.net/#
 address=/panachetech.com/#
 address=/smetrics.panasonic.net/#
 address=/smetrics.pandora.net/#
@@ -2133,14 +2100,6 @@ address=/beacon.riskified.com/#
 address=/smetrics.riteaid.com/#
 address=/smetrics.riumachitearoom.jp/#
 address=/check.analytics.rlcdn.com/#
-address=/rm0001.net/#
-address=/rm0002.net/#
-address=/rm0003.net/#
-address=/rm0004.net/#
-address=/rm0005.net/#
-address=/rm0009.net/#
-address=/rm02.net/#
-address=/rm04.net/#
 address=/client-telemetry.roblox.com/#
 address=/smetrics.roche.de/#
 address=/smetrics.rockandpop.cl/#
@@ -2277,7 +2236,6 @@ address=/smetrics.showtime.com/#
 address=/smetrics.showtimeanytime.com/#
 address=/shrfbdg004.com/#
 address=/public.shtranssion.com/#
-address=/sibautomation.com/#
 address=/sidekickopen01.com/#
 address=/sidekickopen03.com/#
 address=/sidekickopen04.com/#
