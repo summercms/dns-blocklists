@@ -1719,7 +1719,7 @@
 
 ! Confirmation of change.org petitions
 @@|click.e.change.org^
-@@|www.change.org.cdn.cloudflare.net^
+@@||change.org.cdn.cloudflare.net^
 
 ! reviews about online shops
 @@|avis-verifies.com^
@@ -1802,4 +1802,8 @@
 
 ! ServusTV App stucks on loading screen
 @@|mobile-data.onetrust.io^
+
+! Twibbonize
+@@|twibbonize.com^
+@@||twibbonize.com.cdn.ezoic.net^
 

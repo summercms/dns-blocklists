@@ -92,6 +92,7 @@
 @@||classic.avantlink.com^
 @@||www.awin1.com^
 @@||api.bam-x.com^
+@@||click.emcom.bankofamerica.com^
 @@||analytics.barnebys.sh^
 @@||rd.bizrate.com^
 @@||click.em.blizzard.com^
@@ -199,6 +200,7 @@
 @@||track.customer.io^
 @@||clickserve.dartsearch.net^
 @@||ch0p.darty.com^
+@@||click.o.delta.com^
 @@||mydealz.digidip.net^
 @@||online.digital-advisor.com^
 @@||link.digitaladvisor.dk^
@@ -232,7 +234,9 @@
 @@||view.virt.s7.exacttarget.com^
 @@||cl.exct.net^
 @@||syndication.exosrv.com^
+@@||click.e.usa.experian.com^
 @@||l.facebook.com^
+@@||click.fidelityinvestments.com^
 @@||ue.flipboard.com^
 @@||eultech.fnac.com^
 @@||link.freshmail.mx^
@@ -396,6 +400,7 @@
 @@||adservice.google.xn--ngbrx^
 @@||adservice.google.xn--node^
 @@||www.googleadservices.com^
+@@||click.holidayinnclubemail.com^
 @@||click.instantink.hpsmart.com^
 @@||sites.hscoscdn10.net^
 @@||sites.hscoscdn20.net^
@@ -407,6 +412,7 @@
 @@||email-tracking.infobip.com^
 @@||t23.intelliad.de^
 @@||links.iterable.com^
+@@||click.email.jcpenney.com^
 @@||goto.jet.com^
 @@||www.kdukvh.com^
 @@||at-go.kelkoogroup.net^
@@ -435,12 +441,18 @@
 @@||sk-go.kelkoogroup.net^
 @@||uk-go.kelkoogroup.net^
 @@||us-go.kelkoogroup.net^
+@@||ct.klclick.com^
 @@||trk.klclick.com^
 @@||trk.klclick1.com^
 @@||trk.klclick2.com^
 @@||trk.klclick3.com^
+@@||click.chp.kohls.com^
+@@||click.s.kohls.com^
+@@||click.e.krogermail.com^
 @@||apiservices.krxd.net^
+@@||click.landsend.com^
 @@||click.linksynergy.com^
+@@||click.e.lowes.com^
 @@||t.lt02.net^
 @@||click.mail.macmillan.com^
 @@||tracker.marinsm.com^
@@ -459,6 +471,7 @@
 @@||links.mkt71.net^
 @@||links.mkt81.net^
 @@||links.mkt91.net^
+@@||click.mlsend.com^
 @@||promo.mobile.de^
 @@||t.emailing.monoprix.fr^
 @@||c.msn.com^
@@ -471,6 +484,7 @@
 @@||a.nonstoppartner.net^
 @@||go.nordlocker.net^
 @@||go.nordvpn.net^
+@@||click.members.nra.org^
 @@||view.email.nzz.ch^
 @@||c.office.com^
 @@||email.office.com^
@@ -495,13 +509,17 @@
 @@||click.redditmail.com^
 @@||go.redirectingat.com^
 @@||newslink.reuters.com^
+@@||click.royalcaribbeanmarketing.com^
 @@||r20.rs6.net^
+@@||click.e.safelite.com^
 @@||cb.sailthru.com^
 @@||webto.salesforce.com^
 @@||app2.salesmanago.pl^
 @@||app3.salesmanago.pl^
+@@||click.em.samsclub.com^
 @@||t.email1.samsung.ca^
 @@||track.seadform.net^
+@@||click.e.sees.com^
 @@||ct.sendgrid.net^
 @@||app.sephora.com^
 @@||bs.serving-sys.com^
