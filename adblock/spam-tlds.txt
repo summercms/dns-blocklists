@@ -30,7 +30,6 @@
 ||ga^
 ||gq^
 ||icu^
-||me^
 ||ml^
 ||monster^
 ||quest^
