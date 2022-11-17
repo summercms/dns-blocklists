@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-475403 total unique domains | 372770 (78%) included | 24369 (5%) removed | 78264 (16%) dead
+456651 total unique domains | 354030 (78%) included | 24369 (5%) removed | 78252 (17%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://dbl.oisd.nl/basic
@@ -12,7 +12,7 @@
   4 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
   5 |      59% |  27% |     14% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   6 |      91% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  7 |      88% |  12% |      0% | https://threatfox.abuse.ch/downloads/hostfile
+  7 |      89% |  11% |      0% | https://threatfox.abuse.ch/downloads/hostfile
   8 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
   9 |      88% |  12% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
  10 |     100% |   0% |      0% | personal.txt

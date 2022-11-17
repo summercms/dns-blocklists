@@ -31,7 +31,7 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake) | [TIF](https://github.com/hagezi/dns-blocklists#tif) | [Personal](https://github.com/hagezi/dns-blocklists#personal) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](https://github.com/hagezi/dns-blocklists#light)             | 372770<br>152156     |   |   | = | X | P | X |
+| [Light](https://github.com/hagezi/dns-blocklists#light)             | 354030<br>142830     |   |   | = | X | P | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1200128<br>316270     |   | = | X | X | P | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1338672<br>394743         | = | X | X | X | P | X |
 | [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1450061<br>438435 | ++ | X | X | X | P |  X |
@@ -46,7 +46,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *372770 domains/hosts - 152156 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *354030 domains/hosts - 142830 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
