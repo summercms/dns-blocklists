@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 14:54 UTC
-# Version: 2022.1115.1454.53
+# Last modified: 17 Nov 2022 00:48 UTC
+# Version: 2022.1117.0048.36
 # Syntax: Domains
-# Domains: 958
+# Domains: 973
 #
 012proxy.ga
 12vpx.com
@@ -36,6 +36,8 @@ dns-gcp.aaflalo.me
 dns-nyc.aaflalo.me
 doh.dns.apple.com.v.aaplimg.com
 ablevpn.info
+doh.abmb.win
+doh2.abmb.win
 aceproxy.com
 acevpn.com
 activpn.com
@@ -76,11 +78,14 @@ dns.alidns.com
 allunblocked.com
 amanvpn.com
 americaproxy.info
+android-vpn.tk
+anhomevpns.tk
 aniscartujo.com
 anonine.com
 anonvpn.io
 anonymize.com
 anonymizer.com
+anonymousboozebagvpn.tk
 anonymouse.org
 anonymousvpn.info
 anonymousvpn.org
@@ -273,6 +278,8 @@ dns.dns-over-https.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
+asia.dnscepat.id
+eropa.dnscepat.id
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 doh.dnscrypt.uk
@@ -463,6 +470,7 @@ itopvpn.com
 ivacy.com
 ivpn.info
 ivpn.net
+jcdns.fun
 opencdn.jomodns.com
 dns.keweon.center
 kproxy.com
@@ -481,6 +489,7 @@ limevpn.com
 sby-doh.limotelu.org
 linkmetube.com
 litevpn.top
+lmpproxyssurfukvpn.tk
 lopana.com
 maddw.com
 mastersslvpn.gq
@@ -599,6 +608,7 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 polaris.cx
 polippix.org
+doh.post-factum.tk
 doh.powerdns.org
 privacy-cd.org
 privadovpn.com
@@ -666,6 +676,7 @@ proxyunblocker.org
 proxyvpn.eu
 proxyvpn.ga
 proxyvpn.gq
+proxyvpn.ml
 dns.pumplex.com
 2.dnscrypt-cert.pumplex.com
 puredns.org
@@ -758,6 +769,7 @@ surf-for-free.com
 surfeasy.com
 surfly.com
 surfmenow.com
+surfproxyanywheresvpns.tk
 surfproxyserver.com
 surfshak.club
 surfshark.app
@@ -910,6 +922,7 @@ vpnoverview.com
 vpnpie.org
 vpnproxies.cf
 vpnproxy.pw
+vpnproxy.tk
 vpnshieldapp.com
 vpntraffic.com
 vpntunnel.com
@@ -941,6 +954,8 @@ wlvpn.com
 wonderland.ws
 workhost.eu
 wossow.com
+dns.wugui.zone
+dns-asia.wugui.zone
 doh.xfinity.com
 doh-discovery.xfinity.com
 dot.xfinity.com

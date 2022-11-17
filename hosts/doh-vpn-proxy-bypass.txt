@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 14:54 UTC
-# Version: 2022.1115.1454.53
+# Last modified: 17 Nov 2022 00:48 UTC
+# Version: 2022.1117.0048.36
 # Syntax: Hosts
-# Domains: 958
+# Domains: 973
 #
 0.0.0.0 012proxy.ga
 0.0.0.0 12vpx.com
@@ -36,6 +36,8 @@
 0.0.0.0 dns-nyc.aaflalo.me
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 ablevpn.info
+0.0.0.0 doh.abmb.win
+0.0.0.0 doh2.abmb.win
 0.0.0.0 aceproxy.com
 0.0.0.0 acevpn.com
 0.0.0.0 activpn.com
@@ -76,11 +78,14 @@
 0.0.0.0 allunblocked.com
 0.0.0.0 amanvpn.com
 0.0.0.0 americaproxy.info
+0.0.0.0 android-vpn.tk
+0.0.0.0 anhomevpns.tk
 0.0.0.0 aniscartujo.com
 0.0.0.0 anonine.com
 0.0.0.0 anonvpn.io
 0.0.0.0 anonymize.com
 0.0.0.0 anonymizer.com
+0.0.0.0 anonymousboozebagvpn.tk
 0.0.0.0 anonymouse.org
 0.0.0.0 anonymousvpn.info
 0.0.0.0 anonymousvpn.org
@@ -273,6 +278,8 @@
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
+0.0.0.0 asia.dnscepat.id
+0.0.0.0 eropa.dnscepat.id
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dnscrypt.uk
@@ -463,6 +470,7 @@
 0.0.0.0 ivacy.com
 0.0.0.0 ivpn.info
 0.0.0.0 ivpn.net
+0.0.0.0 jcdns.fun
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 dns.keweon.center
 0.0.0.0 kproxy.com
@@ -481,6 +489,7 @@
 0.0.0.0 sby-doh.limotelu.org
 0.0.0.0 linkmetube.com
 0.0.0.0 litevpn.top
+0.0.0.0 lmpproxyssurfukvpn.tk
 0.0.0.0 lopana.com
 0.0.0.0 maddw.com
 0.0.0.0 mastersslvpn.gq
@@ -599,6 +608,7 @@
 0.0.0.0 pluton.plan9-dns.com
 0.0.0.0 polaris.cx
 0.0.0.0 polippix.org
+0.0.0.0 doh.post-factum.tk
 0.0.0.0 doh.powerdns.org
 0.0.0.0 privacy-cd.org
 0.0.0.0 privadovpn.com
@@ -666,6 +676,7 @@
 0.0.0.0 proxyvpn.eu
 0.0.0.0 proxyvpn.ga
 0.0.0.0 proxyvpn.gq
+0.0.0.0 proxyvpn.ml
 0.0.0.0 dns.pumplex.com
 0.0.0.0 2.dnscrypt-cert.pumplex.com
 0.0.0.0 puredns.org
@@ -758,6 +769,7 @@
 0.0.0.0 surfeasy.com
 0.0.0.0 surfly.com
 0.0.0.0 surfmenow.com
+0.0.0.0 surfproxyanywheresvpns.tk
 0.0.0.0 surfproxyserver.com
 0.0.0.0 surfshak.club
 0.0.0.0 surfshark.app
@@ -910,6 +922,7 @@
 0.0.0.0 vpnpie.org
 0.0.0.0 vpnproxies.cf
 0.0.0.0 vpnproxy.pw
+0.0.0.0 vpnproxy.tk
 0.0.0.0 vpnshieldapp.com
 0.0.0.0 vpntraffic.com
 0.0.0.0 vpntunnel.com
@@ -941,6 +954,8 @@
 0.0.0.0 wonderland.ws
 0.0.0.0 workhost.eu
 0.0.0.0 wossow.com
+0.0.0.0 dns.wugui.zone
+0.0.0.0 dns-asia.wugui.zone
 0.0.0.0 doh.xfinity.com
 0.0.0.0 doh-discovery.xfinity.com
 0.0.0.0 dot.xfinity.com

@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 14:54 UTC
-# Version: 2022.1115.1454.53
+# Last modified: 17 Nov 2022 00:48 UTC
+# Version: 2022.1117.0048.36
 # Syntax: DNSMasq
-# Domains: 878
+# Domains: 893
 #
 address=/012proxy.ga/#
 address=/12vpx.com/#
@@ -29,6 +29,8 @@ address=/dns-gcp.aaflalo.me/#
 address=/dns-nyc.aaflalo.me/#
 address=/doh.dns.apple.com.v.aaplimg.com/#
 address=/ablevpn.info/#
+address=/doh.abmb.win/#
+address=/doh2.abmb.win/#
 address=/aceproxy.com/#
 address=/acevpn.com/#
 address=/activpn.com/#
@@ -66,11 +68,14 @@ address=/dns.alidns.com/#
 address=/allunblocked.com/#
 address=/amanvpn.com/#
 address=/americaproxy.info/#
+address=/android-vpn.tk/#
+address=/anhomevpns.tk/#
 address=/aniscartujo.com/#
 address=/anonine.com/#
 address=/anonvpn.io/#
 address=/anonymize.com/#
 address=/anonymizer.com/#
+address=/anonymousboozebagvpn.tk/#
 address=/anonymouse.org/#
 address=/anonymousvpn.info/#
 address=/anonymousvpn.org/#
@@ -228,6 +233,8 @@ address=/dns-over-https.com/#
 address=/ns1.recursive.dnsbycomodo.com/#
 address=/ns2.recursive.dnsbycomodo.com/#
 address=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/#
+address=/asia.dnscepat.id/#
+address=/eropa.dnscepat.id/#
 address=/dns1.dnscrypt.ca/#
 address=/dns2.dnscrypt.ca/#
 address=/doh.dnscrypt.uk/#
@@ -408,6 +415,7 @@ address=/itopvpn.com/#
 address=/ivacy.com/#
 address=/ivpn.info/#
 address=/ivpn.net/#
+address=/jcdns.fun/#
 address=/opencdn.jomodns.com/#
 address=/dns.keweon.center/#
 address=/kproxy.com/#
@@ -425,6 +433,7 @@ address=/limevpn.com/#
 address=/sby-doh.limotelu.org/#
 address=/linkmetube.com/#
 address=/litevpn.top/#
+address=/lmpproxyssurfukvpn.tk/#
 address=/lopana.com/#
 address=/maddw.com/#
 address=/mastersslvpn.gq/#
@@ -532,6 +541,7 @@ address=/kronos.plan9-dns.com/#
 address=/pluton.plan9-dns.com/#
 address=/polaris.cx/#
 address=/polippix.org/#
+address=/doh.post-factum.tk/#
 address=/doh.powerdns.org/#
 address=/privacy-cd.org/#
 address=/privadovpn.com/#
@@ -599,6 +609,7 @@ address=/proxyunblocker.org/#
 address=/proxyvpn.eu/#
 address=/proxyvpn.ga/#
 address=/proxyvpn.gq/#
+address=/proxyvpn.ml/#
 address=/dns.pumplex.com/#
 address=/2.dnscrypt-cert.pumplex.com/#
 address=/puredns.org/#
@@ -683,6 +694,7 @@ address=/surf-for-free.com/#
 address=/surfeasy.com/#
 address=/surfly.com/#
 address=/surfmenow.com/#
+address=/surfproxyanywheresvpns.tk/#
 address=/surfproxyserver.com/#
 address=/surfshak.club/#
 address=/surfshark.app/#
@@ -830,6 +842,7 @@ address=/vpnoverview.com/#
 address=/vpnpie.org/#
 address=/vpnproxies.cf/#
 address=/vpnproxy.pw/#
+address=/vpnproxy.tk/#
 address=/vpnshieldapp.com/#
 address=/vpntraffic.com/#
 address=/vpntunnel.com/#
@@ -861,6 +874,8 @@ address=/wlvpn.com/#
 address=/wonderland.ws/#
 address=/workhost.eu/#
 address=/wossow.com/#
+address=/dns.wugui.zone/#
+address=/dns-asia.wugui.zone/#
 address=/doh.xfinity.com/#
 address=/doh-discovery.xfinity.com/#
 address=/dot.xfinity.com/#
