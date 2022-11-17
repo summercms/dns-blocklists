@@ -23,7 +23,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1235540 total unique domains | 1200128 (97%) included | 3347 (0%) removed | 32065 (3%) dead
+1249073 total unique domains | 1213371 (97%) included | 3358 (0%) removed | 32344 (3%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   0% |      0% | https://dbl.oisd.nl

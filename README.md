@@ -32,7 +32,7 @@
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake) | [TIF](https://github.com/hagezi/dns-blocklists#tif) | [Personal](https://github.com/hagezi/dns-blocklists#personal) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
 | [Light](https://github.com/hagezi/dns-blocklists#light)             | 354030<br>142830     |   |   | = | X | P | X |
-| [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1200128<br>316270     |   | = | X | X | P | X |
+| [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1213371<br>316687     |   | = | X | X | P | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1338672<br>394743         | = | X | X | X | P | X |
 | [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1450061<br>438435 | ++ | X | X | X | P |  X |
            
@@ -61,7 +61,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1200128 domains/hosts - 316270 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1213371 domains/hosts - 316687 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -239,7 +239,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *4071 domains/hosts - 2879 compressed domains*
+**Entries:** *3998 domains/hosts - 2837 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
