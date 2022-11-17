@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 16 Nov 2022 00:55 UTC
-! Version: 2022.1116.0055.01
+! Last modified: 17 Nov 2022 00:54 UTC
+! Version: 2022.1117.0054.56
 ! Syntax: AdBlock
-! Domains: 5997
+! Domains: 6014
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -267,6 +267,7 @@
 ||anowanda.com^
 ||anthead.club^
 ||anthonylogrande.com^
+||antik-kunst-genuss.de^
 ||antiwurm.de^
 ||antminerfarm.com^
 ||antobi-shop.de^
@@ -295,6 +296,7 @@
 ||apothekeoesterreich.eu^
 ||apothekeschweiz24.com^
 ||app-associates.com^
+||appai.de^
 ||appealady.com^
 ||appenin.de^
 ||appleiphoneunlock.uk^
@@ -633,6 +635,7 @@
 ||bioherby.de^
 ||biologichealing.com^
 ||biologischestation.de^
+||biorampe.de^
 ||bios-batterie-cmos.de^
 ||biovea.net^
 ||biromotion.de^
@@ -649,7 +652,6 @@
 ||bjorkcoffee.com^
 ||black-forestcake.com^
 ||blackwidow.at^
-||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -730,13 +732,13 @@
 ||brandstylesworld.com^
 ||brappy.co^
 ||brass-eu.com^
+||bratubey.com^
 ||breadtaker.com^
 ||breathofday.de^
 ||breitenbacher.shop^
 ||breitenbacher-damenmode.com^
 ||breitenbacher-mode.com^
 ||breitlingreplika.com^
-||bremen-fashion.de^
 ||brendmsk.ru^
 ||brennholz-und-pellets.com^
 ||brennholzmuller.at^
@@ -929,6 +931,7 @@
 ||caterpillardeutschland.de^
 ||caterpillarosterreich.at^
 ||caterpillarschuhe.at^
+||cb-estate.com^
 ||cccnats.com^
 ||ccdc2012.de^
 ||cci-immobilien.de^
@@ -1036,6 +1039,7 @@
 ||clarksgermany.com^
 ||clarksschuhesale.com^
 ||clasicraft.com^
+||classiccitychic.com^
 ||claudia-finke.de^
 ||claudia-preuss.de^
 ||clausrothe.de^
@@ -1192,6 +1196,7 @@
 ||cryptotradingfxt.com^
 ||crystalfashion.vip^
 ||crystalsoul.de^
+||csglog.com^
 ||csguis.com^
 ||csunbox.com^
 ||ctbike.pl^
@@ -1615,6 +1620,7 @@
 ||elektro-engel.de^
 ||elektro-gerber.de^
 ||elektro-kingz.de^
+||elektro-oase.de^
 ||elektro-rock.com^
 ||elektro-rode.de^
 ||elektro-wunderland.de^
@@ -1626,7 +1632,6 @@
 ||elektrohaus24.com^
 ||elektrohoppe.de^
 ||elektronik-handel.com^
-||elektronik-reimann.com^
 ||elektronik-steiner.com^
 ||elektronikbester.com^
 ||elektronikbilliger.com^
@@ -1839,6 +1844,7 @@
 ||falinas.de^
 ||falzoro.de^
 ||famiglieinrete.org^
+||familienbegleiterin.de^
 ||famore.shop^
 ||famore-fashion.com^
 ||fancyclothing.de^
@@ -1853,6 +1859,7 @@
 ||faseut.com^
 ||fash-brand.shop^
 ||fashincs.com^
+||fashion-kuhlmann.de^
 ||fashion-s.shop^
 ||fashion-traum.com^
 ||fashionders.com^
@@ -2111,6 +2118,7 @@
 ||gamesfox.de^
 ||gamestop-markt.de^
 ||gamestopde.de^
+||gamestopeurope.com^
 ||gamestopkonsoleplay.de^
 ||gamestopmarkt.de^
 ||gamestopshop.de^
@@ -2345,6 +2353,7 @@
 ||guneydc.top^
 ||gusti-ledertaschen.de^
 ||gut-mag.ru^
+||gutbutzow.de^
 ||gutcwels.com^
 ||guterkauf.com^
 ||gutesbestes.com^
@@ -2383,6 +2392,7 @@
 ||handyhullekaufen.de^
 ||handystuff4you.com^
 ||hanna-trachten.de^
+||hannashop.de^
 ||hanno-film.de^
 ||hannover-mode.de^
 ||hans-kray.de^
@@ -2815,6 +2825,7 @@
 ||julireh.com^
 ||justasitsounds.com^
 ||justclothes.club^
+||de.justfashionnow.com^
 ||justlo.tv^
 ||justshopy4u.com^
 ||justvanilla.de^
@@ -3496,6 +3507,7 @@
 ||michverlieben.de^
 ||micowel.com^
 ||microlieshop.com^
+||micron-srl.de^
 ||microstarinn.com^
 ||midatlanticstore.com^
 ||mielano.de^
@@ -3510,6 +3522,7 @@
 ||milchcheese.com^
 ||milf-direkt.com^
 ||milforyou.com^
+||mililandz.com^
 ||millionaersuchtfrau.de^
 ||milonire.com^
 ||milopup.de^
@@ -3611,7 +3624,6 @@
 ||monicasneaker.cc^
 ||monoflix.de^
 ||monokompakt.de^
-||monostarscope.com^
 ||monplay.de^
 ||montanahudson.com^
 ||montrereplique.to^
@@ -3979,6 +3991,7 @@
 ||onlyclothes.club^
 ||onlymaker.com^
 ||onward.store^
+||onyx-versand.de^
 ||oolongtime.com^
 ||oonadish.com^
 ||openedijti.com^
@@ -4057,6 +4070,7 @@
 ||parisinpink.com^
 ||partnerimwald.ch^
 ||partsm.top^
+||partykiste-undorf.de^
 ||pascher.top^
 ||passamera.de^
 ||passion-fotos.de^
@@ -4394,6 +4408,7 @@
 ||registerwegweiser.info^
 ||regli-coaching.com^
 ||regplay.de^
+||regulh.com^
 ||rehapolen.de^
 ||rehauevents.de^
 ||reichwahl.de^
@@ -4536,6 +4551,7 @@
 ||roumite.com^
 ||rovola.de^
 ||rowa-versand.de^
+||roxyroxl.com^
 ||roya-light.de^
 ||royalbrands.shop^
 ||royalkitten.at^
@@ -5659,6 +5675,7 @@
 ||vozero.de^
 ||vozero-online.de^
 ||vp-bionic.com^
+||vphami.top^
 ||vponary.com^
 ||vrczda.com^
 ||vs-home.de^
@@ -5734,6 +5751,7 @@
 ||wellensteynjacke.de^
 ||wellensteynjackenoutlet.org^
 ||wellensteynjacket.com^
+||wellindal.com^
 ||wellindal.de^
 ||wellreplicas.to^
 ||welpenkaufen.at^
@@ -5937,7 +5955,6 @@
 ||youspeako.top^
 ||youthloft.uk^
 ||youzuu.de^
-||yrjojahanna.top^
 ||ysijember.com^
 ||ysotramaq.com^
 ||ytahoorart.com^

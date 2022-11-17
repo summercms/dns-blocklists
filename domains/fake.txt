@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Nov 2022 00:55 UTC
-# Version: 2022.1116.0055.01
+# Last modified: 17 Nov 2022 00:54 UTC
+# Version: 2022.1117.0054.56
 # Syntax: Domains
-# Domains: 11465
+# Domains: 11527
 #
 willhaben.at.04300.id
 11trikots.com
@@ -112,6 +112,7 @@ www.above2021.com
 abqmvad.top
 www.abqmvad.top
 abylul.com
+www.abylul.com
 acastleinthesun.com
 www.acastleinthesun.com
 accaartblog.com
@@ -507,6 +508,8 @@ anthead.club
 www.anthead.club
 anthonylogrande.com
 www.anthonylogrande.com
+antik-kunst-genuss.de
+www.antik-kunst-genuss.de
 antiwurm.de
 www.antiwurm.de
 antminerfarm.com
@@ -560,6 +563,8 @@ apothekeschweiz24.com
 www.apothekeschweiz24.com
 app-associates.com
 www.app-associates.com
+appai.de
+www.appai.de
 appealady.com
 www.appealady.com
 appenin.de
@@ -809,6 +814,7 @@ www.ayola.de
 ayurreadpro.com
 www.ayurreadpro.com
 ayybass.com
+www.ayybass.com
 az-finanzmanagement.at
 www.az-finanzmanagement.at
 aztitanium.com
@@ -1003,6 +1009,7 @@ www.bekos.at
 belacova.com
 www.belacova.com
 beleshoping.com
+www.beleshoping.com
 beljunqueira.com
 www.beljunqueira.com
 belladde.com
@@ -1209,6 +1216,8 @@ biologichealing.com
 www.biologichealing.com
 biologischestation.de
 www.biologischestation.de
+biorampe.de
+www.biorampe.de
 bios-batterie-cmos.de
 www.bios-batterie-cmos.de
 biovea.net
@@ -1241,8 +1250,6 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
-blaroken.com
-www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -1396,6 +1403,8 @@ www.brandstylesworld.com
 brappy.co
 brass-eu.com
 www.brass-eu.com
+bratubey.com
+www.bratubey.com
 breadtaker.com
 www.breadtaker.com
 breathofday.de
@@ -1405,10 +1414,9 @@ www.breitenbacher.shop
 breitenbacher-damenmode.com
 www.breitenbacher-damenmode.com
 breitenbacher-mode.com
+www.breitenbacher-mode.com
 breitlingreplika.com
 www.breitlingreplika.com
-bremen-fashion.de
-www.bremen-fashion.de
 brendmsk.ru
 www.brendmsk.ru
 brennholz-und-pellets.com
@@ -1434,6 +1442,7 @@ www.brimes.de
 bringbikestore.com
 www.bringbikestore.com
 bringwish.com
+www.bringwish.com
 british-columbia-hotels.com
 www.british-columbia-hotels.com
 britzmedia24.com
@@ -1791,6 +1800,8 @@ caterpillarosterreich.at
 www.caterpillarosterreich.at
 caterpillarschuhe.at
 www.caterpillarschuhe.at
+cb-estate.com
+www.cb-estate.com
 cccnats.com
 www.cccnats.com
 ccdc2012.de
@@ -1855,6 +1866,7 @@ www.chargedupgadgets.com
 charismatico.com
 www.charismatico.com
 charloll.com
+www.charloll.com
 chasingcases.com
 www.chasingcases.com
 chastitybox.com
@@ -2001,6 +2013,8 @@ clarksschuhesale.com
 www.clarksschuhesale.com
 clasicraft.com
 www.clasicraft.com
+classiccitychic.com
+www.classiccitychic.com
 claudia-finke.de
 www.claudia-finke.de
 claudia-preuss.de
@@ -2265,6 +2279,8 @@ crystalfashion.vip
 www.crystalfashion.vip
 crystalsoul.de
 www.crystalsoul.de
+csglog.com
+www.csglog.com
 csguis.com
 www.csguis.com
 csunbox.com
@@ -3036,6 +3052,7 @@ www.ejoy.ch
 ejrjx.top
 www.ejrjx.top
 eklcma.com
+www.eklcma.com
 eko-immo.com
 www.eko-immo.com
 ekomfort.de
@@ -3080,6 +3097,8 @@ elektro-gerber.de
 www.elektro-gerber.de
 elektro-kingz.de
 www.elektro-kingz.de
+elektro-oase.de
+www.elektro-oase.de
 elektro-rock.com
 www.elektro-rock.com
 elektro-rode.de
@@ -3100,8 +3119,8 @@ elektrohoppe.de
 www.elektrohoppe.de
 elektronik-handel.com
 www.elektronik-handel.com
-elektronik-reimann.com
 elektronik-steiner.com
+www.elektronik-steiner.com
 elektronikbester.com
 www.elektronikbester.com
 elektronikbilliger.com
@@ -3302,6 +3321,7 @@ www.estrategen.de
 esyqefp.top
 www.esyqefp.top
 ethashop.com
+www.ethashop.com
 ethoose.xyz
 etkbbc.com
 www.etkbbc.com
@@ -3499,6 +3519,8 @@ falzoro.de
 www.falzoro.de
 famiglieinrete.org
 www.famiglieinrete.org
+familienbegleiterin.de
+www.familienbegleiterin.de
 famore.shop
 www.famore.shop
 famore-fashion.com
@@ -3519,12 +3541,15 @@ www.farazero.com
 farozia.com
 www.farozia.com
 fascboots.com
+www.fascboots.com
 faseut.com
 www.faseut.com
 fash-brand.shop
 www.fash-brand.shop
 fashincs.com
 www.fashincs.com
+fashion-kuhlmann.de
+www.fashion-kuhlmann.de
 fashion-s.shop
 fashion-traum.com
 www.fashion-traum.com
@@ -4026,6 +4051,8 @@ gamestop-markt.de
 www.gamestop-markt.de
 gamestopde.de
 www.gamestopde.de
+gamestopeurope.com
+www.gamestopeurope.com
 gamestopkonsoleplay.de
 www.gamestopkonsoleplay.de
 gamestopmarkt.de
@@ -4070,6 +4097,7 @@ www.garminworldmaps.com
 garshopbuy.site
 www.garshopbuy.site
 garshoping.com
+www.garshoping.com
 garten-events.de
 www.garten-events.de
 garten-steckby.de
@@ -4292,6 +4320,7 @@ www.gold-profi.com
 gold-properties.com
 www.gold-properties.com
 gold-scheideanstalt-testsieger.de
+www.gold-scheideanstalt-testsieger.de
 gold-versandhandel.com
 www.gold-versandhandel.com
 gold-zeit.com
@@ -4321,6 +4350,7 @@ goldhandel-service.de
 goldhandel-testsieger.de
 www.goldhandel-testsieger.de
 goldhandel-testsieger-shop.de
+www.goldhandel-testsieger-shop.de
 goldpixel.de
 www.goldpixel.de
 goldscheide-anstalt-kontor.de
@@ -4468,6 +4498,8 @@ gusti-ledertaschen.de
 www.gusti-ledertaschen.de
 gut-mag.ru
 www.gut-mag.ru
+gutbutzow.de
+www.gutbutzow.de
 gutcwels.com
 www.gutcwels.com
 guterkauf.com
@@ -4540,6 +4572,8 @@ www.handyhullekaufen.de
 handystuff4you.com
 www.handystuff4you.com
 hanna-trachten.de
+hannashop.de
+www.hannashop.de
 hanno-film.de
 www.hanno-film.de
 hannover-mode.de
@@ -4562,6 +4596,7 @@ www.harlandco.com
 harmonie-fuhrerschein.de
 www.harmonie-fuhrerschein.de
 harshoping.com
+www.harshoping.com
 hartmann-versand.de
 www.hartmann-versand.de
 haus-der-bos.com
@@ -4581,6 +4616,7 @@ www.haushalt-depot.de
 haushalt-jansen.net
 www.haushalt-jansen.net
 haushalt-schuhmann.com
+www.haushalt-schuhmann.com
 haushalt-xxl.de
 www.haushalt-xxl.de
 haushaltskoenig.de
@@ -5035,8 +5071,10 @@ www.idailyshop.com
 idealerwunsch.com
 www.idealerwunsch.com
 idealomobls.com
+www.idealomobls.com
 ielektronik.de
 ifbgyxpnr.top
+www.ifbgyxpnr.top
 iflyer.it
 www.iflyer.it
 igbce-stolberg.de
@@ -5369,6 +5407,7 @@ justasitsounds.com
 www.justasitsounds.com
 justclothes.club
 www.justclothes.club
+de.justfashionnow.com
 justlo.tv
 www.justlo.tv
 justshopy4u.com
@@ -5976,6 +6015,7 @@ www.lichthaeusl.de
 lidawood.eu
 www.lidawood.eu
 lideabag.com
+www.lideabag.com
 lidoras.com
 www.lidoras.com
 lieb-schafft.de
@@ -6632,6 +6672,7 @@ melanca.de
 www.melanca.de
 melancy.xyz
 meldebescheinigung.eu
+www.meldebescheinigung.eu
 melkberg.de
 www.melkberg.de
 melody-barker.com
@@ -6694,6 +6735,8 @@ micowel.com
 www.micowel.com
 microlieshop.com
 www.microlieshop.com
+micron-srl.de
+www.micron-srl.de
 microstarinn.com
 www.microstarinn.com
 midatlanticstore.com
@@ -6720,6 +6763,8 @@ milf-direkt.com
 www.milf-direkt.com
 milforyou.com
 www.milforyou.com
+mililandz.com
+www.mililandz.com
 millionaersuchtfrau.de
 www.millionaersuchtfrau.de
 milonire.com
@@ -6913,8 +6958,6 @@ monoflix.de
 www.monoflix.de
 monokompakt.de
 www.monokompakt.de
-monostarscope.com
-www.monostarscope.com
 monplay.de
 www.monplay.de
 montanahudson.com
@@ -7590,6 +7633,8 @@ onlymaker.com
 www.onlymaker.com
 onward.store
 www.onward.store
+onyx-versand.de
+www.onyx-versand.de
 oolongtime.com
 www.oolongtime.com
 oonadish.com
@@ -7740,6 +7785,8 @@ partnerimwald.ch
 www.partnerimwald.ch
 partsm.top
 www.partsm.top
+partykiste-undorf.de
+www.partykiste-undorf.de
 pascher.top
 www.pascher.top
 passamera.de
@@ -8389,6 +8436,8 @@ regli-coaching.com
 www.regli-coaching.com
 regplay.de
 www.regplay.de
+regulh.com
+www.regulh.com
 rehapolen.de
 www.rehapolen.de
 rehauevents.de
@@ -8666,6 +8715,8 @@ rovola.de
 www.rovola.de
 rowa-versand.de
 www.rowa-versand.de
+roxyroxl.com
+www.roxyroxl.com
 roya-light.de
 www.roya-light.de
 royalbrands.shop
@@ -9317,6 +9368,7 @@ www.sowaswillichauch.de
 spacebuds.de
 www.spacebuds.de
 spacegetbonus.com
+www.spacegetbonus.com
 spaceoutlabs.com
 www.spaceoutlabs.com
 spaceshine.de
@@ -9637,6 +9689,7 @@ www.supersofabezug.com
 supertigers.de
 www.supertigers.de
 suplsan.com
+www.suplsan.com
 supmestar.com
 www.supmestar.com
 supportfortross.org
@@ -9784,6 +9837,7 @@ www.techdachs.de
 techdevices.club
 www.techdevices.club
 techerado.com
+www.techerado.com
 techmeta.store
 www.techmeta.store
 technik-chef.de
@@ -9799,6 +9853,7 @@ technikhood.de
 technikhuebner.de
 technikkirchner.de
 technikschaefer.de
+www.technikschaefer.de
 techno-max.de
 www.techno-max.de
 techswap.de
@@ -10293,6 +10348,7 @@ trusted-shop-nr3821.de
 trusted-shop-nr3892.de
 www.trusted-shop-nr3892.de
 trusted-shop-nr8392.de
+www.trusted-shop-nr8392.de
 trustedmedstore24.com
 www.trustedmedstore24.com
 trustedrxsolutions.com
@@ -10310,6 +10366,7 @@ www.trylovestore.site
 tryshoplove.site
 www.tryshoplove.site
 tshirtprinters.store
+www.tshirtprinters.store
 tshirttierchen.de
 www.tshirttierchen.de
 tsv-erste.de
@@ -10404,6 +10461,7 @@ www.umbrellacorp.fr
 umia-gmbh.com
 www.umia-gmbh.com
 uminsshop.com
+www.uminsshop.com
 umsatz-generator.de
 www.umsatz-generator.de
 umshopp.com
@@ -10437,6 +10495,7 @@ universalprotection.de
 www.universalprotection.de
 universetools.de
 unjkvn.com
+www.unjkvn.com
 unoplay.de
 www.unoplay.de
 unserkleinesgeheimnis.at
@@ -10801,6 +10860,8 @@ vozero-online.de
 www.vozero-online.de
 vp-bionic.com
 www.vp-bionic.com
+vphami.top
+www.vphami.top
 vponary.com
 www.vponary.com
 vrczda.com
@@ -10947,7 +11008,9 @@ wellensteynjackenoutlet.org
 www.wellensteynjackenoutlet.org
 wellensteynjacket.com
 www.wellensteynjacket.com
+wellindal.com
 wellindal.de
+www.wellindal.com
 www.wellindal.de
 wellreplicas.to
 de.wellreplicas.to
@@ -11344,8 +11407,6 @@ www.youspeako.top
 youthloft.uk
 www.youthloft.uk
 youzuu.de
-yrjojahanna.top
-www.yrjojahanna.top
 ysijember.com
 www.ysijember.com
 ysotramaq.com
@@ -11450,6 +11511,7 @@ www.zocker.shop
 zodena.shop
 www.zodena.shop
 zoeorashop.com
+www.zoeorashop.com
 zoomil.de
 www.zoomil.de
 zskimedia.top
