@@ -31,10 +31,10 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake) | [TIF](https://github.com/hagezi/dns-blocklists#tif) | [Personal](https://github.com/hagezi/dns-blocklists#personal) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](https://github.com/hagezi/dns-blocklists#light)             | 350999<br>142480     |   |   | = | X | P | X |
+| [Light](https://github.com/hagezi/dns-blocklists#light)             | 372770<br>152156     |   |   | = | X | P | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1200128<br>316270     |   | = | X | X | P | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1338672<br>394743         | = | X | X | X | P | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1450062<br>438436 | ++ | X | X | X | P |  X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1450061<br>438435 | ++ | X | X | X | P |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -46,7 +46,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *350999 domains/hosts - 142480 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *372770 domains/hosts - 152156 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -93,7 +93,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1450062 domains/hosts - 438436 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1450061 domains/hosts - 438435 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -237,9 +237,9 @@
 ---
 
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
-*Contains blockable hosts that I found during DNS monitoring. Ads, Tracking, Badware and more.*         
+*My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *957 domains/hosts - 663 compressed domains*
+**Entries:** *25220 domains/hosts - 13468 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
