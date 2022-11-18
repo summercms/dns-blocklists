@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 07:09 UTC
-# Version: 2022.1118.0709.03
+# Last modified: 18 Nov 2022 09:32 UTC
+# Version: 2022.1118.0932.54
 # Syntax: DNSMasq
-# Domains: 2703
+# Domains: 2701
 #
 address=/03f128fb44.com/#
 address=/1000mercis.com/#
@@ -981,7 +981,6 @@ address=/fbot.me/#
 address=/smetrics.fcacert.com/#
 address=/feedbackify.com/#
 address=/analytics.feeder.co/#
-address=/feelmyfile.info/#
 address=/smetrics.ferguson.com/#
 address=/fetchback.com/#
 address=/smetrics.fetnet.net/#
@@ -1487,7 +1486,6 @@ address=/longabeach.com/#
 address=/metrika.lookmovie.io/#
 address=/analytics.loopassets.net/#
 address=/smetrics.lordabbett.com/#
-address=/love7date.info/#
 address=/lovesingle.xyz/#
 address=/lpxtqptab.com/#
 address=/lrcdn.net/#
@@ -2130,7 +2128,6 @@ address=/sentry-cdn.com/#
 address=/serving-passthrough.com/#
 address=/analytics.sevencooks.com/#
 address=/widget.track.aws.sevensenders.com/#
-address=/shahidmosalsalat.co/#
 address=/shakyseat.com/#
 address=/af.shalltry.com/#
 address=/aireport.shalltry.com/#
@@ -2516,6 +2513,7 @@ address=/smetrics.vermontcountrystore.com/#
 address=/vertmarkets.com/#
 address=/veve.com/#
 address=/log.core.cloud.vewd.com/#
+address=/veysag.com/#
 address=/vfgte.com/#
 address=/analytics.vfr-verlag.de/#
 address=/viafoura.com/#

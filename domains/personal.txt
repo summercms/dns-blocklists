@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 07:09 UTC
-# Version: 2022.1118.0709.03
+# Last modified: 18 Nov 2022 09:32 UTC
+# Version: 2022.1118.0932.54
 # Syntax: Domains
-# Domains: 3772
+# Domains: 3768
 #
 03f128fb44.com
 1000mercis.com
@@ -1379,7 +1379,6 @@ smetrics.fcacert.com
 feedbackify.com
 www.feedbackify.com
 analytics.feeder.co
-feelmyfile.info
 smetrics.ferguson.com
 fetchback.com
 www.fetchback.com
@@ -2072,8 +2071,6 @@ longabeach.com
 metrika.lookmovie.io
 analytics.loopassets.net
 smetrics.lordabbett.com
-love7date.info
-www.love7date.info
 lovesingle.xyz
 www.lovesingle.xyz
 lpxtqptab.com
@@ -2971,8 +2968,6 @@ www.sentry-cdn.com
 serving-passthrough.com
 analytics.sevencooks.com
 widget.track.aws.sevensenders.com
-shahidmosalsalat.co
-www.shahidmosalsalat.co
 shakyseat.com
 af.shalltry.com
 aireport.shalltry.com
@@ -3504,6 +3499,7 @@ mzn65.veve.com
 static-02.veve.com
 www.veve.com
 log.core.cloud.vewd.com
+veysag.com
 vfgte.com
 analytics.vfr-verlag.de
 viafoura.com
