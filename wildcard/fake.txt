@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 Nov 2022 00:54 UTC
-# Version: 2022.1117.0054.56
+# Last modified: 18 Nov 2022 00:54 UTC
+# Version: 2022.1118.0054.18
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6014
+# Domains: 6013
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -507,7 +507,6 @@
 *.bbvipanswer.shop
 *.bc-rheine.de
 *.bcm-shop.de
-*.bdshop.com
 *.be-shop24.com
 *.beatricefalck-art.de
 *.beauteousu.com
@@ -873,7 +872,6 @@
 *.caravinga.com
 *.cardione.at
 *.care4patients.de
-*.carethy.at
 *.cargadgetss.com
 *.cargservicesdelnc.com
 *.carlhipperson.de
@@ -2687,6 +2685,7 @@
 *.cheap-michaelkors.in.net
 *.michaelkorsoutletoff.in.net
 *.inc-real.com
+*.incerunmen.com
 *.indonesiahotel24.com
 *.inedito.fr
 *.inertiafinance.co
@@ -4055,7 +4054,6 @@
 *.palima-maschinenhandel.de
 *.pamminger-reisen.de
 *.pamule.com
-*.pamura.com
 *.panamajackschweiz.com
 *.panamajackwien.at
 *.pandorairelandonline.com
@@ -5588,6 +5586,7 @@
 *.vespin-versand.de
 *.vespin24.de
 *.vetola.de
+*.vevor.de
 *.vfcsnc.shop
 *.vgr8.com
 *.viagrafuerfrauen.com

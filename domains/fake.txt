@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 Nov 2022 00:54 UTC
-# Version: 2022.1117.0054.56
+# Last modified: 18 Nov 2022 00:54 UTC
+# Version: 2022.1118.0054.18
 # Syntax: Domains
-# Domains: 11527
+# Domains: 11525
 #
 willhaben.at.04300.id
 11trikots.com
@@ -967,8 +967,6 @@ bc-rheine.de
 www.bc-rheine.de
 bcm-shop.de
 www.bcm-shop.de
-bdshop.com
-www.bdshop.com
 be-shop24.com
 www.be-shop24.com
 beatricefalck-art.de
@@ -1684,8 +1682,6 @@ cardione.at
 www.cardione.at
 care4patients.de
 www.care4patients.de
-carethy.at
-www.carethy.at
 cargadgetss.com
 www.cargadgetss.com
 cargservicesdelnc.com
@@ -5137,6 +5133,8 @@ cheap-michaelkors.in.net
 michaelkorsoutletoff.in.net
 inc-real.com
 www.inc-real.com
+incerunmen.com
+www.incerunmen.com
 indonesiahotel24.com
 www.indonesiahotel24.com
 inedito.fr
@@ -7757,8 +7755,6 @@ pamminger-reisen.de
 www.pamminger-reisen.de
 pamule.com
 www.pamule.com
-pamura.com
-www.pamura.com
 panamajackschweiz.com
 www.panamajackschweiz.com
 panamajackwien.at
@@ -10694,6 +10690,8 @@ vespin-versand.de
 vespin24.de
 vetola.de
 www.vetola.de
+vevor.de
+www.vevor.de
 vfcsnc.shop
 www.vfcsnc.shop
 vgr8.com
