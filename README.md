@@ -20,7 +20,7 @@
 14. [Credits](#credits)
 15. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 16. [Recommendation](#recommendation)
-17. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [NextDNS](#nextdns) / [AdGuardDNS](#adguarddns)
+17. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
 18. [About](#about) / [Referral Domains](#referral)
 19. [Sources/Statistics](usedsources.md)
 20. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
@@ -31,10 +31,10 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake) | [TIF](https://github.com/hagezi/dns-blocklists#tif) | [Personal](https://github.com/hagezi/dns-blocklists#personal) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](https://github.com/hagezi/dns-blocklists#light)             | 354030<br>142830     |   |   | = | X | P | X |
-| [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1213371<br>316687     |   | = | X | X | P | X |
-| [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1338672<br>394743         | = | X | X | X | P | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1450061<br>438435 | ++ | X | X | X | P |  X |
+| [Light](https://github.com/hagezi/dns-blocklists#light)             | 355618<br>143856     |   |   | = | X | P | X |
+| [Normal](https://github.com/hagezi/dns-blocklists#normal)       | 1248323<br>322221     |   | = | X | X | P | X |
+| [Pro](https://github.com/hagezi/dns-blocklists#pro)              | 1381523<br>400774         | = | X | X | X | P | X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#proplus)    | 1484804<br>443086 | ++ | X | X | X | P |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -46,7 +46,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *354030 domains/hosts - 142830 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *355618 domains/hosts - 143856 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -61,7 +61,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1213371 domains/hosts - 316687 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1248323 domains/hosts - 322221 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -76,7 +76,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1338672 domains/hosts - 394743 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1381523 domains/hosts - 400774 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -93,7 +93,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1450061 domains/hosts - 438435 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1484804 domains/hosts - 443086 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -111,7 +111,7 @@
 ### ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
-**Entries:** *11527 domains/hosts - 6014 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
+**Entries:** *11525 domains/hosts - 6013 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -129,7 +129,7 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!*** <a name="tif"></a>
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *1278090 domains/hosts - 652262 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
+**Entries:** *1284146 domains/hosts - 653670 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -152,7 +152,7 @@
 
 #### ***Complete Edition - Encrypted DNS Servers, VPN, TOR, Proxies*** <a name="bypass_all"></a>
        
-**Entries:** *973 domains/hosts - 893 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
+**Entries:** *986 domains/hosts - 899 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -167,7 +167,7 @@
 
 #### ***Encrypted DNS Servers only*** <a name="bypass_dns"></a>
        
-**Entries:** *340 domains/hosts - 282 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh)
+**Entries:** *352 domains/hosts - 287 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -239,7 +239,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *3998 domains/hosts - 2837 compressed domains*
+**Entries:** *3684 domains/hosts - 2645 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -279,10 +279,10 @@
 
 ### ***Recommendation*** <a name="recommendation"></a>
 
-*As a network-wide DNS blocker, I recommend using [Pi-Hole](https://pi-hole.net/), [Adguard Home](https://adguard.com), [Blocky](https://github.com/0xERR0R/blocky) (advanced users) or [eBlocker](https://eblocker.org/). I prefer [Adguard Home](https://adguard.com).*
+*As a network-wide DNS blocker, I recommend using [Adguard Home](https://adguard.com), [Pi-Hole](https://pi-hole.net/), [Blocky](https://github.com/0xERR0R/blocky) (advanced users) or [eBlocker](https://eblocker.org/). I prefer [Adguard Home](https://adguard.com).*
         
 *DNS blocker offer a good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!         
-Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [uBlock](https://ublockorigin.com) or [AdGuard](https://adguard.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...). I use [uBlock](https://ublockorigin.com) in my desktop browser and [AdGuard](https://adguard.com) on my mobile devices.*
+Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [AdGuard](https://adguard.com) or [uBlock](https://ublockorigin.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...). I use [AdGuard](https://adguard.com).*
                      
 *Check out @yokoffing's [Recommended Filters for uBlock Origin](https://github.com/yokoffing/filterlists) for content blocker filter lists.*
 
@@ -299,29 +299,26 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 | Normal (PRO + TIF)  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
 | Aggressive (PRO plus + TIF) | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
 
+#### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
+          
+*My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
+
+| Profile | Blocklists |
+|:--------|:-------------------------------------------------------------------------------------------------------------|
+| Normal  | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + OISD full + HaGeZi Personal Black & White (coming soon!) |
+
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
 *Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).*
            
 *My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
 
-| Profile | NextDNS Blocklists                                          |
+| Profile | Blocklists |
 |:--------|:----------------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd                                         |
-| Aggressive | 1Hosts (Pro) + AdGuard DNS filter + Steven Black + oisd + notracking + NoTrack Tracker Blocklist |
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + OISD                                         |
+| Aggressive | 1Hosts (Pro) + AdGuard DNS filter + Steven Black + OISD                                          |
                   
 *Check out @yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) for further configuration settings.*
-
-#### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
-
-*Unfortunately, my blocklists have not yet been included in [AdGuardDNS](https://adguard-dns.io).*
-           
-*My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
-
-| Profile | NextDNS Blocklists                                          |
-|:--------|:----------------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd full                                    |
-| Aggressive | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + oisd full + notracking                       |
 
 ---
 

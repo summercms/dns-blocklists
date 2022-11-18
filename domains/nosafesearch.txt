@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 09 Nov 2022 14:46 UTC
-# Version: 2022.1109.1446.28
+# Last modified: 18 Nov 2022 03:49 UTC
+# Version: 2022.1118.0349.08
 # Syntax: Domains
 # Domains: 138
 #
