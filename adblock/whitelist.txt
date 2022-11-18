@@ -118,12 +118,12 @@
 @@|cdnjs.cloudflare.co^
 
 ! Discord
-@@|discord.com^
-@@|discord.gg^
-@@|discord.media^
-@@|discordapp.com^
-@@|discordapp.net^
-@@|discordstatus.com^
+@@||discord.com^
+@@|*-discord.gg^
+@@||discord.media^
+@@||discordapp.com^
+@@||discordapp.net^
+@@||discordstatus.com^
 
 ! Disney+
 @@|disney-plus.net^
@@ -231,8 +231,10 @@
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
+! fp.msedge.net
 @@||*-msedge.net^
 @@||dds.microsoft.com^
+@@||msedge.net^
 @@||services.microsoft.com^
 @@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
@@ -251,7 +253,6 @@
 @@|atm-settingsfe-prod-geo*.trafficmanager.net^
 @@|continuum.dds.microsoft.com^
 @@|cs.dds.microsoft.com^
-@@|fp.msedge.net^
 @@|g.live.com^
 @@|g.msn.com^
 @@|go.microsoft.com^
@@ -300,6 +301,7 @@
 
 ! NVidia
 @@|activation.gfe.nvidia.com^
+@@|events.gfe.nvidia.com^
 @@|gfwsl.geforce.com^
 @@|images.nvidiagrid.net^
 @@|services.gfe.nvidia.com^
