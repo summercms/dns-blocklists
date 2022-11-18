@@ -62225,7 +62225,6 @@
 *.gvhms.com
 *.analytics.gvim.mobi
 *.gvisit.com
-*.gvt2.com
 *.beacons5.gvt3.com
 *.gvwan.cn
 *.gg.gw032.com

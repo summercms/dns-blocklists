@@ -62225,7 +62225,6 @@ address=/gvgmall.com/#
 address=/gvhms.com/#
 address=/analytics.gvim.mobi/#
 address=/gvisit.com/#
-address=/gvt2.com/#
 address=/beacons5.gvt3.com/#
 address=/gvwan.cn/#
 address=/gg.gw032.com/#
