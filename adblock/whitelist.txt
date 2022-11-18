@@ -1836,3 +1836,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/65
 @@|overclockers.co.uk^
 
+! Code Examples
+@@|code-examples.net^
+
