@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 03:55 UTC
-# Version: 2022.1118.0355.49
+# Last modified: 18 Nov 2022 08:45 UTC
+# Version: 2022.1118.0845.11
 # Syntax: Hosts
-# Domains: 11525
+# Domains: 11531
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1248,6 +1248,8 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 www.blackwidow.at
+0.0.0.0 blaroken.com
+0.0.0.0 www.blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 blaue-dragoner.de
@@ -1415,6 +1417,8 @@
 0.0.0.0 www.breitenbacher-mode.com
 0.0.0.0 breitlingreplika.com
 0.0.0.0 www.breitlingreplika.com
+0.0.0.0 bremen-fashion.de
+0.0.0.0 www.bremen-fashion.de
 0.0.0.0 brendmsk.ru
 0.0.0.0 www.brendmsk.ru
 0.0.0.0 brennholz-und-pellets.com
@@ -1929,8 +1933,6 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
-0.0.0.0 chicsoso.com
-0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -6956,6 +6958,8 @@
 0.0.0.0 www.monoflix.de
 0.0.0.0 monokompakt.de
 0.0.0.0 www.monokompakt.de
+0.0.0.0 monostarscope.com
+0.0.0.0 www.monostarscope.com
 0.0.0.0 monplay.de
 0.0.0.0 www.monplay.de
 0.0.0.0 montanahudson.com
@@ -7755,6 +7759,8 @@
 0.0.0.0 www.pamminger-reisen.de
 0.0.0.0 pamule.com
 0.0.0.0 www.pamule.com
+0.0.0.0 pamura.com
+0.0.0.0 www.pamura.com
 0.0.0.0 panamajackschweiz.com
 0.0.0.0 www.panamajackschweiz.com
 0.0.0.0 panamajackwien.at

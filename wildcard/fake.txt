@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 03:55 UTC
-# Version: 2022.1118.0355.49
+# Last modified: 18 Nov 2022 08:45 UTC
+# Version: 2022.1118.0845.11
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6013
+# Domains: 6016
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -651,6 +651,7 @@
 *.bjorkcoffee.com
 *.black-forestcake.com
 *.blackwidow.at
+*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -738,6 +739,7 @@
 *.breitenbacher-damenmode.com
 *.breitenbacher-mode.com
 *.breitlingreplika.com
+*.bremen-fashion.de
 *.brendmsk.ru
 *.brennholz-und-pellets.com
 *.brennholzmuller.at
@@ -996,7 +998,6 @@
 *.chichandbagsshop.com
 *.chicladdy.com
 *.chiclolo.com
-*.chicsoso.com
 *.chictogerther.com
 *.chicwells.de
 *.chillgod.com
@@ -3623,6 +3624,7 @@
 *.monicasneaker.cc
 *.monoflix.de
 *.monokompakt.de
+*.monostarscope.com
 *.monplay.de
 *.montanahudson.com
 *.montrereplique.to
@@ -4054,6 +4056,7 @@
 *.palima-maschinenhandel.de
 *.pamminger-reisen.de
 *.pamule.com
+*.pamura.com
 *.panamajackschweiz.com
 *.panamajackwien.at
 *.pandorairelandonline.com
