@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 14:55 UTC
-# Version: 2022.1115.1455.57
+# Last modified: 18 Nov 2022 00:49 UTC
+# Version: 2022.1118.0049.21
 # Syntax: Hosts
-# Domains: 340
+# Domains: 352
 #
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -92,6 +92,9 @@
 0.0.0.0 dns.blokada.org
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 dns.brahma.world
+0.0.0.0 bravedns.com
+0.0.0.0 basic.bravedns.com
+0.0.0.0 free.bravedns.com
 0.0.0.0 2.dnscrypt-cert.captnemo.in
 0.0.0.0 doh.captnemo.in
 0.0.0.0 anycast.censurfridns.dk
@@ -240,6 +243,12 @@
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.infotek.net.id
 0.0.0.0 dns.neutopia.org
+0.0.0.0 dns.nextdns.io
+0.0.0.0 anycast.dns.nextdns.io
+0.0.0.0 chromium.dns.nextdns.io
+0.0.0.0 firefox.dns.nextdns.io
+0.0.0.0 dns1.nextdns.io
+0.0.0.0 dns2.nextdns.io
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
 0.0.0.0 dns.nixnet.xyz
@@ -306,6 +315,9 @@
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
 0.0.0.0 kaitain.restena.lu
+0.0.0.0 rethinkdns.com
+0.0.0.0 basic.rethinkdns.com
+0.0.0.0 max.rethinkdns.com
 0.0.0.0 doh.rezhajul.io
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn

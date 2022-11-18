@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Nov 2022 14:55 UTC
-# Version: 2022.1115.1455.57
+# Last modified: 18 Nov 2022 00:49 UTC
+# Version: 2022.1118.0049.21
 # Syntax: DNSMasq
-# Domains: 282
+# Domains: 287
 #
 address=/1and1-dns.de/#
 address=/233py.com/#
@@ -83,6 +83,7 @@ address=/doh.blockerdns.com/#
 address=/dns.blokada.org/#
 address=/doh.bortzmeyer.fr/#
 address=/dns.brahma.world/#
+address=/bravedns.com/#
 address=/2.dnscrypt-cert.captnemo.in/#
 address=/doh.captnemo.in/#
 address=/anycast.censurfridns.dk/#
@@ -195,6 +196,9 @@ address=/freedom.mydns.network/#
 address=/dns.aa.net.uk/#
 address=/doh.infotek.net.id/#
 address=/dns.neutopia.org/#
+address=/dns.nextdns.io/#
+address=/dns1.nextdns.io/#
+address=/dns2.nextdns.io/#
 address=/dnsotls.lab.nic.cl/#
 address=/odvr.nic.cz/#
 address=/dns.nixnet.xyz/#
@@ -253,6 +257,7 @@ address=/2.dnscrypt-cert.quad9.net/#
 address=/doh.quickline.ch/#
 address=/dot.quickline.ch/#
 address=/kaitain.restena.lu/#
+address=/rethinkdns.com/#
 address=/doh.rezhajul.io/#
 address=/dns.rubyfish.cn/#
 address=/ea-dns.rubyfish.cn/#
