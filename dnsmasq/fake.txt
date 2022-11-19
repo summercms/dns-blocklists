@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 08:45 UTC
-# Version: 2022.1118.0845.11
+# Last modified: 19 Nov 2022 00:53 UTC
+# Version: 2022.1119.0053.45
 # Syntax: DNSMasq
-# Domains: 6016
+# Domains: 6031
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -396,6 +396,8 @@ address=/autodisco.de/#
 address=/autohausbismuth.de/#
 address=/autohobby.at/#
 address=/autolinie.de/#
+address=/automania-europe.com/#
+address=/automania-market.com/#
 address=/autonation-deutschland.com/#
 address=/autoradio-gps-discount.com/#
 address=/autoradiomitnavigation.de/#
@@ -594,6 +596,7 @@ address=/bestwoof.de/#
 address=/bestybikes.de/#
 address=/bestylish.club/#
 address=/beta-re.com/#
+address=/betterlife24.store/#
 address=/bettersecure.site/#
 address=/bettinakreativ.at/#
 address=/bettyshops.com/#
@@ -1079,6 +1082,7 @@ address=/jackwolfskinaustria.co.at/#
 address=/knightsgoneby.co.uk/#
 address=/labubu.co.uk/#
 address=/littlecow.co.kr/#
+address=/luna-motors.co.uk/#
 address=/luxeparfum.co.uk/#
 address=/mgfoundation.co.uk/#
 address=/officialiphoneunlock.co.uk/#
@@ -1414,6 +1418,7 @@ address=/dino-cats.com/#
 address=/directlogistics.com/#
 address=/directunlocks.com/#
 address=/dirkdreier.de/#
+address=/dirkelektro.com/#
 address=/dirkethilfe24.at/#
 address=/discount-bazar.com/#
 address=/discount-megastore.com/#
@@ -1526,6 +1531,7 @@ address=/e-bikeexperten.de/#
 address=/e-gigantus.de/#
 address=/e-pmb.de/#
 address=/e-shop-markt.de/#
+address=/e-thg.de/#
 address=/ea-jena.de/#
 address=/eacsquash.fr/#
 address=/eaepp.com/#
@@ -2145,6 +2151,7 @@ address=/garshoping.com/#
 address=/garten-events.de/#
 address=/garten-steckby.de/#
 address=/gartengenosse.de/#
+address=/gartenland-martens.de/#
 address=/gartenland-paradies.de/#
 address=/gartenshop-deutschland.de/#
 address=/gartenwerker-sascha-kolic.de/#
@@ -2384,6 +2391,7 @@ address=/handelshaus-mayer.de/#
 address=/handjobleathergoods.com/#
 address=/handlemylife.info/#
 address=/handstaubsauger.shop/#
+address=/handwerker-katalog.net/#
 address=/handwerkversand.shop/#
 address=/handy-dating.live/#
 address=/handy24.biz/#
@@ -2513,6 +2521,7 @@ address=/holmric-spedition.com/#
 address=/vlor.holycrossmoravianchurch.com/#
 address=/holydogwater.de/#
 address=/holzelektro.com/#
+address=/holzenergie-pellets.de/#
 address=/holzgreb-heizung.com/#
 address=/holzti.com/#
 address=/home-garten-shop.de/#
@@ -3334,6 +3343,7 @@ address=/marinatedegg.shop/#
 address=/markbabb.com/#
 address=/market-co.uk/#
 address=/marktplatz-de.com/#
+address=/marktstores.com/#
 address=/markus-mendler.de/#
 address=/markusbrandstetter.at/#
 address=/maropado24.de/#
@@ -3579,6 +3589,7 @@ address=/modeberger.com/#
 address=/modeboutique.store/#
 address=/modeengels.de/#
 address=/modefinds.com/#
+address=/modehaus-muenchen.de/#
 address=/modehaus-reuter.com/#
 address=/modehaus-weickert.de/#
 address=/modeis24.shop/#
@@ -4414,6 +4425,7 @@ address=/rehapolen.de/#
 address=/rehauevents.de/#
 address=/reichwahl.de/#
 address=/reifen-altendorf.de/#
+address=/reifen-glaser.de/#
 address=/reifen-petlas.de/#
 address=/reinekedesign.com/#
 address=/reise-tipps.at/#
@@ -4834,6 +4846,7 @@ address=/slewo.com/#
 address=/slightsmeell.com/#
 address=/slimyliquid.de/#
 address=/slimyvita.de/#
+address=/slp-haushaltsgerate.de/#
 address=/slutmedtandlaegeskraek.dk/#
 address=/smart-excel.de/#
 address=/smartautofxtrades.online/#
@@ -5000,6 +5013,7 @@ address=/storecheap.fun/#
 address=/storeincart.club/#
 address=/storesbuy.site/#
 address=/storkwersborg.de/#
+address=/stornierenbei.de/#
 address=/stoxdc.com/#
 address=/strahlentier.de/#
 address=/strandkorbia.com/#
@@ -5430,6 +5444,7 @@ address=/ubi-itzstedt.de/#
 address=/uclsteel.com/#
 address=/ucrochepate.com/#
 address=/uduwz.com/#
+address=/uesthermaina.shop/#
 address=/ufd-lindenau.de/#
 address=/ugg-boots-deutschland.org/#
 address=/uggboots-kaufen.org/#

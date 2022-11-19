@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 08:45 UTC
-# Version: 2022.1118.0845.11
+# Last modified: 19 Nov 2022 00:53 UTC
+# Version: 2022.1119.0053.45
 # Syntax: Domains
-# Domains: 11531
+# Domains: 11560
 #
 willhaben.at.04300.id
 11trikots.com
@@ -756,6 +756,10 @@ autohobby.at
 www.autohobby.at
 autolinie.de
 www.autolinie.de
+automania-europe.com
+www.automania-europe.com
+automania-market.com
+www.automania-market.com
 autonation-deutschland.com
 www.autonation-deutschland.com
 autoradio-gps-discount.com
@@ -1135,6 +1139,8 @@ bestylish.club
 www.bestylish.club
 beta-re.com
 www.beta-re.com
+betterlife24.store
+www.betterlife24.store
 bettersecure.site
 www.bettersecure.site
 bettinakreativ.at
@@ -2074,6 +2080,7 @@ jackwolfskinaustria.co.at
 knightsgoneby.co.uk
 labubu.co.uk
 littlecow.co.kr
+luna-motors.co.uk
 luxeparfum.co.uk
 mgfoundation.co.uk
 officialiphoneunlock.co.uk
@@ -2696,6 +2703,8 @@ directunlocks.com
 www.directunlocks.com
 dirkdreier.de
 www.dirkdreier.de
+dirkelektro.com
+www.dirkelektro.com
 dirkethilfe24.at
 www.dirkethilfe24.at
 discount-bazar.com
@@ -2913,6 +2922,8 @@ e-pmb.de
 www.e-pmb.de
 e-shop-markt.de
 www.e-shop-markt.de
+e-thg.de
+www.e-thg.de
 ea-jena.de
 www.ea-jena.de
 eacsquash.fr
@@ -4102,6 +4113,8 @@ garten-steckby.de
 www.garten-steckby.de
 gartengenosse.de
 www.gartengenosse.de
+gartenland-martens.de
+www.gartenland-martens.de
 gartenland-paradies.de
 www.gartenland-paradies.de
 gartenshop-deutschland.de
@@ -4558,6 +4571,8 @@ handlemylife.info
 www.handlemylife.info
 handstaubsauger.shop
 www.handstaubsauger.shop
+handwerker-katalog.net
+www.handwerker-katalog.net
 handwerkversand.shop
 handy-dating.live
 www.handy-dating.live
@@ -4810,6 +4825,8 @@ holydogwater.de
 www.holydogwater.de
 holzelektro.com
 www.holzelektro.com
+holzenergie-pellets.de
+www.holzenergie-pellets.de
 holzgreb-heizung.com
 www.holzgreb-heizung.com
 holzti.com
@@ -6403,6 +6420,8 @@ www.markbabb.com
 market-co.uk
 marktplatz-de.com
 www.marktplatz-de.com
+marktstores.com
+www.marktstores.com
 markus-mendler.de
 www.markus-mendler.de
 markusbrandstetter.at
@@ -6872,6 +6891,8 @@ modeengels.de
 www.modeengels.de
 modefinds.com
 www.modefinds.com
+modehaus-muenchen.de
+www.modehaus-muenchen.de
 modehaus-reuter.com
 www.modehaus-reuter.com
 modehaus-weickert.de
@@ -8448,6 +8469,8 @@ reichwahl.de
 www.reichwahl.de
 reifen-altendorf.de
 www.reifen-altendorf.de
+reifen-glaser.de
+www.reifen-glaser.de
 reifen-petlas.de
 www.reifen-petlas.de
 reinekedesign.com
@@ -9263,6 +9286,8 @@ slimyliquid.de
 www.slimyliquid.de
 slimyvita.de
 www.slimyvita.de
+slp-haushaltsgerate.de
+www.slp-haushaltsgerate.de
 slutmedtandlaegeskraek.dk
 www.slutmedtandlaegeskraek.dk
 smart-excel.de
@@ -9582,6 +9607,8 @@ storesbuy.site
 www.storesbuy.site
 storkwersborg.de
 www.storkwersborg.de
+stornierenbei.de
+www.stornierenbei.de
 stoxdc.com
 www.stoxdc.com
 strahlentier.de
@@ -10417,6 +10444,8 @@ ucrochepate.com
 www.ucrochepate.com
 uduwz.com
 www.uduwz.com
+uesthermaina.shop
+www.uesthermaina.shop
 ufd-lindenau.de
 www.ufd-lindenau.de
 ugg-boots-deutschland.org

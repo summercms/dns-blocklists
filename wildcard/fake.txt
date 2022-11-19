@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 08:45 UTC
-# Version: 2022.1118.0845.11
+# Last modified: 19 Nov 2022 00:53 UTC
+# Version: 2022.1119.0053.45
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6016
+# Domains: 6031
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -396,6 +396,8 @@
 *.autohausbismuth.de
 *.autohobby.at
 *.autolinie.de
+*.automania-europe.com
+*.automania-market.com
 *.autonation-deutschland.com
 *.autoradio-gps-discount.com
 *.autoradiomitnavigation.de
@@ -594,6 +596,7 @@
 *.bestybikes.de
 *.bestylish.club
 *.beta-re.com
+*.betterlife24.store
 *.bettersecure.site
 *.bettinakreativ.at
 *.bettyshops.com
@@ -1079,6 +1082,7 @@
 *.knightsgoneby.co.uk
 *.labubu.co.uk
 *.littlecow.co.kr
+*.luna-motors.co.uk
 *.luxeparfum.co.uk
 *.mgfoundation.co.uk
 *.officialiphoneunlock.co.uk
@@ -1414,6 +1418,7 @@
 *.directlogistics.com
 *.directunlocks.com
 *.dirkdreier.de
+*.dirkelektro.com
 *.dirkethilfe24.at
 *.discount-bazar.com
 *.discount-megastore.com
@@ -1526,6 +1531,7 @@
 *.e-gigantus.de
 *.e-pmb.de
 *.e-shop-markt.de
+*.e-thg.de
 *.ea-jena.de
 *.eacsquash.fr
 *.eaepp.com
@@ -2145,6 +2151,7 @@
 *.garten-events.de
 *.garten-steckby.de
 *.gartengenosse.de
+*.gartenland-martens.de
 *.gartenland-paradies.de
 *.gartenshop-deutschland.de
 *.gartenwerker-sascha-kolic.de
@@ -2384,6 +2391,7 @@
 *.handjobleathergoods.com
 *.handlemylife.info
 *.handstaubsauger.shop
+*.handwerker-katalog.net
 *.handwerkversand.shop
 *.handy-dating.live
 *.handy24.biz
@@ -2513,6 +2521,7 @@
 *.vlor.holycrossmoravianchurch.com
 *.holydogwater.de
 *.holzelektro.com
+*.holzenergie-pellets.de
 *.holzgreb-heizung.com
 *.holzti.com
 *.home-garten-shop.de
@@ -3334,6 +3343,7 @@
 *.markbabb.com
 *.market-co.uk
 *.marktplatz-de.com
+*.marktstores.com
 *.markus-mendler.de
 *.markusbrandstetter.at
 *.maropado24.de
@@ -3579,6 +3589,7 @@
 *.modeboutique.store
 *.modeengels.de
 *.modefinds.com
+*.modehaus-muenchen.de
 *.modehaus-reuter.com
 *.modehaus-weickert.de
 *.modeis24.shop
@@ -4414,6 +4425,7 @@
 *.rehauevents.de
 *.reichwahl.de
 *.reifen-altendorf.de
+*.reifen-glaser.de
 *.reifen-petlas.de
 *.reinekedesign.com
 *.reise-tipps.at
@@ -4834,6 +4846,7 @@
 *.slightsmeell.com
 *.slimyliquid.de
 *.slimyvita.de
+*.slp-haushaltsgerate.de
 *.slutmedtandlaegeskraek.dk
 *.smart-excel.de
 *.smartautofxtrades.online
@@ -5000,6 +5013,7 @@
 *.storeincart.club
 *.storesbuy.site
 *.storkwersborg.de
+*.stornierenbei.de
 *.stoxdc.com
 *.strahlentier.de
 *.strandkorbia.com
@@ -5430,6 +5444,7 @@
 *.uclsteel.com
 *.ucrochepate.com
 *.uduwz.com
+*.uesthermaina.shop
 *.ufd-lindenau.de
 *.ugg-boots-deutschland.org
 *.uggboots-kaufen.org

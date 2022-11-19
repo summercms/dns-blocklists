@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Nov 2022 08:45 UTC
-# Version: 2022.1118.0845.11
+# Last modified: 19 Nov 2022 00:53 UTC
+# Version: 2022.1119.0053.45
 # Syntax: Hosts
-# Domains: 11531
+# Domains: 11560
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -756,6 +756,10 @@
 0.0.0.0 www.autohobby.at
 0.0.0.0 autolinie.de
 0.0.0.0 www.autolinie.de
+0.0.0.0 automania-europe.com
+0.0.0.0 www.automania-europe.com
+0.0.0.0 automania-market.com
+0.0.0.0 www.automania-market.com
 0.0.0.0 autonation-deutschland.com
 0.0.0.0 www.autonation-deutschland.com
 0.0.0.0 autoradio-gps-discount.com
@@ -1135,6 +1139,8 @@
 0.0.0.0 www.bestylish.club
 0.0.0.0 beta-re.com
 0.0.0.0 www.beta-re.com
+0.0.0.0 betterlife24.store
+0.0.0.0 www.betterlife24.store
 0.0.0.0 bettersecure.site
 0.0.0.0 www.bettersecure.site
 0.0.0.0 bettinakreativ.at
@@ -2074,6 +2080,7 @@
 0.0.0.0 knightsgoneby.co.uk
 0.0.0.0 labubu.co.uk
 0.0.0.0 littlecow.co.kr
+0.0.0.0 luna-motors.co.uk
 0.0.0.0 luxeparfum.co.uk
 0.0.0.0 mgfoundation.co.uk
 0.0.0.0 officialiphoneunlock.co.uk
@@ -2696,6 +2703,8 @@
 0.0.0.0 www.directunlocks.com
 0.0.0.0 dirkdreier.de
 0.0.0.0 www.dirkdreier.de
+0.0.0.0 dirkelektro.com
+0.0.0.0 www.dirkelektro.com
 0.0.0.0 dirkethilfe24.at
 0.0.0.0 www.dirkethilfe24.at
 0.0.0.0 discount-bazar.com
@@ -2913,6 +2922,8 @@
 0.0.0.0 www.e-pmb.de
 0.0.0.0 e-shop-markt.de
 0.0.0.0 www.e-shop-markt.de
+0.0.0.0 e-thg.de
+0.0.0.0 www.e-thg.de
 0.0.0.0 ea-jena.de
 0.0.0.0 www.ea-jena.de
 0.0.0.0 eacsquash.fr
@@ -4102,6 +4113,8 @@
 0.0.0.0 www.garten-steckby.de
 0.0.0.0 gartengenosse.de
 0.0.0.0 www.gartengenosse.de
+0.0.0.0 gartenland-martens.de
+0.0.0.0 www.gartenland-martens.de
 0.0.0.0 gartenland-paradies.de
 0.0.0.0 www.gartenland-paradies.de
 0.0.0.0 gartenshop-deutschland.de
@@ -4558,6 +4571,8 @@
 0.0.0.0 www.handlemylife.info
 0.0.0.0 handstaubsauger.shop
 0.0.0.0 www.handstaubsauger.shop
+0.0.0.0 handwerker-katalog.net
+0.0.0.0 www.handwerker-katalog.net
 0.0.0.0 handwerkversand.shop
 0.0.0.0 handy-dating.live
 0.0.0.0 www.handy-dating.live
@@ -4810,6 +4825,8 @@
 0.0.0.0 www.holydogwater.de
 0.0.0.0 holzelektro.com
 0.0.0.0 www.holzelektro.com
+0.0.0.0 holzenergie-pellets.de
+0.0.0.0 www.holzenergie-pellets.de
 0.0.0.0 holzgreb-heizung.com
 0.0.0.0 www.holzgreb-heizung.com
 0.0.0.0 holzti.com
@@ -6403,6 +6420,8 @@
 0.0.0.0 market-co.uk
 0.0.0.0 marktplatz-de.com
 0.0.0.0 www.marktplatz-de.com
+0.0.0.0 marktstores.com
+0.0.0.0 www.marktstores.com
 0.0.0.0 markus-mendler.de
 0.0.0.0 www.markus-mendler.de
 0.0.0.0 markusbrandstetter.at
@@ -6872,6 +6891,8 @@
 0.0.0.0 www.modeengels.de
 0.0.0.0 modefinds.com
 0.0.0.0 www.modefinds.com
+0.0.0.0 modehaus-muenchen.de
+0.0.0.0 www.modehaus-muenchen.de
 0.0.0.0 modehaus-reuter.com
 0.0.0.0 www.modehaus-reuter.com
 0.0.0.0 modehaus-weickert.de
@@ -8448,6 +8469,8 @@
 0.0.0.0 www.reichwahl.de
 0.0.0.0 reifen-altendorf.de
 0.0.0.0 www.reifen-altendorf.de
+0.0.0.0 reifen-glaser.de
+0.0.0.0 www.reifen-glaser.de
 0.0.0.0 reifen-petlas.de
 0.0.0.0 www.reifen-petlas.de
 0.0.0.0 reinekedesign.com
@@ -9263,6 +9286,8 @@
 0.0.0.0 www.slimyliquid.de
 0.0.0.0 slimyvita.de
 0.0.0.0 www.slimyvita.de
+0.0.0.0 slp-haushaltsgerate.de
+0.0.0.0 www.slp-haushaltsgerate.de
 0.0.0.0 slutmedtandlaegeskraek.dk
 0.0.0.0 www.slutmedtandlaegeskraek.dk
 0.0.0.0 smart-excel.de
@@ -9582,6 +9607,8 @@
 0.0.0.0 www.storesbuy.site
 0.0.0.0 storkwersborg.de
 0.0.0.0 www.storkwersborg.de
+0.0.0.0 stornierenbei.de
+0.0.0.0 www.stornierenbei.de
 0.0.0.0 stoxdc.com
 0.0.0.0 www.stoxdc.com
 0.0.0.0 strahlentier.de
@@ -10417,6 +10444,8 @@
 0.0.0.0 www.ucrochepate.com
 0.0.0.0 uduwz.com
 0.0.0.0 www.uduwz.com
+0.0.0.0 uesthermaina.shop
+0.0.0.0 www.uesthermaina.shop
 0.0.0.0 ufd-lindenau.de
 0.0.0.0 www.ufd-lindenau.de
 0.0.0.0 ugg-boots-deutschland.org
