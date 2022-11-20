@@ -1849,3 +1849,6 @@ code-examples.net
 # Oaktree Insights investment emails
 go.oaktreecapital.com
 
+# https://github.com/hagezi/dns-blocklists/issues/68
+*telemetry.*oraclecloud.com
+
