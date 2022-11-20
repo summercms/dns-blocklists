@@ -1852,3 +1852,12 @@
 ! https://github.com/hagezi/dns-blocklists/issues/68
 @@|*telemetry.*oraclecloud.com^
 
+! Roku TV Crackle app
+@@|ravm.tv^
+
+! https://old.reddit.com/r/nextdns/comments/yzvnuw/nest_usage_metrics_being_blocked/
+@@|logsink.devices.nest.com^
+
+! Garena League account linking - https://leaguelink.riotgames.com/
+@@|js.captcha-display.com^
+
