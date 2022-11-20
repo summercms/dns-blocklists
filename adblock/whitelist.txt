@@ -119,7 +119,7 @@
 
 ! Discord
 @@||discord.com^
-@@|*-discord.gg^
+@@||discord.gg^
 @@||discord.media^
 @@||discordapp.com^
 @@||discordapp.net^
@@ -235,7 +235,7 @@
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 ! fp.msedge.net
-@@||*-msedge.net^
+@@|*-msedge.net^
 @@||dds.microsoft.com^
 @@||forms.office.com^
 @@||msedge.net^
@@ -761,10 +761,11 @@
 @@|players.brightcove.net^
 
 ! https://github.com/notracking/hosts-blocklists/issues/787
-@@|m1.fwmrm.net^
-@@|m2.fwmrm.net^
-@@|mssl.fwmrm.net^
-@@|mssl.fwmrm.net.edgesuite.net^
+! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+! m1.fwmrm.net
+! m2.fwmrm.net
+! mssl.fwmrm.net
+! mssl.fwmrm.net.edgesuite.net
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
