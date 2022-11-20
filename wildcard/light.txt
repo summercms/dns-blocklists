@@ -96350,7 +96350,6 @@
 *.go.oracle.com
 *.tms.oracle.com
 *.oracle-ps.com
-*.console-telemetry.oci.oraclecloud.com
 *.visit-prod-us.occa.ocs.oraclecloud.com
 *.oracleinfinity.io
 *.ccexperimentsstatic.oracleoutsourcing.com

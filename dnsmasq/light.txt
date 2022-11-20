@@ -96350,7 +96350,6 @@ address=/or-sucess.su/#
 address=/go.oracle.com/#
 address=/tms.oracle.com/#
 address=/oracle-ps.com/#
-address=/console-telemetry.oci.oraclecloud.com/#
 address=/visit-prod-us.occa.ocs.oraclecloud.com/#
 address=/oracleinfinity.io/#
 address=/ccexperimentsstatic.oracleoutsourcing.com/#
