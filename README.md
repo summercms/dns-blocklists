@@ -220,7 +220,9 @@
 
 ### ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
 *An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
-        
+              
+***Already included in Pro++***
+                       
 **Entries:** *51 domains/hosts - 50 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#hoster)
             
 | Format | Link | Can be used for |
@@ -309,7 +311,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
-*Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc).*
+*Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc). You can [vote for the inclusion](https://help.nextdns.io/t/h7hsypb/blocklist) of the lists.*
            
 *My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
 
