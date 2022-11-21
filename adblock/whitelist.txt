@@ -72,8 +72,7 @@
 @@|aiv-cdn.net.c.footprint.net^
 @@|aiv-delivery.net^
 @@|amazonvideo.com^
-@@|atv-ext-*.amazon.com^
-@@|atv-ext.amazon.com^
+@@|atv-ext*.amazon.com^
 @@|atv-ps.amazon.com^
 @@|d25xi40x97liuc.cloudfront.net^
 @@|dmqdd6hw24ucf.cloudfront.net^
@@ -90,15 +89,15 @@
 @@||smoot.apple.com^
 @@|apple-dns.net^
 @@|cstat.apple.com^
-@@|doh.dns.apple.com^
-@@|doh.dns.apple.com.v.aaplimg.com^
+! doh.dns.apple.com
+! doh.dns.apple.com.v.aaplimg.com
 @@|inappcheck*.apple.com^
 @@|iphone-ld.apple.com^
 @@|iphone-ld.origin-apple.com.akadns.net^
-@@|mask-api.icloud.com^
-@@|mask-h2.icloud.com^
-@@|mask.apple-dns.net^
-@@|mask.icloud.com^
+! mask-api.icloud.com
+! mask-h2.icloud.com
+! mask.apple-dns.net
+! mask.icloud.com
 @@|ocsp*.apple.com^
 @@|securemvt.apple.com^
 @@|smp-device-content.apple.com^
@@ -153,9 +152,9 @@
 @@|*graph.instagram.com^
 @@|connect.facebook.com^
 @@|connect.facebook.net^
-@@|external-ber1-1.xx.fbcdn.net^
+@@|external-*.xx.fbcdn.net^
 @@|i.instagram.com^
-@@|scontent-ber1-1.xx.fbcdn.net^
+@@|scontent-*.xx.fbcdn.net^
 @@|star*.facebook.com^
 @@|web.facebook.com^
 ! Facebook CDN
@@ -163,32 +162,27 @@
 @@||fbcdn.net^
 
 ! Github
-@@|ghcr.io^
-@@|github.com^
-@@|github.io^
-@@|github.map.fastly.net^
-@@|githubapp.com^
-@@|githubassets.com^
+@@||ghcr.io^
+@@||github.com^
+@@||github.io^
+@@||github.map.fastly.net^
+@@||githubapp.com^
+@@||githubassets.com^
+@@||gitlab.com^
 @@|githubusercontent.com^
-@@|gitlab.com^
 @@|raw.githubusercontent.com^
 
 ! Google
 @@||gstaticadssl.l.google.com^
-@@|0.client-channel.google.com^
-@@|2.android.pool.ntp.org^
+@@||client-channel.google.com^
+@@||android.pool.ntp.org^
 @@|afs.googleusercontent.com^
 @@|analyticsinsights-pa.googleapis.com^
 @@|analyticssearch-pa.googleapis.com^
 @@|android.clients.google.com^
 @@|appsbackup-pa.clients6.google.com^
 @@|appsbackup-pa.googleapis.com^
-@@|clients1.google.com^
-@@|clients2.google.com^
-@@|clients3.google.com^
-@@|clients4.google.com^
-@@|clients5.google.com^
-@@|clients6.google.com^
+@@|clients*.google.com^
 @@|clientservices.googleapis.com^
 @@|commondatastorage.googleapis.com^
 @@|connectivitycheck.gstatic.com^
@@ -196,9 +190,7 @@
 @@|device-provisioning.googleapis.com^
 @@|docs.google.com^
 @@|feedburner.google.com^
-@@|firebasedynamiclinks-ipv4.googleapis.com^
-@@|firebasedynamiclinks-ipv6.googleapis.com^
-@@|firebasedynamiclinks.googleapis.com^
+@@|firebasedynamiclinks*.googleapis.com^
 @@|firebaseinappmessaging.googleapis.com^
 @@|firebaseinstallations.googleapis.com^
 @@|firebasestorage.googleapis.com^
@@ -234,7 +226,6 @@
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
-! fp.msedge.net
 @@|*-msedge.net^
 @@||dds.microsoft.com^
 @@||forms.office.com^
@@ -279,7 +270,7 @@
 @@|vlscppe.microsoft.com^
 @@|wcpstatic.microsoft.com^
 @@|windowsupdate.s.llnwi.net^
-@@|www.msftconnecttest.com^
+@@||msftconnecttest.com^
 
 ! Netflix
 @@||netflix.net^
@@ -291,16 +282,14 @@
 @@|api-global.netflix.com^
 @@|appboot.netflix.com^
 @@|netflix.com^
-@@|nrdp.nccp.*.netflix.com^
-! nrdp.nccp.netflix.com
-@@|nrdp.prod.*.netflix.com^
-! nrdp.prod.ftl.netflix.com
+@@|nrdp.nccp*.netflix.com^
+@@|nrdp.prod*.netflix.com^
 @@|secure.netflix.com^
 
 ! Nintendo Switch
 @@|nintendo.com^
 @@|nintendo.net^
-@@|nintendowifi.net^
+@@||nintendowifi.net^
 @@|a1843.g.akamai.net^
 
 ! NVidia
@@ -369,6 +358,7 @@
 @@|dev-multiscreen.samsung.com^
 @@|deviceportal.nettvservices.com^
 @@|drscdn.500px.org^
+@@|ecdinterface.philips.com^
 @@|epg.corio.com^
 @@|file2fxm.azureedge.net^
 @@|geo.opera.com^
@@ -381,32 +371,20 @@
 @@|itv.ard.de^
 @@|lcprd1.samsungcloudsolution.net^
 @@|location-api.hdhomerun.com^
-@@|mhc-ajax-eu-s2.myhomescreen.tv^
-@@|mhc-ajax-eu.myhomescreen.tv^
-@@|mhc-ajax-us.myhomescreen.tv^
-@@|mhc-eu.myhomescreen.tv^
-@@|mhc-us.myhomescreen.tv^
-@@|mhc-xpana-eu-s2.myhomescreen.tv^
-@@|mhc-xpana-eu.myhomescreen.tv^
-@@|mhc-xpana-us.myhomescreen.tv^
+@@|mhc-*.myhomescreen.tv^
 @@|multiscreen.samsung.com^
 @@|ngfts.lge.com^
 @@|ns11.whois.co.kr^
 @@|osb-ussvc.samsungqbe.com^
 @@|otn.samsungcloudcdn.com^
-@@|otnprd10.samsungcloudsolution.net^
-@@|otnprd11.samsungcloudsolution.net^
-@@|otnprd8.samsungcloudsolution.net^
-@@|otnprd9.samsungcloudsolution.net^
+@@|otnprd*.samsungcloudsolution.net^
 @@|portal.store.sonyentertainmentnetwork.com^
 @@|reg.biv.sony.tv^
 @@|samsungosp.com^
 @@|samsungotn.net^
 @@|samsungrm.net^
 @@|service.biv.sony.tv^
-@@|ssm1.internet.sony.tv^
-@@|ssm2.internet.sony.tv^
-@@|ssm3.internet.sony.tv^
+@@|ssm*.internet.sony.tv^
 @@|time-a.timefreq.bldrdoc.gov^
 @@|time.samsungcloudsolution.com^
 @@|tuner-api.hdhomerun.com^
@@ -414,8 +392,6 @@
 @@|update.biv.sony.tv^
 @@|us.lgtvsdp.com^
 @@|vcs.vdspf.com^
-@@|www.ecdinterface.philips.com^
-@@|www.samsungotn.net^
 
 ! Spotify
 ! Prevent problems with Spotify Premium
@@ -500,9 +476,7 @@
 
 ! Axiad (https://www.axiad.com) provides Private Key Infrastructure (PKI)
 @@|axiadids.net^
-@@|cloud.axiadids.net^
-@@|moog.cloud.axiadids.net^
-@@|crl.moog.cloud.axiadids.net^
+@@||cloud.axiadids.net^
 
 ! Videos on different websites do not start when the following domains are blocked:
 @@||schneevonmorgen.com^
@@ -532,6 +506,8 @@
 @@|videos.porndig.com^
 
 ! AdGuard
+@@||adguard-dns.com^
+@@||adguard-dns.io^
 @@||adguard.com^
 
 ! Misc (Breaking)
@@ -547,7 +523,7 @@
 @@|mycliplister.com^
 @@|pcapredict.com^
 @@|sportsbet.com.au^
-@@|tagger.opecloud.com^
+! tagger.opecloud.com
 
 ! NextDNS
 @@||nextdns.io^
@@ -592,9 +568,6 @@
 
 ! https://github.com/notracking/hosts-blocklists/issues/767
 @@|formspree.io^
-
-! https://github.com/notracking/hosts-blocklists/issues/765
-@@|doh.dns.sb^
 
 ! https://github.com/notracking/hosts-blocklists/issues/764
 @@|shop.spreadshirt.com^
@@ -1050,7 +1023,7 @@
 @@|payments*.netdirector.co.uk^
 
 ! tipico.de
-@@||tipico.de^
+@@|tipico.de^
 
 ! tracker.gg
 @@|tracker.gg^
@@ -1196,7 +1169,6 @@
 !+ googletagmanager.com
 
 ! Site layout on https://www.mybestbrands.de/
-! cdn-eu.dynamicyield.com
 ! cdn*.dynamicyield.com
 
 ! Breaks site layout on MyDirtyHobby
@@ -1411,8 +1383,7 @@
 ! General support chat
 ! https://github.com/hagezi/dns-blocklists/issues/40
 @@||intercom.io^
-@@|api.intercom.io^
-@@|api-iam.intercom.io^
+@@|api*.intercom.io^
 @@|widget.intercom.io^
 
 ! SurveyMonkey
