@@ -440,6 +440,7 @@ go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
 image.email.microsoftemail.com
+click.email.microsoftonline.com
 click.email.microsoftrewards.com
 image.email.microsoftrewards.com
 click.microsoftstoreemail.com
