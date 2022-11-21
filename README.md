@@ -51,7 +51,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/light.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/light.txt) | DNSMasq                                                              | 
@@ -66,13 +66,13 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard          |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/multi.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/multi.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
 
-### ***Multi PRO*** - **Extended protection** <a name="pro"></a>
+### ***Multi PRO*** - **Extended protection (Recommended)** <a name="pro"></a>
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
@@ -81,7 +81,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard             |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/pro.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt) | DNSMasq                                                              | 
@@ -98,7 +98,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/pro.plus.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.plus.txt) | DNSMasq                                                              | 
@@ -116,7 +116,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/fake.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/fake.txt) | DNSMasq                                                              | 
@@ -134,7 +134,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) | ~~AdGuard~~ (oversized, limited to 535000 rules!), AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/tif.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.txt) | DNSMasq                                                              | 
@@ -157,7 +157,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh-vpn-proxy-bypass.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh-vpn-proxy-bypass.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/doh-vpn-proxy-bypass.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh-vpn-proxy-bypass.txt) | DNSMasq                                                              | 
@@ -172,7 +172,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/doh.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh.txt) | DNSMasq                                                              | 
@@ -190,7 +190,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nosafesearch.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/nosafesearch.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/nosafesearch.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/nosafesearch.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/nosafesearch.txt) | DNSMasq                                                              | 
@@ -208,7 +208,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/dyndns.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/dyndns.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/dyndns.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/dyndns.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/dyndns.txt) | DNSMasq                                                              | 
@@ -226,7 +226,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/hoster.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/hoster.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/hoster.txt) | DNSMasq                                                              | 
@@ -244,7 +244,7 @@
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/personal.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
-| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/personal.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch              |
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/personal.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
 | Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/personal.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/personal.txt) | DNSMasq                                                              | 
@@ -271,7 +271,7 @@
 
 ### ***Credits*** <a name="credits"></a>
 
-**A huge thank you to the following list maintainers of the [sources used](usedsources.md), alphabetical order:**
+**A huge thank you to the following list maintainers of the [sources that were partially used](usedsources.md), alphabetical order:**
 
 *abpindo, abpvn, abuse.ch, adaway, adguardteam, adroitadorkhan, amnestytech, anti-ad, anudeepnd, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bkrucarci, blahdns, bongochong, botvrij.eu, cats-team, cbuijs, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, developerdan, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, fanboy, firebog.net, frogeye.fr, gioxx, guardicore, hblock, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, hufilter, iam-py-test, infinitytec, jawz101, jdlingyu, jkrejcha, joewein.net, kargig, kees1958, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, list-kr, logroid, malware-filter, marco-acorte, matomo-org, metamask, migueldemoura, mitchellkrogza, molinero.dev, mvps.org, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, ookangzheng, paulgb, perflyst, phishing.army, piperun, piquark6046, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, shallalist, shreyasminocha, sjhgvr, smed79, someonewhocares.org, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, t145, th3m3, tiuxo, tomasko126, ublockorigin, ultimate-hosts, ut1, velesila, wally3k, yourduskquibbles, yous, yoyo.org, zerodot1, zoso.ro*
 
@@ -279,10 +279,10 @@
 
 ### ***Recommendation*** <a name="recommendation"></a>
 
-*As a network-wide DNS blocker, I recommend using [Adguard Home](https://adguard.com), [Pi-Hole](https://pi-hole.net/), [Blocky](https://github.com/0xERR0R/blocky) (advanced users) or [eBlocker](https://eblocker.org/). I prefer [Adguard Home](https://adguard.com).*
+*As a network-wide DNS blocker, I recommend using [Adguard Home](https://adguard.com), [Pi-Hole](https://pi-hole.net/), [Blocky](https://github.com/0xERR0R/blocky) (advanced users) or [eBlocker](https://eblocker.org/).*
         
 *DNS blocker offer a good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!         
-Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [AdGuard](https://adguard.com) or [uBlock](https://ublockorigin.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...). I use [AdGuard](https://adguard.com).*
+Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [AdGuard](https://adguard.com) or [uBlock](https://ublockorigin.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...).*
                      
 *Check out @yokoffing's [Recommended Filters for uBlock Origin](https://github.com/yokoffing/filterlists) for content blocker filter lists.*
 
@@ -303,9 +303,9 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
           
 *My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
 
-| Profile | Blocklists |
-|:--------|:-------------------------------------------------------------------------------------------------------------|
-| Normal  | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + OISD full + HaGeZi Personal Black & White (coming soon!) |
+| Profile    | Blocklists                                                                                    |
+|:-----------|:----------------------------------------------------------------------------------------------|
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) (coming soon!) |
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
@@ -313,10 +313,10 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
            
 *My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
 
-| Profile | Blocklists |
-|:--------|:----------------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + Steven Black + OISD                                         |
-| Aggressive | 1Hosts (Pro) + AdGuard DNS filter + Steven Black + OISD                                          |
+| Profile    | Blocklists                                |
+|:-----------|:------------------------------------------|
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD |
+| Strict     | 1Hosts (Pro) + AdGuard DNS filter + OISD  |
                   
 *Check out @yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) for further configuration settings.*
 
