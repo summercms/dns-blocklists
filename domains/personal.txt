@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 Nov 2022 01:43 UTC
-# Version: 2022.1120.0143.32
+# Last modified: 21 Nov 2022 01:39 UTC
+# Version: 2022.1121.0139.24
 # Syntax: Domains
-# Domains: 3816
+# Domains: 3937
 #
 03f128fb44.com
 1000mercis.com
@@ -114,6 +114,8 @@ smetrics.active.com
 active-agent.com
 www.active-agent.com
 smetrics.activecommunities.com
+actonsoftware.com
+www.actonsoftware.com
 ad-cdn.name
 www.ad-cdn.name
 analytics.si-p.adac.de
@@ -158,6 +160,7 @@ admaym.com
 www.admaym.com
 shopify.admetrics.events
 analytics.bit.admin.ch
+ad.admitad.com
 admixplay.com
 www.admixplay.com
 adnxs.com
@@ -188,6 +191,8 @@ adserver01.de
 r.adserver01.de
 www.adserver01.de
 adserver5b.bar
+adserver5c.bar
+www.adserver5c.bar
 adsgaga.com
 adsgainer.com
 www.adsgainer.com
@@ -205,6 +210,8 @@ www.adtcdn.com
 adtoma.com
 adtopia.club
 www.adtopia.club
+adtraction.com
+www.adtraction.com
 advcake.com
 www.advcake.com
 adventive.com
@@ -216,6 +223,8 @@ www.adzerk.com
 www.adzerk.net
 adzip.co
 www.adzip.co
+adzone.io
+www.adzone.io
 track.aerzteblatt.de
 smetrics.aetnamedicare.com
 aff-tracker.com
@@ -258,6 +267,7 @@ geo.vortex.data.microsoft.com.akadns.net
 v10-win.vortex.data.microsoft.com.akadns.net
 watson.data.microsoft.com.akadns.net
 modern.watson.data.microsoft.com.akadns.net
+e37364.dscd.akamaiedge.net
 adalliance-a.akamaihd.net
 akro.io
 www.akro.io
@@ -293,6 +303,8 @@ amnyescsmgcagjj.com
 www.amnyescsmgcagjj.com
 amplience.com
 www.amplience.com
+api.eu.amplitude.com
+api.lab.amplitude.com
 analysing.email
 www.analysing.email
 analyticlister.com
@@ -354,12 +366,15 @@ smetrics.argos.ie
 smetrics.ariba.com
 arity.com
 www.arity.com
+wa.arounddeal.com
 metrics.articulate.com
 ads.asccommunications.com
 beacon.direct.asda.com
 mobilestats.ask.fm
 asnapieu.com
 www.asnapieu.com
+assoc-amazon.com
+www.assoc-amazon.com
 astutemetrics.com
 www.astutemetrics.com
 at-o.net
@@ -402,6 +417,7 @@ analytics.ff.avast.com
 feed.ff.avast.com
 ip-info.ff.avast.com
 shepherd.ff.avast.com
+uib.ff.avast.com
 vanheim.ff.avast.com
 avct.cloud
 smetrics.aveva.com
@@ -423,6 +439,7 @@ app-fnsp-matomo-analytics-prod.azurewebsites.net
 fa-ppctelemetry-prod.azurewebsites.net
 hosts.fa-ppctelemetry-prod.azurewebsites.net
 live-tfs-omnilytics.azurewebsites.net
+tella-adservice.azurewebsites.net
 hosts.vggwebsitetrackingprod.azurewebsites.net
 affiliatable1.b-cdn.net
 t.ba-content.de
@@ -440,7 +457,11 @@ smetrics.bankinter.com
 target.bankofamerica.com
 tracker.bannerflow.com
 573c32a1082dcc0960609da2.tracker.bannerflow.com
+bannertrack.net
+www.bannertrack.net
 smetrics.banter.com
+baremetrics.com
+www.baremetrics.com
 basis.net
 www.basis.net
 batch.com
@@ -476,6 +497,8 @@ www.benaughty.com
 smetrics.beneplace.com
 smetrics.bestinver.es
 analytics.bestofluck.io
+bestrealprizes.life
+www.bestrealprizes.life
 smetrics.bet.com
 smetrics.beterhoren.nl
 betrad.com
@@ -512,6 +535,7 @@ branch.wallet.bitcoin.com
 bitupsss.com
 www.bitupsss.com
 smetrics.bjs.com
+click.bkdpt.com
 smetrics.bkstr.com
 blackcrow.ai
 www.blackcrow.ai
@@ -523,7 +547,9 @@ www.blocwhite7.com
 photos1.blogger.com
 mobile-tracking.bloomberg.com
 smetrics.bloombergtax.com
+blueconic.com
 blueconic.net
+www.blueconic.com
 www.blueconic.net
 telemetry.bluedot.io
 gtrack.bluegazette.com
@@ -552,9 +578,11 @@ bosctrl32.com
 www.bosctrl32.com
 smetrics.bostonglobe.com
 amp-pixel.br.de
+tm.br.de
 client-analytics.braintreegateway.com
 branch.io
 api2.branch.io
+cdn.branch.io
 www.branch.io
 cdn.brandmetrics.com
 brandturbo.vip
@@ -594,6 +622,7 @@ www.brightline.tv
 smetrics.brinksprepaidmastercard.com
 brpx.com
 www.brpx.com
+d-log.bs-asahi.tv
 bsmartdata.com
 pixel.bsmartdata.com
 www.bsmartdata.com
@@ -734,6 +763,7 @@ analytics.ckju.net
 clarity.ms
 www.clarity.ms
 metrics.claspws.tv
+click.classmates.com
 clear-reports.com
 www.clear-reports.com
 clearbit.com
@@ -811,6 +841,7 @@ aviary.amazon.co.jp
 smetrics.amp.co.nz
 anm.co.uk
 smetrics.argos.co.uk
+d-log.asahi.co.jp
 smetrics.audi.co.uk
 smetrics.aviva.co.uk
 a1.api.bbc.co.uk
@@ -822,12 +853,14 @@ smetrics.chemistanddruggist.co.uk
 smetrics.citibank.co.uk
 creatormail.co.uk
 smetrics.crystalski.co.uk
+clicks.deliveroo.co.uk
 smetrics.dhc.co.jp
 smetrics.diners.co.jp
 smetrics.directlineforbusiness.co.uk
 smetrics.ee.co.uk
 smetrics.ernestjones.co.uk
 tracking.forbetterforworse.co.uk
+view.fujitv.co.jp
 smetrics.hagerty.co.uk
 smetrics.hks-power.co.jp
 smetrics.hsamuel.co.uk
@@ -863,6 +896,7 @@ smartmetrics.co.uk
 live.smartmetrics.co.uk
 smetrics.smbcnikko.co.jp
 smetrics.stwater.co.uk
+recv-jnn.tbs.co.jp
 analytics.eip.telegraph.co.uk
 ads.thescottishsun.co.uk
 cmp.cdn.thescottishsun.co.uk
@@ -874,6 +908,7 @@ smetrics.virginmediabusiness.co.uk
 vsanalytics.visualsoft.co.uk
 smetrics.waseda-ac.co.jp
 smetrics.ybs.co.uk
+em1.yoursantander.co.uk
 smetrics.coca-cola.com
 smetrics.coca-colacanada.ca
 smetrics.coca-colaentuhogar.com
@@ -1012,7 +1047,9 @@ www.cookieyes.com
 smetrics.coolray.com
 smetrics.cooltoday.com
 smetrics.copart.com
+coremetrics.com
 de.coremetrics.com
+www.coremetrics.com
 smetrics.corpayone.com
 smetrics.cortefiel.com
 smetrics.cortfurnitureoutlet.com
@@ -1021,6 +1058,7 @@ smetrics.costcobusinesscentre.ca
 smetrics.costcobusinessdelivery.com
 metrics.cottonbird.de
 smetrics.coulditbehcm.com
+api.country.is
 cquotient.com
 www.cquotient.com
 smetrics.crainsdetroit.com
@@ -1036,6 +1074,8 @@ www.crobo.com
 crossdevicetracking.com
 retag.crossdevicetracking.com
 smetrics.cru.org
+cs.co
+www.cs.co
 tracking.csgipe.com
 smetrics.csmonitor.com
 m.csqtrk.net
@@ -1059,6 +1099,8 @@ www.custora.com
 cxaff.com
 smetrics.cyrillus.fr
 smetrics.cytivalifesciences.com
+d2cmedia.ca
+www.d2cmedia.ca
 da-ads.com
 gtrack.dailybee.com
 logs.dashlane.com
@@ -1139,6 +1181,8 @@ devnxs.net
 r.df-srv.de
 trx.dgtrk2.com
 smetrics.dhl.de
+di02.biz
+www.di02.biz
 di5.biz
 www.di5.biz
 analytics.digital-x.eu
@@ -1156,6 +1200,9 @@ digitalturbine.com
 www.digitalturbine.com
 digitalwindow.com
 www.digitalwindow.com
+digiteka.com
+cdn.digiteka.com
+www.digiteka.com
 dingibley.pro
 www.dingibley.pro
 direct-aws-a1.com
@@ -1171,6 +1218,8 @@ smetrics.dish.co
 dislanelibrar.top
 www.dislanelibrar.top
 smetrics.disneychannel.ca
+t.vacations.disneydestinations.com
+t.visit.disneydestinations.com
 smetrics.distillerievieuxmontreal.com
 t.ihre.dkb.de
 dmtrk.net
@@ -1187,6 +1236,7 @@ domdex.com
 analytics.dominos.com
 smetrics.dominos.com
 doprinplupr.com
+doubleclick.com
 fls.doubleclick.net
 g.doubleclick.net
 googleads.g.doubleclick.net
@@ -1195,6 +1245,7 @@ pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 stats.g.doubleclick.net
 static.doubleclick.net
+www.doubleclick.com
 dovetale.com
 www.dovetale.com
 dowjoneson.com
@@ -1235,6 +1286,7 @@ ad.dyntracker.de
 www.dyntracker.de
 e-mark.nl
 www.e-mark.nl
+adsrv.eacdn.com
 eagllwin.com
 www.eagllwin.com
 log.uu.easebar.com
@@ -1246,6 +1298,7 @@ smetrics.edc.ca
 smetrics.eddiebauer.com
 analytics.edding.com
 smetrics.edge.ca
+adservrs.com.edgekey.net
 adx-dre.op.dbankcloud.com.edgekey.net
 dsa-sslv6.hispace.hicloud.com.edgekey.net
 edgeme.sh
@@ -1298,6 +1351,7 @@ tracking.emons.de
 empower.net
 cdn.empower.net
 www.empower.net
+t.en25.com
 smetrics.energia.ie
 engagesciences.com
 www.engagesciences.com
@@ -1332,6 +1386,8 @@ eu-commercialb.com
 www.eu-commercialb.com
 eue21east.com
 www.eue21east.com
+eulerian.net
+www.eulerian.net
 eum-appdynamics.com
 www.eum-appdynamics.com
 smetrics.eurekalert.org
@@ -1339,6 +1395,7 @@ ads.eurocom.bg
 smetrics.europafm.com
 smetrics.eurowings.com
 analytics.evehome.com
+clicks.eventbrite.com
 eventcapture03.com
 www.eventcapture03.com
 eventcapture06.com
@@ -1346,6 +1403,7 @@ www.eventcapture06.com
 isc-tracking.eventim.com
 ever-track-51.com
 www.ever-track-51.com
+link.uk.expediamail.com
 sanalytics.express.de
 smetrics.express.com
 track.express.de
@@ -1381,12 +1439,17 @@ smetrics.fatface.com
 fatmedia.io
 analytics.fatmedia.io
 www.fatmedia.io
+fave.co
+www.fave.co
 smetrics.faz.net
 fbot.me
 smetrics.fcacert.com
 feedbackify.com
 www.feedbackify.com
 analytics.feeder.co
+feedjit.com
+feedmob.com
+www.feedmob.com
 feelmyfile.info
 smetrics.ferguson.com
 fetchback.com
@@ -1437,6 +1500,8 @@ followistic.com
 www.followistic.com
 fomo.com
 www.fomo.com
+foo.software
+www.foo.software
 footprintpredict.com
 www.footprintpredict.com
 forensiq.com
@@ -1451,8 +1516,9 @@ smetrics.francosarto.com
 smetrics.franke.com
 fredhopperservices.com
 track.freecallinc.com
-freesoftdrink.com
 freshpops.net
+events-eu.freshsuccess.com
+events-us.freshsuccess.com
 metrics.fressnapf.de
 smetrics.frontier.com
 frscosr.com
@@ -1465,6 +1531,8 @@ t.kontextr.funke-next-level.de
 smetrics.futuro.cl
 fwallwihsmjun.com
 www.fwallwihsmjun.com
+fwcdn1.com
+fwcdn2.com
 p2.fwpixel.com
 g2crowd.com
 tracking.g2crowd.com
@@ -1483,7 +1551,6 @@ analytics.gandi.net
 smetrics.gatesnotes.com
 gator.io
 www.gator.io
-gauthait.com
 gblwebcen.com
 www.gblwebcen.com
 tracking.gdatasoftware.com
@@ -1713,6 +1780,7 @@ servicesupport.hicloud.com
 tracker-device-dre.things.hicloud.com
 hilltopads.net
 www.hilltopads.net
+ablinks.mail.hinge.co
 gtrack.hipporeport.com
 hisavana.com
 www.hisavana.com
@@ -1840,6 +1908,8 @@ analytics.insendi.com
 inside-graph.com
 www.inside-graph.com
 smetrics.insight.com
+insightexpress.com
+www.insightexpress.com
 insightexpressai.com
 www.insightexpressai.com
 insightfirst.com
@@ -1859,6 +1929,8 @@ analytics.intelliscapesolutions.com
 intentmedia.net
 www.intentmedia.net
 smetrics.interbank.pe
+intercom-clicks.com
+www.intercom-clicks.com
 smetrics.intervalworld.com
 smetrics.investec.com
 smetrics.investorsgroup.com
@@ -1889,12 +1961,11 @@ isnssdk.com
 www.isnssdk.com
 ist-track.com
 www.ist-track.com
+js.iterable.com
 matching.ivitrack.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
-jaelejgwiu.xyz
-www.jaelejgwiu.xyz
 metrics.jameda.de
 smetrics.jared.com
 crt.jasmin.com
@@ -2039,6 +2110,7 @@ www.lemonpi.io
 smetrics.lenscrafters.ca
 letmeads.com
 www.letmeads.com
+lever-analytics.com
 smetrics.lexus.com
 leya.tech
 lgsmartad.com
@@ -2068,6 +2140,8 @@ www.lipperhey.com
 littledata.io
 www.littledata.io
 excel-telemetry.officeapps.live.com
+liveintent.com
+www.liveintent.com
 liveramp.com
 www.liveramp.com
 smetrics.lizearle.com
@@ -2075,6 +2149,8 @@ f1tracks.lnk.to
 smetrics.loblaws.ca
 locallogic.co
 www.locallogic.co
+locpub.com
+www.locpub.com
 smetrics.loewshotels.com
 logentries.com
 data.logentries.com
@@ -2085,8 +2161,11 @@ www.loginradius.com
 ota.lokalise.co
 longabeach.com
 metrika.lookmovie.io
+evs.sgmt.loom.com
 analytics.loopassets.net
 smetrics.lordabbett.com
+love7date.info
+www.love7date.info
 lovesingle.xyz
 www.lovesingle.xyz
 lpxtqptab.com
@@ -2311,6 +2390,7 @@ www.mon-com-net.com
 monetizer.com
 www.monetizer.com
 smetrics.monsanto.com
+clicks.monzo.com
 ivwtracking.mopo.de
 ad-app.morion.ua
 metrika.mos.ru
@@ -2470,12 +2550,14 @@ oms.norton.com
 stats.norton.com
 nosto.com
 www.nosto.com
+t.notif-colissimo-laposte.info
 notifymetric.com
 www.notifymetric.com
 smetrics.notimetowait.com
 notsy.io
 www.notsy.io
 track.noz-mhn.de
+click.nl.npr.org
 nqgsftwtdd.com
 www.nqgsftwtdd.com
 nr-data.net
@@ -2521,6 +2603,7 @@ www.onetag.com
 apixel.onetribeglobal.com
 vibeacon.onezapp.com
 vibeaconstr.onezapp.com
+trkpnt.ongage.net
 onlinesalespro.com
 www.onlinesalespro.com
 ontoplist.com
@@ -2531,6 +2614,7 @@ oovofcsyxayy.com
 www.oovofcsyxayy.com
 smetrics.opdivo.com
 smetrics.opdivohcp.com
+tagger.opecloud.com
 adalliance.tagger.opecloud.com
 openair.pw
 opendsp.com
@@ -2544,6 +2628,7 @@ smetrics.opensource.com
 openstat.com
 www.openstat.com
 track.opentable.de
+operationchicken.com
 opinionbar.com
 www.opinionbar.com
 opinionsquare.com
@@ -2634,6 +2719,7 @@ pixelunion.net
 www.pixelunion.net
 placed.com
 www.placed.com
+custom.plausible.io
 playbuzz.com
 www.playbuzz.com
 playground.xyz
@@ -2658,6 +2744,7 @@ pixel.poptok.com
 poptrkr.com
 www.poptrkr.com
 portbay.trade
+netech.postaffiliatepro.com
 postup.com
 www.postup.com
 smetrics.potterybarn.com
@@ -2690,6 +2777,7 @@ profitwell.com
 www.profitwell.com
 proformics.com
 www.proformics.com
+click.e.progressive.com
 tracking.projekte-leicht-gemacht.de
 protect-ad.com
 www.protect-ad.com
@@ -2715,6 +2803,7 @@ push-signals.online
 www.push-signals.online
 pushclk.com
 www.pushclk.com
+stats.pusher.com
 pushio.com
 www.pushio.com
 pushnetwork.com
@@ -2722,6 +2811,7 @@ www.pushnetwork.com
 pushvault.com
 www.pushvault.com
 pushy.ai
+pxl-mailtracker.com
 pxlad.io
 www.pxlad.io
 pxlsrv.net
@@ -2732,11 +2822,13 @@ qingcdn.com
 www.qingcdn.com
 qip.ru
 analytics.qiqiuyun.net
+ql.tc
 qmerce.com
 qoevjugu.com
 www.qoevjugu.com
 android.bugly.qq.com
 logs.game.qq.com
+siteintercept.qualtrics.com
 quantserve.net
 quantummetric.com
 cdn.quantummetric.com
@@ -2826,6 +2918,7 @@ pixel.retter.ai
 revealytics.com
 www.revealytics.com
 revjet.com
+ads.revjet.com
 www.revjet.com
 smetrics.revlimid-japan.jp
 track.revoffers.com
@@ -2848,6 +2941,7 @@ s01.riotpixels.net
 beacon.riskified.com
 smetrics.riteaid.com
 smetrics.riumachitearoom.jp
+rivne.space
 check.analytics.rlcdn.com
 client-telemetry.roblox.com
 smetrics.roche.de
@@ -2918,6 +3012,7 @@ api.glb.samsung-gamelauncher.com
 devicelog.samsungcloudsolution.net
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
+dpu.samsungelectronics.com
 data-private.samsunghealth.com
 shealth-analytics-api.samsunghealth.com
 uimetadata.samsungiotcloud.com
@@ -2925,6 +3020,8 @@ gpm-mobile.samsungqbe.com
 bars.sapo.pt
 smetrics.sasktel.com
 smetrics.saxobank.com
+sbird.xyz
+www.sbird.xyz
 scarfsmash.com
 schibsted.se
 www.schibsted.se
@@ -2957,6 +3054,8 @@ www.securedvisit.com
 securitydefender.xyz
 www.securitydefender.xyz
 ads.securityweek.com
+sedoparking.com
+www.sedoparking.com
 seedownshow.live
 www.seedownshow.live
 seeyoufarm.com
@@ -3080,6 +3179,7 @@ smetrics.sivasdescalzo.com
 smetrics.sj.se
 analytics.sketchup.com
 smetrics.skoda.nl
+skroutza.skroutz.gr
 smetrics.sky.com
 smetrics.sky.it
 skyhookwireless.com
@@ -3095,6 +3195,7 @@ smetrics.sleepnumber.com
 sli-spark.com
 livelogs.slike.in
 smetrics.sling.com
+smart-data-systems.com
 smartclip.net
 cdn.smartclip.net
 dco.smartclip.net
@@ -3166,6 +3267,7 @@ www.spaceio.xyz
 spadsync.com
 www.spadsync.com
 sparkflow.net
+go.eu.sparkpostmail1.com
 sparta-tracking.xyz
 track.sparta-tracking.xyz
 smetrics.spdrs.com
@@ -3185,6 +3287,8 @@ spotx.tv
 www.spotx.tv
 spotxchange.com
 www.spotxchange.com
+springbot.com
+www.springbot.com
 springserve.com
 www.springserve.com
 sqrt-5041.de
@@ -3207,6 +3311,8 @@ storyly.io
 www.storyly.io
 streameye.net
 www.streameye.net
+stretchsquirrel.com
+www.stretchsquirrel.com
 strpjmp.com
 www.strpjmp.com
 smetrics.subaruofsaskatoon.ca
@@ -3228,6 +3334,7 @@ smetrics.sunlife.com
 smetrics.sunlifeglobalinvestments.com
 superawesome.tv
 www.superawesome.tv
+t.email.superdrug.com
 superficialeyes.com
 psstats.superkinglabs.com
 suphelper.com
@@ -3279,6 +3386,8 @@ www.tbcdn.cn
 smetrics.tcs.com
 smetrics.td.com
 tdbtrk.com
+tealium.com
+www.tealium.com
 pixel.team-hp.com
 smetrics.teambeachbody.com
 techlab-cdn.com
@@ -3326,12 +3435,17 @@ www.thisisarray.com
 smetrics.thoughtworks.com
 smetrics.three.ie
 smetrics.thrivent.com
+thunderhead.com
+www.thunderhead.com
+ticardlove.live
+www.ticardlove.live
 analytics.ticketmaster.be
 analytics.ticketmaster.de
 analytics.ticketmaster.nl
 smetrics.ticketsatwork.com
 smetrics.tiendamonge.com
 analytics.tiktok.com
+mcs-va.tiktok.com
 log16-platform-ycru.tiktokv.com
 mon-va.tiktokv.com
 tiller.co
@@ -3360,6 +3474,7 @@ tqlkg.com
 www.tqlkg.com
 tqn.com
 www.tqn.com
+tr1net.com
 tracify.ai
 beacon.tracify.ai
 www.tracify.ai
@@ -3405,6 +3520,7 @@ legacywatson.trafficmanager.net
 o365diagtelemetry.trafficmanager.net
 serviceschipotlecom.trafficmanager.net
 teams-events-data.trafficmanager.net
+ablink.comms.trainline.com
 transacme.com
 smetrics.transact711.com
 trasre.com
@@ -3421,6 +3537,8 @@ trckpath.com
 www.trckpath.com
 trffccmpny.com
 www.trffccmpny.com
+trialfire.com
+www.trialfire.com
 smetrics.trilliumhealthplan.com
 analytics.trionworlds.com
 analytics.tripwireinteractive.com
@@ -3499,6 +3617,7 @@ upsteed.com
 www.upsteed.com
 uptilt.com
 www.uptilt.com
+hsn.uqhv.net
 urioy.com
 urtyert.com
 usabilla.com
@@ -3523,6 +3642,7 @@ v6lvs.com
 www.v6lvs.com
 click.vacasa.com
 valassisdigital.io
+click.news.vans.com
 analytics.api.vatominc.com
 smetrics.vcm.com
 tracking.vcommission.com
@@ -3602,6 +3722,7 @@ visenze.com
 www.visenze.com
 gtrack.visualchase.com
 dc.services.visualstudio.com
+dacdn.visualwebsiteoptimizer.com
 smetrics.vitamix.com
 asia-adlog.vivoglobal.com
 asia-adsjssdk.vivoglobal.com
@@ -3626,7 +3747,6 @@ smetrics.vodafone.gr
 smetrics.vodafone.in
 swa.vodafone.pt
 was.vodafone.de
-analytics.volla.online
 voltn.com
 www.voltn.com
 smetrics.volusion.com
@@ -3741,8 +3861,6 @@ wtp101.com
 www.wtp101.com
 smetrics.wunetspendprepaid.com
 x-mediate.com
-xawlop.com
-www.xawlop.com
 collector.xhwebsite.com
 data.mistat.xiaomi.com
 xiti.com
@@ -3791,6 +3909,8 @@ r.yoadx.net
 analytics.yogamehome.org
 yohoads.com
 www.yohoads.com
+yollamedia.com
+www.yollamedia.com
 p.yotpo.com
 ysance.com
 www.ysance.com
@@ -3800,6 +3920,7 @@ www.yunjiasu-cdn.net
 t.nl.yves-rocher.de
 smetrics.zales.com
 smetrics.zalesoutlet.com
+zarget.com
 zatythygre.pro
 www.zatythygre.pro
 zbuckz.com
