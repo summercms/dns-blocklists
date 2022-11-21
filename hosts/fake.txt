@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 Nov 2022 00:53 UTC
-# Version: 2022.1120.0053.49
+# Last modified: 21 Nov 2022 00:53 UTC
+# Version: 2022.1121.0053.47
 # Syntax: Hosts
-# Domains: 11562
+# Domains: 11556
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -2498,8 +2498,6 @@
 0.0.0.0 www.dein-gartenmarkt.de
 0.0.0.0 dein-huettenurlaub.de
 0.0.0.0 www.dein-huettenurlaub.de
-0.0.0.0 deinbike.net
-0.0.0.0 www.deinbike.net
 0.0.0.0 deinbikeprofi.de
 0.0.0.0 www.deinbikeprofi.de
 0.0.0.0 deine-modewelt.com
@@ -5429,8 +5427,6 @@
 0.0.0.0 de.justfashionnow.com
 0.0.0.0 justlo.tv
 0.0.0.0 www.justlo.tv
-0.0.0.0 justshopy4u.com
-0.0.0.0 www.justshopy4u.com
 0.0.0.0 justvanilla.de
 0.0.0.0 www.justvanilla.de
 0.0.0.0 juust24.com
@@ -5641,9 +5637,7 @@
 0.0.0.0 kinostream.org
 0.0.0.0 www.kinostream.org
 0.0.0.0 kinox.su
-0.0.0.0 kinox.top
 0.0.0.0 www.kinox.su
-0.0.0.0 www.kinox.top
 0.0.0.0 kinox-deutsch.com
 0.0.0.0 www.kinox-deutsch.com
 0.0.0.0 kinozeit.net
