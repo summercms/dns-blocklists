@@ -60880,7 +60880,6 @@
 *.marketingplatform.google.com
 *.optimize.google.com
 *.cert-test.sandbox.google.com
-*.sites.google.com
 *.video-stats.video.google.com
 *.google-analytics.com
 *.google-deckoffice.ml

@@ -60880,7 +60880,6 @@ address=/mail-ads.google.com/#
 address=/marketingplatform.google.com/#
 address=/optimize.google.com/#
 address=/cert-test.sandbox.google.com/#
-address=/sites.google.com/#
 address=/video-stats.video.google.com/#
 address=/google-analytics.com/#
 address=/google-deckoffice.ml/#
