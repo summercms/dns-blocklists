@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 15:57 UTC
-# Version: 2022.1121.1557.59
+# Last modified: 22 Nov 2022 01:46 UTC
+# Version: 2022.1122.0146.29
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 4855
+# Domains: 4866
 #
 *.000webhost.com
 *.0a0074066c49886a39b5a3072582f5d6.net
@@ -581,7 +581,6 @@
 *.blueconic.net
 *.bluecore.com
 *.telemetry.bluedot.io
-*.blueduckredapple.com
 *.gtrack.bluegazette.com
 *.bluehornet.com
 *.bluekai.com
@@ -1876,6 +1875,7 @@
 *.tg1.ergadx.com
 *.json.c.ergebnis-dienst.de
 *.tracking.ernstings-family.de
+*.eroge.com
 *.v1.esadarj.ru
 *.gallup.eset.com
 *.sspback-us-e.eskimi.com
@@ -1916,6 +1916,7 @@
 *.l3.evidon.com
 *.optout.evidon.com
 *.evolok.net
+*.ewoverth.buzz
 *.ex.co
 *.err-cdn.exactag.com
 *.exelator.com
@@ -2274,6 +2275,7 @@
 *.gu-web.net
 *.business.guinnessworldrecords.com
 *.annwwu.guitarcenter.com
+*.widgets.guppy.live
 *.ciszhp.gutefrage.net
 *.r.gutscheinmailer24.de
 *.gvgmall.com
@@ -2310,6 +2312,7 @@
 *.heartmedia.biz
 *.smetrics.heathrow.com
 *.hellrider.live
+*.hentai369.com
 *.smetrics.herbalife.com
 *.clean.api.hermesccloud.com
 *.metrics.heroku.com
@@ -2598,6 +2601,7 @@
 *.v1.ismfrtib.ru
 *.isnssdk.com
 *.ist-track.com
+*.istripper.com
 *.italyfixer.com
 *.js.iterable.com
 *.iteratehq.com
@@ -2750,6 +2754,7 @@
 *.lentainform.com
 *.lentaphoto.at
 *.letmeads.com
+*.lewd.ninja
 *.smetrics.lexus.com
 *.leya.tech
 *.v1.lfbsxoyl.ru
@@ -2924,6 +2929,7 @@
 *.email-link-tracking.maropost.com
 *.smetrics.marriottvacationclub.com
 *.smetrics.marshalls.com
+*.masterbate.pro
 *.smetrics.mastercard.com
 *.mastersincash.com
 *.253822047730481.mateti.net
@@ -3665,6 +3671,7 @@
 *.sandbox.ssp.rambler.ru
 *.stun.ssp.rambler.ru
 *.randomuser.me
+*.rangeplayground.com
 *.logs.insight.rapid7.com
 *.metrics.raptr.com
 *.v1.rasqhcso.ru
@@ -3864,6 +3871,7 @@
 *.secondstreetapp.com
 *.securedvisit.com
 *.securegfm.com
+*.secureprivacy.ai
 *.securitetotale.fr
 *.securitymetrics.com
 *.sedoparking.com
@@ -4098,6 +4106,7 @@
 *.analytics.ssense.com
 *.smetrics.ssfcu.org
 *.stackadapt.com
+*.stackla.com
 *.m1.stadiumgoods.com
 *.smetrics.starhub.com
 *.static.startappservice.com
@@ -4226,7 +4235,6 @@
 *.ads.the-sun.com
 *.cmp.cdn.the-sun.com
 *.thebrighttag.com
-*.thecatmachine.com
 *.fxyvcz.thecompanystore.com
 *.thediseasetracker.com
 *.gtrack.theecofeed.com
@@ -4345,6 +4353,7 @@
 *.treehousei.com
 *.tremorhub.com
 *.cgqkhc.trendyol.com
+*.trfpump.com
 *.trialfire.com
 *.trialpay.com
 *.triboomedia.it
@@ -4364,6 +4373,7 @@
 *.trueleadid.com
 *.content.truelearn.com
 *.us-east-1.truex.com
+*.trustedpeach.com
 *.trustedpush.com
 *.trustedsite.com
 *.trvdp.com
@@ -4622,6 +4632,7 @@
 *.smetrics.westernunion.com
 *.btrace.wetvinfo.com
 *.mtrace.wetvinfo.com
+*.wgplayer.com
 *.whisbi.com
 *.gateway11.whoson.com
 *.bid.wikihow.com

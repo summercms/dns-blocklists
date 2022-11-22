@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 15:57 UTC
-# Version: 2022.1121.1557.59
+# Last modified: 22 Nov 2022 01:46 UTC
+# Version: 2022.1122.0146.29
 # Syntax: Domains
-# Domains: 12340
+# Domains: 12362
 #
 000webhost.com
 www.000webhost.com
@@ -1790,8 +1790,6 @@ site.bluecore.com
 siteassets.bluecore.com
 www.bluecore.com
 telemetry.bluedot.io
-blueduckredapple.com
-www.blueduckredapple.com
 gtrack.bluegazette.com
 bluehornet.com
 returnpath.bluehornet.com
@@ -4719,6 +4717,8 @@ smetrics.equitable.com
 tg1.ergadx.com
 json.c.ergebnis-dienst.de
 tracking.ernstings-family.de
+eroge.com
+www.eroge.com
 v1.esadarj.ru
 gallup.eset.com
 sspback-us-e.eskimi.com
@@ -4794,6 +4794,8 @@ l3.evidon.com
 optout.evidon.com
 evolok.net
 www.evolok.net
+ewoverth.buzz
+www.ewoverth.buzz
 ex.co
 www.ex.co
 err-cdn.exactag.com
@@ -5683,6 +5685,7 @@ gu-web.net
 phar.gu-web.net
 business.guinnessworldrecords.com
 annwwu.guitarcenter.com
+widgets.guppy.live
 ciszhp.gutefrage.net
 r.gutscheinmailer24.de
 gvgmall.com
@@ -5737,6 +5740,8 @@ heartmedia.biz
 www.heartmedia.biz
 smetrics.heathrow.com
 hellrider.live
+hentai369.com
+www.hentai369.com
 smetrics.herbalife.com
 clean.api.hermesccloud.com
 metrics.heroku.com
@@ -6637,6 +6642,9 @@ www.isnssdk.com
 ist-track.com
 amazon-t3.ist-track.com
 www.ist-track.com
+istripper.com
+ws.istripper.com
+www.istripper.com
 italyfixer.com
 www.italyfixer.com
 js.iterable.com
@@ -6925,6 +6933,7 @@ lentaphoto.at
 www.lentaphoto.at
 letmeads.com
 www.letmeads.com
+lewd.ninja
 smetrics.lexus.com
 leya.tech
 v1.lfbsxoyl.ru
@@ -7232,6 +7241,9 @@ middleware.marktjagd.de
 email-link-tracking.maropost.com
 smetrics.marriottvacationclub.com
 smetrics.marshalls.com
+masterbate.pro
+thumbs.masterbate.pro
+www.masterbate.pro
 smetrics.mastercard.com
 mastersincash.com
 ptcdn.mastersincash.com
@@ -9496,6 +9508,7 @@ sandbox.ssp.rambler.ru
 stun.ssp.rambler.ru
 randomuser.me
 www.randomuser.me
+rangeplayground.com
 logs.insight.rapid7.com
 us.data.logs.insight.rapid7.com
 eu.js.logs.insight.rapid7.com
@@ -10140,6 +10153,8 @@ securedvisit.com
 www.securedvisit.com
 securegfm.com
 www.securegfm.com
+secureprivacy.ai
+www.secureprivacy.ai
 securitetotale.fr
 secure.securitetotale.fr
 www.securitetotale.fr
@@ -10675,6 +10690,8 @@ stackadapt.com
 ap.evm1.stackadapt.com
 eu.evm1.stackadapt.com
 www.stackadapt.com
+stackla.com
+www.stackla.com
 m1.stadiumgoods.com
 trk.m1.stadiumgoods.com
 smetrics.starhub.com
@@ -10922,8 +10939,6 @@ thebrighttag.com
 privacy.thebrighttag.com
 s.thebrighttag.com
 www.thebrighttag.com
-thecatmachine.com
-www.thecatmachine.com
 fxyvcz.thecompanystore.com
 thediseasetracker.com
 app.thediseasetracker.com
@@ -11121,6 +11136,9 @@ tremorhub.com
 p4dt2-1sxp1.ads.tremorhub.com
 cache-us-east-1.tremorhub.com
 cgqkhc.trendyol.com
+trfpump.com
+track.trfpump.com
+www.trfpump.com
 trialfire.com
 app.trialfire.com
 cdn.trialfire.com
@@ -11159,6 +11177,8 @@ us-east-1.truex.com
 production-cornice.us-east-1.truex.com
 production-panorama.us-east-1.truex.com
 production-rtb-exchange.us-east-1.truex.com
+trustedpeach.com
+www.trustedpeach.com
 trustedpush.com
 www.trustedpush.com
 trustedsite.com
@@ -11959,6 +11979,8 @@ smetrics.westelm.com
 smetrics.westernunion.com
 btrace.wetvinfo.com
 mtrace.wetvinfo.com
+wgplayer.com
+www.wgplayer.com
 whisbi.com
 www.whisbi.com
 gateway11.whoson.com
