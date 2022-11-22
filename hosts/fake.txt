@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 00:53 UTC
-# Version: 2022.1121.0053.47
+# Last modified: 21 Nov 2022 15:07 UTC
+# Version: 2022.1121.1507.32
 # Syntax: Hosts
-# Domains: 11556
+# Domains: 11555
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -274,7 +274,6 @@
 0.0.0.0 www.akku-pc.at
 0.0.0.0 akkubuy.de
 0.0.0.0 www.akkubuy.de
-0.0.0.0 akkukaufen.at
 0.0.0.0 akkusmarkt.de
 0.0.0.0 www.akkusmarkt.de
 0.0.0.0 akkusmir.de
@@ -1256,8 +1255,6 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 www.blackwidow.at
-0.0.0.0 blaroken.com
-0.0.0.0 www.blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 blaue-dragoner.de
@@ -1943,6 +1940,8 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
+0.0.0.0 chicsoso.com
+0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -4289,6 +4288,8 @@
 0.0.0.0 www.globaltradeoption.online
 0.0.0.0 glowyplant.de
 0.0.0.0 www.glowyplant.de
+0.0.0.0 gluckaro.de
+0.0.0.0 www.gluckaro.de
 0.0.0.0 gluckbox.com
 0.0.0.0 www.gluckbox.com
 0.0.0.0 glueckstore.de
@@ -4300,8 +4301,6 @@
 0.0.0.0 gnarty.xyz
 0.0.0.0 gnoxx.de
 0.0.0.0 www.gnoxx.de
-0.0.0.0 go-dynergy.com
-0.0.0.0 www.go-dynergy.com
 0.0.0.0 go-e-bike.com
 0.0.0.0 www.go-e-bike.com
 0.0.0.0 goandfind.online
@@ -5427,6 +5426,8 @@
 0.0.0.0 de.justfashionnow.com
 0.0.0.0 justlo.tv
 0.0.0.0 www.justlo.tv
+0.0.0.0 justshopy4u.com
+0.0.0.0 www.justshopy4u.com
 0.0.0.0 justvanilla.de
 0.0.0.0 www.justvanilla.de
 0.0.0.0 juust24.com
@@ -6904,8 +6905,6 @@
 0.0.0.0 www.modency.de
 0.0.0.0 modernindigo.com
 0.0.0.0 www.modernindigo.com
-0.0.0.0 modetalente.com
-0.0.0.0 www.modetalente.com
 0.0.0.0 modetopper.com
 0.0.0.0 www.modetopper.com
 0.0.0.0 moditec.fr
@@ -9043,6 +9042,8 @@
 0.0.0.0 www.senthiln.top
 0.0.0.0 seoyou.de
 0.0.0.0 www.seoyou.de
+0.0.0.0 sepkicks.com
+0.0.0.0 www.sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 www.seprun.com
 0.0.0.0 sepshoe.com
@@ -10599,6 +10600,8 @@
 0.0.0.0 www.vaggv.com
 0.0.0.0 vagomarkt.com
 0.0.0.0 www.vagomarkt.com
+0.0.0.0 vakkerlight.com
+0.0.0.0 www.vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 www.valanza.de
 0.0.0.0 valty-heater.com
@@ -10802,8 +10805,6 @@
 0.0.0.0 www.vitalitiesdeluxe.com
 0.0.0.0 vitamin-schmiede24.de
 0.0.0.0 www.vitamin-schmiede24.de
-0.0.0.0 vite-envogue.de
-0.0.0.0 www.vite-envogue.de
 0.0.0.0 vitev.net
 0.0.0.0 www.vitev.net
 0.0.0.0 viva-med.de
@@ -10937,8 +10938,6 @@
 0.0.0.0 www.walteo.com
 0.0.0.0 wandadshop.com
 0.0.0.0 www.wandadshop.com
-0.0.0.0 wandererscamp.com
-0.0.0.0 www.wandererscamp.com
 0.0.0.0 wanford.com
 0.0.0.0 www.wanford.com
 0.0.0.0 wang-caravan.com

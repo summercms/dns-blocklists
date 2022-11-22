@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 00:53 UTC
-# Version: 2022.1121.0053.47
+# Last modified: 21 Nov 2022 15:07 UTC
+# Version: 2022.1121.1507.32
 # Syntax: Domains
-# Domains: 11556
+# Domains: 11555
 #
 willhaben.at.04300.id
 11trikots.com
@@ -274,7 +274,6 @@ akku-pc.at
 www.akku-pc.at
 akkubuy.de
 www.akkubuy.de
-akkukaufen.at
 akkusmarkt.de
 www.akkusmarkt.de
 akkusmir.de
@@ -1256,8 +1255,6 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
-blaroken.com
-www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -1943,6 +1940,8 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
+chicsoso.com
+www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -4289,6 +4288,8 @@ globaltradeoption.online
 www.globaltradeoption.online
 glowyplant.de
 www.glowyplant.de
+gluckaro.de
+www.gluckaro.de
 gluckbox.com
 www.gluckbox.com
 glueckstore.de
@@ -4300,8 +4301,6 @@ www.gmixnchic.com
 gnarty.xyz
 gnoxx.de
 www.gnoxx.de
-go-dynergy.com
-www.go-dynergy.com
 go-e-bike.com
 www.go-e-bike.com
 goandfind.online
@@ -5427,6 +5426,8 @@ www.justclothes.club
 de.justfashionnow.com
 justlo.tv
 www.justlo.tv
+justshopy4u.com
+www.justshopy4u.com
 justvanilla.de
 www.justvanilla.de
 juust24.com
@@ -6904,8 +6905,6 @@ modency.de
 www.modency.de
 modernindigo.com
 www.modernindigo.com
-modetalente.com
-www.modetalente.com
 modetopper.com
 www.modetopper.com
 moditec.fr
@@ -9043,6 +9042,8 @@ senthiln.top
 www.senthiln.top
 seoyou.de
 www.seoyou.de
+sepkicks.com
+www.sepkicks.com
 seprun.com
 www.seprun.com
 sepshoe.com
@@ -10599,6 +10600,8 @@ vaggv.com
 www.vaggv.com
 vagomarkt.com
 www.vagomarkt.com
+vakkerlight.com
+www.vakkerlight.com
 valanza.de
 www.valanza.de
 valty-heater.com
@@ -10802,8 +10805,6 @@ vitalitiesdeluxe.com
 www.vitalitiesdeluxe.com
 vitamin-schmiede24.de
 www.vitamin-schmiede24.de
-vite-envogue.de
-www.vite-envogue.de
 vitev.net
 www.vitev.net
 viva-med.de
@@ -10937,8 +10938,6 @@ walteo.com
 www.walteo.com
 wandadshop.com
 www.wandadshop.com
-wandererscamp.com
-www.wandererscamp.com
 wanford.com
 www.wanford.com
 wang-caravan.com

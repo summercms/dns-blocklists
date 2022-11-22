@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 00:53 UTC
-# Version: 2022.1121.0053.47
+# Last modified: 21 Nov 2022 15:07 UTC
+# Version: 2022.1121.1507.32
 # Syntax: DNSMasq
-# Domains: 6029
+# Domains: 6028
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -147,7 +147,6 @@ address=/akjfood.com/#
 address=/akku-laden.at/#
 address=/akku-pc.at/#
 address=/akkubuy.de/#
-address=/akkukaufen.at/#
 address=/akkusmarkt.de/#
 address=/akkusmir.de/#
 address=/akrostichon.at/#
@@ -655,7 +654,6 @@ address=/biwbcu.top/#
 address=/bjorkcoffee.com/#
 address=/black-forestcake.com/#
 address=/blackwidow.at/#
-address=/blaroken.com/#
 address=/blaudonau.de/#
 address=/blaue-dragoner.de/#
 address=/blauerhein.de/#
@@ -1003,6 +1001,7 @@ address=/chicanti.com/#
 address=/chichandbagsshop.com/#
 address=/chicladdy.com/#
 address=/chiclolo.com/#
+address=/chicsoso.com/#
 address=/chictogerther.com/#
 address=/chicwells.de/#
 address=/chillgod.com/#
@@ -2243,13 +2242,13 @@ address=/global-expressdelivery.com/#
 address=/globalcryptotraders.com/#
 address=/globaltradeoption.online/#
 address=/glowyplant.de/#
+address=/gluckaro.de/#
 address=/gluckbox.com/#
 address=/glueckstore.de/#
 address=/gma-2015.de/#
 address=/gmixnchic.com/#
 address=/gnarty.xyz/#
 address=/gnoxx.de/#
-address=/go-dynergy.com/#
 address=/go-e-bike.com/#
 address=/goandfind.online/#
 address=/gocosmeticsurgery.com/#
@@ -2836,6 +2835,7 @@ address=/justasitsounds.com/#
 address=/justclothes.club/#
 address=/de.justfashionnow.com/#
 address=/justlo.tv/#
+address=/justshopy4u.com/#
 address=/justvanilla.de/#
 address=/juust24.com/#
 address=/jvp-amstetten.at/#
@@ -3596,7 +3596,6 @@ address=/modell-spielzeuge.club/#
 address=/modellbahn-versandhaus.de/#
 address=/modency.de/#
 address=/modernindigo.com/#
-address=/modetalente.com/#
 address=/modetopper.com/#
 address=/moditec.fr/#
 address=/modovia.de/#
@@ -4719,6 +4718,7 @@ address=/seniorlivinglab.ch/#
 address=/sensalve.de/#
 address=/senthiln.top/#
 address=/seoyou.de/#
+address=/sepkicks.com/#
 address=/seprun.com/#
 address=/sepshoe.com/#
 address=/sepsneakers.co/#
@@ -5535,6 +5535,7 @@ address=/uyqwb.com/#
 address=/vacioy.com/#
 address=/vaggv.com/#
 address=/vagomarkt.com/#
+address=/vakkerlight.com/#
 address=/valanza.de/#
 address=/valty-heater.com/#
 address=/valurabeauty.com/#
@@ -5644,7 +5645,6 @@ address=/vital-rezeptfrei.de/#
 address=/vitalis-pankratius.de/#
 address=/vitalitiesdeluxe.com/#
 address=/vitamin-schmiede24.de/#
-address=/vite-envogue.de/#
 address=/vitev.net/#
 address=/viva-med.de/#
 address=/vivianelektro.de/#
@@ -5714,7 +5714,6 @@ address=/waldeber.de/#
 address=/wall-de.com/#
 address=/walteo.com/#
 address=/wandadshop.com/#
-address=/wandererscamp.com/#
 address=/wanford.com/#
 address=/wang-caravan.com/#
 address=/wanparky.com/#

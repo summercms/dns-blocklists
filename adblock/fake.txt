@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 21 Nov 2022 00:53 UTC
-! Version: 2022.1121.0053.47
+! Last modified: 21 Nov 2022 15:07 UTC
+! Version: 2022.1121.1507.32
 ! Syntax: AdBlock
-! Domains: 6029
+! Domains: 6028
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -147,7 +147,6 @@
 ||akku-laden.at^
 ||akku-pc.at^
 ||akkubuy.de^
-||akkukaufen.at^
 ||akkusmarkt.de^
 ||akkusmir.de^
 ||akrostichon.at^
@@ -655,7 +654,6 @@
 ||bjorkcoffee.com^
 ||black-forestcake.com^
 ||blackwidow.at^
-||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -1003,6 +1001,7 @@
 ||chichandbagsshop.com^
 ||chicladdy.com^
 ||chiclolo.com^
+||chicsoso.com^
 ||chictogerther.com^
 ||chicwells.de^
 ||chillgod.com^
@@ -2243,13 +2242,13 @@
 ||globalcryptotraders.com^
 ||globaltradeoption.online^
 ||glowyplant.de^
+||gluckaro.de^
 ||gluckbox.com^
 ||glueckstore.de^
 ||gma-2015.de^
 ||gmixnchic.com^
 ||gnarty.xyz^
 ||gnoxx.de^
-||go-dynergy.com^
 ||go-e-bike.com^
 ||goandfind.online^
 ||gocosmeticsurgery.com^
@@ -2836,6 +2835,7 @@
 ||justclothes.club^
 ||de.justfashionnow.com^
 ||justlo.tv^
+||justshopy4u.com^
 ||justvanilla.de^
 ||juust24.com^
 ||jvp-amstetten.at^
@@ -3596,7 +3596,6 @@
 ||modellbahn-versandhaus.de^
 ||modency.de^
 ||modernindigo.com^
-||modetalente.com^
 ||modetopper.com^
 ||moditec.fr^
 ||modovia.de^
@@ -4719,6 +4718,7 @@
 ||sensalve.de^
 ||senthiln.top^
 ||seoyou.de^
+||sepkicks.com^
 ||seprun.com^
 ||sepshoe.com^
 ||sepsneakers.co^
@@ -5535,6 +5535,7 @@
 ||vacioy.com^
 ||vaggv.com^
 ||vagomarkt.com^
+||vakkerlight.com^
 ||valanza.de^
 ||valty-heater.com^
 ||valurabeauty.com^
@@ -5644,7 +5645,6 @@
 ||vitalis-pankratius.de^
 ||vitalitiesdeluxe.com^
 ||vitamin-schmiede24.de^
-||vite-envogue.de^
 ||vitev.net^
 ||viva-med.de^
 ||vivianelektro.de^
@@ -5714,7 +5714,6 @@
 ||wall-de.com^
 ||walteo.com^
 ||wandadshop.com^
-||wandererscamp.com^
 ||wanford.com^
 ||wang-caravan.com^
 ||wanparky.com^
