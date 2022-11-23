@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 15:07 UTC
-# Version: 2022.1121.1507.32
+# Last modified: 23 Nov 2022 00:53 UTC
+# Version: 2022.1123.0053.38
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6028
+# Domains: 6023
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -48,7 +48,6 @@
 *.aachentag.com
 *.aalborgfrivilligraad.dk
 *.aaliencart.com
-*.aavqb.com
 *.ab-homes.com
 *.ababilhajjbd.com
 *.abaildonment.com
@@ -2079,7 +2078,6 @@
 *.frohschatz.com
 *.frohwelt.de
 *.fruchtpresse.at
-*.fruugo.at
 *.ftx-store.de
 *.fuechsefussball.de
 *.fuehrerscheinfabrik.com
@@ -3632,7 +3630,6 @@
 *.monicasneaker.cc
 *.monoflix.de
 *.monokompakt.de
-*.monostarscope.com
 *.monplay.de
 *.montanahudson.com
 *.montrereplique.to
@@ -4718,7 +4715,6 @@
 *.sensalve.de
 *.senthiln.top
 *.seoyou.de
-*.sepkicks.com
 *.seprun.com
 *.sepshoe.com
 *.sepsneakers.co
@@ -4840,7 +4836,6 @@
 *.skyrro.com
 *.slamlook.com
 *.sleepcloud.eu
-*.slewo.com
 *.slightsmeell.com
 *.slimyliquid.de
 *.slimyvita.de
@@ -5535,7 +5530,6 @@
 *.vacioy.com
 *.vaggv.com
 *.vagomarkt.com
-*.vakkerlight.com
 *.valanza.de
 *.valty-heater.com
 *.valurabeauty.com
@@ -5714,6 +5708,7 @@
 *.wall-de.com
 *.walteo.com
 *.wandadshop.com
+*.wandererscamp.com
 *.wanford.com
 *.wang-caravan.com
 *.wanparky.com

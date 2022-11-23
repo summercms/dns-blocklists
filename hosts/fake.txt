@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Nov 2022 15:07 UTC
-# Version: 2022.1121.1507.32
+# Last modified: 23 Nov 2022 00:53 UTC
+# Version: 2022.1123.0053.38
 # Syntax: Hosts
-# Domains: 11555
+# Domains: 11545
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -78,8 +78,6 @@
 0.0.0.0 www.aalborgfrivilligraad.dk
 0.0.0.0 aaliencart.com
 0.0.0.0 www.aaliencart.com
-0.0.0.0 aavqb.com
-0.0.0.0 www.aavqb.com
 0.0.0.0 ab-homes.com
 0.0.0.0 www.ab-homes.com
 0.0.0.0 ababilhajjbd.com
@@ -3976,8 +3974,6 @@
 0.0.0.0 www.frohschatz.com
 0.0.0.0 frohwelt.de
 0.0.0.0 fruchtpresse.at
-0.0.0.0 fruugo.at
-0.0.0.0 www.fruugo.at
 0.0.0.0 ftx-store.de
 0.0.0.0 fuechsefussball.de
 0.0.0.0 www.fuechsefussball.de
@@ -6974,8 +6970,6 @@
 0.0.0.0 www.monoflix.de
 0.0.0.0 monokompakt.de
 0.0.0.0 www.monokompakt.de
-0.0.0.0 monostarscope.com
-0.0.0.0 www.monostarscope.com
 0.0.0.0 monplay.de
 0.0.0.0 www.monplay.de
 0.0.0.0 montanahudson.com
@@ -9042,8 +9036,6 @@
 0.0.0.0 www.senthiln.top
 0.0.0.0 seoyou.de
 0.0.0.0 www.seoyou.de
-0.0.0.0 sepkicks.com
-0.0.0.0 www.sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 www.seprun.com
 0.0.0.0 sepshoe.com
@@ -9275,8 +9267,6 @@
 0.0.0.0 www.slamlook.com
 0.0.0.0 sleepcloud.eu
 0.0.0.0 www.sleepcloud.eu
-0.0.0.0 slewo.com
-0.0.0.0 www.slewo.com
 0.0.0.0 slightsmeell.com
 0.0.0.0 www.slightsmeell.com
 0.0.0.0 slimyliquid.de
@@ -10600,8 +10590,6 @@
 0.0.0.0 www.vaggv.com
 0.0.0.0 vagomarkt.com
 0.0.0.0 www.vagomarkt.com
-0.0.0.0 vakkerlight.com
-0.0.0.0 www.vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 www.valanza.de
 0.0.0.0 valty-heater.com
@@ -10938,6 +10926,8 @@
 0.0.0.0 www.walteo.com
 0.0.0.0 wandadshop.com
 0.0.0.0 www.wandadshop.com
+0.0.0.0 wandererscamp.com
+0.0.0.0 www.wandererscamp.com
 0.0.0.0 wanford.com
 0.0.0.0 www.wanford.com
 0.0.0.0 wang-caravan.com
