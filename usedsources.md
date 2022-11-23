@@ -145,12 +145,12 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### TIF
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-dead.txt)
 ```
-1484986 total unique domains | 705003 (47%) included | 21311 (1%) removed | 758672 (51%) dead
+1512683 total unique domains | 727133 (48%) included | 23698 (2%) removed | 761852 (50%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      45% |  45% |     11% | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
   2 |      78% |  18% |      3% | https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
-  3 |      28% |  67% |      5% | https://hole.cert.pl/domains/domains_hosts.txt
+  3 |      29% |  67% |      5% | https://hole.cert.pl/domains/domains_hosts.txt
   4 |      33% |  64% |      3% | https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
   5 |      78% |  22% |      1% | https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
   6 |     100% |   0% |      0% | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
@@ -251,9 +251,10 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 101 |      59% |  37% |      4% | https://www.botvrij.eu/data/ioclist.domain.raw
 102 |      73% |  27% |      0% | https://www.botvrij.eu/data/ioclist.hostname.raw
 103 |      69% |  31% |      0% | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-104 |      41% |  57% |      1% | black.list.malware
-105 |      30% |  69% |      0% | black.list.threat-intelligence
-106 |      63% |   2% |     47% | black.list.hoster
+104 |      73% |  12% |     15% | https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
+105 |      41% |  57% |      1% | black.list.malware
+106 |      30% |  69% |      0% | black.list.threat-intelligence
+107 |      63% |   2% |     47% | black.list.hoster
 ```
 #### DOH-VPN-PROXY-BYPASS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-dead.txt)
@@ -476,6 +477,7 @@ https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
 https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
@@ -623,6 +625,6 @@ https://www.zoso.ro/pages/rolist.txt
 ### Credits
 *A huge thank you to the following list maintainers of the sources used, alphabetical order:*
          
-*abpindo, abpvn, abuse.ch, adaway, adguardteam, adroitadorkhan, amnestytech, anti-ad, anudeepnd, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bkrucarci, blahdns, bongochong, botvrij.eu, cats-team, cbuijs, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, developerdan, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, fanboy, firebog.net, frogeye.fr, gioxx, guardicore, hblock, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, hufilter, iam-py-test, infinitytec, jawz101, jdlingyu, jkrejcha, joewein.net, kargig, kees1958, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, list-kr, logroid, malware-filter, marco-acorte, matomo-org, metamask, migueldemoura, mitchellkrogza, molinero.dev, mvps.org, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, ookangzheng, paulgb, perflyst, phishing.army, piperun, piquark6046, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, shallalist, shreyasminocha, sjhgvr, smed79, someonewhocares.org, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, t145, th3m3, tiuxo, tomasko126, ublockorigin, ultimate-hosts, ut1, velesila, wally3k, yourduskquibbles, yous, yoyo.org, zerodot1, zoso.ro*
+*abpindo, abpvn, abuse.ch, adaway, adguardteam, adroitadorkhan, amnestytech, anti-ad, anudeepnd, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bkrucarci, blahdns, bongochong, botvrij.eu, cats-team, cbuijs, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, developerdan, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, fanboy, firebog.net, frogeye.fr, gioxx, guardicore, hblock, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, hufilter, iam-py-test, ihgalis, infinitytec, jawz101, jdlingyu, jkrejcha, joewein.net, kargig, kees1958, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, list-kr, logroid, malware-filter, marco-acorte, matomo-org, metamask, migueldemoura, mitchellkrogza, molinero.dev, mvps.org, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, ookangzheng, paulgb, perflyst, phishing.army, piperun, piquark6046, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, shallalist, shreyasminocha, sjhgvr, smed79, someonewhocares.org, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, t145, th3m3, tiuxo, tomasko126, ublockorigin, ultimate-hosts, ut1, velesila, wally3k, yourduskquibbles, yous, yoyo.org, zerodot1, zoso.ro*
 
 ---
