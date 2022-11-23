@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 Nov 2022 00:53 UTC
-# Version: 2022.1123.0053.38
+# Last modified: 23 Nov 2022 08:43 UTC
+# Version: 2022.1123.0843.22
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6023
+# Domains: 6021
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -343,7 +343,6 @@
 *.asgeirpetursson.com
 *.shopde1.ashdiabuisf.ru
 *.ashfans.com
-*.ashlen.co
 *.asia-minimarkt.at
 *.asianight.at
 *.asicmerch.com
@@ -474,7 +473,6 @@
 *.barando-online.de
 *.barando-shop.de
 *.barbaravonfrisch.at
-*.barbefisch.de
 *.barborabatt.com
 *.barboutletus.com
 *.bardacstore.com
@@ -489,7 +487,6 @@
 *.basefinex.com
 *.basercms.top
 *.bass8.store
-*.batteryzone.de
 *.bau-profis24.de
 *.bauelemente-altotec.at
 *.de.bauhausshop.com
@@ -2056,10 +2053,8 @@
 *.freetitties.de
 *.freeyey.com
 *.freierkauf.com
-*.freietaube.de
 *.freightwiselogistics.com
 *.freilandsysteme.de
-*.freiwing.de
 *.freizeit-gemeinsam.com
 *.freizeitbetrieb-worms.de
 *.freizeiteo.com
@@ -2247,6 +2242,7 @@
 *.gmixnchic.com
 *.gnarty.xyz
 *.gnoxx.de
+*.go-dynergy.com
 *.go-e-bike.com
 *.goandfind.online
 *.gocosmeticsurgery.com
@@ -2449,7 +2445,6 @@
 *.heidecker-rollergang.de
 *.heidekrause.de
 *.heidelore-kluge.de
-*.heike-store.com
 *.heimatrad.de
 *.heimfroh.com
 *.heimprofis.de
@@ -2942,6 +2937,7 @@
 *.kinoplay.de
 *.kinostream.org
 *.kinox.su
+*.kinox.top
 *.kinox-deutsch.com
 *.kinozeit.net
 *.kirche-lennep.de
@@ -3594,6 +3590,7 @@
 *.modellbahn-versandhaus.de
 *.modency.de
 *.modernindigo.com
+*.modetalente.com
 *.modetopper.com
 *.moditec.fr
 *.modovia.de
@@ -4836,6 +4833,7 @@
 *.skyrro.com
 *.slamlook.com
 *.sleepcloud.eu
+*.slewo.com
 *.slightsmeell.com
 *.slimyliquid.de
 *.slimyvita.de

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 Nov 2022 00:53 UTC
-# Version: 2022.1123.0053.38
+# Last modified: 23 Nov 2022 08:43 UTC
+# Version: 2022.1123.0843.22
 # Syntax: Hosts
-# Domains: 11545
+# Domains: 11541
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -656,8 +656,6 @@
 0.0.0.0 shopde1.ashdiabuisf.ru
 0.0.0.0 ashfans.com
 0.0.0.0 www.ashfans.com
-0.0.0.0 ashlen.co
-0.0.0.0 www.ashlen.co
 0.0.0.0 asia-minimarkt.at
 0.0.0.0 www.asia-minimarkt.at
 0.0.0.0 asianight.at
@@ -904,8 +902,6 @@
 0.0.0.0 www.barando-shop.de
 0.0.0.0 barbaravonfrisch.at
 0.0.0.0 www.barbaravonfrisch.at
-0.0.0.0 barbefisch.de
-0.0.0.0 www.barbefisch.de
 0.0.0.0 barborabatt.com
 0.0.0.0 www.barborabatt.com
 0.0.0.0 barboutletus.com
@@ -933,8 +929,6 @@
 0.0.0.0 www.basercms.top
 0.0.0.0 bass8.store
 0.0.0.0 www.bass8.store
-0.0.0.0 batteryzone.de
-0.0.0.0 www.batteryzone.de
 0.0.0.0 bau-profis24.de
 0.0.0.0 www.bau-profis24.de
 0.0.0.0 bauelemente-altotec.at
@@ -3932,14 +3926,10 @@
 0.0.0.0 www.freeyey.com
 0.0.0.0 freierkauf.com
 0.0.0.0 www.freierkauf.com
-0.0.0.0 freietaube.de
-0.0.0.0 www.freietaube.de
 0.0.0.0 freightwiselogistics.com
 0.0.0.0 www.freightwiselogistics.com
 0.0.0.0 freilandsysteme.de
 0.0.0.0 www.freilandsysteme.de
-0.0.0.0 freiwing.de
-0.0.0.0 www.freiwing.de
 0.0.0.0 freizeit-gemeinsam.com
 0.0.0.0 www.freizeit-gemeinsam.com
 0.0.0.0 freizeitbetrieb-worms.de
@@ -4297,6 +4287,8 @@
 0.0.0.0 gnarty.xyz
 0.0.0.0 gnoxx.de
 0.0.0.0 www.gnoxx.de
+0.0.0.0 go-dynergy.com
+0.0.0.0 www.go-dynergy.com
 0.0.0.0 go-e-bike.com
 0.0.0.0 www.go-e-bike.com
 0.0.0.0 goandfind.online
@@ -4683,8 +4675,6 @@
 0.0.0.0 www.heidekrause.de
 0.0.0.0 heidelore-kluge.de
 0.0.0.0 www.heidelore-kluge.de
-0.0.0.0 heike-store.com
-0.0.0.0 www.heike-store.com
 0.0.0.0 heimatrad.de
 0.0.0.0 www.heimatrad.de
 0.0.0.0 heimfroh.com
@@ -5634,7 +5624,9 @@
 0.0.0.0 kinostream.org
 0.0.0.0 www.kinostream.org
 0.0.0.0 kinox.su
+0.0.0.0 kinox.top
 0.0.0.0 www.kinox.su
+0.0.0.0 www.kinox.top
 0.0.0.0 kinox-deutsch.com
 0.0.0.0 www.kinox-deutsch.com
 0.0.0.0 kinozeit.net
@@ -6901,6 +6893,8 @@
 0.0.0.0 www.modency.de
 0.0.0.0 modernindigo.com
 0.0.0.0 www.modernindigo.com
+0.0.0.0 modetalente.com
+0.0.0.0 www.modetalente.com
 0.0.0.0 modetopper.com
 0.0.0.0 www.modetopper.com
 0.0.0.0 moditec.fr
@@ -9267,6 +9261,8 @@
 0.0.0.0 www.slamlook.com
 0.0.0.0 sleepcloud.eu
 0.0.0.0 www.sleepcloud.eu
+0.0.0.0 slewo.com
+0.0.0.0 www.slewo.com
 0.0.0.0 slightsmeell.com
 0.0.0.0 www.slightsmeell.com
 0.0.0.0 slimyliquid.de
