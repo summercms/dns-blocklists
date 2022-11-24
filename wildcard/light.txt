@@ -83965,7 +83965,6 @@
 *.pre-adui.tg.meitu.com
 *.rabbit.tg.meitu.com
 *.tuiguang.meitu.com
-*.analytics.meituan.net
 *.hreport.meituan.com
 *.report.meituan.com
 *.meituangov.cn
