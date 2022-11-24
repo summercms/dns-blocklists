@@ -1833,3 +1833,7 @@
 ! Garena League account linking - https://leaguelink.riotgames.com/
 @@|js.captcha-display.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/70
+@@||meituan.net^
+@@||meituan.com^
+
