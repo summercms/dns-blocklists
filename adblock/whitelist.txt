@@ -1837,3 +1837,6 @@
 @@||meituan.net^
 @@||meituan.com^
 
+! gitbook.io
+@@|app.gitbook.com^
+

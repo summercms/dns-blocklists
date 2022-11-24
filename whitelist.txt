@@ -1837,3 +1837,6 @@ js.captcha-display.com
 *.meituan.net
 *.meituan.com
 
+# gitbook.io
+app.gitbook.com
+
