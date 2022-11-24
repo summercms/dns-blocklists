@@ -83965,8 +83965,6 @@
 ||pre-adui.tg.meitu.com^
 ||rabbit.tg.meitu.com^
 ||tuiguang.meitu.com^
-||hreport.meituan.com^
-||report.meituan.com^
 ||meituangov.cn^
 ||cloudcollect.meitudata.com^
 ||meitubeauty.meitudata.com^
