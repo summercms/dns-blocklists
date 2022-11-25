@@ -50,6 +50,8 @@ fls-*.amazon.nl
 fls-*.amazon.sa
 fls-*.amazon.se
 fls-*.amazon.sg
+rcm-*.amazon.de
+rcm-*.amazon.com
 unagi-*.amazon.com
 unagi.amazon.cn
 unagi.amazon.co.jp
