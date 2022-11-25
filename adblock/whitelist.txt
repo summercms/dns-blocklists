@@ -1858,3 +1858,6 @@
 @@|79423.analytics.edgekey.net^
 @@|e2725.g.akamaiedge.net^
 
+! https://github.com/hagezi/dns-blocklists/issues/74
+@@|b-cdn.net^
+
