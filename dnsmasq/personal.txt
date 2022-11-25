@@ -726,7 +726,6 @@ address=/fa-ppctelemetry-prod.azurewebsites.net/#
 address=/live-tfs-omnilytics.azurewebsites.net/#
 address=/tella-adservice.azurewebsites.net/#
 address=/hosts.vggwebsitetrackingprod.azurewebsites.net/#
-address=/b-cdn.net/#
 address=/est-mta.b2b-mail.net/#
 address=/b52.vip/#
 address=/t.ba-content.de/#

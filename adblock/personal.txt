@@ -726,7 +726,6 @@
 ||live-tfs-omnilytics.azurewebsites.net^
 ||tella-adservice.azurewebsites.net^
 ||hosts.vggwebsitetrackingprod.azurewebsites.net^
-||b-cdn.net^
 ||est-mta.b2b-mail.net^
 ||b52.vip^
 ||t.ba-content.de^

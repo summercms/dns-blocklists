@@ -15514,7 +15514,6 @@
 *.azzpbn.com
 *.b-5-shield.com
 *.b-c.in
-*.b-cdn.net
 *.b-click.net
 *.a8cv.b-concept.tokyo
 *.jhfuhi.b-exit.com

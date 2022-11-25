@@ -969,9 +969,7 @@
 0.0.0.0 live-tfs-omnilytics.azurewebsites.net
 0.0.0.0 tella-adservice.azurewebsites.net
 0.0.0.0 hosts.vggwebsitetrackingprod.azurewebsites.net
-0.0.0.0 b-cdn.net
 0.0.0.0 affiliatable1.b-cdn.net
-0.0.0.0 www.b-cdn.net
 0.0.0.0 est-mta.b2b-mail.net
 0.0.0.0 b52.vip
 0.0.0.0 t.ba-content.de
