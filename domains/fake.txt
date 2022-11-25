@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Nov 2022 00:53 UTC
-# Version: 2022.1125.0053.37
+# Last modified: 25 Nov 2022 12:07 UTC
+# Version: 2022.1125.1207.48
 # Syntax: Domains
-# Domains: 11542
+# Domains: 11553
 #
 willhaben.at.04300.id
 11trikots.com
@@ -272,6 +272,7 @@ akku-pc.at
 www.akku-pc.at
 akkubuy.de
 www.akkubuy.de
+akkukaufen.at
 akkusmarkt.de
 www.akkusmarkt.de
 akkusmir.de
@@ -656,6 +657,8 @@ www.asgeirpetursson.com
 shopde1.ashdiabuisf.ru
 ashfans.com
 www.ashfans.com
+ashlen.co
+www.ashlen.co
 asia-minimarkt.at
 www.asia-minimarkt.at
 asianight.at
@@ -902,6 +905,8 @@ barando-shop.de
 www.barando-shop.de
 barbaravonfrisch.at
 www.barbaravonfrisch.at
+barbefisch.de
+www.barbefisch.de
 barborabatt.com
 www.barborabatt.com
 barboutletus.com
@@ -929,6 +934,8 @@ basercms.top
 www.basercms.top
 bass8.store
 www.bass8.store
+batteryzone.de
+www.batteryzone.de
 bau-profis24.de
 www.bau-profis24.de
 bauelemente-altotec.at
@@ -1932,8 +1939,6 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
-chicsoso.com
-www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -2488,6 +2493,8 @@ dein-gartenmarkt.de
 www.dein-gartenmarkt.de
 dein-huettenurlaub.de
 www.dein-huettenurlaub.de
+deinbike.net
+www.deinbike.net
 deinbikeprofi.de
 www.deinbikeprofi.de
 deine-modewelt.com
@@ -3925,10 +3932,14 @@ freeyey.com
 www.freeyey.com
 freierkauf.com
 www.freierkauf.com
+freietaube.de
+www.freietaube.de
 freightwiselogistics.com
 www.freightwiselogistics.com
 freilandsysteme.de
 www.freilandsysteme.de
+freiwing.de
+www.freiwing.de
 freizeit-gemeinsam.com
 www.freizeit-gemeinsam.com
 freizeitbetrieb-worms.de
@@ -3963,6 +3974,8 @@ frohschatz.com
 www.frohschatz.com
 frohwelt.de
 fruchtpresse.at
+fruugo.at
+www.fruugo.at
 ftx-store.de
 fuechsefussball.de
 www.fuechsefussball.de
@@ -4674,6 +4687,8 @@ heidekrause.de
 www.heidekrause.de
 heidelore-kluge.de
 www.heidelore-kluge.de
+heike-store.com
+www.heike-store.com
 heimatrad.de
 www.heimatrad.de
 heimfroh.com
@@ -4896,8 +4911,6 @@ hotels-colorado.net
 www.hotels-colorado.net
 hotels-in-riga.de
 www.hotels-in-riga.de
-hotels-in-tyrol.com
-www.hotels-in-tyrol.com
 hotelsinperm.ru
 www.hotelsinperm.ru
 hotelsinvienna.org
@@ -5161,8 +5174,6 @@ ingayoga.de
 www.ingayoga.de
 ingbert-unruh.de
 www.ingbert-unruh.de
-ingersoll1892.com
-www.ingersoll1892.com
 ingramfineart.com
 www.ingramfineart.com
 inhomepi.com
@@ -5623,9 +5634,7 @@ www.kinoplay.de
 kinostream.org
 www.kinostream.org
 kinox.su
-kinox.top
 www.kinox.su
-www.kinox.top
 kinox-deutsch.com
 www.kinox-deutsch.com
 kinozeit.net
@@ -6963,6 +6972,8 @@ monoflix.de
 www.monoflix.de
 monokompakt.de
 www.monokompakt.de
+monostarscope.com
+www.monostarscope.com
 monplay.de
 www.monplay.de
 montanahudson.com
@@ -8663,8 +8674,6 @@ rohrreinigung24-7.at
 www.rohrreinigung24-7.at
 rohrsanierungen24.de
 www.rohrsanierungen24.de
-roicraft.co
-www.roicraft.co
 rokianjas.online
 www.rokianjas.online
 roleo.net
@@ -10790,6 +10799,8 @@ vitalitiesdeluxe.com
 www.vitalitiesdeluxe.com
 vitamin-schmiede24.de
 www.vitamin-schmiede24.de
+vite-envogue.de
+www.vite-envogue.de
 vitev.net
 www.vitev.net
 viva-med.de
