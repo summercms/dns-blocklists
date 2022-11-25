@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 Nov 2022 01:21 UTC
-! Version: 2022.1125.0121.14
+! Last modified: 25 Nov 2022 08:03 UTC
+! Version: 2022.1125.0803.33
 ! Syntax: AdBlock
-! Domains: 7623
+! Domains: 7672
 !
 ||000webhost.com^
 ||00px.net^
@@ -93,6 +93,7 @@
 ||5isohu.com^
 ||5min.com^
 ||638236rpn.com^
+||65688qp.com^
 ||65twenty.com^
 ||6sense.com^
 ||73780fbd309561e201a4aee9914d882d.org^
@@ -184,6 +185,7 @@
 ||ad-adserver.com^
 ||ad-cdn.name^
 ||ad-lib.io^
+||ad-server.com^
 ||ad6.fr^
 ||analytics.si-p.adac.de^
 ||adaccess.fr^
@@ -457,7 +459,6 @@
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||mads.amazon.com^
-||rcm-de.amazon.de^
 ||datumapi-appusagetracking-1294972647.ap-southeast-1.elb.amazonaws.com^
 ||adc-alb-prod-997727824.ap-southeast-2.elb.amazonaws.com^
 ||adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com^
@@ -697,6 +698,7 @@
 ||awltovhc.com^
 ||emea-comms.axis.com^
 ||smetrics.axs.com^
+||aymaraalpaca.com^
 ||lgbdxo.azazie.com^
 ||azbbhe.us^
 ||st.azcardinals.com^
@@ -787,6 +789,8 @@
 ||smetrics.beachbody.com^
 ||tm.beachbody.com^
 ||beachsissi.com^
+||beaconsinspace.com^
+||oo.beahh.com^
 ||beardfleet.com^
 ||smetrics.beatsbydre.com^
 ||info.beaumont.org^
@@ -838,6 +842,7 @@
 ||images.bfi0.com^
 ||dngpzy.bfmtv.com^
 ||analytics.bfops.io^
+||bgelmedia.com^
 ||bhabhiporn.pro^
 ||ensighten.bhphoto.com^
 ||biancasunlit.com^
@@ -967,6 +972,7 @@
 ||brainberries.co^
 ||client-analytics.braintreegateway.com^
 ||branch.io^
+||brand-server.com^
 ||ads.brandcdn.com^
 ||brandmatic.io^
 ||cdn.brandmetrics.com^
@@ -1046,6 +1052,7 @@
 ||smetrics.c2fo.com^
 ||collector-axa.cloud.ca.com^
 ||cdn2.cache.vn^
+||cachegorilla.com^
 ||refer.cacique.com^
 ||smetrics.cadenaser.com^
 ||omniture-dc-sec.cadence.com^
@@ -1631,6 +1638,7 @@
 ||contentsbridge.com^
 ||cdn.contentsitesrv.com^
 ||go.continuumcloud.com^
+||mailsrver.contributes.rest^
 ||cu-cn-north00002.gala.convection.cn^
 ||psbiaf.converse.com^
 ||smetrics.converse.com^
@@ -2496,6 +2504,7 @@
 ||dns04.com^
 ||dns05.com^
 ||dnset.com^
+||my.dnsposition.com^
 ||dnsrd.com^
 ||tx-ad.a.yximgs.com.cdn.dnsv1.com^
 ||dobermanmedia.com^
@@ -2997,6 +3006,7 @@
 ||fihycotu.pro^
 ||file-coin-host-12.com^
 ||smetrics.filemaker.com^
+||files-red-pro.com^
 ||news.finance-commerce.com^
 ||somtr.financialengines.com^
 ||analytics.finanz-tools.de^
@@ -3110,6 +3120,7 @@
 ||refer.frontgate.com^
 ||smetrics.frontier.com^
 ||go.frontstream.com^
+||frscosr.com^
 ||fruugo.at^
 ||rffsds.fsastore.com^
 ||ftads.net^
@@ -3343,6 +3354,7 @@
 ||x3-predictor.goguardian.com^
 ||t.goheels.com^
 ||v.goldman.com^
+||golead.de^
 ||tracker.remp-beam.golem.de^
 ||smetrics.golfgalaxy.com^
 ||golp4elik.com^
@@ -3604,6 +3616,7 @@
 ||smetrics.hollandamerica.com^
 ||rxqqaq.hollandandbarrett.com^
 ||smetrics.hollisterco.com^
+||vast.holmesmind.com^
 ||holyclock.com^
 ||smetrics.home.kpmg^
 ||somni.home.saxo^
@@ -3668,6 +3681,7 @@
 ||ads.huan.tv^
 ||tclicon5.ifmis.huan.tv^
 ||service.changhong.upgrade2.huan.tv^
+||solar.huawei.com^
 ||hubapi.com^
 ||hub.hubinternational.com^
 ||hubspotfeedback.com^
@@ -3744,6 +3758,7 @@
 ||go.illuminateed.com^
 ||web.x.ilpost.it^
 ||www2.ilxgroup.com^
+||imagepost.com^
 ||creative.imagetwistcams.com^
 ||go.imd.org^
 ||swebstats.imf.org^
@@ -3945,7 +3960,7 @@
 ||smetrics.iowatotalcare.com^
 ||ipinfodb.com^
 ||iplist.cc^
-||st.ipornia.com^
+||ipornia.com^
 ||ipredictive.com^
 ||api.ipstack.com^
 ||ipuss.tv^
@@ -4201,6 +4216,7 @@
 ||events.launchdarkly.com^
 ||b.law.com^
 ||p.lbresearch.com^
+||trk.lcn.com^
 ||adabdapi.ldmnq.com^
 ||apien.ldmnq.com^
 ||lduhtrp.net^
@@ -4416,6 +4432,7 @@
 ||manga-news.com^
 ||ykhliz.manscaped.com^
 ||go2.manta.com^
+||mantedtonisms.com^
 ||events.mapbox.com^
 ||dimensions.mappy.com^
 ||contact.marathon-sports-ec.com^
@@ -4626,6 +4643,7 @@
 ||mitsubilla.xyz^
 ||sreport.mitsubishicars.com^
 ||mityneedn.com^
+||open.mp.huangye.miui.com^
 ||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||api.setting.intl.miui.com^
@@ -4638,6 +4656,7 @@
 ||mkt10197.com^
 ||mkt10247.com^
 ||mkt10534.com^
+||mkt10758.com^
 ||mkt10761.com^
 ||mkt10784.com^
 ||mkt10977.com^
@@ -4653,13 +4672,16 @@
 ||mkt2518.com^
 ||mkt2527.com^
 ||mkt2552.com^
+||mkt2559.com^
 ||mkt2614.com^
+||mkt2866.com^
 ||mkt2976.com^
 ||mkt3184.com^
 ||mkt3469.com^
 ||mkt3579.com^
 ||mkt3797.com^
 ||mkt3824.com^
+||mkt4163.com^
 ||mkt4245.com^
 ||mkt4424.com^
 ||mkt4442.com^
@@ -4668,21 +4690,29 @@
 ||mkt4587.com^
 ||mkt4644.com^
 ||mkt4750.com^
+||mkt4780.com^
 ||mkt4791.com^
+||mkt4813.com^
+||mkt4861.com^
 ||mkt4934.com^
 ||mkt5131.com^
 ||mkt5142.com^
+||mkt5155.com^
 ||mkt5269.com^
+||mkt5422.com^
 ||mkt5558.com^
 ||mkt5566.com^
 ||mkt5657.com^
+||mkt5705.com^
 ||mkt5763.com^
 ||mkt5774.com^
+||mkt5808.com^
 ||mkt5894.com^
 ||mkt5908.com^
 ||mkt5930.com^
 ||mkt5971.com^
 ||mkt6109.com^
+||mkt6308.com^
 ||mkt6316.com^
 ||mkt6320.com^
 ||mkt6346.com^
@@ -4703,25 +4733,31 @@
 ||mkt7751.com^
 ||mkt7752.com^
 ||mkt7753.com^
+||mkt7773.com^
 ||mkt7817.com^
 ||mkt7842.com^
 ||mkt7883.com^
 ||mkt7966.com^
+||mkt7972.com^
 ||mkt7974.com^
 ||mkt8085.com^
 ||mkt8133.com^
 ||mkt826.com^
 ||mkt8305.com^
+||mkt8399.com^
 ||mkt8455.com^
 ||mkt8531.com^
 ||mkt8703.com^
 ||mkt8739.com^
 ||mkt8796.com^
+||mkt8898.com^
+||mkt8924.com^
 ||mkt8988.com^
 ||mkt8990.com^
 ||mkt9042.com^
 ||mkt912.com^
 ||mkt922.com^
+||mkt9273.com^
 ||mkt932.com^
 ||mkt9469.com^
 ||mkt9526.com^
@@ -5742,6 +5778,7 @@
 ||images.global.radware.com^
 ||brc.emails.rakuten.com^
 ||go.rakuten.com^
+||10.ram-server.com^
 ||nova.rambler.ru^
 ||click01.ssp.rambler.ru^
 ||click02.ssp.rambler.ru^
@@ -5938,6 +5975,7 @@
 ||tracking.rtl.de^
 ||analytics.rtl2.de^
 ||sadbmetrics.rtve.es^
+||metrics5.dt.dbankcloud.ru.dlink^
 ||ru4.com^
 ||rudderstack.com^
 ||count-us.rudo.video^
@@ -5950,6 +5988,7 @@
 ||ruth8badb.com^
 ||rutrk.org^
 ||share.rvshare.com^
+||rwadx.com^
 ||ssl.o.rxlist.com^
 ||metrics.ryanair.com^
 ||smetrics.ryanair.com^
@@ -5982,6 +6021,7 @@
 ||www2.salary.com^
 ||salesfeed.com^
 ||d.la1-c2-iad.salesforceliveagent.com^
+||salesloft.com^
 ||resources.salientsys.com^
 ||smetrics.salliemae.com^
 ||smetrics.salomon.com^
@@ -6076,6 +6116,7 @@
 ||secure.seat6worn.com^
 ||analytics.seattleclouds.com^
 ||seccint.com^
+||secondservice-developer.com^
 ||secondstreetapp.com^
 ||req.secured-content.com^
 ||securedvisit.com^
@@ -6127,6 +6168,7 @@
 ||trk.s.sephora.com^
 ||septetsfactor.com^
 ||somni.serve.com^
+||server.com^
 ||serversmtpclick.com^
 ||serveuser.com^
 ||serving-passthrough.com^
@@ -6187,6 +6229,7 @@
 ||wine.census.shodan.io^
 ||go.shoesforcrews.com^
 ||refer.shoesforcrews.com^
+||shooshtime.com^
 ||shop2market.com^
 ||track.shoparize.com^
 ||shopcider.com^
@@ -6293,6 +6336,7 @@
 ||fpa-cdn.slate.com^
 ||fpa-events.slate.com^
 ||slclktrk008.com^
+||sleazyneasy.com^
 ||sleeknote.com^
 ||pulse.sleepnumber.com^
 ||smetrics.sleepnumber.com^
@@ -6571,6 +6615,7 @@
 ||syncronex.com^
 ||smetrics.synopsys.com^
 ||www2.syntrio.com^
+||szhk.com^
 ||go.business.t-mobile.com^
 ||now.t-mobile.com^
 ||now1.t-mobile.com^
@@ -6692,6 +6737,7 @@
 ||tencentcs.com^
 ||tenjin.com^
 ||tent0mown.com^
+||tenthserviceupdater.com^
 ||teradatadmc.com^
 ||info.terex.com^
 ||www2.terrapinn.com^
@@ -7030,6 +7076,7 @@
 ||sxjfhh.usatoday.com^
 ||usbla.net^
 ||tubestatic.usco1621-b.com^
+||stats.uscreen.io^
 ||app.usctrojans.com^
 ||t.usctrojans.com^
 ||use-application-dns.net^
@@ -7115,6 +7162,7 @@
 ||vidalytics.com^
 ||vidazoo.com^
 ||tracker.vidconvert.io^
+||video-watch1.com^
 ||videogenetic.com^
 ||videoly.co^
 ||videonow.ru^
@@ -7485,7 +7533,7 @@
 ||xhr0.xyz^
 ||o2o.api.xiaomi.com^
 ||app.chat.xiaomi.net^
-||data.mistat.xiaomi.com^
+||mistat.xiaomi.com^
 ||resolver.msg.xiaomi.net^
 ||data.mistat.rus.xiaomi.com^
 ||register.xmpush.xiaomi.com^
@@ -7535,6 +7583,7 @@
 ||yeahtargeter.com^
 ||yeeopium.com^
 ||s-omniture.yell.com^
+||yellgroup.com^
 ||mapp.yesstyle.com^
 ||yesware.com^
 ||realtimeanalytics.yext.com^

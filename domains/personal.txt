@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Nov 2022 01:21 UTC
-# Version: 2022.1125.0121.14
+# Last modified: 25 Nov 2022 08:03 UTC
+# Version: 2022.1125.0803.33
 # Syntax: Domains
-# Domains: 9700
+# Domains: 9790
 #
 000webhost.com
 www.000webhost.com
@@ -129,6 +129,8 @@ www.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 www.5min.com
 638236rpn.com
 www.638236rpn.com
+65688qp.com
+www.65688qp.com
 65twenty.com
 www.65twenty.com
 6sense.com
@@ -257,6 +259,8 @@ ad-cdn.name
 www.ad-cdn.name
 ad-lib.io
 www.ad-lib.io
+ad-server.com
+www.ad-server.com
 ad6.fr
 www.ad6.fr
 analytics.si-p.adac.de
@@ -625,7 +629,6 @@ aviary.amazon.de
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 mads.amazon.com
-rcm-de.amazon.de
 datumapi-appusagetracking-1294972647.ap-southeast-1.elb.amazonaws.com
 adc-alb-prod-997727824.ap-southeast-2.elb.amazonaws.com
 adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com
@@ -917,6 +920,8 @@ awltovhc.com
 www.awltovhc.com
 emea-comms.axis.com
 smetrics.axs.com
+aymaraalpaca.com
+www.aymaraalpaca.com
 lgbdxo.azazie.com
 azbbhe.us
 www.azbbhe.us
@@ -1032,6 +1037,9 @@ smetrics.beachbody.com
 tm.beachbody.com
 beachsissi.com
 www.beachsissi.com
+beaconsinspace.com
+www.beaconsinspace.com
+oo.beahh.com
 beardfleet.com
 www.beardfleet.com
 smetrics.beatsbydre.com
@@ -1100,6 +1108,7 @@ sstats.bever.nl
 images.bfi0.com
 dngpzy.bfmtv.com
 analytics.bfops.io
+bgelmedia.com
 bhabhiporn.pro
 www.bhabhiporn.pro
 ensighten.bhphoto.com
@@ -1268,6 +1277,8 @@ client-analytics.braintreegateway.com
 branch.io
 api2.branch.io
 www.branch.io
+brand-server.com
+www.brand-server.com
 ads.brandcdn.com
 brandmatic.io
 www.brandmatic.io
@@ -1393,6 +1404,8 @@ www.c-rtb.com
 smetrics.c2fo.com
 collector-axa.cloud.ca.com
 cdn2.cache.vn
+cachegorilla.com
+www.cachegorilla.com
 refer.cacique.com
 smetrics.cadenaser.com
 omniture-dc-sec.cadence.com
@@ -2083,6 +2096,7 @@ contentsbridge.com
 www.contentsbridge.com
 cdn.contentsitesrv.com
 go.continuumcloud.com
+mailsrver.contributes.rest
 cu-cn-north00002.gala.convection.cn
 psbiaf.converse.com
 smetrics.converse.com
@@ -3051,6 +3065,7 @@ dns05.com
 www.dns05.com
 dnset.com
 www.dnset.com
+my.dnsposition.com
 dnsrd.com
 www.dnsrd.com
 tx-ad.a.yximgs.com.cdn.dnsv1.com
@@ -3692,6 +3707,8 @@ www.fihycotu.pro
 file-coin-host-12.com
 www.file-coin-host-12.com
 smetrics.filemaker.com
+files-red-pro.com
+www.files-red-pro.com
 news.finance-commerce.com
 somtr.financialengines.com
 analytics.finanz-tools.de
@@ -3837,6 +3854,8 @@ sepvbm.fromyouflowers.com
 refer.frontgate.com
 smetrics.frontier.com
 go.frontstream.com
+frscosr.com
+www.frscosr.com
 fruugo.at
 www.fruugo.at
 rffsds.fsastore.com
@@ -4138,6 +4157,8 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 t.goheels.com
 v.goldman.com
+golead.de
+www.golead.de
 tracker.remp-beam.golem.de
 smetrics.golfgalaxy.com
 golp4elik.com
@@ -4469,6 +4490,7 @@ refer.hollandamerica.com
 smetrics.hollandamerica.com
 rxqqaq.hollandandbarrett.com
 smetrics.hollisterco.com
+vast.holmesmind.com
 holyclock.com
 www.holyclock.com
 smetrics.home.kpmg
@@ -4548,6 +4570,7 @@ app-analytics-us.huami.com
 ads.huan.tv
 tclicon5.ifmis.huan.tv
 service.changhong.upgrade2.huan.tv
+solar.huawei.com
 hubapi.com
 www.hubapi.com
 hub.hubinternational.com
@@ -4638,6 +4661,8 @@ prdt.illumina.com
 go.illuminateed.com
 web.x.ilpost.it
 www2.ilxgroup.com
+imagepost.com
+www.imagepost.com
 creative.imagetwistcams.com
 go.imd.org
 swebstats.imf.org
@@ -4882,7 +4907,9 @@ ipinfodb.com
 www.ipinfodb.com
 iplist.cc
 www.iplist.cc
+ipornia.com
 st.ipornia.com
+www.ipornia.com
 ipredictive.com
 www.ipredictive.com
 api.ipstack.com
@@ -5220,6 +5247,7 @@ www.laugoust.com
 events.launchdarkly.com
 b.law.com
 p.lbresearch.com
+trk.lcn.com
 adabdapi.ldmnq.com
 apien.ldmnq.com
 lduhtrp.net
@@ -5501,6 +5529,8 @@ manga-news.com
 www.manga-news.com
 ykhliz.manscaped.com
 go2.manta.com
+mantedtonisms.com
+www.mantedtonisms.com
 events.mapbox.com
 dimensions.mappy.com
 contact.marathon-sports-ec.com
@@ -5771,6 +5801,7 @@ www.mitsubilla.xyz
 sreport.mitsubishicars.com
 mityneedn.com
 www.mityneedn.com
+open.mp.huangye.miui.com
 api.sec.intl.miui.com
 authbe.sec.intl.miui.com
 api.setting.intl.miui.com
@@ -5789,6 +5820,8 @@ mkt10247.com
 www.mkt10247.com
 mkt10534.com
 www.mkt10534.com
+mkt10758.com
+www.mkt10758.com
 mkt10761.com
 www.mkt10761.com
 mkt10784.com
@@ -5819,8 +5852,12 @@ mkt2527.com
 www.mkt2527.com
 mkt2552.com
 www.mkt2552.com
+mkt2559.com
+www.mkt2559.com
 mkt2614.com
 www.mkt2614.com
+mkt2866.com
+www.mkt2866.com
 mkt2976.com
 www.mkt2976.com
 mkt3184.com
@@ -5833,6 +5870,8 @@ mkt3797.com
 www.mkt3797.com
 mkt3824.com
 www.mkt3824.com
+mkt4163.com
+www.mkt4163.com
 mkt4245.com
 www.mkt4245.com
 mkt4424.com
@@ -5849,26 +5888,40 @@ mkt4644.com
 www.mkt4644.com
 mkt4750.com
 www.mkt4750.com
+mkt4780.com
+www.mkt4780.com
 mkt4791.com
 www.mkt4791.com
+mkt4813.com
+www.mkt4813.com
+mkt4861.com
+www.mkt4861.com
 mkt4934.com
 www.mkt4934.com
 mkt5131.com
 www.mkt5131.com
 mkt5142.com
 www.mkt5142.com
+mkt5155.com
+www.mkt5155.com
 mkt5269.com
 www.mkt5269.com
+mkt5422.com
+www.mkt5422.com
 mkt5558.com
 www.mkt5558.com
 mkt5566.com
 www.mkt5566.com
 mkt5657.com
 www.mkt5657.com
+mkt5705.com
+www.mkt5705.com
 mkt5763.com
 www.mkt5763.com
 mkt5774.com
 www.mkt5774.com
+mkt5808.com
+www.mkt5808.com
 mkt5894.com
 www.mkt5894.com
 mkt5908.com
@@ -5879,6 +5932,8 @@ mkt5971.com
 www.mkt5971.com
 mkt6109.com
 www.mkt6109.com
+mkt6308.com
+www.mkt6308.com
 mkt6316.com
 www.mkt6316.com
 mkt6320.com
@@ -5919,6 +5974,8 @@ mkt7752.com
 www.mkt7752.com
 mkt7753.com
 www.mkt7753.com
+mkt7773.com
+www.mkt7773.com
 mkt7817.com
 www.mkt7817.com
 mkt7842.com
@@ -5927,6 +5984,8 @@ mkt7883.com
 www.mkt7883.com
 mkt7966.com
 www.mkt7966.com
+mkt7972.com
+www.mkt7972.com
 mkt7974.com
 www.mkt7974.com
 mkt8085.com
@@ -5937,6 +5996,8 @@ mkt826.com
 www.mkt826.com
 mkt8305.com
 www.mkt8305.com
+mkt8399.com
+www.mkt8399.com
 mkt8455.com
 www.mkt8455.com
 mkt8531.com
@@ -5947,6 +6008,10 @@ mkt8739.com
 www.mkt8739.com
 mkt8796.com
 www.mkt8796.com
+mkt8898.com
+www.mkt8898.com
+mkt8924.com
+www.mkt8924.com
 mkt8988.com
 www.mkt8988.com
 mkt8990.com
@@ -5957,6 +6022,8 @@ mkt912.com
 www.mkt912.com
 mkt922.com
 www.mkt922.com
+mkt9273.com
+www.mkt9273.com
 mkt932.com
 www.mkt932.com
 mkt9469.com
@@ -7225,6 +7292,7 @@ metrics.radissonhotelsamericas.com
 images.global.radware.com
 brc.emails.rakuten.com
 go.rakuten.com
+10.ram-server.com
 nova.rambler.ru
 click01.ssp.rambler.ru
 click02.ssp.rambler.ru
@@ -7470,6 +7538,7 @@ session-bugs-fra1.rtl.de
 tracking.rtl.de
 analytics.rtl2.de
 sadbmetrics.rtve.es
+metrics5.dt.dbankcloud.ru.dlink
 ru4.com
 rudderstack.com
 www.rudderstack.com
@@ -7485,6 +7554,8 @@ www.ruth8badb.com
 rutrk.org
 www.rutrk.org
 share.rvshare.com
+rwadx.com
+www.rwadx.com
 ssl.o.rxlist.com
 metrics.ryanair.com
 smetrics.ryanair.com
@@ -7524,6 +7595,8 @@ www2.salary.com
 salesfeed.com
 www.salesfeed.com
 d.la1-c2-iad.salesforceliveagent.com
+salesloft.com
+www.salesloft.com
 resources.salientsys.com
 smetrics.salliemae.com
 smetrics.salomon.com
@@ -7635,6 +7708,8 @@ smetric.seasons52.com
 secure.seat6worn.com
 analytics.seattleclouds.com
 seccint.com
+secondservice-developer.com
+www.secondservice-developer.com
 secondstreetapp.com
 www.secondstreetapp.com
 req.secured-content.com
@@ -7711,6 +7786,8 @@ trk.s.sephora.com
 septetsfactor.com
 www.septetsfactor.com
 somni.serve.com
+server.com
+www.server.com
 serversmtpclick.com
 www.serversmtpclick.com
 serveuser.com
@@ -7788,6 +7865,8 @@ sky.census.shodan.io
 wine.census.shodan.io
 go.shoesforcrews.com
 refer.shoesforcrews.com
+shooshtime.com
+www.shooshtime.com
 shop2market.com
 www.shop2market.com
 track.shoparize.com
@@ -7930,6 +8009,8 @@ fpa-events.slate.com
 slclktrk008.com
 www.slclktrk008.com
 zeroup3.slclktrk008.com
+sleazyneasy.com
+www.sleazyneasy.com
 sleeknote.com
 analytics.sleeknote.com
 www.sleeknote.com
@@ -8301,6 +8382,8 @@ syncronex.com
 www.syncronex.com
 smetrics.synopsys.com
 www2.syntrio.com
+szhk.com
+www.szhk.com
 go.business.t-mobile.com
 now.t-mobile.com
 now1.t-mobile.com
@@ -8454,6 +8537,8 @@ tenjin.com
 www.tenjin.com
 tent0mown.com
 www.tent0mown.com
+tenthserviceupdater.com
+www.tenthserviceupdater.com
 teradatadmc.com
 www.teradatadmc.com
 info.terex.com
@@ -8908,6 +8993,7 @@ www.usabilla.com
 sxjfhh.usatoday.com
 usbla.net
 tubestatic.usco1621-b.com
+stats.uscreen.io
 app.usctrojans.com
 t.usctrojans.com
 use-application-dns.net
@@ -9035,6 +9121,8 @@ www.vidalytics.com
 vidazoo.com
 www.vidazoo.com
 tracker.vidconvert.io
+video-watch1.com
+www.video-watch1.com
 videogenetic.com
 www.videogenetic.com
 videoly.co
@@ -9518,6 +9606,7 @@ ktag-us-east-prod.xg4ken.com
 xhr0.xyz
 o2o.api.xiaomi.com
 app.chat.xiaomi.net
+mistat.xiaomi.com
 data.mistat.xiaomi.com
 resolver.msg.xiaomi.net
 data.mistat.rus.xiaomi.com
@@ -9586,6 +9675,7 @@ www.yeahtargeter.com
 yeeopium.com
 www.yeeopium.com
 s-omniture.yell.com
+yellgroup.com
 mapp.yesstyle.com
 yesware.com
 www.yesware.com

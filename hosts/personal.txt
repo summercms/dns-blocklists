@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Nov 2022 01:21 UTC
-# Version: 2022.1125.0121.14
+# Last modified: 25 Nov 2022 08:03 UTC
+# Version: 2022.1125.0803.33
 # Syntax: Hosts
-# Domains: 9700
+# Domains: 9790
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -129,6 +129,8 @@
 0.0.0.0 www.5min.com
 0.0.0.0 638236rpn.com
 0.0.0.0 www.638236rpn.com
+0.0.0.0 65688qp.com
+0.0.0.0 www.65688qp.com
 0.0.0.0 65twenty.com
 0.0.0.0 www.65twenty.com
 0.0.0.0 6sense.com
@@ -257,6 +259,8 @@
 0.0.0.0 www.ad-cdn.name
 0.0.0.0 ad-lib.io
 0.0.0.0 www.ad-lib.io
+0.0.0.0 ad-server.com
+0.0.0.0 www.ad-server.com
 0.0.0.0 ad6.fr
 0.0.0.0 www.ad6.fr
 0.0.0.0 analytics.si-p.adac.de
@@ -625,7 +629,6 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
-0.0.0.0 rcm-de.amazon.de
 0.0.0.0 datumapi-appusagetracking-1294972647.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 adc-alb-prod-997727824.ap-southeast-2.elb.amazonaws.com
 0.0.0.0 adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com
@@ -917,6 +920,8 @@
 0.0.0.0 www.awltovhc.com
 0.0.0.0 emea-comms.axis.com
 0.0.0.0 smetrics.axs.com
+0.0.0.0 aymaraalpaca.com
+0.0.0.0 www.aymaraalpaca.com
 0.0.0.0 lgbdxo.azazie.com
 0.0.0.0 azbbhe.us
 0.0.0.0 www.azbbhe.us
@@ -1032,6 +1037,9 @@
 0.0.0.0 tm.beachbody.com
 0.0.0.0 beachsissi.com
 0.0.0.0 www.beachsissi.com
+0.0.0.0 beaconsinspace.com
+0.0.0.0 www.beaconsinspace.com
+0.0.0.0 oo.beahh.com
 0.0.0.0 beardfleet.com
 0.0.0.0 www.beardfleet.com
 0.0.0.0 smetrics.beatsbydre.com
@@ -1100,6 +1108,7 @@
 0.0.0.0 images.bfi0.com
 0.0.0.0 dngpzy.bfmtv.com
 0.0.0.0 analytics.bfops.io
+0.0.0.0 bgelmedia.com
 0.0.0.0 bhabhiporn.pro
 0.0.0.0 www.bhabhiporn.pro
 0.0.0.0 ensighten.bhphoto.com
@@ -1268,6 +1277,8 @@
 0.0.0.0 branch.io
 0.0.0.0 api2.branch.io
 0.0.0.0 www.branch.io
+0.0.0.0 brand-server.com
+0.0.0.0 www.brand-server.com
 0.0.0.0 ads.brandcdn.com
 0.0.0.0 brandmatic.io
 0.0.0.0 www.brandmatic.io
@@ -1393,6 +1404,8 @@
 0.0.0.0 smetrics.c2fo.com
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 cdn2.cache.vn
+0.0.0.0 cachegorilla.com
+0.0.0.0 www.cachegorilla.com
 0.0.0.0 refer.cacique.com
 0.0.0.0 smetrics.cadenaser.com
 0.0.0.0 omniture-dc-sec.cadence.com
@@ -2083,6 +2096,7 @@
 0.0.0.0 www.contentsbridge.com
 0.0.0.0 cdn.contentsitesrv.com
 0.0.0.0 go.continuumcloud.com
+0.0.0.0 mailsrver.contributes.rest
 0.0.0.0 cu-cn-north00002.gala.convection.cn
 0.0.0.0 psbiaf.converse.com
 0.0.0.0 smetrics.converse.com
@@ -3051,6 +3065,7 @@
 0.0.0.0 www.dns05.com
 0.0.0.0 dnset.com
 0.0.0.0 www.dnset.com
+0.0.0.0 my.dnsposition.com
 0.0.0.0 dnsrd.com
 0.0.0.0 www.dnsrd.com
 0.0.0.0 tx-ad.a.yximgs.com.cdn.dnsv1.com
@@ -3692,6 +3707,8 @@
 0.0.0.0 file-coin-host-12.com
 0.0.0.0 www.file-coin-host-12.com
 0.0.0.0 smetrics.filemaker.com
+0.0.0.0 files-red-pro.com
+0.0.0.0 www.files-red-pro.com
 0.0.0.0 news.finance-commerce.com
 0.0.0.0 somtr.financialengines.com
 0.0.0.0 analytics.finanz-tools.de
@@ -3837,6 +3854,8 @@
 0.0.0.0 refer.frontgate.com
 0.0.0.0 smetrics.frontier.com
 0.0.0.0 go.frontstream.com
+0.0.0.0 frscosr.com
+0.0.0.0 www.frscosr.com
 0.0.0.0 fruugo.at
 0.0.0.0 www.fruugo.at
 0.0.0.0 rffsds.fsastore.com
@@ -4138,6 +4157,8 @@
 0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 t.goheels.com
 0.0.0.0 v.goldman.com
+0.0.0.0 golead.de
+0.0.0.0 www.golead.de
 0.0.0.0 tracker.remp-beam.golem.de
 0.0.0.0 smetrics.golfgalaxy.com
 0.0.0.0 golp4elik.com
@@ -4469,6 +4490,7 @@
 0.0.0.0 smetrics.hollandamerica.com
 0.0.0.0 rxqqaq.hollandandbarrett.com
 0.0.0.0 smetrics.hollisterco.com
+0.0.0.0 vast.holmesmind.com
 0.0.0.0 holyclock.com
 0.0.0.0 www.holyclock.com
 0.0.0.0 smetrics.home.kpmg
@@ -4548,6 +4570,7 @@
 0.0.0.0 ads.huan.tv
 0.0.0.0 tclicon5.ifmis.huan.tv
 0.0.0.0 service.changhong.upgrade2.huan.tv
+0.0.0.0 solar.huawei.com
 0.0.0.0 hubapi.com
 0.0.0.0 www.hubapi.com
 0.0.0.0 hub.hubinternational.com
@@ -4638,6 +4661,8 @@
 0.0.0.0 go.illuminateed.com
 0.0.0.0 web.x.ilpost.it
 0.0.0.0 www2.ilxgroup.com
+0.0.0.0 imagepost.com
+0.0.0.0 www.imagepost.com
 0.0.0.0 creative.imagetwistcams.com
 0.0.0.0 go.imd.org
 0.0.0.0 swebstats.imf.org
@@ -4882,7 +4907,9 @@
 0.0.0.0 www.ipinfodb.com
 0.0.0.0 iplist.cc
 0.0.0.0 www.iplist.cc
+0.0.0.0 ipornia.com
 0.0.0.0 st.ipornia.com
+0.0.0.0 www.ipornia.com
 0.0.0.0 ipredictive.com
 0.0.0.0 www.ipredictive.com
 0.0.0.0 api.ipstack.com
@@ -5220,6 +5247,7 @@
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 b.law.com
 0.0.0.0 p.lbresearch.com
+0.0.0.0 trk.lcn.com
 0.0.0.0 adabdapi.ldmnq.com
 0.0.0.0 apien.ldmnq.com
 0.0.0.0 lduhtrp.net
@@ -5501,6 +5529,8 @@
 0.0.0.0 www.manga-news.com
 0.0.0.0 ykhliz.manscaped.com
 0.0.0.0 go2.manta.com
+0.0.0.0 mantedtonisms.com
+0.0.0.0 www.mantedtonisms.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 dimensions.mappy.com
 0.0.0.0 contact.marathon-sports-ec.com
@@ -5771,6 +5801,7 @@
 0.0.0.0 sreport.mitsubishicars.com
 0.0.0.0 mityneedn.com
 0.0.0.0 www.mityneedn.com
+0.0.0.0 open.mp.huangye.miui.com
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
@@ -5789,6 +5820,8 @@
 0.0.0.0 www.mkt10247.com
 0.0.0.0 mkt10534.com
 0.0.0.0 www.mkt10534.com
+0.0.0.0 mkt10758.com
+0.0.0.0 www.mkt10758.com
 0.0.0.0 mkt10761.com
 0.0.0.0 www.mkt10761.com
 0.0.0.0 mkt10784.com
@@ -5819,8 +5852,12 @@
 0.0.0.0 www.mkt2527.com
 0.0.0.0 mkt2552.com
 0.0.0.0 www.mkt2552.com
+0.0.0.0 mkt2559.com
+0.0.0.0 www.mkt2559.com
 0.0.0.0 mkt2614.com
 0.0.0.0 www.mkt2614.com
+0.0.0.0 mkt2866.com
+0.0.0.0 www.mkt2866.com
 0.0.0.0 mkt2976.com
 0.0.0.0 www.mkt2976.com
 0.0.0.0 mkt3184.com
@@ -5833,6 +5870,8 @@
 0.0.0.0 www.mkt3797.com
 0.0.0.0 mkt3824.com
 0.0.0.0 www.mkt3824.com
+0.0.0.0 mkt4163.com
+0.0.0.0 www.mkt4163.com
 0.0.0.0 mkt4245.com
 0.0.0.0 www.mkt4245.com
 0.0.0.0 mkt4424.com
@@ -5849,26 +5888,40 @@
 0.0.0.0 www.mkt4644.com
 0.0.0.0 mkt4750.com
 0.0.0.0 www.mkt4750.com
+0.0.0.0 mkt4780.com
+0.0.0.0 www.mkt4780.com
 0.0.0.0 mkt4791.com
 0.0.0.0 www.mkt4791.com
+0.0.0.0 mkt4813.com
+0.0.0.0 www.mkt4813.com
+0.0.0.0 mkt4861.com
+0.0.0.0 www.mkt4861.com
 0.0.0.0 mkt4934.com
 0.0.0.0 www.mkt4934.com
 0.0.0.0 mkt5131.com
 0.0.0.0 www.mkt5131.com
 0.0.0.0 mkt5142.com
 0.0.0.0 www.mkt5142.com
+0.0.0.0 mkt5155.com
+0.0.0.0 www.mkt5155.com
 0.0.0.0 mkt5269.com
 0.0.0.0 www.mkt5269.com
+0.0.0.0 mkt5422.com
+0.0.0.0 www.mkt5422.com
 0.0.0.0 mkt5558.com
 0.0.0.0 www.mkt5558.com
 0.0.0.0 mkt5566.com
 0.0.0.0 www.mkt5566.com
 0.0.0.0 mkt5657.com
 0.0.0.0 www.mkt5657.com
+0.0.0.0 mkt5705.com
+0.0.0.0 www.mkt5705.com
 0.0.0.0 mkt5763.com
 0.0.0.0 www.mkt5763.com
 0.0.0.0 mkt5774.com
 0.0.0.0 www.mkt5774.com
+0.0.0.0 mkt5808.com
+0.0.0.0 www.mkt5808.com
 0.0.0.0 mkt5894.com
 0.0.0.0 www.mkt5894.com
 0.0.0.0 mkt5908.com
@@ -5879,6 +5932,8 @@
 0.0.0.0 www.mkt5971.com
 0.0.0.0 mkt6109.com
 0.0.0.0 www.mkt6109.com
+0.0.0.0 mkt6308.com
+0.0.0.0 www.mkt6308.com
 0.0.0.0 mkt6316.com
 0.0.0.0 www.mkt6316.com
 0.0.0.0 mkt6320.com
@@ -5919,6 +5974,8 @@
 0.0.0.0 www.mkt7752.com
 0.0.0.0 mkt7753.com
 0.0.0.0 www.mkt7753.com
+0.0.0.0 mkt7773.com
+0.0.0.0 www.mkt7773.com
 0.0.0.0 mkt7817.com
 0.0.0.0 www.mkt7817.com
 0.0.0.0 mkt7842.com
@@ -5927,6 +5984,8 @@
 0.0.0.0 www.mkt7883.com
 0.0.0.0 mkt7966.com
 0.0.0.0 www.mkt7966.com
+0.0.0.0 mkt7972.com
+0.0.0.0 www.mkt7972.com
 0.0.0.0 mkt7974.com
 0.0.0.0 www.mkt7974.com
 0.0.0.0 mkt8085.com
@@ -5937,6 +5996,8 @@
 0.0.0.0 www.mkt826.com
 0.0.0.0 mkt8305.com
 0.0.0.0 www.mkt8305.com
+0.0.0.0 mkt8399.com
+0.0.0.0 www.mkt8399.com
 0.0.0.0 mkt8455.com
 0.0.0.0 www.mkt8455.com
 0.0.0.0 mkt8531.com
@@ -5947,6 +6008,10 @@
 0.0.0.0 www.mkt8739.com
 0.0.0.0 mkt8796.com
 0.0.0.0 www.mkt8796.com
+0.0.0.0 mkt8898.com
+0.0.0.0 www.mkt8898.com
+0.0.0.0 mkt8924.com
+0.0.0.0 www.mkt8924.com
 0.0.0.0 mkt8988.com
 0.0.0.0 www.mkt8988.com
 0.0.0.0 mkt8990.com
@@ -5957,6 +6022,8 @@
 0.0.0.0 www.mkt912.com
 0.0.0.0 mkt922.com
 0.0.0.0 www.mkt922.com
+0.0.0.0 mkt9273.com
+0.0.0.0 www.mkt9273.com
 0.0.0.0 mkt932.com
 0.0.0.0 www.mkt932.com
 0.0.0.0 mkt9469.com
@@ -7225,6 +7292,7 @@
 0.0.0.0 images.global.radware.com
 0.0.0.0 brc.emails.rakuten.com
 0.0.0.0 go.rakuten.com
+0.0.0.0 10.ram-server.com
 0.0.0.0 nova.rambler.ru
 0.0.0.0 click01.ssp.rambler.ru
 0.0.0.0 click02.ssp.rambler.ru
@@ -7470,6 +7538,7 @@
 0.0.0.0 tracking.rtl.de
 0.0.0.0 analytics.rtl2.de
 0.0.0.0 sadbmetrics.rtve.es
+0.0.0.0 metrics5.dt.dbankcloud.ru.dlink
 0.0.0.0 ru4.com
 0.0.0.0 rudderstack.com
 0.0.0.0 www.rudderstack.com
@@ -7485,6 +7554,8 @@
 0.0.0.0 rutrk.org
 0.0.0.0 www.rutrk.org
 0.0.0.0 share.rvshare.com
+0.0.0.0 rwadx.com
+0.0.0.0 www.rwadx.com
 0.0.0.0 ssl.o.rxlist.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 smetrics.ryanair.com
@@ -7524,6 +7595,8 @@
 0.0.0.0 salesfeed.com
 0.0.0.0 www.salesfeed.com
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
+0.0.0.0 salesloft.com
+0.0.0.0 www.salesloft.com
 0.0.0.0 resources.salientsys.com
 0.0.0.0 smetrics.salliemae.com
 0.0.0.0 smetrics.salomon.com
@@ -7635,6 +7708,8 @@
 0.0.0.0 secure.seat6worn.com
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 seccint.com
+0.0.0.0 secondservice-developer.com
+0.0.0.0 www.secondservice-developer.com
 0.0.0.0 secondstreetapp.com
 0.0.0.0 www.secondstreetapp.com
 0.0.0.0 req.secured-content.com
@@ -7711,6 +7786,8 @@
 0.0.0.0 septetsfactor.com
 0.0.0.0 www.septetsfactor.com
 0.0.0.0 somni.serve.com
+0.0.0.0 server.com
+0.0.0.0 www.server.com
 0.0.0.0 serversmtpclick.com
 0.0.0.0 www.serversmtpclick.com
 0.0.0.0 serveuser.com
@@ -7788,6 +7865,8 @@
 0.0.0.0 wine.census.shodan.io
 0.0.0.0 go.shoesforcrews.com
 0.0.0.0 refer.shoesforcrews.com
+0.0.0.0 shooshtime.com
+0.0.0.0 www.shooshtime.com
 0.0.0.0 shop2market.com
 0.0.0.0 www.shop2market.com
 0.0.0.0 track.shoparize.com
@@ -7930,6 +8009,8 @@
 0.0.0.0 slclktrk008.com
 0.0.0.0 www.slclktrk008.com
 0.0.0.0 zeroup3.slclktrk008.com
+0.0.0.0 sleazyneasy.com
+0.0.0.0 www.sleazyneasy.com
 0.0.0.0 sleeknote.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 www.sleeknote.com
@@ -8301,6 +8382,8 @@
 0.0.0.0 www.syncronex.com
 0.0.0.0 smetrics.synopsys.com
 0.0.0.0 www2.syntrio.com
+0.0.0.0 szhk.com
+0.0.0.0 www.szhk.com
 0.0.0.0 go.business.t-mobile.com
 0.0.0.0 now.t-mobile.com
 0.0.0.0 now1.t-mobile.com
@@ -8454,6 +8537,8 @@
 0.0.0.0 www.tenjin.com
 0.0.0.0 tent0mown.com
 0.0.0.0 www.tent0mown.com
+0.0.0.0 tenthserviceupdater.com
+0.0.0.0 www.tenthserviceupdater.com
 0.0.0.0 teradatadmc.com
 0.0.0.0 www.teradatadmc.com
 0.0.0.0 info.terex.com
@@ -8908,6 +8993,7 @@
 0.0.0.0 sxjfhh.usatoday.com
 0.0.0.0 usbla.net
 0.0.0.0 tubestatic.usco1621-b.com
+0.0.0.0 stats.uscreen.io
 0.0.0.0 app.usctrojans.com
 0.0.0.0 t.usctrojans.com
 0.0.0.0 use-application-dns.net
@@ -9035,6 +9121,8 @@
 0.0.0.0 vidazoo.com
 0.0.0.0 www.vidazoo.com
 0.0.0.0 tracker.vidconvert.io
+0.0.0.0 video-watch1.com
+0.0.0.0 www.video-watch1.com
 0.0.0.0 videogenetic.com
 0.0.0.0 www.videogenetic.com
 0.0.0.0 videoly.co
@@ -9518,6 +9606,7 @@
 0.0.0.0 xhr0.xyz
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 mistat.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -9586,6 +9675,7 @@
 0.0.0.0 yeeopium.com
 0.0.0.0 www.yeeopium.com
 0.0.0.0 s-omniture.yell.com
+0.0.0.0 yellgroup.com
 0.0.0.0 mapp.yesstyle.com
 0.0.0.0 yesware.com
 0.0.0.0 www.yesware.com
