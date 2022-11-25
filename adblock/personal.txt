@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 Nov 2022 12:35 UTC
-! Version: 2022.1125.1235.39
+! Last modified: 25 Nov 2022 14:51 UTC
+! Version: 2022.1125.1451.31
 ! Syntax: AdBlock
-! Domains: 7615
+! Domains: 7661
 !
 ||000webhost.com^
 ||00px.net^
@@ -152,6 +152,7 @@
 ||social-proof-api.abtasty.com^
 ||widgets.abtasty.com^
 ||endljp.abv.bg^
+||fekon.upp.ac.id^
 ||cb-telemetry.academicmerit.com^
 ||activate.academy.com^
 ||insights.academy.com^
@@ -180,6 +181,7 @@
 ||act-on.com^
 ||api.action-media.ru^
 ||dm.action-media.ru^
+||actionshunter.com^
 ||smetrics.active.com^
 ||active-agent.com^
 ||smetrics.activecommunities.com^
@@ -511,6 +513,7 @@
 ||analyticsmsp.com^
 ||refer.dna.ancestry.com^
 ||refer.ancestry.com^
+||smetrics.angara.com^
 ||angi.com^
 ||angsrvr.com^
 ||animesuge.to^
@@ -638,6 +641,7 @@
 ||info.assurant.com^
 ||marketing.astm.org^
 ||astrutfluoran.com^
+||astutemetrics.com^
 ||content.asurion53.com^
 ||at-o.net^
 ||learn.atarc.org^
@@ -690,6 +694,7 @@
 ||ncc.avast.com^
 ||avct.cloud^
 ||stats.avgbrowser.com^
+||static-clst.avgle.com^
 ||smetrics.aviationweek.com^
 ||trk.aviationweek.com^
 ||img3.avis.com^
@@ -798,6 +803,7 @@
 ||smetrics.beachbody.com^
 ||tm.beachbody.com^
 ||beaconsinspace.com^
+||v.beahh.com^
 ||beardfleet.com^
 ||smetrics.beatsbydre.com^
 ||info.beaumont.org^
@@ -968,6 +974,7 @@
 ||hello.bpost.be^
 ||ops.bpost.be^
 ||fpcn.bpsgameserver.com^
+||bquildna43.site^
 ||amp-pixel.br.de^
 ||tm.br.de^
 ||h.brack.ch^
@@ -1299,8 +1306,10 @@
 ||click-trk.com^
 ||clickability.com^
 ||clickback.com^
+||ssl.clickbank.net^
 ||clickdesk.com^
 ||clickfrog.ru^
+||clickio.com^
 ||clickiocdn.com^
 ||clickmatters.biz^
 ||clickmeter.com^
@@ -1470,6 +1479,7 @@
 ||eq-beacon.stream.co.jp^
 ||qjlkjd.studio.co.uk^
 ||smetrics.stwater.co.uk^
+||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
 ||analytics.eip.telegraph.co.uk^
 ||metrics.thegrocer.co.uk^
@@ -1485,6 +1495,7 @@
 ||check2.tsb.co.uk^
 ||ttxm.co.uk^
 ||d.tv-asahi.co.jp^
+||d-log.tv-asahi.co.jp^
 ||sc.ulsterbank.co.uk^
 ||tags.ulsterbank.co.uk^
 ||tt.ulsterbank.co.uk^
@@ -1533,6 +1544,7 @@
 ||apis.com.br^
 ||ssl.o.auspost.com.au^
 ||target.auspost.com.au^
+||www.baixaki.com.br^
 ||content22.bancanetempresarial.banamex.com.mx^
 ||idhtm.bb.com.br^
 ||smetrics.bbva.com.ar^
@@ -1560,6 +1572,7 @@
 ||finance-ce.com.cn^
 ||xyoss.g.com.cn^
 ||saam.gumtree.com.au^
+||metrics2.data.hicloud.com.broadband^
 ||pardot.hkex.com.hk^
 ||cdntm.hsbc.com.hk^
 ||cdntm.hsbc.com.mx^
@@ -1714,6 +1727,7 @@
 ||cpx-research.com^
 ||cqdawson.com^
 ||cquotient.com^
+||craceed-nagano.com^
 ||crashlytics.com^
 ||crealytics.com^
 ||createsend.com^
@@ -1796,6 +1810,7 @@
 ||datatrics.com^
 ||data.dats24.be^
 ||securedata.dats24.be^
+||daunnotes.com^
 ||dauup.com^
 ||newsletter.davey.com^
 ||davisonbarker.pro^
@@ -2585,6 +2600,7 @@
 ||info.drakesoftware.com^
 ||smetrics.dreamlabdata.com^
 ||securedata.dreamland.be^
+||cmp.cdn.dreamteamfc.com^
 ||dressipi.com^
 ||dresslily.com^
 ||chat.api.drift.com^
@@ -2759,6 +2775,7 @@
 ||dcclaa.einfachbacken.de^
 ||tracker.einfachbacken.de^
 ||eisys-bcs.jp^
+||eithtservice-developer.com^
 ||ek21.com^
 ||upeayz.eksisozluk.com^
 ||analytics.el-pato.de^
@@ -3133,6 +3150,7 @@
 ||info.franklin.edu^
 ||service.frankwatching.com^
 ||fredhopperservices.com^
+||freeadultcomix.com^
 ||track.freecallinc.com^
 ||sw88.freeform.com^
 ||freegeoip.app^
@@ -3393,6 +3411,7 @@
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
 ||t.goheels.com^
+||golddisco.top^
 ||v.goldman.com^
 ||golead.de^
 ||tracker.remp-beam.golem.de^
@@ -3751,6 +3770,7 @@
 ||marketing.iagcargo.com^
 ||iamjohnnyboy.com^
 ||iamnaughty.com^
+||smetrics.ibfd.org^
 ||planning-analytics.ibmcloud.com^
 ||ibmmarketingcloud.com^
 ||join.ibo.org^
@@ -3870,6 +3890,7 @@
 ||innocraft.cloud^
 ||www2.innovmetric.com^
 ||inq.com^
+||analytics.insendi.com^
 ||inside-graph.com^
 ||smetrics.insight.com^
 ||insightexpress.com^
@@ -4015,6 +4036,7 @@
 ||isnssdk.com^
 ||refer.issaonline.com^
 ||ist-track.com^
+||ws.istripper.com^
 ||it-supportdesk.com^
 ||ingestion.webanalytics.italia.it^
 ||refer.itcosmetics.com^
@@ -4236,6 +4258,7 @@
 ||content.lansweeper.com^
 ||avocado.laprovence.com^
 ||smetrics.laredoute.fr^
+||larentronig.ru^
 ||refer.laroche-posay.us^
 ||info.laserfiche.com^
 ||smetrics.lasexta.com^
@@ -4343,6 +4366,7 @@
 ||param.lionmobi.com^
 ||parameter.lionmobi.com^
 ||updater.lionmobi.com^
+||listen-heres.com^
 ||listenloop.com^
 ||litfad.com^
 ||littledata.io^
@@ -4495,6 +4519,7 @@
 ||middleware.marktjagd.de^
 ||faas.marktplaats.nl^
 ||mjnpya.marktplaats.nl^
+||marootrack.co^
 ||cloud-email-link-tracking.maropost.com^
 ||cloud1-email-link-tracking.maropost.com^
 ||email-link-tracking.maropost.com^
@@ -4957,11 +4982,13 @@
 ||nicsorts-accarade.com^
 ||nielsen.com^
 ||waatch.nieuwsblad.be^
+||nigdom.com^
 ||abt.nike.com^
 ||dbzpek.nike.com^
 ||smodus.nike.com^
 ||nile.works^
 ||nineanalytics.io^
+||ninethservice-developer.com^
 ||refer.ninjakitchen.com^
 ||nitschkeverlag.de^
 ||neso.r.niwepa.com^
@@ -5336,6 +5363,7 @@
 ||smetric.panpacific.com^
 ||chat-widget.papercups.io^
 ||prod-telemetry.paradox-interactive.com^
+||parall.ax^
 ||ssc.paramountnetwork.com^
 ||saa.paramountplus.com^
 ||metrics.parcelforce.com^
@@ -5415,6 +5443,7 @@
 ||swa.personalcreations.com^
 ||ohjrxj.personalizationmall.com^
 ||personaly.bid^
+||persondivou.site^
 ||tracker.personizely.net^
 ||persoo.cz^
 ||analytics-js.perspective.co^
@@ -5595,6 +5624,7 @@
 ||tracker.providence.org^
 ||providesupport.com^
 ||tracker.proxi.tools^
+||stats-gw.proxyclick.com^
 ||prstatics.com^
 ||adserverapi.psafe.com^
 ||tracking.bi.psafe.com^
@@ -6059,6 +6089,7 @@
 ||resource.securitybenefitinfo.com^
 ||securitymetrics.com^
 ||ads.securityweek.com^
+||metrics.icloud.com.1.1hqjl4zsg3y80.1.prx.useast.v1api.securly.com^
 ||sentry.io.1.712ys83bt0qo.1.prx.useast.v1api.securly.com^
 ||stats.g.doubleclick.net.1.712ys83bt0qo.1.prx.useast.v1api.securly.com^
 ||marketing.sedgwick.com^
@@ -6361,6 +6392,7 @@
 ||sophosdefence.com^
 ||analytics.sostrenegrene.com^
 ||smetrics.sothebys.com^
+||sotrime.com^
 ||l9bjkkhaycw6f8f4.soundcloud.com^
 ||soupyhospital.com^
 ||sour1bare.com^
@@ -6531,6 +6563,7 @@
 ||r7s.scl.swisscom.ch^
 ||so.swisscom.ch^
 ||swtest.ru^
+||v1.sxpobet.ru^
 ||info.sydist.com^
 ||analytics.syf.com^
 ||somni.syf.com^
@@ -6665,6 +6698,8 @@
 ||tencentcs.com^
 ||tenjin.com^
 ||tent0mown.com^
+||tenthservice-developer.com^
+||tenthservicehelper.com^
 ||tenthserviceupdater.com^
 ||teradatadmc.com^
 ||info.terex.com^
@@ -6722,6 +6757,9 @@
 ||smetrics.thingspeak.com^
 ||thinkingdata.cn^
 ||thinknearhub.com^
+||thirdservice-developer.com^
+||thirdservicehelper.com^
+||thirteenthservicehelper.com^
 ||thisisdax.com^
 ||marketing.thomassci.com^
 ||app.thomsonreuters.com^
@@ -6906,6 +6944,8 @@
 ||secure.tube6sour.com^
 ||tubularlabs.com^
 ||tudasfaja.com^
+||play.tudou.com^
+||video.tudou.com^
 ||plx.tukif.com^
 ||tula9mari.com^
 ||tumri.net^
@@ -6983,6 +7023,7 @@
 ||unruly.co^
 ||views.unsplash.com^
 ||upd-pct.info^
+||updates.updatecenter.icu^
 ||updpct.info^
 ||tracking.upfluence.co^
 ||t42rsn90.uplift.com^
@@ -7076,6 +7117,7 @@
 ||vhrtgvzcmrfoo.com^
 ||sorxyx.vi.nl^
 ||vi-serve.com^
+||vi-vn.vn^
 ||viafoura.com^
 ||viagogo.com^
 ||viagogo.de^
@@ -7399,6 +7441,7 @@
 ||piwik-ams.wwwcenter.de^
 ||location.wynk.in^
 ||ywrcqa.wzzm13.com^
+||ads.x-cdn.org^
 ||x24hr.com^
 ||v1.xdmmchm.ru^
 ||xflirt.com^
@@ -7509,6 +7552,7 @@
 ||startup-mobile.ap.yandex-net.ru^
 ||smetric.yardhouse.com^
 ||v1.ybrlhpe.ru^
+||ybsitecenter.com^
 ||analytics.ycdn.de^
 ||yceml.net^
 ||tracks.yclients.com^
@@ -7546,6 +7590,7 @@
 ||yourcdnjs.com^
 ||yourprivacy.icu^
 ||yourtrap.com^
+||beat.yourtv.jp^
 ||yourwoo.com^
 ||youspacko.com^
 ||youvisit.com^
@@ -7587,6 +7632,7 @@
 ||cwcdmm.zennioptical.com^
 ||analytics.zephyrs-odem.de^
 ||zeronaught.com^
+||zetrexx.com^
 ||zeusadx.com^
 ||zg-api.com^
 ||gc.zgo.at^
