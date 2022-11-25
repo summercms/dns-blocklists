@@ -1848,3 +1848,6 @@ app.gitbook.com
 # Manage kmail lists
 static.klaviyo.com
 
+# https://github.com/hagezi/dns-blocklists/issues/72
+manli.com
+
