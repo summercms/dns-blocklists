@@ -1840,3 +1840,6 @@ js.captcha-display.com
 # gitbook.io
 app.gitbook.com
 
+# Unsubscribe from various Newsletters
+*.seu.cleverreach.com
+
