@@ -1843,5 +1843,8 @@
 @@|app.gitbook.com^
 
 ! Unsubscribe from various Newsletters
-@@||seu.cleverreach.com^
+@@||seu*.cleverreach.com^
+
+! Manage kmail lists
+@@|static.klaviyo.com^
 
