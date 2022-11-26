@@ -1861,3 +1861,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/74
 @@|b-cdn.net^
 
+! https://github.com/hagezi/dns-blocklists/issues/75
+@@|ip.istatmenus.app^
+
