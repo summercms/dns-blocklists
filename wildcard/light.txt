@@ -114036,7 +114036,6 @@
 *.segmentapis.com
 *.sponsor.segmentfault.com
 *.segmenthub.com
-*.segmentify.com
 *.track.segmentstream.com
 *.segmetrics.io
 *.secure2.segpay.com
@@ -114945,7 +114944,6 @@
 *.sgizmo.com
 *.sgl2h3.icu
 *.sglyd.cn
-*.sgmntfy.com
 *.cookie-jam.sgn.com
 *.invenio.sgn.com
 *.analytics.sgnapps.com
