@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Nov 2022 12:07 UTC
-# Version: 2022.1125.1207.48
+# Last modified: 27 Nov 2022 00:54 UTC
+# Version: 2022.1127.0054.24
 # Syntax: Hosts
-# Domains: 11553
+# Domains: 11548
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -346,8 +346,6 @@
 0.0.0.0 www.allescasual.at
 0.0.0.0 www.allescasual.ch
 0.0.0.0 www.allescasual.de
-0.0.0.0 allesfurgartenoutlet.com
-0.0.0.0 www.allesfurgartenoutlet.com
 0.0.0.0 allesnett.de
 0.0.0.0 www.allesnett.de
 0.0.0.0 alleszumheizen.com
@@ -2083,6 +2081,7 @@
 0.0.0.0 luna-motors.co.uk
 0.0.0.0 luxeparfum.co.uk
 0.0.0.0 mgfoundation.co.uk
+0.0.0.0 officialiphoneunlock.co.uk
 0.0.0.0 one8.co.kr
 0.0.0.0 perfektegeschenke.co.uk
 0.0.0.0 ra-fragrance.co.uk
@@ -2493,8 +2492,6 @@
 0.0.0.0 www.dein-gartenmarkt.de
 0.0.0.0 dein-huettenurlaub.de
 0.0.0.0 www.dein-huettenurlaub.de
-0.0.0.0 deinbike.net
-0.0.0.0 www.deinbike.net
 0.0.0.0 deinbikeprofi.de
 0.0.0.0 www.deinbikeprofi.de
 0.0.0.0 deine-modewelt.com
@@ -4911,6 +4908,8 @@
 0.0.0.0 www.hotels-colorado.net
 0.0.0.0 hotels-in-riga.de
 0.0.0.0 www.hotels-in-riga.de
+0.0.0.0 hotels-in-tyrol.com
+0.0.0.0 www.hotels-in-tyrol.com
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 www.hotelsinperm.ru
 0.0.0.0 hotelsinvienna.org
@@ -6901,8 +6900,6 @@
 0.0.0.0 www.modency.de
 0.0.0.0 modernindigo.com
 0.0.0.0 www.modernindigo.com
-0.0.0.0 modetalente.com
-0.0.0.0 www.modetalente.com
 0.0.0.0 modetopper.com
 0.0.0.0 www.modetopper.com
 0.0.0.0 moditec.fr
@@ -9271,8 +9268,6 @@
 0.0.0.0 www.slamlook.com
 0.0.0.0 sleepcloud.eu
 0.0.0.0 www.sleepcloud.eu
-0.0.0.0 slewo.com
-0.0.0.0 www.slewo.com
 0.0.0.0 slightsmeell.com
 0.0.0.0 www.slightsmeell.com
 0.0.0.0 slimyliquid.de
