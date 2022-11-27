@@ -104,6 +104,7 @@
 @@|securemvt.apple.com^
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
+@@|trackingshipment.apple.com^
 ! https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558
 ! xp.apple.com
 
@@ -210,6 +211,7 @@
 @@|mail.google.com^
 @@|manifest.googlevideo.com^
 @@|mobilecrashreporting.googleapis.com^
+@@|optimizationguide-pa.googleapis.com^
 @@|padlet-uploads.storage.googleapis.com^
 @@|people-pa.googleapis.com^
 @@|playmoviesdfe-pa.googleapis.com^
@@ -266,6 +268,7 @@
 @@|prod.nexusrules.live.com.akadns.net^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
+@@|settings.data.microsoft.com^
 @@|settings-win.data.microsoft.com^
 @@|target.microsoft.com^
 @@|time.windows.com^
@@ -290,8 +293,8 @@
 @@|secure.netflix.com^
 
 ! Nintendo Switch
-@@|nintendo.com^
-@@|nintendo.net^
+@@||nintendo.com^
+@@||nintendo.net^
 @@||nintendowifi.net^
 @@|a1843.g.akamai.net^
 
@@ -311,34 +314,35 @@
 @@|paypalobjects.com^
 
 ! Sony (Playstation)
-@@|playstation.com^
-@@|playstation.com.edgekey.net^
-@@|playstation.com.ssl.d1.sc.omtrdc.net^
-@@|playstation.net^
-@@|sonycoment.loris-e.llnwd.net^
-@@|sonyentertainmentnetwork.com^
-@@|sonyjpnpsg-1.hs.llnwd.net^
+@@||playstation.com^
+@@||playstation.com.edgekey.net^
+@@||playstation.com.ssl.d1.sc.omtrdc.net^
+@@||playstation.net^
+@@||playstation.net.edgekey88.net^
+@@||sonycoment.loris-e.llnwd.net^
+@@||sonyentertainmentnetwork.com^
+@@||sonyjpnpsg-1.hs.llnwd.net^
 
 ! Steam
-@@|s.team^
-@@|steam-chat.com^
-@@|steambroadcast.akamaized.net^
-@@|steamcdn-a.akamaihd.net^
-@@|steamchina.com^
-@@|steamcommunity-a.akamaihd.net^
-@@|steamcommunity.com^
-@@|steamcontent.com^
-@@|steamgames.com^
-@@|steampowered.com^
-@@|steampowered.com.8686c.com^
-@@|steamstatic.com^
-@@|steamstatic.com.8686c.com^
-@@|steamstore-a.akamaihd.net^
-@@|steamusercontent-a.akamaihd.net^
-@@|steamusercontent.com^
-@@|steamuserimages-a.akamaihd.net^
-@@|steamvideo-a.akamaihd.net^
-@@|valvesoftware.com^
+@@||s.team^
+@@||steam-chat.com^
+@@||steambroadcast.akamaized.net^
+@@||steamcdn-a.akamaihd.net^
+@@||steamchina.com^
+@@||steamcommunity-a.akamaihd.net^
+@@||steamcommunity.com^
+@@||steamcontent.com^
+@@||steamgames.com^
+@@||steampowered.com^
+@@||steampowered.com.8686c.com^
+@@||steamstatic.com^
+@@||steamstatic.com.8686c.com^
+@@||steamstore-a.akamaihd.net^
+@@||steamusercontent-a.akamaihd.net^
+@@||steamusercontent.com^
+@@||steamuserimages-a.akamaihd.net^
+@@||steamvideo-a.akamaihd.net^
+@@||valvesoftware.com^
 
 ! Signal
 @@|signal.org^
@@ -455,14 +459,14 @@
 @@|whatsappbrand.com^
 
 ! XBox
-@@|xbox.com^
-@@|xboxab.com^
-@@|xboxab.net^
-@@|xboxlive.com^
-@@|xboxlive.com.akadns.net^
-@@|xboxlive.com.c.footprint.net^
-@@|xboxlive.com.edgekey.net^
-@@|xboxservices.com^
+@@||xbox.com^
+@@||xboxab.com^
+@@||xboxab.net^
+@@||xboxlive.com^
+@@||xboxlive.com.akadns.net^
+@@||xboxlive.com.c.footprint.net^
+@@||xboxlive.com.edgekey.net^
+@@||xboxservices.com^
 
 ! Youtube
 @@||googlevideo.com^
@@ -1605,7 +1609,7 @@
 @@|disguised.nl^
 
 ! Prevents registration on rungne.com
-@@|a.klaviyo.com^
+@@||a.klaviyo.com^
 
 ! Videos in Glomex player
 @@|lush-clouds.zomap.de^
@@ -1756,7 +1760,7 @@
 ! EA Desktop App - Properties/Download unavailable / Affects various apps
 @@|auth.split.io^
 @@|cdn.split.io^
-@@|events.split.io^
+! events.split.io
 @@|sdk.split.io^
 
 ! https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
@@ -1769,7 +1773,7 @@
 @@|norden.social^
 
 ! Breaks naver.com
-@@|tivan.naver.com^
+@@||tivan.naver.com^
 
 ! Greek school sites
 @@||sch.gr^
@@ -1863,4 +1867,15 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/75
 @@|ip.istatmenus.app^
+
+! Sitelayout gratis.com and other sites
+@@|cdn.segmentify.com^
+@@|per*.segmentify.com^
+@@|cdn.sgmntfy.com^
+
+! Yep search results
+@@|api.yep.com^
+
+! Breaks site layout on therapythatworksinstitute.com and others
+@@||kajabi-cdn.com^
 
