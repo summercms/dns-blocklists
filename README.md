@@ -241,7 +241,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *11673 domains/hosts - 9044 compressed domains*
+**Entries:** *9103 domains/hosts - 6951 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
