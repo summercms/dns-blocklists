@@ -1879,3 +1879,6 @@ api.yep.com
 # Breaks site layout on therapythatworksinstitute.com and others
 *.kajabi-cdn.com
 
+# Open-source and modern URL shortener
+kutt.it
+
