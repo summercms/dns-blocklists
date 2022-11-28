@@ -1,12 +1,13 @@
 ! Title: HaGeZi's The World's Most Abused TLDs
-! Description: The Top Most Abused Top Level Domains by SpamHaus
+! Description: The Top Most Abused Top Level Domains by SpamHaus and @yokoffing
 ! Source: https://www.spamhaus.org/statistics/tlds/
+!         https://github.com/yokoffing/NextDNS-Config#block-top-level-domains-tlds-1-2-3-4-5-6-
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 28 Nov 2022 12:38 UTC
-! Version: 2022.1128.1238.04
+! Last modified: 28 Nov 2022 12:47 UTC
+! Version: 2022.1128.1247.58
 ! Syntax: AdBlock
 !
 ||asia^
