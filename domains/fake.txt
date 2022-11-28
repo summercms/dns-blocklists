@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Nov 2022 00:54 UTC
-# Version: 2022.1127.0054.24
+# Last modified: 28 Nov 2022 00:53 UTC
+# Version: 2022.1128.0053.53
 # Syntax: Domains
-# Domains: 11548
+# Domains: 11540
 #
 willhaben.at.04300.id
 11trikots.com
@@ -78,6 +78,8 @@ aalborgfrivilligraad.dk
 www.aalborgfrivilligraad.dk
 aaliencart.com
 www.aaliencart.com
+aavqb.com
+www.aavqb.com
 ab-homes.com
 www.ab-homes.com
 ababilhajjbd.com
@@ -1937,6 +1939,8 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
+chicsoso.com
+www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -2417,16 +2421,12 @@ datingdeluxe.de
 www.datingdeluxe.at
 www.datingdeluxe.ch
 www.datingdeluxe.de
-daughtersofindia.net
-www.daughtersofindia.net
 daveintheshop.com
 www.daveintheshop.com
 davesaunderscfo.com
 www.davesaunderscfo.com
 davidkimboyle.net
 www.davidkimboyle.net
-davidoutwear.com
-www.davidoutwear.com
 daygpl.shop
 www.daygpl.shop
 daytradinginstitutionpro.com
@@ -2502,8 +2502,6 @@ deinlieblingstier.com
 www.deinlieblingstier.com
 deinschuhwerk.de
 www.deinschuhwerk.de
-deinseitensprung.com
-www.deinseitensprung.com
 deiste.top
 www.deiste.top
 dejonk.de
@@ -3945,8 +3943,6 @@ freizeiteo.com
 www.freizeiteo.com
 freliva.de
 www.freliva.de
-fremdgehen69.online
-www.fremdgehen69.online
 freshhoods.com
 www.freshhoods.com
 frettchen-fun.de
@@ -4894,8 +4890,6 @@ hotcheapswear.store
 www.hotcheapswear.store
 hotcollectiblegoods.com
 www.hotcollectiblegoods.com
-hotdates18.com
-www.hotdates18.com
 hotechnetzteil.de
 www.hotechnetzteil.de
 hotelaustralien.de
@@ -5173,6 +5167,8 @@ ingayoga.de
 www.ingayoga.de
 ingbert-unruh.de
 www.ingbert-unruh.de
+ingersoll1892.com
+www.ingersoll1892.com
 ingramfineart.com
 www.ingramfineart.com
 inhomepi.com
@@ -6612,8 +6608,6 @@ www.mehnike.com
 mehrwerken.de
 meier-24.com
 www.meier-24.com
-meierelektro.net
-www.meierelektro.net
 meiers.eu
 www.meiers.eu
 mein-babybauch.de
@@ -9268,6 +9262,8 @@ slamlook.com
 www.slamlook.com
 sleepcloud.eu
 www.sleepcloud.eu
+slewo.com
+www.slewo.com
 slightsmeell.com
 www.slightsmeell.com
 slimyliquid.de
@@ -10713,8 +10709,6 @@ vespin-versand.de
 vespin24.de
 vetola.de
 www.vetola.de
-vevor.de
-www.vevor.de
 vfcsnc.shop
 www.vfcsnc.shop
 vgr8.com
@@ -11333,8 +11327,6 @@ xo-trier.de
 www.xo-trier.de
 xojctzs.top
 www.xojctzs.top
-xpartner.de
-www.xpartner.de
 xplor-express.com
 www.xplor-express.com
 xpresstravelbureau.com
