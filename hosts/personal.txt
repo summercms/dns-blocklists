@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Nov 2022 15:01 UTC
-# Version: 2022.1127.1501.15
+# Last modified: 28 Nov 2022 01:20 UTC
+# Version: 2022.1128.0120.50
 # Syntax: Hosts
-# Domains: 9103
+# Domains: 9096
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -256,8 +256,6 @@
 0.0.0.0 pubstr.acs.org
 0.0.0.0 api.action-media.ru
 0.0.0.0 dm.action-media.ru
-0.0.0.0 actionshunter.com
-0.0.0.0 www.actionshunter.com
 0.0.0.0 smetrics.active.com
 0.0.0.0 active-agent.com
 0.0.0.0 www.active-agent.com
@@ -6331,6 +6329,7 @@
 0.0.0.0 androidlog.ws.pho.to
 0.0.0.0 banner.ws.pho.to
 0.0.0.0 smetrics.phoenix.edu
+0.0.0.0 ads-static.phonepe.com
 0.0.0.0 phrensaltier.com
 0.0.0.0 www.phrensaltier.com
 0.0.0.0 mobilecontent.networks.prod.p0.phx-infra.com
@@ -7843,8 +7842,6 @@
 0.0.0.0 www.tenjin.com
 0.0.0.0 tenthservice-developer.com
 0.0.0.0 www.tenthservice-developer.com
-0.0.0.0 tenthservicehelper.com
-0.0.0.0 www.tenthservicehelper.com
 0.0.0.0 tenthserviceupdater.com
 0.0.0.0 www.tenthserviceupdater.com
 0.0.0.0 teradatadmc.com
@@ -8387,8 +8384,6 @@
 0.0.0.0 www.vergic.com
 0.0.0.0 smetrics.vermontcountrystore.com
 0.0.0.0 ads.vertikal.net
-0.0.0.0 vesnarusural.ru
-0.0.0.0 www.vesnarusural.ru
 0.0.0.0 veve.com
 0.0.0.0 izx59.veve.com
 0.0.0.0 mzn65.veve.com
@@ -9067,8 +9062,6 @@
 0.0.0.0 www.zeronaught.com
 0.0.0.0 zeroseistudio.eu
 0.0.0.0 www.zeroseistudio.eu
-0.0.0.0 zetrexx.com
-0.0.0.0 www.zetrexx.com
 0.0.0.0 zeusadx.com
 0.0.0.0 www.zeusadx.com
 0.0.0.0 zg-api.com

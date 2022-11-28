@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Nov 2022 15:01 UTC
-# Version: 2022.1127.1501.15
+# Last modified: 28 Nov 2022 01:20 UTC
+# Version: 2022.1128.0120.50
 # Syntax: DNSMasq
-# Domains: 6951
+# Domains: 6948
 #
 address=/000webhost.com/#
 address=/00px.net/#
@@ -173,7 +173,6 @@ address=/share.acorns.com/#
 address=/pubstr.acs.org/#
 address=/api.action-media.ru/#
 address=/dm.action-media.ru/#
-address=/actionshunter.com/#
 address=/smetrics.active.com/#
 address=/active-agent.com/#
 address=/smetrics.activecommunities.com/#
@@ -4912,6 +4911,7 @@ address=/smetric.philosophy.com/#
 address=/androidlog.ws.pho.to/#
 address=/banner.ws.pho.to/#
 address=/smetrics.phoenix.edu/#
+address=/ads-static.phonepe.com/#
 address=/phrensaltier.com/#
 address=/mobilecontent.networks.prod.p0.phx-infra.com/#
 address=/phychashowi.com/#
@@ -6042,7 +6042,6 @@ address=/tencentcs.com/#
 address=/tenderboard.biz/#
 address=/tenjin.com/#
 address=/tenthservice-developer.com/#
-address=/tenthservicehelper.com/#
 address=/tenthserviceupdater.com/#
 address=/teradatadmc.com/#
 address=/terrificompany.com/#
@@ -6424,7 +6423,6 @@ address=/hwyytk.verabradley.com/#
 address=/vergic.com/#
 address=/smetrics.vermontcountrystore.com/#
 address=/ads.vertikal.net/#
-address=/vesnarusural.ru/#
 address=/veve.com/#
 address=/vevor.de/#
 address=/log.core.cloud.vewd.com/#
@@ -6928,7 +6926,6 @@ address=/cwcdmm.zennioptical.com/#
 address=/analytics.zephyrs-odem.de/#
 address=/zeronaught.com/#
 address=/zeroseistudio.eu/#
-address=/zetrexx.com/#
 address=/zeusadx.com/#
 address=/zg-api.com/#
 address=/gc.zgo.at/#

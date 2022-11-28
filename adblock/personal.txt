@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 27 Nov 2022 15:01 UTC
-! Version: 2022.1127.1501.15
+! Last modified: 28 Nov 2022 01:20 UTC
+! Version: 2022.1128.0120.50
 ! Syntax: AdBlock
-! Domains: 6951
+! Domains: 6948
 !
 ||000webhost.com^
 ||00px.net^
@@ -173,7 +173,6 @@
 ||pubstr.acs.org^
 ||api.action-media.ru^
 ||dm.action-media.ru^
-||actionshunter.com^
 ||smetrics.active.com^
 ||active-agent.com^
 ||smetrics.activecommunities.com^
@@ -4912,6 +4911,7 @@
 ||androidlog.ws.pho.to^
 ||banner.ws.pho.to^
 ||smetrics.phoenix.edu^
+||ads-static.phonepe.com^
 ||phrensaltier.com^
 ||mobilecontent.networks.prod.p0.phx-infra.com^
 ||phychashowi.com^
@@ -6042,7 +6042,6 @@
 ||tenderboard.biz^
 ||tenjin.com^
 ||tenthservice-developer.com^
-||tenthservicehelper.com^
 ||tenthserviceupdater.com^
 ||teradatadmc.com^
 ||terrificompany.com^
@@ -6424,7 +6423,6 @@
 ||vergic.com^
 ||smetrics.vermontcountrystore.com^
 ||ads.vertikal.net^
-||vesnarusural.ru^
 ||veve.com^
 ||vevor.de^
 ||log.core.cloud.vewd.com^
@@ -6928,7 +6926,6 @@
 ||analytics.zephyrs-odem.de^
 ||zeronaught.com^
 ||zeroseistudio.eu^
-||zetrexx.com^
 ||zeusadx.com^
 ||zg-api.com^
 ||gc.zgo.at^
