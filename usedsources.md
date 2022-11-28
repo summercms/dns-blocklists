@@ -48,7 +48,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO.PLUS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-1733995 total unique domains | 1433417 (83%) included | 29393 (2%) removed | 271185 (16%) dead
+1734065 total unique domains | 1433487 (83%) included | 29393 (2%) removed | 271185 (16%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | oisd.domains.txt
@@ -129,6 +129,9 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  76 |      94% |   0% |      6% | black.list.hoster
  77 |     100% |   0% |      0% | apple.txt
  78 |      73% |   0% |     27% | windows-office.txt
+ 79 |     100% |   0% |      0% | pro.plus.extension.domains
+ 80 |      94% |   0% |      6% | hoster.txt
+ 81 |     100% |   0% |      0% | pro.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
