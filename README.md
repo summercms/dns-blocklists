@@ -21,7 +21,7 @@
 15. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 16. [Recommendation](#recommendation)
 17. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
-18. [About](#about) / [Referral Domains](#referral)
+18. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
 19. [Sources/Statistics](usedsources.md)
 20. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
@@ -361,8 +361,10 @@ This list can then be used as a blocklist to "undo" the whitelisting of referral
 *I do not want any money donations. If you don't know what to do with your money, invest it in aid or similar projects, do something good with it. There is enough misery in the world.*             
 *Accepting money donations would also be absolutely unfair to the maintainers of the sources used, that's not my way. Without the existing lists. these lists would be simply nothing.*
                                     
-*If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!*         
-*Give feedback, report false positve domains, help to keep the internet safe and clean. Help and cooperation of any kind is welcome!*
+*If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!* 
+                                
+*Give feedback, show me your ideas, report false positve domains and help to keep the internet safe and clean.*               
+*Help and cooperation of any kind is welcome!*
          
 ***Thanks for your support!***
 
