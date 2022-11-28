@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Nov 2022 03:21 UTC
-# Version: 2022.1128.0321.54
+# Last modified: 28 Nov 2022 19:29 UTC
+# Version: 2022.1128.1929.02
 # Syntax: Hosts
-# Domains: 9645
+# Domains: 9649
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -546,6 +546,7 @@
 0.0.0.0 sherpa.agoda.com
 0.0.0.0 agoop.net
 0.0.0.0 www.agoop.net
+0.0.0.0 agora.io
 0.0.0.0 ap1.agora.io
 0.0.0.0 ap2.agora.io
 0.0.0.0 ap3.agora.io
@@ -559,6 +560,7 @@
 0.0.0.0 statscollector-1-asia.agora.io
 0.0.0.0 statscollector-1-europe.agora.io
 0.0.0.0 webcollector-rtm.agora.io
+0.0.0.0 www.agora.io
 0.0.0.0 agridron.com
 0.0.0.0 www.agridron.com
 0.0.0.0 ahacdn.me
@@ -2362,6 +2364,7 @@
 0.0.0.0 www.ddlmob.com
 0.0.0.0 ddns.info
 0.0.0.0 ddns.us
+0.0.0.0 rushrally3-statistics.ddns.net
 0.0.0.0 www.ddns.info
 0.0.0.0 www.ddns.us
 0.0.0.0 dealer.com
@@ -7002,6 +7005,7 @@
 0.0.0.0 pushnetwork.com
 0.0.0.0 www.pushnetwork.com
 0.0.0.0 pushy.ai
+0.0.0.0 pbsw.pushy.ai
 0.0.0.0 pwigekcyr.com
 0.0.0.0 www.pwigekcyr.com
 0.0.0.0 pwspace.com
