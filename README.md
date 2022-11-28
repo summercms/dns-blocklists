@@ -33,8 +33,8 @@
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
 | [Light](#light)             | 339416<br>144862     |   |   | = | X | P | X |
 | [Normal](#normal)       | 1211073<br>315323     |   | = | X | X | P | X |
-| [Pro](#pro)              | 1330803<br>389520         | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1433487<br>432725 | ++ | X | X | X | P |  X |
+| [Pro](#pro)              | 1330801<br>389519         | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1433485<br>432724 | ++ | X | X | X | P |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -76,7 +76,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1330803 domains/hosts - 389520 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1330801 domains/hosts - 389519 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -93,7 +93,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1433487 domains/hosts - 432725 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1433485 domains/hosts - 432724 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -241,7 +241,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *9645 domains/hosts - 7274 compressed domains*
+**Entries:** *9649 domains/hosts - 7263 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -358,7 +358,11 @@ This list can then be used as a blocklist to "undo" the whitelisting of referral
           
 #### Support Me <a name="support"></a>
 
-*If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!*
+*I do not want any money donations. If you don't know what to do with your money, invest it in aid or similar projects, do something good with it. There is enough misery in the world.*             
+*Accepting money donations would also be absolutely unfair to the maintainers of the sources used, that's not my way. Without the existing lists. these lists would be simply nothing.*
+                                    
+*If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!*         
+*Give feedback, report false positve domains, help to keep the internet safe and clean. Help and cooperation of any kind is welcome!*
          
 ***Thanks for your support!***
 
