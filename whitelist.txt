@@ -570,7 +570,7 @@ i0.gmx.net
 # Pinterest
 ct.pinterest.com
 
-# false detected by regex
+# Ad news NL
 ad.nl
 
 # https://github.com/notracking/hosts-blocklists/issues/767
@@ -598,7 +598,7 @@ te.technical-service.net
 api.revenuecat.com
 
 # HP Smart App - Installation wizard not loading
-mobilesdk-*.kampyle.com
+# mobilesdk-*.kampyle.com
 
 # https://github.com/AdAway/adaway.github.io/issues/309
 cs.liiift.io
@@ -643,9 +643,6 @@ sea.net.edu.cn
 ks.cn
 www.ks.cn
 
-# https://github.com/AdAway/adaway.github.io/issues/338
-pi.pardot.com
-
 # Shop
 koisea.com
 
@@ -681,7 +678,7 @@ activehosted.com
 activecampaign.com
 
 # https://forum.adguard.com/index.php?threads/45115/223037
-amplitude.com
+# amplitude.com
 
 # https://github.com/nextdns/metadata/issues/1020
 mintos.com
@@ -702,7 +699,7 @@ cdn-customers.nanorep.com
 devices.carnivalmobile.com
 
 # Rules update ClearURLs Addon
-rules2.clearurls.xyz
+rules*.clearurls.xyz
 
 # Stock images
 shutterstock.com
@@ -710,7 +707,7 @@ shutterstock.com
 # https://github.com/hagezi/dns-blocklists/issues/24
 go.e2language.com
 
-# Verbraucherzentrale NRW (detected by NRD)
+# Verbraucherzentrale NRW
 fakeshop-finder.nrw
 
 # required for steam purchases
@@ -720,7 +717,7 @@ t.paypal.com
 cdn.elev.io
 
 # Upload Crash report
-in.appcenter.ms
+# in.appcenter.ms
 
 # Deploy mobile app updates directly to devices
 codepush.appcenter.ms
@@ -760,8 +757,8 @@ tdn.da-services.ch
 production-cmp.isgprivacy.cbsi.com
 
 # Videos on 9news.com.au
-*.api.brightcove.com
-# edge.api.brightcove.com
+# *.api.brightcove.com
+edge.api.brightcove.com
 
 # domain reseller
 afternic.com
@@ -1162,7 +1159,7 @@ polyfill.io
 # Audo Stream on ikz-online.de
 ads.julephosting.de
 
-# Videos om kino.de
+# Videos on kino.de
 vid-cdn*.stroeermb.de
 videos.kino.de
 
@@ -1434,9 +1431,9 @@ traccar.org
 *.gigya.com
 
 # https://github.com/AdAway/adaway.github.io/issues/338
-info.ammex.com
-go.pardot.com
-pi.pardot.com
+# info.ammex.com
+# go.pardot.com
+# pi.pardot.com
 
 # Das Erste / ARD
 # image.ard.de
@@ -1465,9 +1462,6 @@ majesticseo.com
 
 # Tyk
 tyk.io
-
-# videos on LineTV
-itad.linetv.tw
 
 # https://github.com/hagezi/dns-blocklists/issues/45
 chinatruck.org
@@ -1881,4 +1875,16 @@ api.yep.com
 
 # Open-source and modern URL shortener
 kutt.it
+
+# Images and links in various Mails, e.g. emp.de
+recommender.scarabresearch.com
+images.cdn.scarabresearch.com
+
+# Brekas paypal pay process on some german shopping sites
+*paypal*.siteintercept.qualtrics.com
+
+# Aim Lab aimlab.gg passwort reset
+ct.sendgrid.net
+# Code examples in R
+stat.ethz.ch
 
