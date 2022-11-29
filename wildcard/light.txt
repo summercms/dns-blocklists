@@ -50602,7 +50602,6 @@
 *.ethscan.io
 *.ethtrader.de
 *.harpocrates.ethyca.com
-*.stat.ethz.ch
 *.cookiebar.eticaret.com
 *.eticket-africa.com
 *.smetrics.etihad.com

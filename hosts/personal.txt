@@ -3540,7 +3540,6 @@
 0.0.0.0 tk.etam.com
 0.0.0.0 adtech.etermax.com
 0.0.0.0 qtfnvf.ethika.com
-0.0.0.0 stat.ethz.ch
 0.0.0.0 smetrics.etihad.com
 0.0.0.0 saa.etonline.com
 0.0.0.0 etorologsapi.etoro.com

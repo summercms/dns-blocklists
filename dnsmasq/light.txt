@@ -50602,7 +50602,6 @@ address=/ethpolice.com/#
 address=/ethscan.io/#
 address=/ethtrader.de/#
 address=/harpocrates.ethyca.com/#
-address=/stat.ethz.ch/#
 address=/cookiebar.eticaret.com/#
 address=/eticket-africa.com/#
 address=/smetrics.etihad.com/#

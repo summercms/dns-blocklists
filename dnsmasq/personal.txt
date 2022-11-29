@@ -2751,7 +2751,6 @@ address=/estonine.com/#
 address=/tk.etam.com/#
 address=/adtech.etermax.com/#
 address=/qtfnvf.ethika.com/#
-address=/stat.ethz.ch/#
 address=/smetrics.etihad.com/#
 address=/saa.etonline.com/#
 address=/etorologsapi.etoro.com/#

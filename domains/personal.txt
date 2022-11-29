@@ -3540,7 +3540,6 @@ www.estonine.com
 tk.etam.com
 adtech.etermax.com
 qtfnvf.ethika.com
-stat.ethz.ch
 smetrics.etihad.com
 saa.etonline.com
 etorologsapi.etoro.com
