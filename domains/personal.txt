@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 14:01 UTC
-# Version: 2022.1130.1401.58
+# Last modified: 30 Nov 2022 14:36 UTC
+# Version: 2022.1130.1436.22
 # Syntax: Domains
-# Domains: 7059
+# Domains: 7090
 #
 000webhost.com
 www.000webhost.com
@@ -1266,6 +1266,8 @@ images.marketing.centerpointenergy.com
 smetrics.centerwellpharmacy.com
 marketing.centra.org
 ressources.centraleauto.com
+centrecerif.com
+www.centrecerif.com
 www2.centricsoftware.com
 centrometeoitaliano.it
 www.centrometeoitaliano.it
@@ -1351,6 +1353,7 @@ citaslocas.com
 www.citaslocas.com
 content.digital.citbank.com
 wa.citcosoftware.com
+content22.online.citi.com
 content22.retailservicescommercial.citi.com
 content22.citibank.pl
 content22.citibankonline.com
@@ -1482,6 +1485,7 @@ check2.halifax-online.co.uk
 sc.hl.co.uk
 cdntm.hsbc.co.uk
 huqindustries.co.uk
+ssc.independent.co.uk
 elqtrk.intel.co.uk
 www91.intel.co.uk
 gkfdkf.jdsports.co.uk
@@ -1608,6 +1612,7 @@ tms.nab.com.au
 somni.nine.com.au
 nobeta.com.br
 smetrics.officeworks.com.au
+pazfm.com.br
 info.m.seek.com.au
 log-collector.shopee.com.br
 log-collector.shopee.com.my
@@ -1830,6 +1835,7 @@ datepops2.website
 www.datepops2.website
 datraff.com
 www.datraff.com
+tiara.daum.net
 dauup.com
 davidoutwear.com
 www.davidoutwear.com
@@ -2590,6 +2596,8 @@ refer.frontgate.com
 smetrics.frontier.com
 rffsds.fsastore.com
 ftads.net
+fullforceads.com
+www.fullforceads.com
 elq-trk.fullsail.edu
 images.info.fullsail.edu
 functionads.com
@@ -3151,6 +3159,7 @@ app-analytics-sg.huami.com
 app-analytics-us.huami.com
 tclicon5.ifmis.huan.tv
 ipengtai.huanqiu.com
+career.huawei.com
 hubapi.com
 www.hubapi.com
 explore.hubert.com
@@ -3535,6 +3544,10 @@ www.keet1liod.com
 omniture.kennametal.com
 ywrcqa.kens5.com
 refer.kerastase-usa.com
+kermany.com
+www.kermany.com
+keslerscience.com
+www.keslerscience.com
 metrics.key.com
 connectlp.keysight.com
 elq.keysight.com
@@ -3583,6 +3596,8 @@ analytics-us.knexusplatform.com
 targetsecure.kohler.com
 ww8.kohls.com
 stats.kollective.app
+komikbahasa.com
+www.komikbahasa.com
 tracking.komoot.de
 tms.kone.com
 b.koodomobile.com
@@ -3690,6 +3705,8 @@ enews.learninga-z.com
 learningtoolkit.club
 www.learningtoolkit.club
 content.analytics.learnondemandsystems.com
+lebmac.com
+www.lebmac.com
 lefkandi.gr
 www.lefkandi.gr
 lwozzk.legacy.com
@@ -4576,8 +4593,10 @@ business.omahasteaks.com
 sstats.omahasteaks.com
 omessage.com
 www.omessage.com
+ometria.com
 cdn.ometria.com
 trk.ometria.com
+www.ometria.com
 omgt3.com
 refwkk.omnicalculator.com
 marketing.omnifymarketing.com
@@ -4774,6 +4793,8 @@ cdn.pardot.com
 preview.pardot.com
 gtrack.parentmood.com
 track.parentmood.com
+parkingridiculous.com
+www.parkingridiculous.com
 parlaysbar.net
 www.parlaysbar.net
 omniture443.partycity.com
@@ -5068,8 +5089,10 @@ adsmind.ugdtimg.com.tcdn.qq.com
 qualityclick.com
 www.qualityclick.com
 quantserve.net
+quantummetric.com
 cdn.quantummetric.com
 emirates-app.quantummetric.com
+www.quantummetric.com
 content.quark.com
 qubit.com
 www.qubit.com
@@ -5548,6 +5571,8 @@ smetrics.sharecare.com
 sharedcount.com
 www.sharedcount.com
 smetrics.sharekhan.com
+sharethis.net
+www.sharethis.net
 refer.sharkclean.com
 strack.shaw.ca
 beacon.shazam.com
@@ -5775,6 +5800,8 @@ www.soil5hear.com
 beacon.sojern.com
 soldevelo.com
 www.soldevelo.com
+soldierreproduceadmiration.com
+www.soldierreproduceadmiration.com
 solitairetime.com
 www.solitairetime.com
 mkt.solutiontree.com
@@ -5832,6 +5859,8 @@ www.spi-global.com
 spicegems.org
 sams.spiegel.de
 sats.spiegel.de
+spikereekvelocity.com
+www.spikereekvelocity.com
 metrics.spirithalloween.com
 marketing.splashtop.com
 spopessentials3.com
@@ -6095,7 +6124,9 @@ teradatadmc.com
 www.teradatadmc.com
 info.terex.com
 terminus.com
+terminus.services
 www.terminus.com
+www.terminus.services
 www2.terrapinn.com
 terrificompany.com
 www.terrificompany.com

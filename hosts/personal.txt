@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 14:01 UTC
-# Version: 2022.1130.1401.58
+# Last modified: 30 Nov 2022 14:36 UTC
+# Version: 2022.1130.1436.22
 # Syntax: Hosts
-# Domains: 7059
+# Domains: 7090
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -1266,6 +1266,8 @@
 0.0.0.0 smetrics.centerwellpharmacy.com
 0.0.0.0 marketing.centra.org
 0.0.0.0 ressources.centraleauto.com
+0.0.0.0 centrecerif.com
+0.0.0.0 www.centrecerif.com
 0.0.0.0 www2.centricsoftware.com
 0.0.0.0 centrometeoitaliano.it
 0.0.0.0 www.centrometeoitaliano.it
@@ -1351,6 +1353,7 @@
 0.0.0.0 www.citaslocas.com
 0.0.0.0 content.digital.citbank.com
 0.0.0.0 wa.citcosoftware.com
+0.0.0.0 content22.online.citi.com
 0.0.0.0 content22.retailservicescommercial.citi.com
 0.0.0.0 content22.citibank.pl
 0.0.0.0 content22.citibankonline.com
@@ -1482,6 +1485,7 @@
 0.0.0.0 sc.hl.co.uk
 0.0.0.0 cdntm.hsbc.co.uk
 0.0.0.0 huqindustries.co.uk
+0.0.0.0 ssc.independent.co.uk
 0.0.0.0 elqtrk.intel.co.uk
 0.0.0.0 www91.intel.co.uk
 0.0.0.0 gkfdkf.jdsports.co.uk
@@ -1608,6 +1612,7 @@
 0.0.0.0 somni.nine.com.au
 0.0.0.0 nobeta.com.br
 0.0.0.0 smetrics.officeworks.com.au
+0.0.0.0 pazfm.com.br
 0.0.0.0 info.m.seek.com.au
 0.0.0.0 log-collector.shopee.com.br
 0.0.0.0 log-collector.shopee.com.my
@@ -1830,6 +1835,7 @@
 0.0.0.0 www.datepops2.website
 0.0.0.0 datraff.com
 0.0.0.0 www.datraff.com
+0.0.0.0 tiara.daum.net
 0.0.0.0 dauup.com
 0.0.0.0 davidoutwear.com
 0.0.0.0 www.davidoutwear.com
@@ -2590,6 +2596,8 @@
 0.0.0.0 smetrics.frontier.com
 0.0.0.0 rffsds.fsastore.com
 0.0.0.0 ftads.net
+0.0.0.0 fullforceads.com
+0.0.0.0 www.fullforceads.com
 0.0.0.0 elq-trk.fullsail.edu
 0.0.0.0 images.info.fullsail.edu
 0.0.0.0 functionads.com
@@ -3151,6 +3159,7 @@
 0.0.0.0 app-analytics-us.huami.com
 0.0.0.0 tclicon5.ifmis.huan.tv
 0.0.0.0 ipengtai.huanqiu.com
+0.0.0.0 career.huawei.com
 0.0.0.0 hubapi.com
 0.0.0.0 www.hubapi.com
 0.0.0.0 explore.hubert.com
@@ -3535,6 +3544,10 @@
 0.0.0.0 omniture.kennametal.com
 0.0.0.0 ywrcqa.kens5.com
 0.0.0.0 refer.kerastase-usa.com
+0.0.0.0 kermany.com
+0.0.0.0 www.kermany.com
+0.0.0.0 keslerscience.com
+0.0.0.0 www.keslerscience.com
 0.0.0.0 metrics.key.com
 0.0.0.0 connectlp.keysight.com
 0.0.0.0 elq.keysight.com
@@ -3583,6 +3596,8 @@
 0.0.0.0 targetsecure.kohler.com
 0.0.0.0 ww8.kohls.com
 0.0.0.0 stats.kollective.app
+0.0.0.0 komikbahasa.com
+0.0.0.0 www.komikbahasa.com
 0.0.0.0 tracking.komoot.de
 0.0.0.0 tms.kone.com
 0.0.0.0 b.koodomobile.com
@@ -3690,6 +3705,8 @@
 0.0.0.0 learningtoolkit.club
 0.0.0.0 www.learningtoolkit.club
 0.0.0.0 content.analytics.learnondemandsystems.com
+0.0.0.0 lebmac.com
+0.0.0.0 www.lebmac.com
 0.0.0.0 lefkandi.gr
 0.0.0.0 www.lefkandi.gr
 0.0.0.0 lwozzk.legacy.com
@@ -4576,8 +4593,10 @@
 0.0.0.0 sstats.omahasteaks.com
 0.0.0.0 omessage.com
 0.0.0.0 www.omessage.com
+0.0.0.0 ometria.com
 0.0.0.0 cdn.ometria.com
 0.0.0.0 trk.ometria.com
+0.0.0.0 www.ometria.com
 0.0.0.0 omgt3.com
 0.0.0.0 refwkk.omnicalculator.com
 0.0.0.0 marketing.omnifymarketing.com
@@ -4774,6 +4793,8 @@
 0.0.0.0 preview.pardot.com
 0.0.0.0 gtrack.parentmood.com
 0.0.0.0 track.parentmood.com
+0.0.0.0 parkingridiculous.com
+0.0.0.0 www.parkingridiculous.com
 0.0.0.0 parlaysbar.net
 0.0.0.0 www.parlaysbar.net
 0.0.0.0 omniture443.partycity.com
@@ -5068,8 +5089,10 @@
 0.0.0.0 qualityclick.com
 0.0.0.0 www.qualityclick.com
 0.0.0.0 quantserve.net
+0.0.0.0 quantummetric.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 emirates-app.quantummetric.com
+0.0.0.0 www.quantummetric.com
 0.0.0.0 content.quark.com
 0.0.0.0 qubit.com
 0.0.0.0 www.qubit.com
@@ -5548,6 +5571,8 @@
 0.0.0.0 sharedcount.com
 0.0.0.0 www.sharedcount.com
 0.0.0.0 smetrics.sharekhan.com
+0.0.0.0 sharethis.net
+0.0.0.0 www.sharethis.net
 0.0.0.0 refer.sharkclean.com
 0.0.0.0 strack.shaw.ca
 0.0.0.0 beacon.shazam.com
@@ -5775,6 +5800,8 @@
 0.0.0.0 beacon.sojern.com
 0.0.0.0 soldevelo.com
 0.0.0.0 www.soldevelo.com
+0.0.0.0 soldierreproduceadmiration.com
+0.0.0.0 www.soldierreproduceadmiration.com
 0.0.0.0 solitairetime.com
 0.0.0.0 www.solitairetime.com
 0.0.0.0 mkt.solutiontree.com
@@ -5832,6 +5859,8 @@
 0.0.0.0 spicegems.org
 0.0.0.0 sams.spiegel.de
 0.0.0.0 sats.spiegel.de
+0.0.0.0 spikereekvelocity.com
+0.0.0.0 www.spikereekvelocity.com
 0.0.0.0 metrics.spirithalloween.com
 0.0.0.0 marketing.splashtop.com
 0.0.0.0 spopessentials3.com
@@ -6095,7 +6124,9 @@
 0.0.0.0 www.teradatadmc.com
 0.0.0.0 info.terex.com
 0.0.0.0 terminus.com
+0.0.0.0 terminus.services
 0.0.0.0 www.terminus.com
+0.0.0.0 www.terminus.services
 0.0.0.0 www2.terrapinn.com
 0.0.0.0 terrificompany.com
 0.0.0.0 www.terrificompany.com
