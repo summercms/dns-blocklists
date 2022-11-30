@@ -1888,3 +1888,9 @@ ct.sendgrid.net
 # Code examples in R
 stat.ethz.ch
 
+# Tschibo customer support formular
+tagm.tchibo.de
+
+# Gcash login
+ilog-sea-aliyun.alipayplus.com
+
