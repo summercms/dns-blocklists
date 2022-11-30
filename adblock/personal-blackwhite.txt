@@ -3,7 +3,7 @@
 ! Description: An extension for known blocklists, my personal black and whitelist. Blocks ads, trackers, native device trackers, badware and more. Unblocks false positives and referral domains.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
-! Last modified: 2022-11-30T14:05:35.775Z
+! Last modified: 2022-11-30T14:39:53.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,10 +16,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 30 Nov 2022 14:01 UTC
-! Version: 2022.1130.1401.58
+! Last modified: 30 Nov 2022 14:36 UTC
+! Version: 2022.1130.1436.22
 ! Syntax: AdBlock
-! Domains: 5364
+! Domains: 5378
 !
 ||000webhost.com^
 ||00px.net^
@@ -943,6 +943,7 @@
 ||smetrics.centerwellpharmacy.com^
 ||marketing.centra.org^
 ||ressources.centraleauto.com^
+||centrecerif.com^
 ||www2.centricsoftware.com^
 ||centrometeoitaliano.it^
 ||info.cepheid.com^
@@ -1013,6 +1014,7 @@
 ||citaslocas.com^
 ||content.digital.citbank.com^
 ||wa.citcosoftware.com^
+||content22.online.citi.com^
 ||content22.retailservicescommercial.citi.com^
 ||content22.citibank.pl^
 ||content22.citibankonline.com^
@@ -1118,6 +1120,7 @@
 ||sc.hl.co.uk^
 ||cdntm.hsbc.co.uk^
 ||huqindustries.co.uk^
+||ssc.independent.co.uk^
 ||elqtrk.intel.co.uk^
 ||www91.intel.co.uk^
 ||gkfdkf.jdsports.co.uk^
@@ -1238,6 +1241,7 @@
 ||somni.nine.com.au^
 ||nobeta.com.br^
 ||smetrics.officeworks.com.au^
+||pazfm.com.br^
 ||info.m.seek.com.au^
 ||log-collector.shopee.com.br^
 ||log-collector.shopee.com.my^
@@ -1404,6 +1408,7 @@
 ||datatrics.com^
 ||datepops2.website^
 ||datraff.com^
+||tiara.daum.net^
 ||dauup.com^
 ||davidoutwear.com^
 ||davisonbarker.pro^
@@ -1991,6 +1996,7 @@
 ||smetrics.frontier.com^
 ||rffsds.fsastore.com^
 ||ftads.net^
+||fullforceads.com^
 ||elq-trk.fullsail.edu^
 ||images.info.fullsail.edu^
 ||functionads.com^
@@ -2420,6 +2426,7 @@
 ||app-analytics-us.huami.com^
 ||tclicon5.ifmis.huan.tv^
 ||ipengtai.huanqiu.com^
+||career.huawei.com^
 ||hubapi.com^
 ||explore.hubert.com^
 ||hub.hubinternational.com^
@@ -2698,6 +2705,8 @@
 ||omniture.kennametal.com^
 ||ywrcqa.kens5.com^
 ||refer.kerastase-usa.com^
+||kermany.com^
+||keslerscience.com^
 ||metrics.key.com^
 ||connectlp.keysight.com^
 ||elq.keysight.com^
@@ -2737,6 +2746,7 @@
 ||targetsecure.kohler.com^
 ||ww8.kohls.com^
 ||stats.kollective.app^
+||komikbahasa.com^
 ||tracking.komoot.de^
 ||tms.kone.com^
 ||b.koodomobile.com^
@@ -2817,6 +2827,7 @@
 ||enews.learninga-z.com^
 ||learningtoolkit.club^
 ||content.analytics.learnondemandsystems.com^
+||lebmac.com^
 ||lefkandi.gr^
 ||lwozzk.legacy.com^
 ||info.legrandav.com^
@@ -3502,8 +3513,7 @@
 ||business.omahasteaks.com^
 ||sstats.omahasteaks.com^
 ||omessage.com^
-||cdn.ometria.com^
-||trk.ometria.com^
+||ometria.com^
 ||omgt3.com^
 ||refwkk.omnicalculator.com^
 ||marketing.omnifymarketing.com^
@@ -3673,6 +3683,7 @@
 ||preview.pardot.com^
 ||gtrack.parentmood.com^
 ||track.parentmood.com^
+||parkingridiculous.com^
 ||parlaysbar.net^
 ||omniture443.partycity.com^
 ||pasiac.com^
@@ -3891,8 +3902,7 @@
 ||adsmind.ugdtimg.com.tcdn.qq.com^
 ||qualityclick.com^
 ||quantserve.net^
-||cdn.quantummetric.com^
-||emirates-app.quantummetric.com^
+||quantummetric.com^
 ||content.quark.com^
 ||qubit.com^
 ||querencias.net^
@@ -4261,6 +4271,7 @@
 ||smetrics.sharecare.com^
 ||sharedcount.com^
 ||smetrics.sharekhan.com^
+||sharethis.net^
 ||refer.sharkclean.com^
 ||strack.shaw.ca^
 ||beacon.shazam.com^
@@ -4412,6 +4423,7 @@
 ||soil5hear.com^
 ||beacon.sojern.com^
 ||soldevelo.com^
+||soldierreproduceadmiration.com^
 ||solitairetime.com^
 ||mkt.solutiontree.com^
 ||solvusoft.com^
@@ -4457,6 +4469,7 @@
 ||spicegems.org^
 ||sams.spiegel.de^
 ||sats.spiegel.de^
+||spikereekvelocity.com^
 ||metrics.spirithalloween.com^
 ||marketing.splashtop.com^
 ||spopessentials3.com^
@@ -4669,6 +4682,7 @@
 ||teradatadmc.com^
 ||info.terex.com^
 ||terminus.com^
+||terminus.services^
 ||www2.terrapinn.com^
 ||terrificompany.com^
 ||smetrics.tescobank.com^
