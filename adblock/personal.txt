@@ -689,7 +689,6 @@
 ||stocks-analytics-events.apple.com^
 ||supportmetrics.apple.com^
 ||weather-analytics-events.apple.com^
-||xp.apple.com^
 ||apple-finds.us^
 ||assets-secure.applicaster.com^
 ||track.applicaster.com^

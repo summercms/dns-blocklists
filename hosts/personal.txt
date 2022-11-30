@@ -1005,7 +1005,6 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
-0.0.0.0 xp.apple.com
 0.0.0.0 apple-finds.us
 0.0.0.0 www.apple-finds.us
 0.0.0.0 assets-secure.applicaster.com
