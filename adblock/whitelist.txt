@@ -105,8 +105,8 @@
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
 @@|trackingshipment.apple.com^
-! https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558
-! xp.apple.com
+! Breaks Apple Watch update, stucks on "Search for update" - tested and approved
+@@|xp.apple.com^
 
 ! Certificates
 @@||digicert.com^
@@ -1887,7 +1887,4 @@
 @@|ct.sendgrid.net^
 ! Code examples in R
 @@|stat.ethz.ch^
-
-! Breaks Apple Watch update - tested and approved
-@@|xp.apple.com^
 
