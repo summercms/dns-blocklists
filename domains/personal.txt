@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 03:32 UTC
-# Version: 2022.1130.0332.22
+# Last modified: 30 Nov 2022 07:27 UTC
+# Version: 2022.1130.0727.18
 # Syntax: Domains
-# Domains: 11798
+# Domains: 11797
 #
 000webhost.com
 www.000webhost.com
