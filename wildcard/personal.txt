@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 08:59 UTC
-# Version: 2022.1130.0859.17
+# Last modified: 30 Nov 2022 11:11 UTC
+# Version: 2022.1130.1111.58
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 9166
+# Domains: 9197
 #
 *.000webhost.com
 *.00px.net
@@ -730,6 +730,7 @@
 *.wixlabs-hcounter.appspot.com
 *.apptentive.com
 *.apptjmp.com
+*.tracking.appxigo.com
 *.aadata.april-international.com
 *.content.apruvd.com
 *.info.aps.org
@@ -1633,6 +1634,7 @@
 *.analytics.clouso-server.de
 *.cloyingombres.com
 *.analytics.clubic.com
+*.content.clubpremier.com
 *.clue6load.com
 *.campaigns.cm.be
 *.secure.cmadclicks000.com
@@ -2144,6 +2146,7 @@
 *.daigiarik.org
 *.landing.daikinapplied.com
 *.gtrack.dailybee.com
+*.img.dailylook.com
 *.daisycon.com
 *.danbo.org
 *.smetrics.dandh.com
@@ -3040,6 +3043,8 @@
 *.drunkenstepfather.com
 *.ds1.nl
 *.cookie-cutter.dsch.ie
+*.dsjhjlwhyokr.com
+*.dskgqjbadpdmwo.com
 *.omni.dsw.com
 *.somni.dsw.com
 *.dt51.net
@@ -3065,6 +3070,7 @@
 *.static.dvidshub.net
 *.dvlabs.com
 *.stats.dwds.de
+*.dwkhgxlkqvdyldu.com
 *.dxsvr.com
 *.dychinapha.com
 *.cdn.dynamicyield.com
@@ -3135,6 +3141,7 @@
 *.ecwrkdrkcqerejn.xyz
 *.edcritessuspi.com
 *.smetrics.eddiebauer.com
+*.smetric.eddiev.com
 *.analytics.edding.com
 *.wareneingang.edeka.de
 *.bf-ad.net.26664.edgekey.net
@@ -4226,6 +4233,7 @@
 *.mdp-appconf-mm.heytapdl.com
 *.appconf.heytapdownload.com
 *.heytapmobi.com
+*.sms-sg.ads.heytapmobile.com
 *.hfhuishang.com
 *.smetrics.hfma.org
 *.hglobaltourb2c.com
@@ -5315,6 +5323,7 @@
 *.magic1.me
 *.track.magictavern.com
 *.magneting.cn
+*.rba.login.mahix.org
 *.mediator.mail.ru
 *.trk.mail.ru
 *.mail-data.net
@@ -5518,6 +5527,10 @@
 *.api.ad.xiaomi.com.mgslb.com
 *.audit.aaa.mgtv.com
 *.as.mgtv.com
+*.oxnet.da.mgtv.com
+*.hd-ext-v1.log.mgtv.com
+*.odsun.log.mgtv.com
+*.pcc-v1.log.mgtv.com
 *.mobaliyun.res.mgtv.com
 *.mhhsa.xyz
 *.smetrics.mhsindiana.com
@@ -5639,6 +5652,7 @@
 *.ws.mmstat.com
 *.mndtrk.com
 *.mnetads.net
+*.mnhhauybevfca.xyz
 *.mnml.la
 *.moaroffers.com
 *.secure.moat4shot.com
@@ -5739,6 +5753,7 @@
 *.events.data.msn.cn
 *.events.data.msn.com
 *.events-sandbox.data.msn.com
+*.edge1.catalog.video.msn.com
 *.aamt.msnbc.com
 *.mspy.com
 *.content.msufcu.org
@@ -6044,7 +6059,9 @@
 *.nuskin.com
 *.nusojog.com
 *.t.nusports.com
+*.nut.cc
 *.network.nutaku.net
+*.nnkkxb.nuts.com
 *.nuubu.com
 *.info.nuveen.com
 *.nveuiqh.cn
@@ -6326,6 +6343,7 @@
 *.optimonk.com
 *.smetrics.optimum.net
 *.marketing.optioncarehealth.com
+*.rba-screen.optum.com
 *.s-02.optvdo.com
 *.s-06.optvdo.com
 *.s-10.optvdo.com
@@ -6742,6 +6760,7 @@
 *.prstatics.com
 *.adserverapi.psafe.com
 *.tracking.bi.psafe.com
+*.psautiultvvsqxj.xyz
 *.www2.pscucommunications.com
 *.tracking.psecu.com
 *.smetrics.pshpgeorgia.com
@@ -6766,6 +6785,7 @@
 *.pump.to
 *.pump8walk.com
 *.punosy.best
+*.puoyqnvaxeb.com
 *.gtrack.puppylychee.com
 *.refer.purchasingpower.com
 *.smetrics.purchasingpower.com
@@ -7286,6 +7306,7 @@
 *.metrics.icloud.com.1.1hqjl4zsg3y80.1.prx.useast.v1api.securly.com
 *.sentry.io.1.1hqjl4zsg3y80.1.prx.useast.v1api.securly.com
 *.sentry.io.1.712ys83bt0qo.1.prx.useast.v1api.securly.com
+*.metrics.icloud.com.1.12knq4d9vg5pe.1.prx.useast2.v1api.securly.com
 *.marketing.sedgwick.com
 *.sedoparking.com
 *.tg1.seed-media.net
@@ -7656,6 +7677,7 @@
 *.api.speedspot.org
 *.speedtrkgood.com
 *.speedypaper.com
+*.spemxriyuspxb.com
 *.metrics.spencersonline.com
 *.refer.sperry.com
 *.rgiixp.sperry.com
@@ -8124,6 +8146,7 @@
 *.tinytapgame.com
 *.tipser.com
 *.tire1soak.com
+*.tjbtlyqy.xyz
 *.swa.tjmaxx.tjx.com
 *.tk0x1.com
 *.tk2mtrk.com
@@ -8355,6 +8378,7 @@
 *.uclick.com
 *.abvghl.udn.com
 *.udomyeasted.com
+*.ufedejfpoybkywm.com
 *.metrics.uhc.com
 *.t.uhcougars.com
 *.analytics.uhrzeit.org
@@ -8427,6 +8451,7 @@
 *.usa-casino-online.com
 *.usabangpalace.com
 *.usabilla.com
+*.usanewstoday.club
 *.sxjfhh.usatoday.com
 *.usbla.net
 *.tubestatic.usco1621-b.com
@@ -8776,11 +8801,13 @@
 *.btrace.wetvinfo.com
 *.mtrace.wetvinfo.com
 *.ywrcqa.wfaa.com
+*.wfdqyyrrwcktok.xyz
 *.redir.wggames.cn
 *.wgplayer.com
 *.wgpsfdg.cn
 *.wgz.cz
 *.whatfinger.com
+*.whaugluw.com
 *.wheelysales.com
 *.whimsicalserve.com
 *.whisbi.com
@@ -8988,6 +9015,7 @@
 *.cdn.fds.api.xiaomi.com
 *.o2o.api.xiaomi.com
 *.cc2.sys.intl.xiaomi.com
+*.data.mistat.xiaomi.com
 *.resolver.msg.xiaomi.net
 *.preload.xiaomi.com
 *.data.mistat.rus.xiaomi.com
@@ -9082,6 +9110,8 @@
 *.p.yotpo.com
 *.w2.yotpo.com
 *.apiv4-iyes.youku.com
+*.mc.atm.youku.com
+*.miaozhen.atm.youku.com
 *.younio.com
 *.smetrix.youravon.com
 *.yourcdnjs.com
@@ -9095,6 +9125,7 @@
 *.logger.yp.ca
 *.ysjgc.com
 *.ads-website.ytsservice.com
+*.yubingyuan.top
 *.links.yummly.com
 *.yuniguhua.com
 *.yunjiasu-cdn.net

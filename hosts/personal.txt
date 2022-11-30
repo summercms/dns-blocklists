@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 08:59 UTC
-# Version: 2022.1130.0859.17
+# Last modified: 30 Nov 2022 11:11 UTC
+# Version: 2022.1130.1111.58
 # Syntax: Hosts
-# Domains: 12109
+# Domains: 12153
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -1053,6 +1053,7 @@
 0.0.0.0 apptentive.com
 0.0.0.0 www.apptentive.com
 0.0.0.0 apptjmp.com
+0.0.0.0 tracking.appxigo.com
 0.0.0.0 aadata.april-international.com
 0.0.0.0 content.apruvd.com
 0.0.0.0 info.aps.org
@@ -2276,6 +2277,7 @@
 0.0.0.0 cloyingombres.com
 0.0.0.0 www.cloyingombres.com
 0.0.0.0 analytics.clubic.com
+0.0.0.0 content.clubpremier.com
 0.0.0.0 clue6load.com
 0.0.0.0 www.clue6load.com
 0.0.0.0 campaigns.cm.be
@@ -2884,6 +2886,7 @@
 0.0.0.0 daigiarik.org
 0.0.0.0 landing.daikinapplied.com
 0.0.0.0 gtrack.dailybee.com
+0.0.0.0 img.dailylook.com
 0.0.0.0 daisycon.com
 0.0.0.0 www.daisycon.com
 0.0.0.0 danbo.org
@@ -3883,6 +3886,10 @@
 0.0.0.0 ds1.nl
 0.0.0.0 www.ds1.nl
 0.0.0.0 cookie-cutter.dsch.ie
+0.0.0.0 dsjhjlwhyokr.com
+0.0.0.0 www.dsjhjlwhyokr.com
+0.0.0.0 dskgqjbadpdmwo.com
+0.0.0.0 www.dskgqjbadpdmwo.com
 0.0.0.0 omni.dsw.com
 0.0.0.0 somni.dsw.com
 0.0.0.0 dt51.net
@@ -3920,6 +3927,8 @@
 0.0.0.0 dvlabs.com
 0.0.0.0 www.dvlabs.com
 0.0.0.0 stats.dwds.de
+0.0.0.0 dwkhgxlkqvdyldu.com
+0.0.0.0 www.dwkhgxlkqvdyldu.com
 0.0.0.0 dxsvr.com
 0.0.0.0 www.dxsvr.com
 0.0.0.0 dychinapha.com
@@ -4016,6 +4025,7 @@
 0.0.0.0 edcritessuspi.com
 0.0.0.0 www.edcritessuspi.com
 0.0.0.0 smetrics.eddiebauer.com
+0.0.0.0 smetric.eddiev.com
 0.0.0.0 analytics.edding.com
 0.0.0.0 wareneingang.edeka.de
 0.0.0.0 bf-ad.net.26664.edgekey.net
@@ -5465,6 +5475,7 @@
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 heytapmobi.com
 0.0.0.0 www.heytapmobi.com
+0.0.0.0 sms-sg.ads.heytapmobile.com
 0.0.0.0 hfhuishang.com
 0.0.0.0 www.hfhuishang.com
 0.0.0.0 smetrics.hfma.org
@@ -6938,6 +6949,7 @@
 0.0.0.0 track.magictavern.com
 0.0.0.0 magneting.cn
 0.0.0.0 www.magneting.cn
+0.0.0.0 rba.login.mahix.org
 0.0.0.0 mediator.mail.ru
 0.0.0.0 trk.mail.ru
 0.0.0.0 mail-data.net
@@ -7206,6 +7218,10 @@
 0.0.0.0 api.ad.xiaomi.com.mgslb.com
 0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 as.mgtv.com
+0.0.0.0 oxnet.da.mgtv.com
+0.0.0.0 hd-ext-v1.log.mgtv.com
+0.0.0.0 odsun.log.mgtv.com
+0.0.0.0 pcc-v1.log.mgtv.com
 0.0.0.0 mobaliyun.res.mgtv.com
 0.0.0.0 mhhsa.xyz
 0.0.0.0 www.mhhsa.xyz
@@ -7372,6 +7388,8 @@
 0.0.0.0 www.mndtrk.com
 0.0.0.0 mnetads.net
 0.0.0.0 www.mnetads.net
+0.0.0.0 mnhhauybevfca.xyz
+0.0.0.0 www.mnhhauybevfca.xyz
 0.0.0.0 mnml.la
 0.0.0.0 www.mnml.la
 0.0.0.0 moaroffers.com
@@ -7506,6 +7524,7 @@
 0.0.0.0 browser.events.data.msn.cn
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 events-sandbox.data.msn.com
+0.0.0.0 edge1.catalog.video.msn.com
 0.0.0.0 aamt.msnbc.com
 0.0.0.0 mspy.com
 0.0.0.0 www.mspy.com
@@ -7918,7 +7937,10 @@
 0.0.0.0 www.nuskin.com
 0.0.0.0 nusojog.com
 0.0.0.0 t.nusports.com
+0.0.0.0 nut.cc
+0.0.0.0 www.nut.cc
 0.0.0.0 network.nutaku.net
+0.0.0.0 nnkkxb.nuts.com
 0.0.0.0 nuubu.com
 0.0.0.0 www.nuubu.com
 0.0.0.0 info.nuveen.com
@@ -8241,6 +8263,7 @@
 0.0.0.0 www.optimonk.com
 0.0.0.0 smetrics.optimum.net
 0.0.0.0 marketing.optioncarehealth.com
+0.0.0.0 rba-screen.optum.com
 0.0.0.0 s-02.optvdo.com
 0.0.0.0 s-06.optvdo.com
 0.0.0.0 s-10.optvdo.com
@@ -8795,6 +8818,8 @@
 0.0.0.0 prstatics.com
 0.0.0.0 adserverapi.psafe.com
 0.0.0.0 tracking.bi.psafe.com
+0.0.0.0 psautiultvvsqxj.xyz
+0.0.0.0 www.psautiultvvsqxj.xyz
 0.0.0.0 www2.pscucommunications.com
 0.0.0.0 tracking.psecu.com
 0.0.0.0 smetrics.pshpgeorgia.com
@@ -8829,6 +8854,8 @@
 0.0.0.0 www.pump8walk.com
 0.0.0.0 punosy.best
 0.0.0.0 www.punosy.best
+0.0.0.0 puoyqnvaxeb.com
+0.0.0.0 www.puoyqnvaxeb.com
 0.0.0.0 gtrack.puppylychee.com
 0.0.0.0 refer.purchasingpower.com
 0.0.0.0 smetrics.purchasingpower.com
@@ -9519,6 +9546,7 @@
 0.0.0.0 metrics.icloud.com.1.1hqjl4zsg3y80.1.prx.useast.v1api.securly.com
 0.0.0.0 sentry.io.1.1hqjl4zsg3y80.1.prx.useast.v1api.securly.com
 0.0.0.0 sentry.io.1.712ys83bt0qo.1.prx.useast.v1api.securly.com
+0.0.0.0 metrics.icloud.com.1.12knq4d9vg5pe.1.prx.useast2.v1api.securly.com
 0.0.0.0 marketing.sedgwick.com
 0.0.0.0 sedoparking.com
 0.0.0.0 www.sedoparking.com
@@ -10064,6 +10092,8 @@
 0.0.0.0 speedtrkgood.com
 0.0.0.0 speedypaper.com
 0.0.0.0 www.speedypaper.com
+0.0.0.0 spemxriyuspxb.com
+0.0.0.0 www.spemxriyuspxb.com
 0.0.0.0 metrics.spencersonline.com
 0.0.0.0 refer.sperry.com
 0.0.0.0 rgiixp.sperry.com
@@ -10664,6 +10694,8 @@
 0.0.0.0 www.tipser.com
 0.0.0.0 tire1soak.com
 0.0.0.0 www.tire1soak.com
+0.0.0.0 tjbtlyqy.xyz
+0.0.0.0 www.tjbtlyqy.xyz
 0.0.0.0 swa.tjmaxx.tjx.com
 0.0.0.0 tk0x1.com
 0.0.0.0 tk2mtrk.com
@@ -11012,6 +11044,8 @@
 0.0.0.0 www.uclick.com
 0.0.0.0 abvghl.udn.com
 0.0.0.0 udomyeasted.com
+0.0.0.0 ufedejfpoybkywm.com
+0.0.0.0 www.ufedejfpoybkywm.com
 0.0.0.0 metrics.uhc.com
 0.0.0.0 t.uhcougars.com
 0.0.0.0 analytics.uhrzeit.org
@@ -11101,6 +11135,8 @@
 0.0.0.0 www.usabangpalace.com
 0.0.0.0 usabilla.com
 0.0.0.0 www.usabilla.com
+0.0.0.0 usanewstoday.club
+0.0.0.0 www.usanewstoday.club
 0.0.0.0 sxjfhh.usatoday.com
 0.0.0.0 usbla.net
 0.0.0.0 tubestatic.usco1621-b.com
@@ -11601,6 +11637,8 @@
 0.0.0.0 btrace.wetvinfo.com
 0.0.0.0 mtrace.wetvinfo.com
 0.0.0.0 ywrcqa.wfaa.com
+0.0.0.0 wfdqyyrrwcktok.xyz
+0.0.0.0 www.wfdqyyrrwcktok.xyz
 0.0.0.0 redir.wggames.cn
 0.0.0.0 wgplayer.com
 0.0.0.0 www.wgplayer.com
@@ -11610,6 +11648,7 @@
 0.0.0.0 www.wgz.cz
 0.0.0.0 whatfinger.com
 0.0.0.0 www.whatfinger.com
+0.0.0.0 whaugluw.com
 0.0.0.0 wheelysales.com
 0.0.0.0 www.wheelysales.com
 0.0.0.0 whimsicalserve.com
@@ -11862,6 +11901,7 @@
 0.0.0.0 cdn.fds.api.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 cc2.sys.intl.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 preload.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -11992,6 +12032,8 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 w2.yotpo.com
 0.0.0.0 apiv4-iyes.youku.com
+0.0.0.0 mc.atm.youku.com
+0.0.0.0 miaozhen.atm.youku.com
 0.0.0.0 younio.com
 0.0.0.0 www.younio.com
 0.0.0.0 smetrix.youravon.com
@@ -12013,6 +12055,8 @@
 0.0.0.0 ysjgc.com
 0.0.0.0 www.ysjgc.com
 0.0.0.0 ads-website.ytsservice.com
+0.0.0.0 yubingyuan.top
+0.0.0.0 www.yubingyuan.top
 0.0.0.0 links.yummly.com
 0.0.0.0 yuniguhua.com
 0.0.0.0 www.yuniguhua.com
