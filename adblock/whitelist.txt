@@ -106,7 +106,7 @@
 @@|stats.gc.apple.com^
 @@|trackingshipment.apple.com^
 ! Breaks Apple Watch update, stucks on "Search for update" - tested and approved
-@@|xp.apple.com^
+@@||xp.apple.com^
 
 ! Certificates
 @@||digicert.com^
