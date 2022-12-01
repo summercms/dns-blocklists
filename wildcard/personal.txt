@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 01:21 UTC
-# Version: 2022.1201.0121.09
+# Last modified: 01 Dez 2022 03:33 UTC
+# Version: 2022.1201.0333.22
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 5538
+# Domains: 5545
 #
 *.000webhost.com
 *.00px.net
@@ -2240,6 +2240,7 @@
 *.gr8.com
 *.ads-cdn.grab.com
 *.grabify.link
+*.gradcracker.com
 *.grafana.org
 *.satgt.grafana.com
 *.ablink.mail.grailed.com
@@ -3055,6 +3056,7 @@
 *.tmsgi.lv.com
 *.news.lvb.com
 *.webanalytics.lvr.de
+*.lvye8.cn
 *.smetrics.lww.com
 *.salesforce.lyricfind.com
 *.iazwzp.lyst.com
@@ -4223,6 +4225,7 @@
 *.s4mdsp.com
 *.refer.saatvamattress.com
 *.t.saechsische.de
+*.safestay.com
 *.safety-search.com
 *.fpc.sage.com
 *.said3page.com
@@ -4271,6 +4274,7 @@
 *.a.sandspiel.club
 *.sstats.sanmar.com
 *.marketing.santabarbaraca.com
+*.santandermovil.cl
 *.sanupu.com
 *.sapient.com
 *.pub.sapo.pt
@@ -4360,6 +4364,7 @@
 *.sepkicks.com
 *.somni.serve.com
 *.server.com
+*.serveroute.com
 *.serversmtpclick.com
 *.servicetick.com
 *.servlab.net
@@ -5060,6 +5065,7 @@
 *.tt.ubs.com
 *.metrics.ubuntu.com
 *.feedback.uc.cn
+*.ucbonline.com
 *.uclick.com
 *.abvghl.udn.com
 *.udomyeasted.com
@@ -5189,6 +5195,7 @@
 *.tagman.virginatlantic.com
 *.data1.virginplus.ca
 *.info.virtualdiningconcepts.com
+*.virtualyasoftware.com
 *.virtuoussoftware.com
 *.thm.visa.com
 *.thm12.visa.com

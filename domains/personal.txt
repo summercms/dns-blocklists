@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 01:21 UTC
-# Version: 2022.1201.0121.09
+# Last modified: 01 Dez 2022 03:33 UTC
+# Version: 2022.1201.0333.22
 # Syntax: Domains
-# Domains: 7285
+# Domains: 7299
 #
 000webhost.com
 www.000webhost.com
@@ -2947,6 +2947,8 @@ www.gr8.com
 ads-cdn.grab.com
 grabify.link
 www.grabify.link
+gradcracker.com
+www.gradcracker.com
 grafana.org
 satgt.grafana.com
 ablink.mail.grailed.com
@@ -4010,6 +4012,8 @@ www.lurquer.com
 tmsgi.lv.com
 news.lvb.com
 webanalytics.lvr.de
+lvye8.cn
+www.lvye8.cn
 smetrics.lww.com
 salesforce.lyricfind.com
 iazwzp.lyst.com
@@ -5503,6 +5507,8 @@ s4mdsp.com
 www.s4mdsp.com
 refer.saatvamattress.com
 t.saechsische.de
+safestay.com
+www.safestay.com
 safety-search.com
 www.safety-search.com
 fpc.sage.com
@@ -5566,6 +5572,8 @@ activate.sandiegouniontribune.com
 a.sandspiel.club
 sstats.sanmar.com
 marketing.santabarbaraca.com
+santandermovil.cl
+www.santandermovil.cl
 sanupu.com
 sapient.com
 www.sapient.com
@@ -5690,6 +5698,8 @@ www.sepkicks.com
 somni.serve.com
 server.com
 www.server.com
+serveroute.com
+www.serveroute.com
 serversmtpclick.com
 www.serversmtpclick.com
 servicetick.com
@@ -6639,6 +6649,8 @@ piwik.ubiquity.press
 tt.ubs.com
 metrics.ubuntu.com
 feedback.uc.cn
+ucbonline.com
+www.ucbonline.com
 uclick.com
 www.uclick.com
 abvghl.udn.com
@@ -6839,6 +6851,8 @@ www.viqeo.tv
 tagman.virginatlantic.com
 data1.virginplus.ca
 info.virtualdiningconcepts.com
+virtualyasoftware.com
+www.virtualyasoftware.com
 virtuoussoftware.com
 www.virtuoussoftware.com
 thm.visa.com
