@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 03:33 UTC
-# Version: 2022.1201.0333.22
+# Last modified: 01 Dez 2022 08:05 UTC
+# Version: 2022.1201.0805.46
 # Syntax: Hosts
-# Domains: 7299
+# Domains: 7326
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -88,6 +88,7 @@
 0.0.0.0 53244ds.xyz
 0.0.0.0 www.53244ds.xyz
 0.0.0.0 54646.co
+0.0.0.0 ads.54646.co
 0.0.0.0 www.54646.co
 0.0.0.0 592piaoyi.com
 0.0.0.0 www.592piaoyi.com
@@ -196,6 +197,8 @@
 0.0.0.0 www.act-on.com
 0.0.0.0 api.action-media.ru
 0.0.0.0 dm.action-media.ru
+0.0.0.0 actionlink.jp
+0.0.0.0 www.actionlink.jp
 0.0.0.0 active-agent.com
 0.0.0.0 www.active-agent.com
 0.0.0.0 smetrics.activecommunities.com
@@ -268,6 +271,8 @@
 0.0.0.0 www.adgibbon.com
 0.0.0.0 adherecreative.com
 0.0.0.0 www.adherecreative.com
+0.0.0.0 adfarm.adition.com
+0.0.0.0 adfarm1.adition.com
 0.0.0.0 adjoe.zone
 0.0.0.0 www.adjoe.zone
 0.0.0.0 adlucent.com
@@ -610,6 +615,7 @@
 0.0.0.0 metrics.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemvt.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
@@ -939,6 +945,7 @@
 0.0.0.0 www.bidswitch.com
 0.0.0.0 bigabidserv.com
 0.0.0.0 www.bigabidserv.com
+0.0.0.0 protostats.bigo.sg
 0.0.0.0 amptrack.bild.de
 0.0.0.0 as.bild.de
 0.0.0.0 rem-track.bild.de
@@ -951,6 +958,7 @@
 0.0.0.0 analytics.binaryfortress.com
 0.0.0.0 binaryoption.ae
 0.0.0.0 www.binaryoption.ae
+0.0.0.0 bat.bing.com
 0.0.0.0 bingsearchlib.com
 0.0.0.0 www2.bipsolutions.com
 0.0.0.0 bipzilla.cl
@@ -2419,6 +2427,8 @@
 0.0.0.0 eu-commercialb.com
 0.0.0.0 www.eu-commercialb.com
 0.0.0.0 log.eufylife.com
+0.0.0.0 eulerian.net
+0.0.0.0 www.eulerian.net
 0.0.0.0 smetrics.eurekalert.org
 0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 bankingfinance.euromoney.com
@@ -3351,6 +3361,7 @@
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 cosmos-compass-api.immomo.com
 0.0.0.0 cosmos-video-api.immomo.com
+0.0.0.0 referee.immomo.com
 0.0.0.0 advertisements.immowebapi.be
 0.0.0.0 impact.com
 0.0.0.0 www.impact.com
@@ -3486,6 +3497,7 @@
 0.0.0.0 www.iron0walk.com
 0.0.0.0 ironsrc.mobi
 0.0.0.0 info.isnetworld.com
+0.0.0.0 k.isprog.com
 0.0.0.0 clean.issa.com
 0.0.0.0 ist-track.com
 0.0.0.0 www.ist-track.com
@@ -4027,6 +4039,7 @@
 0.0.0.0 elq.macu.com
 0.0.0.0 send.mad-infeed.jp
 0.0.0.0 stats.madeinwork.com
+0.0.0.0 madmetrics.com
 0.0.0.0 madmimi.com
 0.0.0.0 www.madmimi.com
 0.0.0.0 livesearch-metrics.magento-ds.com
@@ -4818,6 +4831,7 @@
 0.0.0.0 onetag.com
 0.0.0.0 www.onetag.com
 0.0.0.0 apixel.onetribeglobal.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 onezapp.com
 0.0.0.0 h-bos.online-metrix.net
 0.0.0.0 h-coutts.online-metrix.net
@@ -5349,8 +5363,6 @@
 0.0.0.0 smetrics.rentprogress.com
 0.0.0.0 annunci.repubblica.it
 0.0.0.0 info.republicservices.com
-0.0.0.0 researchnow.com
-0.0.0.0 www.researchnow.com
 0.0.0.0 researchresults.com
 0.0.0.0 www.researchresults.com
 0.0.0.0 resetsrv.com
@@ -5852,8 +5864,10 @@
 0.0.0.0 skimlinks.com
 0.0.0.0 www.skimlinks.com
 0.0.0.0 refer.skinceuticals.com
+0.0.0.0 analytics.sky.com
 0.0.0.0 cmp.sky.it
 0.0.0.0 idstatus.sky.com
+0.0.0.0 metrics.sky.com
 0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.sky.it
 0.0.0.0 somni.sky.de
@@ -6234,8 +6248,20 @@
 0.0.0.0 bot.talkappi.com
 0.0.0.0 talkscreativity.com
 0.0.0.0 www.talkscreativity.com
+0.0.0.0 appmonitor.dx.vip.tancdn.com
 0.0.0.0 tangoanalytics.com
 0.0.0.0 www.tangoanalytics.com
+0.0.0.0 app-log-lab.tantanapp.com
+0.0.0.0 client-monitor.tantanapp.com
+0.0.0.0 client-tracking.tantanapp.com
+0.0.0.0 counter.tantanapp.com
+0.0.0.0 deviceid.tantanapp.com
+0.0.0.0 devices.tantanapp.com
+0.0.0.0 io-sm-log.tantanapp.com
+0.0.0.0 report.tantanapp.com
+0.0.0.0 sc-report.tantanapp.com
+0.0.0.0 appmonitor.dx.vip.tantanapp.com
+0.0.0.0 appmonitor.gcp.vip.tantanapp.com
 0.0.0.0 kgb-ifs.tanx.com
 0.0.0.0 live-ifs.tanx.com
 0.0.0.0 adashx.m.taobao.com
@@ -6970,6 +6996,7 @@
 0.0.0.0 www.wayin.com
 0.0.0.0 wayrates.com
 0.0.0.0 www.wayrates.com
+0.0.0.0 advil.waze.com
 0.0.0.0 row-advil.waze.com
 0.0.0.0 wb22trk.com
 0.0.0.0 www.wb22trk.com

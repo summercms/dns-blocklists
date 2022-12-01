@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 03:33 UTC
-# Version: 2022.1201.0333.22
+# Last modified: 01 Dez 2022 08:05 UTC
+# Version: 2022.1201.0805.46
 # Syntax: Domains
-# Domains: 7299
+# Domains: 7326
 #
 000webhost.com
 www.000webhost.com
@@ -88,6 +88,7 @@ stms.53.com
 53244ds.xyz
 www.53244ds.xyz
 54646.co
+ads.54646.co
 www.54646.co
 592piaoyi.com
 www.592piaoyi.com
@@ -196,6 +197,8 @@ act-on.com
 www.act-on.com
 api.action-media.ru
 dm.action-media.ru
+actionlink.jp
+www.actionlink.jp
 active-agent.com
 www.active-agent.com
 smetrics.activecommunities.com
@@ -268,6 +271,8 @@ adgibbon.com
 www.adgibbon.com
 adherecreative.com
 www.adherecreative.com
+adfarm.adition.com
+adfarm1.adition.com
 adjoe.zone
 www.adjoe.zone
 adlucent.com
@@ -610,6 +615,7 @@ tr.iadsdk.apple.com
 metrics.apple.com
 notes-analytics-events.apple.com
 securemetrics.apple.com
+securemvt.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
 weather-analytics-events.apple.com
@@ -939,6 +945,7 @@ bidswitch.com
 www.bidswitch.com
 bigabidserv.com
 www.bigabidserv.com
+protostats.bigo.sg
 amptrack.bild.de
 as.bild.de
 rem-track.bild.de
@@ -951,6 +958,7 @@ p2p.binance.com
 analytics.binaryfortress.com
 binaryoption.ae
 www.binaryoption.ae
+bat.bing.com
 bingsearchlib.com
 www2.bipsolutions.com
 bipzilla.cl
@@ -2419,6 +2427,8 @@ smetrics.ets.org
 eu-commercialb.com
 www.eu-commercialb.com
 log.eufylife.com
+eulerian.net
+www.eulerian.net
 smetrics.eurekalert.org
 eg-p2.eurogamer.net
 bankingfinance.euromoney.com
@@ -3351,6 +3361,7 @@ iltcaf.immobilienscout24.de
 tracking.immobilienscout24.de
 cosmos-compass-api.immomo.com
 cosmos-video-api.immomo.com
+referee.immomo.com
 advertisements.immowebapi.be
 impact.com
 www.impact.com
@@ -3486,6 +3497,7 @@ iron0walk.com
 www.iron0walk.com
 ironsrc.mobi
 info.isnetworld.com
+k.isprog.com
 clean.issa.com
 ist-track.com
 www.ist-track.com
@@ -4027,6 +4039,7 @@ rdt.mackeeper.com
 elq.macu.com
 send.mad-infeed.jp
 stats.madeinwork.com
+madmetrics.com
 madmimi.com
 www.madmimi.com
 livesearch-metrics.magento-ds.com
@@ -4818,6 +4831,7 @@ scvgzt.onequince.com
 onetag.com
 www.onetag.com
 apixel.onetribeglobal.com
+geolocation.onetrust.com
 onezapp.com
 h-bos.online-metrix.net
 h-coutts.online-metrix.net
@@ -5349,8 +5363,6 @@ gqjppj.rentcafe.com
 smetrics.rentprogress.com
 annunci.repubblica.it
 info.republicservices.com
-researchnow.com
-www.researchnow.com
 researchresults.com
 www.researchresults.com
 resetsrv.com
@@ -5852,8 +5864,10 @@ promo.skf.com
 skimlinks.com
 www.skimlinks.com
 refer.skinceuticals.com
+analytics.sky.com
 cmp.sky.it
 idstatus.sky.com
+metrics.sky.com
 smetrics.sky.com
 smetrics.sky.it
 somni.sky.de
@@ -6234,8 +6248,20 @@ www.talk99.cn
 bot.talkappi.com
 talkscreativity.com
 www.talkscreativity.com
+appmonitor.dx.vip.tancdn.com
 tangoanalytics.com
 www.tangoanalytics.com
+app-log-lab.tantanapp.com
+client-monitor.tantanapp.com
+client-tracking.tantanapp.com
+counter.tantanapp.com
+deviceid.tantanapp.com
+devices.tantanapp.com
+io-sm-log.tantanapp.com
+report.tantanapp.com
+sc-report.tantanapp.com
+appmonitor.dx.vip.tantanapp.com
+appmonitor.gcp.vip.tantanapp.com
 kgb-ifs.tanx.com
 live-ifs.tanx.com
 adashx.m.taobao.com
@@ -6970,6 +6996,7 @@ wayin.com
 www.wayin.com
 wayrates.com
 www.wayrates.com
+advil.waze.com
 row-advil.waze.com
 wb22trk.com
 www.wb22trk.com

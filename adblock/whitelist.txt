@@ -101,7 +101,7 @@
 ! mask.apple-dns.net
 ! mask.icloud.com
 @@|ocsp*.apple.com^
-@@|securemvt.apple.com^
+! securemvt.apple.com
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
 @@|trackingshipment.apple.com^
@@ -1893,4 +1893,15 @@
 
 ! Gcash login
 @@|ilog-sea-aliyun.alipayplus.com^
+
+! Tantanapp
+@@|tantanapp.com^
+@@|api.immomo.com^
+
+! Market research by survey panels
+@@|opinions.research-interactive.com^
+@@|surveymyopinion.researchnow.com^
+
+! Legit bank
+@@|hsbc.com.au^
 
