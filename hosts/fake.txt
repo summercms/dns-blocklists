@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Nov 2022 08:33 UTC
-# Version: 2022.1130.0833.29
+# Last modified: 01 Dez 2022 00:54 UTC
+# Version: 2022.1201.0054.15
 # Syntax: Hosts
-# Domains: 11543
+# Domains: 11546
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -5108,7 +5108,6 @@
 0.0.0.0 politics.illegalstore.xyz
 0.0.0.0 similarly.illegalstore.xyz
 0.0.0.0 wind.illegalstore.xyz
-0.0.0.0 illlucky.com
 0.0.0.0 ilysend.com
 0.0.0.0 www.ilysend.com
 0.0.0.0 ilysne.com
@@ -8668,6 +8667,8 @@
 0.0.0.0 www.rohrreinigung24-7.at
 0.0.0.0 rohrsanierungen24.de
 0.0.0.0 www.rohrsanierungen24.de
+0.0.0.0 roicraft.co
+0.0.0.0 www.roicraft.co
 0.0.0.0 rokianjas.online
 0.0.0.0 www.rokianjas.online
 0.0.0.0 roleo.net
@@ -10635,6 +10636,8 @@
 0.0.0.0 www.vdd-osnabrueck.de
 0.0.0.0 vejaaustria.at
 0.0.0.0 www.vejaaustria.at
+0.0.0.0 vejaschuheosterreich.com
+0.0.0.0 www.vejaschuheosterreich.com
 0.0.0.0 vejasneakerswien.at
 0.0.0.0 www.vejasneakerswien.at
 0.0.0.0 vejoheza.top
