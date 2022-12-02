@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 00:54 UTC
-# Version: 2022.1201.0054.15
+# Last modified: 02 Dez 2022 00:54 UTC
+# Version: 2022.1202.0054.23
 # Syntax: Domains
-# Domains: 11546
+# Domains: 11552
 #
 willhaben.at.04300.id
 11trikots.com
@@ -348,6 +348,8 @@ allescasual.de
 www.allescasual.at
 www.allescasual.ch
 www.allescasual.de
+allesfurgartenoutlet.com
+www.allesfurgartenoutlet.com
 allesnett.de
 www.allesnett.de
 alleszumheizen.com
@@ -905,8 +907,6 @@ barando-shop.de
 www.barando-shop.de
 barbaravonfrisch.at
 www.barbaravonfrisch.at
-barbefisch.de
-www.barbefisch.de
 barborabatt.com
 www.barborabatt.com
 barboutletus.com
@@ -969,6 +969,8 @@ bc-rheine.de
 www.bc-rheine.de
 bcm-shop.de
 www.bcm-shop.de
+bdshop.com
+www.bdshop.com
 be-shop24.com
 www.be-shop24.com
 beatricefalck-art.de
@@ -1252,6 +1254,8 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
+blaroken.com
+www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -2425,6 +2429,8 @@ davesaunderscfo.com
 www.davesaunderscfo.com
 davidkimboyle.net
 www.davidkimboyle.net
+davidoutwear.com
+www.davidoutwear.com
 daygpl.shop
 www.daygpl.shop
 daytradinginstitutionpro.com
@@ -4922,6 +4928,8 @@ www.hotluvgood.site
 hotment.xyz
 hotngood.site
 www.hotngood.site
+hototools.com
+www.hototools.com
 hotpremiumdate.de
 www.hotpremiumdate.de
 hotsalecheap.xyz
@@ -10679,8 +10687,6 @@ verkaufre.de
 www.verkaufre.de
 vermessung-dubbert.de
 www.vermessung-dubbert.de
-vernaschediewelt.com
-www.vernaschediewelt.com
 verobraun.de
 www.verobraun.de
 versandhandel-decker.de

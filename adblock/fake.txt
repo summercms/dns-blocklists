@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 01 Dez 2022 00:54 UTC
-! Version: 2022.1201.0054.15
+! Last modified: 02 Dez 2022 00:54 UTC
+! Version: 2022.1202.0054.23
 ! Syntax: AdBlock
-! Domains: 6023
+! Domains: 6026
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -185,6 +185,7 @@
 ||allescasual.at^
 ||allescasual.ch^
 ||allescasual.de^
+||allesfurgartenoutlet.com^
 ||allesnett.de^
 ||alleszumheizen.com^
 ||alleygh.co^
@@ -475,7 +476,6 @@
 ||barando-online.de^
 ||barando-shop.de^
 ||barbaravonfrisch.at^
-||barbefisch.de^
 ||barborabatt.com^
 ||barboutletus.com^
 ||bardacstore.com^
@@ -508,6 +508,7 @@
 ||bbvipanswer.shop^
 ||bc-rheine.de^
 ||bcm-shop.de^
+||bdshop.com^
 ||be-shop24.com^
 ||beatricefalck-art.de^
 ||beauteousu.com^
@@ -653,6 +654,7 @@
 ||bjorkcoffee.com^
 ||black-forestcake.com^
 ||blackwidow.at^
+||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -1272,6 +1274,7 @@
 ||daveintheshop.com^
 ||davesaunderscfo.com^
 ||davidkimboyle.net^
+||davidoutwear.com^
 ||daygpl.shop^
 ||daytradinginstitutionpro.com^
 ||dazsistmeins.at^
@@ -2571,6 +2574,7 @@
 ||hotluvgood.site^
 ||hotment.xyz^
 ||hotngood.site^
+||hototools.com^
 ||hotpremiumdate.de^
 ||hotsalecheap.xyz^
 ||hotshomes.com^
@@ -5577,7 +5581,6 @@
 ||verkauf-kaminholz.de^
 ||verkaufre.de^
 ||vermessung-dubbert.de^
-||vernaschediewelt.com^
 ||verobraun.de^
 ||versandhandel-decker.de^
 ||versandhaus-decker.de^

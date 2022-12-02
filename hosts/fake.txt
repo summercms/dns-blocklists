@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 00:54 UTC
-# Version: 2022.1201.0054.15
+# Last modified: 02 Dez 2022 00:54 UTC
+# Version: 2022.1202.0054.23
 # Syntax: Hosts
-# Domains: 11546
+# Domains: 11552
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -348,6 +348,8 @@
 0.0.0.0 www.allescasual.at
 0.0.0.0 www.allescasual.ch
 0.0.0.0 www.allescasual.de
+0.0.0.0 allesfurgartenoutlet.com
+0.0.0.0 www.allesfurgartenoutlet.com
 0.0.0.0 allesnett.de
 0.0.0.0 www.allesnett.de
 0.0.0.0 alleszumheizen.com
@@ -905,8 +907,6 @@
 0.0.0.0 www.barando-shop.de
 0.0.0.0 barbaravonfrisch.at
 0.0.0.0 www.barbaravonfrisch.at
-0.0.0.0 barbefisch.de
-0.0.0.0 www.barbefisch.de
 0.0.0.0 barborabatt.com
 0.0.0.0 www.barborabatt.com
 0.0.0.0 barboutletus.com
@@ -969,6 +969,8 @@
 0.0.0.0 www.bc-rheine.de
 0.0.0.0 bcm-shop.de
 0.0.0.0 www.bcm-shop.de
+0.0.0.0 bdshop.com
+0.0.0.0 www.bdshop.com
 0.0.0.0 be-shop24.com
 0.0.0.0 www.be-shop24.com
 0.0.0.0 beatricefalck-art.de
@@ -1252,6 +1254,8 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 www.blackwidow.at
+0.0.0.0 blaroken.com
+0.0.0.0 www.blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 blaue-dragoner.de
@@ -2425,6 +2429,8 @@
 0.0.0.0 www.davesaunderscfo.com
 0.0.0.0 davidkimboyle.net
 0.0.0.0 www.davidkimboyle.net
+0.0.0.0 davidoutwear.com
+0.0.0.0 www.davidoutwear.com
 0.0.0.0 daygpl.shop
 0.0.0.0 www.daygpl.shop
 0.0.0.0 daytradinginstitutionpro.com
@@ -4922,6 +4928,8 @@
 0.0.0.0 hotment.xyz
 0.0.0.0 hotngood.site
 0.0.0.0 www.hotngood.site
+0.0.0.0 hototools.com
+0.0.0.0 www.hototools.com
 0.0.0.0 hotpremiumdate.de
 0.0.0.0 www.hotpremiumdate.de
 0.0.0.0 hotsalecheap.xyz
@@ -10679,8 +10687,6 @@
 0.0.0.0 www.verkaufre.de
 0.0.0.0 vermessung-dubbert.de
 0.0.0.0 www.vermessung-dubbert.de
-0.0.0.0 vernaschediewelt.com
-0.0.0.0 www.vernaschediewelt.com
 0.0.0.0 verobraun.de
 0.0.0.0 www.verobraun.de
 0.0.0.0 versandhandel-decker.de
