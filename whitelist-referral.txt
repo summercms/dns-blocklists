@@ -209,6 +209,7 @@ ea.galerieslafayette.com
 target.georiot.com
 tag.getdrip.com
 app.getresponse.com
+ggopjn.com
 glnk.io
 go2jump.org
 adservice.google.ac
@@ -366,7 +367,6 @@ adservice.google.ws
 adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
-googleadservices.com
 www.googleadservices.com
 gopjn.com
 click.holidayinnclubemail.com
@@ -460,6 +460,7 @@ t.myvisualiq.net
 email.namebase.io
 api.narrativ.com
 events.release.narrativ.com
+app.adjust.net.in
 click.email.newegg.com
 go.nextiva.com
 a.nonstoppartner.net

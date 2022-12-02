@@ -21,9 +21,9 @@
 @@||dpbolvw.net^
 @@||emjcd.com^
 @@||evyy.net^
+@@||ggopjn.com^
 @@||glnk.io^
 @@||go2jump.org^
-@@||googleadservices.com^
 @@||gopjn.com^
 @@||href.li^
 @@||hubspotemail.net^
@@ -480,6 +480,7 @@
 @@||email.namebase.io^
 @@||api.narrativ.com^
 @@||events.release.narrativ.com^
+@@||app.adjust.net.in^
 @@||click.email.newegg.com^
 @@||go.nextiva.com^
 @@||a.nonstoppartner.net^
