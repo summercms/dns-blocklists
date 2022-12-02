@@ -545,6 +545,7 @@ trackcmp.net
 clk.tradedoubler.com
 clk*.tradedoubler.com
 clkpl.tradedoubler.com
+clkuk.tradedoubler.com
 pdt.tradedoubler.com
 redir.tradedoubler.com
 redirects.tradedoubler.com
