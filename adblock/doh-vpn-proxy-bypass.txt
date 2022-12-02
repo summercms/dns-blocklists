@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 21 Nov 2022 15:01 UTC
-! Version: 2022.1121.1501.31
+! Last modified: 02 Dez 2022 17:13 UTC
+! Version: 2022.1202.1713.15
 ! Syntax: AdBlock
-! Domains: 899
+! Domains: 900
 !
 ||012proxy.ga^
 ||12vpx.com^
@@ -796,6 +796,7 @@
 ||us-proxy.org^
 ||adfree.usableprivacy.net^
 ||usafastproxy.info^
+||use-application-dns.net^
 ||usproxies.info^
 ||usproxy.nu^
 ||usvpn.cf^
