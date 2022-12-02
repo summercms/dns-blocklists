@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 01:20 UTC
-# Version: 2022.1202.0120.38
+# Last modified: 02 Dez 2022 03:36 UTC
+# Version: 2022.1202.0336.48
 # Syntax: Domains
-# Domains: 7394
+# Domains: 7460
 #
 000webhost.com
 www.000webhost.com
@@ -459,6 +459,8 @@ e7876.dscg.akamaiedge.net
 adalliance-a.akamaihd.net
 cdn-bimi.akamaized.net
 chartboost.com.akamaized.net
+appconf-ocs-sgp.heytapdl.com.akamaized.net
+mdp-appconf-eu.heytapdl.com.akamaized.net
 projectagoraservices.com.akamaized.net
 smartadserver.com.akamaized.net
 vungle.com.akamaized.net
@@ -974,6 +976,8 @@ www.bipzilla.cl
 markets.api.bitcoin.com
 sstats.bitdefender.com
 starget.bitdefender.com
+bitmex.com
+www.bitmex.com
 smetrics.bjs.com
 ablink.your-way.bk.com
 smetrics.bkstr.com
@@ -1337,6 +1341,8 @@ webstats.channel4.com
 channeladvisor.com
 www.channeladvisor.com
 midas.chase.com
+chatbro.com
+www.chatbro.com
 access.chathamfinancial.com
 cnpxwl.cheapcaribbean.com
 share.cheaperthandirt.com
@@ -1458,6 +1464,8 @@ clicktut.site
 www.clicktut.site
 clinch.co
 www.clinch.co
+clipartbest.com
+www.clipartbest.com
 cllgxx.com
 www.cllgxx.com
 clopping-pround.com
@@ -1619,6 +1627,8 @@ www.coat0tire.com
 coax7nice.com
 www.coax7nice.com
 smetrics.coca-cola.com
+codeblackbelt.com
+www.codeblackbelt.com
 refer.codecademy.com
 codigo.se
 www.codigo.se
@@ -1686,6 +1696,8 @@ xpg.com.br
 mc.yandex.com.tr
 tracking.business.comcast.com
 t.cometlytrack.com
+comevo.com
+www.comevo.com
 embed.comicbook.com
 saa.comicbook.com
 comm100.com
@@ -1896,6 +1908,8 @@ secure.data-ingenuity.com
 secure.data-insight365.com
 databreakers.com
 www.databreakers.com
+databridgemarketresearch.com
+www.databridgemarketresearch.com
 info.datacore.com
 datadoghq.eu
 www.datadoghq.eu
@@ -2089,6 +2103,8 @@ www.doll8tune.com
 analytics.dominos.com
 smetrics.dominos.com
 secure.info.domo.com
+domobile.com
+www.domobile.com
 smetrics.donaldson.com
 tk.dossier.co
 greensky.dotcmscloud.com
@@ -2264,6 +2280,7 @@ cxense.com.edgekey.net
 adx-dre.op.dbankcloud.com.edgekey.net
 analytics.dealmoon.com.edgekey.net
 evidon.com.edgekey.net
+analytics.fbgcdn.com.edgekey.net
 analytics.disney.go.com.edgekey.net
 dsa-sslv6.hispace.hicloud.com.edgekey.net
 insightexpressai.com.edgekey.net
@@ -2297,6 +2314,7 @@ crta.dailymail.co.uk.edgekey.net
 ted.dailymail.co.uk.edgekey.net
 edgeme.sh
 p16-ad.byteoversea.com.edgesuite.net
+demdex.hm.com.edgesuite.net
 video-ads-module.ad-tech.nbcuni.com.edgesuite.net
 smartadserver.com.edgesuite.net
 mon-va.tiktokv.com.edgesuite.net
@@ -2407,6 +2425,8 @@ www.epi.vn
 trackers.peerius.episerver.net
 epizy.com
 www.epizy.com
+eplay.com
+www.eplay.com
 eprize.com
 www.eprize.com
 sawap.equifax.com
@@ -2660,6 +2680,7 @@ ssa.foodnetwork.com
 vrzmfy.fool.com
 sanl.footlocker.ca
 sanl.footlocker.com
+cdn.digiteka.com.c.footprint.net
 geoip.footprintcalculator.org
 forbesinfo.forbes.com
 foresightfactory.co
@@ -2816,6 +2837,8 @@ deals.getbril.io
 deals.getcarbonklean.io
 getcarro.com
 www.getcarro.com
+getfeedback.com
+www.getfeedback.com
 getfivestars.com
 www.getfivestars.com
 getflexsafe.io
@@ -3038,6 +3061,8 @@ business.guinnessworldrecords.com
 annwwu.guitarcenter.com
 gukacado.com
 resources.gulfenergyinfo.com
+guloggratis.dk
+www.guloggratis.dk
 cstm.gumtree.com
 cv.gunosy.com
 cdn.gusto.com
@@ -3192,6 +3217,8 @@ saccess.hikaritv.net
 ontrack3.hilti.cloud
 smetric.hilton.com
 analytics.hindustantimes.com
+hippoobox.com
+www.hippoobox.com
 gtrack.hipporeport.com
 explore.hireez.com
 info.hireright.com
@@ -3306,6 +3333,8 @@ www.hull.io
 hullapp.io
 www.hullapp.io
 smetrics.humana.com
+humanity.com
+www.humanity.com
 humansecurity.com
 www.humansecurity.com
 sptrack.mailer.humblebundle.com
@@ -3418,6 +3447,8 @@ infinario.com
 www.infinario.com
 track-e.infineon.com
 ict.infinity-tracking.net
+influ2.com
+www.influ2.com
 info.com
 www.info.com
 smetrics.citeline.informa.com
@@ -3639,6 +3670,8 @@ links.justfab.com
 justfashionnow.com
 www.justfashionnow.com
 ckpxtt.justfly.com
+justfreecamz.com
+www.justfreecamz.com
 justtrack.io
 www.justtrack.io
 dlesjf.jutarnji.hr
@@ -3884,7 +3917,9 @@ s.lenovo.com
 refer.lenscrafters.com
 lentaphoto.at
 www.lentaphoto.at
+leovegas.com
 cdn.leovegas.com
+www.leovegas.com
 rsc.lepoint.fr
 letmeads.com
 www.letmeads.com
@@ -4159,10 +4194,14 @@ static.maxfullad.com
 www.maxfullad.com
 saa.maxpreps.com
 st.mazdausa.com
+mbl.is
+www.mbl.is
 track.mbstrk.com
 mbvnclick4.com
 www.mbvnclick4.com
 mc-scanner.com
+mcafeesecure.com
+www.mcafeesecure.com
 mip.api.mcafeewebadvisor.com
 mcas-df.ms
 www.mcas-df.ms
@@ -4527,6 +4566,8 @@ stats.myminifactory.com
 share.myq.com
 myq-see.com
 www.myq-see.com
+mysexymatches.com
+www.mysexymatches.com
 matomo.myshakespeare.com
 myshoplaza.com
 www.myshoplaza.com
@@ -4586,6 +4627,8 @@ lpbhnv.nbcdfw.com
 links.nbcnews.com
 lpbhnv.nbcsandiego.com
 ijaabm.nbcsports.com
+nbcudigitaladops.com
+www.nbcudigitaladops.com
 surf.nbcuni.com
 nciinform.ru
 ncvtracks.com
@@ -4649,6 +4692,8 @@ newshuntads.com
 www.newshuntads.com
 newsinc.com
 www.newsinc.com
+newspointapp.com
+www.newspointapp.com
 newsschoolspecialty.com
 www.newsschoolspecialty.com
 gc.newsweek.com
@@ -4705,6 +4750,8 @@ bc.nn.nl
 content.lp.nn.nl
 node7seat.com
 www.node7seat.com
+nolo.com
+www.nolo.com
 nonage.org
 www.nonage.org
 nonfattoplike.com
@@ -4836,6 +4883,7 @@ dowjoneson.com.sc.omtrdc.net
 newjobs.d1.sc.omtrdc.net
 siemens.d1.sc.omtrdc.net
 analytics.ihg.com.ssl.d1.sc.omtrdc.net
+vizergy.com.ssl.d1.sc.omtrdc.net
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonwebservices.d2.sc.omtrdc.net
 cebwa.d2.sc.omtrdc.net
@@ -4856,6 +4904,7 @@ nbcstreaming.sc.omtrdc.net
 nbcume.sc.omtrdc.net
 smetrics.abbott.ssl.sc.omtrdc.net
 dowjoneson.com.ssl.sc.omtrdc.net
+rs-online.com.ssl.sc.omtrdc.net
 unitedparcelservice.sc.omtrdc.net
 viacom.sc.omtrdc.net
 vodafonetr.sc.omtrdc.net
@@ -5723,6 +5772,8 @@ discover.selinc.com
 mango.seloger.com
 semalt.com
 www.semalt.com
+semenax.com
+www.semenax.com
 t.seminoles.com
 sendgrid.me
 sendinblue.com
@@ -5984,6 +6035,8 @@ www.smartclip.net
 stats.gcp.smartmailcloud.com
 smartmetrics.rocks
 smetrics.smartmove.us
+smartsuppchat.com
+www.smartsuppchat.com
 analytics.smartvel.com
 analytics-pro.smartvel.com
 log-mediation.smartvisionapp.com
@@ -6136,6 +6189,8 @@ data.srf.ch
 www2.srmax.com
 smetrics.srpnet.com
 tracking.srv2.de
+srv69.eu
+www.srv69.eu
 content.ssctech.com
 analytics.ssense.com
 smetrics.ssfcu.org
@@ -6590,6 +6645,8 @@ trackingio.com
 www.trackingio.com
 trackingznet.online
 www.trackingznet.online
+trackip.net
+www.trackip.net
 usage.trackjs.com
 cdn-magiclinks.trackonomics.net
 tracksummer.com
@@ -6742,6 +6799,8 @@ uclick.com
 www.uclick.com
 abvghl.udn.com
 udomyeasted.com
+ufazeed.com
+www.ufazeed.com
 metrics.uhc.com
 t.uhcougars.com
 analytics.uhrzeit.org
@@ -6954,6 +7013,8 @@ secure.visionary-business-52.com
 secure.visionary-company-ingenuity.com
 secure.visionarybusiness7.com
 secure.visionarybusinessacumen.com
+visit-x.net
+www.visit-x.net
 marketing.visitdenver.com
 marketing.visitindy.com
 marketing.visitmusiccity.com
@@ -7138,10 +7199,14 @@ wmpmvk.whiskeyriff.com
 white-call.com
 www.white-call.com
 refer.whitehouseblackmarket.com
+widgeo.net
+www.widgeo.net
 track.wikibuy.com
 bid.wikihow.com
 intake-analytics.wikimedia.org
 stats.wikimedia.de
+wikplayer.com
+www.wikplayer.com
 wild0army.com
 www.wild0army.com
 secure.wild8prey.com
@@ -7180,6 +7245,7 @@ wistia.net
 with2.net
 www.with2.net
 hmg.wiwo.de
+wce-frog.wix.com
 engage.wixapps.net
 sentry.wixpress.com
 wlct-two.de

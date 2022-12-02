@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 01:20 UTC
-# Version: 2022.1202.0120.38
+# Last modified: 02 Dez 2022 03:36 UTC
+# Version: 2022.1202.0336.48
 # Syntax: Hosts
-# Domains: 7394
+# Domains: 7460
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -459,6 +459,8 @@
 0.0.0.0 adalliance-a.akamaihd.net
 0.0.0.0 cdn-bimi.akamaized.net
 0.0.0.0 chartboost.com.akamaized.net
+0.0.0.0 appconf-ocs-sgp.heytapdl.com.akamaized.net
+0.0.0.0 mdp-appconf-eu.heytapdl.com.akamaized.net
 0.0.0.0 projectagoraservices.com.akamaized.net
 0.0.0.0 smartadserver.com.akamaized.net
 0.0.0.0 vungle.com.akamaized.net
@@ -974,6 +976,8 @@
 0.0.0.0 markets.api.bitcoin.com
 0.0.0.0 sstats.bitdefender.com
 0.0.0.0 starget.bitdefender.com
+0.0.0.0 bitmex.com
+0.0.0.0 www.bitmex.com
 0.0.0.0 smetrics.bjs.com
 0.0.0.0 ablink.your-way.bk.com
 0.0.0.0 smetrics.bkstr.com
@@ -1337,6 +1341,8 @@
 0.0.0.0 channeladvisor.com
 0.0.0.0 www.channeladvisor.com
 0.0.0.0 midas.chase.com
+0.0.0.0 chatbro.com
+0.0.0.0 www.chatbro.com
 0.0.0.0 access.chathamfinancial.com
 0.0.0.0 cnpxwl.cheapcaribbean.com
 0.0.0.0 share.cheaperthandirt.com
@@ -1458,6 +1464,8 @@
 0.0.0.0 www.clicktut.site
 0.0.0.0 clinch.co
 0.0.0.0 www.clinch.co
+0.0.0.0 clipartbest.com
+0.0.0.0 www.clipartbest.com
 0.0.0.0 cllgxx.com
 0.0.0.0 www.cllgxx.com
 0.0.0.0 clopping-pround.com
@@ -1619,6 +1627,8 @@
 0.0.0.0 coax7nice.com
 0.0.0.0 www.coax7nice.com
 0.0.0.0 smetrics.coca-cola.com
+0.0.0.0 codeblackbelt.com
+0.0.0.0 www.codeblackbelt.com
 0.0.0.0 refer.codecademy.com
 0.0.0.0 codigo.se
 0.0.0.0 www.codigo.se
@@ -1686,6 +1696,8 @@
 0.0.0.0 mc.yandex.com.tr
 0.0.0.0 tracking.business.comcast.com
 0.0.0.0 t.cometlytrack.com
+0.0.0.0 comevo.com
+0.0.0.0 www.comevo.com
 0.0.0.0 embed.comicbook.com
 0.0.0.0 saa.comicbook.com
 0.0.0.0 comm100.com
@@ -1896,6 +1908,8 @@
 0.0.0.0 secure.data-insight365.com
 0.0.0.0 databreakers.com
 0.0.0.0 www.databreakers.com
+0.0.0.0 databridgemarketresearch.com
+0.0.0.0 www.databridgemarketresearch.com
 0.0.0.0 info.datacore.com
 0.0.0.0 datadoghq.eu
 0.0.0.0 www.datadoghq.eu
@@ -2089,6 +2103,8 @@
 0.0.0.0 analytics.dominos.com
 0.0.0.0 smetrics.dominos.com
 0.0.0.0 secure.info.domo.com
+0.0.0.0 domobile.com
+0.0.0.0 www.domobile.com
 0.0.0.0 smetrics.donaldson.com
 0.0.0.0 tk.dossier.co
 0.0.0.0 greensky.dotcmscloud.com
@@ -2264,6 +2280,7 @@
 0.0.0.0 adx-dre.op.dbankcloud.com.edgekey.net
 0.0.0.0 analytics.dealmoon.com.edgekey.net
 0.0.0.0 evidon.com.edgekey.net
+0.0.0.0 analytics.fbgcdn.com.edgekey.net
 0.0.0.0 analytics.disney.go.com.edgekey.net
 0.0.0.0 dsa-sslv6.hispace.hicloud.com.edgekey.net
 0.0.0.0 insightexpressai.com.edgekey.net
@@ -2297,6 +2314,7 @@
 0.0.0.0 ted.dailymail.co.uk.edgekey.net
 0.0.0.0 edgeme.sh
 0.0.0.0 p16-ad.byteoversea.com.edgesuite.net
+0.0.0.0 demdex.hm.com.edgesuite.net
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com.edgesuite.net
 0.0.0.0 smartadserver.com.edgesuite.net
 0.0.0.0 mon-va.tiktokv.com.edgesuite.net
@@ -2407,6 +2425,8 @@
 0.0.0.0 trackers.peerius.episerver.net
 0.0.0.0 epizy.com
 0.0.0.0 www.epizy.com
+0.0.0.0 eplay.com
+0.0.0.0 www.eplay.com
 0.0.0.0 eprize.com
 0.0.0.0 www.eprize.com
 0.0.0.0 sawap.equifax.com
@@ -2660,6 +2680,7 @@
 0.0.0.0 vrzmfy.fool.com
 0.0.0.0 sanl.footlocker.ca
 0.0.0.0 sanl.footlocker.com
+0.0.0.0 cdn.digiteka.com.c.footprint.net
 0.0.0.0 geoip.footprintcalculator.org
 0.0.0.0 forbesinfo.forbes.com
 0.0.0.0 foresightfactory.co
@@ -2816,6 +2837,8 @@
 0.0.0.0 deals.getcarbonklean.io
 0.0.0.0 getcarro.com
 0.0.0.0 www.getcarro.com
+0.0.0.0 getfeedback.com
+0.0.0.0 www.getfeedback.com
 0.0.0.0 getfivestars.com
 0.0.0.0 www.getfivestars.com
 0.0.0.0 getflexsafe.io
@@ -3038,6 +3061,8 @@
 0.0.0.0 annwwu.guitarcenter.com
 0.0.0.0 gukacado.com
 0.0.0.0 resources.gulfenergyinfo.com
+0.0.0.0 guloggratis.dk
+0.0.0.0 www.guloggratis.dk
 0.0.0.0 cstm.gumtree.com
 0.0.0.0 cv.gunosy.com
 0.0.0.0 cdn.gusto.com
@@ -3192,6 +3217,8 @@
 0.0.0.0 ontrack3.hilti.cloud
 0.0.0.0 smetric.hilton.com
 0.0.0.0 analytics.hindustantimes.com
+0.0.0.0 hippoobox.com
+0.0.0.0 www.hippoobox.com
 0.0.0.0 gtrack.hipporeport.com
 0.0.0.0 explore.hireez.com
 0.0.0.0 info.hireright.com
@@ -3306,6 +3333,8 @@
 0.0.0.0 hullapp.io
 0.0.0.0 www.hullapp.io
 0.0.0.0 smetrics.humana.com
+0.0.0.0 humanity.com
+0.0.0.0 www.humanity.com
 0.0.0.0 humansecurity.com
 0.0.0.0 www.humansecurity.com
 0.0.0.0 sptrack.mailer.humblebundle.com
@@ -3418,6 +3447,8 @@
 0.0.0.0 www.infinario.com
 0.0.0.0 track-e.infineon.com
 0.0.0.0 ict.infinity-tracking.net
+0.0.0.0 influ2.com
+0.0.0.0 www.influ2.com
 0.0.0.0 info.com
 0.0.0.0 www.info.com
 0.0.0.0 smetrics.citeline.informa.com
@@ -3639,6 +3670,8 @@
 0.0.0.0 justfashionnow.com
 0.0.0.0 www.justfashionnow.com
 0.0.0.0 ckpxtt.justfly.com
+0.0.0.0 justfreecamz.com
+0.0.0.0 www.justfreecamz.com
 0.0.0.0 justtrack.io
 0.0.0.0 www.justtrack.io
 0.0.0.0 dlesjf.jutarnji.hr
@@ -3884,7 +3917,9 @@
 0.0.0.0 refer.lenscrafters.com
 0.0.0.0 lentaphoto.at
 0.0.0.0 www.lentaphoto.at
+0.0.0.0 leovegas.com
 0.0.0.0 cdn.leovegas.com
+0.0.0.0 www.leovegas.com
 0.0.0.0 rsc.lepoint.fr
 0.0.0.0 letmeads.com
 0.0.0.0 www.letmeads.com
@@ -4159,10 +4194,14 @@
 0.0.0.0 www.maxfullad.com
 0.0.0.0 saa.maxpreps.com
 0.0.0.0 st.mazdausa.com
+0.0.0.0 mbl.is
+0.0.0.0 www.mbl.is
 0.0.0.0 track.mbstrk.com
 0.0.0.0 mbvnclick4.com
 0.0.0.0 www.mbvnclick4.com
 0.0.0.0 mc-scanner.com
+0.0.0.0 mcafeesecure.com
+0.0.0.0 www.mcafeesecure.com
 0.0.0.0 mip.api.mcafeewebadvisor.com
 0.0.0.0 mcas-df.ms
 0.0.0.0 www.mcas-df.ms
@@ -4527,6 +4566,8 @@
 0.0.0.0 share.myq.com
 0.0.0.0 myq-see.com
 0.0.0.0 www.myq-see.com
+0.0.0.0 mysexymatches.com
+0.0.0.0 www.mysexymatches.com
 0.0.0.0 matomo.myshakespeare.com
 0.0.0.0 myshoplaza.com
 0.0.0.0 www.myshoplaza.com
@@ -4586,6 +4627,8 @@
 0.0.0.0 links.nbcnews.com
 0.0.0.0 lpbhnv.nbcsandiego.com
 0.0.0.0 ijaabm.nbcsports.com
+0.0.0.0 nbcudigitaladops.com
+0.0.0.0 www.nbcudigitaladops.com
 0.0.0.0 surf.nbcuni.com
 0.0.0.0 nciinform.ru
 0.0.0.0 ncvtracks.com
@@ -4649,6 +4692,8 @@
 0.0.0.0 www.newshuntads.com
 0.0.0.0 newsinc.com
 0.0.0.0 www.newsinc.com
+0.0.0.0 newspointapp.com
+0.0.0.0 www.newspointapp.com
 0.0.0.0 newsschoolspecialty.com
 0.0.0.0 www.newsschoolspecialty.com
 0.0.0.0 gc.newsweek.com
@@ -4705,6 +4750,8 @@
 0.0.0.0 content.lp.nn.nl
 0.0.0.0 node7seat.com
 0.0.0.0 www.node7seat.com
+0.0.0.0 nolo.com
+0.0.0.0 www.nolo.com
 0.0.0.0 nonage.org
 0.0.0.0 www.nonage.org
 0.0.0.0 nonfattoplike.com
@@ -4836,6 +4883,7 @@
 0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 analytics.ihg.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 vizergy.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 cebwa.d2.sc.omtrdc.net
@@ -4856,6 +4904,7 @@
 0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 smetrics.abbott.ssl.sc.omtrdc.net
 0.0.0.0 dowjoneson.com.ssl.sc.omtrdc.net
+0.0.0.0 rs-online.com.ssl.sc.omtrdc.net
 0.0.0.0 unitedparcelservice.sc.omtrdc.net
 0.0.0.0 viacom.sc.omtrdc.net
 0.0.0.0 vodafonetr.sc.omtrdc.net
@@ -5723,6 +5772,8 @@
 0.0.0.0 mango.seloger.com
 0.0.0.0 semalt.com
 0.0.0.0 www.semalt.com
+0.0.0.0 semenax.com
+0.0.0.0 www.semenax.com
 0.0.0.0 t.seminoles.com
 0.0.0.0 sendgrid.me
 0.0.0.0 sendinblue.com
@@ -5984,6 +6035,8 @@
 0.0.0.0 stats.gcp.smartmailcloud.com
 0.0.0.0 smartmetrics.rocks
 0.0.0.0 smetrics.smartmove.us
+0.0.0.0 smartsuppchat.com
+0.0.0.0 www.smartsuppchat.com
 0.0.0.0 analytics.smartvel.com
 0.0.0.0 analytics-pro.smartvel.com
 0.0.0.0 log-mediation.smartvisionapp.com
@@ -6136,6 +6189,8 @@
 0.0.0.0 www2.srmax.com
 0.0.0.0 smetrics.srpnet.com
 0.0.0.0 tracking.srv2.de
+0.0.0.0 srv69.eu
+0.0.0.0 www.srv69.eu
 0.0.0.0 content.ssctech.com
 0.0.0.0 analytics.ssense.com
 0.0.0.0 smetrics.ssfcu.org
@@ -6590,6 +6645,8 @@
 0.0.0.0 www.trackingio.com
 0.0.0.0 trackingznet.online
 0.0.0.0 www.trackingznet.online
+0.0.0.0 trackip.net
+0.0.0.0 www.trackip.net
 0.0.0.0 usage.trackjs.com
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 tracksummer.com
@@ -6742,6 +6799,8 @@
 0.0.0.0 www.uclick.com
 0.0.0.0 abvghl.udn.com
 0.0.0.0 udomyeasted.com
+0.0.0.0 ufazeed.com
+0.0.0.0 www.ufazeed.com
 0.0.0.0 metrics.uhc.com
 0.0.0.0 t.uhcougars.com
 0.0.0.0 analytics.uhrzeit.org
@@ -6954,6 +7013,8 @@
 0.0.0.0 secure.visionary-company-ingenuity.com
 0.0.0.0 secure.visionarybusiness7.com
 0.0.0.0 secure.visionarybusinessacumen.com
+0.0.0.0 visit-x.net
+0.0.0.0 www.visit-x.net
 0.0.0.0 marketing.visitdenver.com
 0.0.0.0 marketing.visitindy.com
 0.0.0.0 marketing.visitmusiccity.com
@@ -7138,10 +7199,14 @@
 0.0.0.0 white-call.com
 0.0.0.0 www.white-call.com
 0.0.0.0 refer.whitehouseblackmarket.com
+0.0.0.0 widgeo.net
+0.0.0.0 www.widgeo.net
 0.0.0.0 track.wikibuy.com
 0.0.0.0 bid.wikihow.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 stats.wikimedia.de
+0.0.0.0 wikplayer.com
+0.0.0.0 www.wikplayer.com
 0.0.0.0 wild0army.com
 0.0.0.0 www.wild0army.com
 0.0.0.0 secure.wild8prey.com
@@ -7180,6 +7245,7 @@
 0.0.0.0 with2.net
 0.0.0.0 www.with2.net
 0.0.0.0 hmg.wiwo.de
+0.0.0.0 wce-frog.wix.com
 0.0.0.0 engage.wixapps.net
 0.0.0.0 sentry.wixpress.com
 0.0.0.0 wlct-two.de
