@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 00:54 UTC
-# Version: 2022.1202.0054.23
+# Last modified: 02 Dez 2022 10:12 UTC
+# Version: 2022.1202.1012.57
 # Syntax: DNSMasq
-# Domains: 6026
+# Domains: 6023
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -147,7 +147,6 @@ address=/akjfood.com/#
 address=/akku-laden.at/#
 address=/akku-pc.at/#
 address=/akkubuy.de/#
-address=/akkukaufen.at/#
 address=/akkusmarkt.de/#
 address=/akkusmir.de/#
 address=/akrostichon.at/#
@@ -185,7 +184,6 @@ address=/alles-rezeptfrei.net/#
 address=/allescasual.at/#
 address=/allescasual.ch/#
 address=/allescasual.de/#
-address=/allesfurgartenoutlet.com/#
 address=/allesnett.de/#
 address=/alleszumheizen.com/#
 address=/alleygh.co/#
@@ -1002,7 +1000,6 @@ address=/chicanti.com/#
 address=/chichandbagsshop.com/#
 address=/chicladdy.com/#
 address=/chiclolo.com/#
-address=/chicsoso.com/#
 address=/chictogerther.com/#
 address=/chicwells.de/#
 address=/chillgod.com/#
@@ -2077,7 +2074,6 @@ address=/fritzelektro.de/#
 address=/frohlands.de/#
 address=/frohschatz.com/#
 address=/frohwelt.de/#
-address=/fruchtpresse.at/#
 address=/fruugo.at/#
 address=/ftx-store.de/#
 address=/fuechsefussball.de/#
@@ -2988,6 +2984,7 @@ address=/kmacobdt.com/#
 address=/kmlowe.com/#
 address=/kmycjt.com/#
 address=/knackdieserie.de/#
+address=/knauermann.de/#
 address=/knuffeldecke.de/#
 address=/knuft.de/#
 address=/koalasale.com/#
@@ -3444,6 +3441,7 @@ address=/megbydesign.com/#
 address=/mehnike.com/#
 address=/mehrwerken.de/#
 address=/meier-24.com/#
+address=/meierelektro.net/#
 address=/meiers.eu/#
 address=/mein-babybauch.de/#
 address=/mein-buch24.de/#
@@ -4529,7 +4527,6 @@ address=/rohr-reinigung24.at/#
 address=/rohrreinigung--24.at/#
 address=/rohrreinigung24-7.at/#
 address=/rohrsanierungen24.de/#
-address=/roicraft.co/#
 address=/rokianjas.online/#
 address=/roleo.net/#
 address=/rolex-replica.to/#

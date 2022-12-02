@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 00:54 UTC
-# Version: 2022.1202.0054.23
+# Last modified: 02 Dez 2022 10:12 UTC
+# Version: 2022.1202.1012.57
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6026
+# Domains: 6023
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -147,7 +147,6 @@
 *.akku-laden.at
 *.akku-pc.at
 *.akkubuy.de
-*.akkukaufen.at
 *.akkusmarkt.de
 *.akkusmir.de
 *.akrostichon.at
@@ -185,7 +184,6 @@
 *.allescasual.at
 *.allescasual.ch
 *.allescasual.de
-*.allesfurgartenoutlet.com
 *.allesnett.de
 *.alleszumheizen.com
 *.alleygh.co
@@ -1002,7 +1000,6 @@
 *.chichandbagsshop.com
 *.chicladdy.com
 *.chiclolo.com
-*.chicsoso.com
 *.chictogerther.com
 *.chicwells.de
 *.chillgod.com
@@ -2077,7 +2074,6 @@
 *.frohlands.de
 *.frohschatz.com
 *.frohwelt.de
-*.fruchtpresse.at
 *.fruugo.at
 *.ftx-store.de
 *.fuechsefussball.de
@@ -2988,6 +2984,7 @@
 *.kmlowe.com
 *.kmycjt.com
 *.knackdieserie.de
+*.knauermann.de
 *.knuffeldecke.de
 *.knuft.de
 *.koalasale.com
@@ -3444,6 +3441,7 @@
 *.mehnike.com
 *.mehrwerken.de
 *.meier-24.com
+*.meierelektro.net
 *.meiers.eu
 *.mein-babybauch.de
 *.mein-buch24.de
@@ -4529,7 +4527,6 @@
 *.rohrreinigung--24.at
 *.rohrreinigung24-7.at
 *.rohrsanierungen24.de
-*.roicraft.co
 *.rokianjas.online
 *.roleo.net
 *.rolex-replica.to
