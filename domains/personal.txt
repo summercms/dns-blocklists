@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 13:54 UTC
-# Version: 2022.1202.1354.59
+# Last modified: 02 Dez 2022 14:31 UTC
+# Version: 2022.1202.1431.39
 # Syntax: Domains
-# Domains: 1088
+# Domains: 1082
 #
 t.1und1.de
 gtrack.247mirror.com
@@ -298,7 +298,6 @@ appad.cyberlink.com
 gtrack.dailybee.com
 api.dataships.io
 ubacollect-drcn.cloud.dbankcloud.cn
-data.dbankcloud.cn
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
@@ -752,10 +751,8 @@ smetrics.o2online.de
 fp.measure.office.com
 hubblecontent.osi.office.net
 affiliate.oliverclick.com
-ometria.com
 cdn.ometria.com
 trk.ometria.com
-www.ometria.com
 apixel.onetribeglobal.com
 geolocation.onetrust.com
 adalliance.tagger.opecloud.com
@@ -790,10 +787,8 @@ tracking.bi.psafe.com
 gtrack.puppylychee.com
 pushy.ai
 pbsw.pushy.ai
-quantummetric.com
 cdn.quantummetric.com
 emirates-app.quantummetric.com
-www.quantummetric.com
 gtrack.reallifediy.com
 track.reallifediy.com
 tracking.redbutton.de
@@ -1077,7 +1072,6 @@ lg-channelplus-br-beacons.xumo.com
 lg-channelplus-de-beacons.xumo.com
 lg-channelplus-eu-beacons.xumo.com
 lg-channelplus-mx-beacons.xumo.com
-analytics.yahoo.com
 tag.idsync.analytics.yahoo.com
 sp.analytics.yahoo.com
 ups.analytics.yahoo.com
