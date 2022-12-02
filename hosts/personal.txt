@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 10:38 UTC
-# Version: 2022.1202.1038.55
+# Last modified: 02 Dez 2022 12:51 UTC
+# Version: 2022.1202.1251.52
 # Syntax: Hosts
-# Domains: 17942
+# Domains: 17994
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -1264,6 +1264,7 @@
 0.0.0.0 www.amazonadvertising.com
 0.0.0.0 avs.eu.amazonalexa.com
 0.0.0.0 firehose.ap-northeast-2.amazonaws.com
+0.0.0.0 telemetry.connect.ap-southeast-1.amazonaws.com
 0.0.0.0 adstailor-478185016.ap-south-1.elb.amazonaws.com
 0.0.0.0 analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com
 0.0.0.0 stats-wynkmusic-285784487.ap-south-1.elb.amazonaws.com
@@ -1308,9 +1309,11 @@
 0.0.0.0 elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
 0.0.0.0 fa8aa448-devopsts-devopsts-116a-38259446.us-west-2.elb.amazonaws.com
 0.0.0.0 us2-events-1-427560769.us-west-2.elb.amazonaws.com
+0.0.0.0 telemetry.connect.eu-central-1.amazonaws.com
 0.0.0.0 3fzst3kk8h.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 6n2x6wg3fc.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 dgm-prd-euw1-log.s3.eu-west-1.amazonaws.com
+0.0.0.0 telemetry.connect.eu-west-2.amazonaws.com
 0.0.0.0 eu-west-1.queue.amazonaws.com
 0.0.0.0 atlasox.s3.amazonaws.com
 0.0.0.0 iobit.com.s3.amazonaws.com
@@ -1332,6 +1335,7 @@
 0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 0.0.0.0 newsharecounts.s3-us-west-2.amazonaws.com
 0.0.0.0 static-42andpark-com.s3-us-west-2.amazonaws.com
+0.0.0.0 telemetry.connect.us-east-1.amazonaws.com
 0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
 0.0.0.0 1g26ewet37.execute-api.us-east-1.amazonaws.com
 0.0.0.0 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
@@ -1339,6 +1343,7 @@
 0.0.0.0 l026e7vji8.execute-api.us-east-1.amazonaws.com
 0.0.0.0 t0wkqjqlwh.execute-api.us-east-1.amazonaws.com
 0.0.0.0 rum.us-east-1.amazonaws.com
+0.0.0.0 telemetry.connect.us-west-2.amazonaws.com
 0.0.0.0 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 0.0.0.0 wyze-device-log.s3.us-west-2.amazonaws.com
 0.0.0.0 amazonbusiness.com
@@ -1734,6 +1739,8 @@
 0.0.0.0 ads.associationmediagroup.com
 0.0.0.0 info.assurant.com
 0.0.0.0 marketing.astm.org
+0.0.0.0 astronomytrek.com
+0.0.0.0 www.astronomytrek.com
 0.0.0.0 ads.astuntechnology.com
 0.0.0.0 content.asurion53.com
 0.0.0.0 at2010.net
@@ -1896,6 +1903,7 @@
 0.0.0.0 analytics.avizia.com
 0.0.0.0 log-abroad.avlyun.com
 0.0.0.0 sdkconf.avlyun.com
+0.0.0.0 log.slb.avlyun.com
 0.0.0.0 hwth.log.slb.avlyun.com
 0.0.0.0 us.log.slb.avlyun.com
 0.0.0.0 piwik.avm.de
@@ -2899,6 +2907,8 @@
 0.0.0.0 www.bwz.se
 0.0.0.0 by4b2trk.com
 0.0.0.0 www.by4b2trk.com
+0.0.0.0 byethost7.com
+0.0.0.0 www.byethost7.com
 0.0.0.0 byglerezu.com
 0.0.0.0 www.byglerezu.com
 0.0.0.0 byluxrayor.com
@@ -3428,6 +3438,7 @@
 0.0.0.0 profiling.digitalbusiness.cibc.com
 0.0.0.0 m-profiling.cibc.com
 0.0.0.0 w-profiling.cibc.com
+0.0.0.0 atm.cp31.ott.cibntv.net
 0.0.0.0 vali.cp31.ott.cibntv.net
 0.0.0.0 smetrics.cigarsinternational.com
 0.0.0.0 cinamk.com
@@ -3904,6 +3915,7 @@
 0.0.0.0 analytics.collectivemeasures.com
 0.0.0.0 starget.collegeboard.org
 0.0.0.0 strack.collegeboard.org
+0.0.0.0 apps.coloros.com
 0.0.0.0 breeno.apps.coloros.com
 0.0.0.0 classify.apps.coloros.com
 0.0.0.0 classify-eu.apps.coloros.com
@@ -3919,6 +3931,7 @@
 0.0.0.0 videoclipf-eu.apps.coloros.com
 0.0.0.0 conn1.coloros.com
 0.0.0.0 conn2.coloros.com
+0.0.0.0 foreign.coloros.com
 0.0.0.0 i.ota.foreign.coloros.com
 0.0.0.0 i.rus.foreign.coloros.com
 0.0.0.0 i.sau.foreign.coloros.com
@@ -4001,6 +4014,8 @@
 0.0.0.0 analytics.mercadopago.com.mx
 0.0.0.0 d.mlcdn.com.br
 0.0.0.0 tms.nab.com.au
+0.0.0.0 stat.foreign.nearme.com.cn
+0.0.0.0 stat.nearme.com.cn
 0.0.0.0 loc.api.nine.com.au
 0.0.0.0 c.nine.com.au
 0.0.0.0 somni.nine.com.au
@@ -5047,6 +5062,8 @@
 0.0.0.0 track.dribunals.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 js.driftt.com
+0.0.0.0 dripdepot.com
+0.0.0.0 www.dripdepot.com
 0.0.0.0 drivemotors.com
 0.0.0.0 www.drivemotors.com
 0.0.0.0 pixel.driveniq.com
@@ -5365,6 +5382,7 @@
 0.0.0.0 edgenet.com
 0.0.0.0 www.edgenet.com
 0.0.0.0 p16-ad.byteoversea.com.edgesuite.net
+0.0.0.0 analytics.edmentum.com.edgesuite.net
 0.0.0.0 demdex.hm.com.edgesuite.net
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com.edgesuite.net
 0.0.0.0 smartadserver.com.edgesuite.net
@@ -5385,6 +5403,7 @@
 0.0.0.0 www.ediva.gr
 0.0.0.0 edlib.org
 0.0.0.0 www.edlib.org
+0.0.0.0 analytics.edmentum.com
 0.0.0.0 pixel.edo.com
 0.0.0.0 engine.edocbuilder.com
 0.0.0.0 edperformance.com
@@ -5519,6 +5538,7 @@
 0.0.0.0 ssl.o.emedicinehealth.com
 0.0.0.0 exhibit.emeraldx.com
 0.0.0.0 emeritus-analytics.io
+0.0.0.0 track.go.comres.emerson.com
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 emeu0circ.com
 0.0.0.0 www.emeu0circ.com
@@ -6406,6 +6426,8 @@
 0.0.0.0 stat.funshion.com
 0.0.0.0 funuzai.ru
 0.0.0.0 www.funuzai.ru
+0.0.0.0 fuqpremium.com
+0.0.0.0 www.fuqpremium.com
 0.0.0.0 fuse-ad.com
 0.0.0.0 www.fuse-ad.com
 0.0.0.0 umami.fusestudio.net
@@ -7373,6 +7395,7 @@
 0.0.0.0 httpdns-euex-push.heytapmobile.com
 0.0.0.0 jscatch-sg-frontend.heytapmobile.com
 0.0.0.0 obus-dc-eu.heytapmobile.com
+0.0.0.0 push.heytapmobile.com
 0.0.0.0 dceuex.push.heytapmobile.com
 0.0.0.0 dcintl.push.heytapmobile.com
 0.0.0.0 dcintl1.push.heytapmobile.com
@@ -8069,6 +8092,7 @@
 0.0.0.0 www.insignal.co
 0.0.0.0 inspectlet.io
 0.0.0.0 www.inspectlet.io
+0.0.0.0 analytics.insperity.com
 0.0.0.0 tracking.insperity.com
 0.0.0.0 inspidspad.com
 0.0.0.0 hermes-us.inspidspad.com
@@ -8151,6 +8175,8 @@
 0.0.0.0 imptrack.intoday.in
 0.0.0.0 recengine.intoday.in
 0.0.0.0 ad.intools.dev
+0.0.0.0 intoxicatedonlife.com
+0.0.0.0 www.intoxicatedonlife.com
 0.0.0.0 intsband-phopsetts.icu
 0.0.0.0 rum.api.intuit.com
 0.0.0.0 images.eq.intuit.com
@@ -9947,6 +9973,8 @@
 0.0.0.0 memob.com
 0.0.0.0 www.memob.com
 0.0.0.0 memoinsights.com
+0.0.0.0 menhealthreport.net
+0.0.0.0 www.menhealthreport.net
 0.0.0.0 jzoxch.menswearhouse.com
 0.0.0.0 mention-me.com
 0.0.0.0 www.mention-me.com
@@ -10175,10 +10203,12 @@
 0.0.0.0 mitsubilla.xyz
 0.0.0.0 www.mitsubilla.xyz
 0.0.0.0 sreport.mitsubishicars.com
+0.0.0.0 assistant.miui.com
 0.0.0.0 api.assistant.miui.com
 0.0.0.0 store.assistant.miui.com
 0.0.0.0 trading.assistant.miui.com
 0.0.0.0 xpa.assistant.miui.com
+0.0.0.0 browser.miui.com
 0.0.0.0 api.browser.miui.com
 0.0.0.0 api-ipv4.browser.miui.com
 0.0.0.0 c3-cache.browser.miui.com
@@ -10187,7 +10217,9 @@
 0.0.0.0 sug.browser.miui.com
 0.0.0.0 webapp.browser.miui.com
 0.0.0.0 tracking.eu.miui.com
+0.0.0.0 huangye.miui.com
 0.0.0.0 open.mp.huangye.miui.com
+0.0.0.0 india.miui.com
 0.0.0.0 inf.miui.com
 0.0.0.0 api.accelerator.intl.miui.com
 0.0.0.0 brs.api.intl.miui.com
@@ -10209,10 +10241,13 @@
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 api-rec.stellar.intl.miui.com
+0.0.0.0 mcc.miui.com
 0.0.0.0 api.mcc.miui.com
 0.0.0.0 static.mcc.miui.com
 0.0.0.0 track.mcc.miui.com
 0.0.0.0 connect.intl.rom.miui.com
+0.0.0.0 rus.miui.com
+0.0.0.0 search.miui.com
 0.0.0.0 api.transfer.search.miui.com
 0.0.0.0 cse.avlyun.sec.miui.com
 0.0.0.0 flash.sec.miui.com
@@ -10412,6 +10447,7 @@
 0.0.0.0 live.mozillamessaging.com
 0.0.0.0 mpctrak.com
 0.0.0.0 www.mpctrak.com
+0.0.0.0 mpeasylink.com
 0.0.0.0 atandttradein.mpeasylink.com
 0.0.0.0 att.mpeasylink.com
 0.0.0.0 belletire.mpeasylink.com
@@ -10441,6 +10477,7 @@
 0.0.0.0 suncoastfcuorg.mpeasylink.com
 0.0.0.0 tmobilees.mpeasylink.com
 0.0.0.0 walgreens.mpeasylink.com
+0.0.0.0 www.mpeasylink.com
 0.0.0.0 mplayvideos.biz
 0.0.0.0 prebid.mpwdigital.com
 0.0.0.0 mql5.net
@@ -11498,6 +11535,7 @@
 0.0.0.0 www.opinionsquare.com
 0.0.0.0 tracking.opn.la
 0.0.0.0 gtrack.opossumsauce.com
+0.0.0.0 apps.oppomobile.com
 0.0.0.0 location.apps.oppomobile.com
 0.0.0.0 logistics.apps.oppomobile.com
 0.0.0.0 proxy.apps.oppomobile.com
@@ -11509,6 +11547,7 @@
 0.0.0.0 tipsf.apps.oppomobile.com
 0.0.0.0 translate.apps.oppomobile.com
 0.0.0.0 conn1.oppomobile.com
+0.0.0.0 dc.oppomobile.com
 0.0.0.0 card.dc.oppomobile.com
 0.0.0.0 conf.dc.oppomobile.com
 0.0.0.0 confe.dc.oppomobile.com
@@ -11522,9 +11561,11 @@
 0.0.0.0 stuck-cn.dc.oppomobile.com
 0.0.0.0 stuck-sg.dc.oppomobile.com
 0.0.0.0 api.dns.oppomobile.com
+0.0.0.0 foreign.oppomobile.com
 0.0.0.0 dc.foreign.oppomobile.com
 0.0.0.0 i.oau.foreign.oppomobile.com
 0.0.0.0 stuck.foreign.oppomobile.com
+0.0.0.0 push.oppomobile.com
 0.0.0.0 api.push.oppomobile.com
 0.0.0.0 dceuex.push.oppomobile.com
 0.0.0.0 dcintl1.push.oppomobile.com
@@ -11558,6 +11599,8 @@
 0.0.0.0 s-10.optvdo.com
 0.0.0.0 s-114.optvdo.com
 0.0.0.0 a.opumo.net
+0.0.0.0 opusvirtualoffices.com
+0.0.0.0 www.opusvirtualoffices.com
 0.0.0.0 web-analytics.opusvl.com
 0.0.0.0 oqnvm.xyz
 0.0.0.0 mtcs.nhk.or.jp
@@ -12563,6 +12606,7 @@
 0.0.0.0 logs.quality.qiku.com
 0.0.0.0 qingcdn.com
 0.0.0.0 www.qingcdn.com
+0.0.0.0 z.qingting.fm
 0.0.0.0 abtest.z.qingting.fm
 0.0.0.0 cache.z.qingting.fm
 0.0.0.0 profile.z.qingting.fm
@@ -12610,6 +12654,7 @@
 0.0.0.0 masterconn2.qq.com
 0.0.0.0 pacaio.match.qq.com
 0.0.0.0 dir.minigame.qq.com
+0.0.0.0 mpush.qq.com
 0.0.0.0 news.mpush.qq.com
 0.0.0.0 msdk.qq.com
 0.0.0.0 p2p.qq.com
@@ -12632,6 +12677,7 @@
 0.0.0.0 safebrowsing.urlsec.qq.com
 0.0.0.0 uu.qq.com
 0.0.0.0 commdata6.v.qq.com
+0.0.0.0 ott.video.qq.com
 0.0.0.0 connect.play.ott.video.qq.com
 0.0.0.0 vv.play.ott.video.qq.com
 0.0.0.0 vvoice.play.ott.video.qq.com
@@ -17027,6 +17073,7 @@
 0.0.0.0 jeccmq.wehkamp.nl
 0.0.0.0 banner-mgt.wehost24.com
 0.0.0.0 vip.storage.weibo.com
+0.0.0.0 uve.weibo.com
 0.0.0.0 api.uve.weibo.com
 0.0.0.0 contentrecommend-out.uve.weibo.com
 0.0.0.0 datacollection.uve.weibo.com
@@ -17447,6 +17494,7 @@
 0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 ruvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 in-miuilog.sms.intl.xiaomi.com
+0.0.0.0 sys.intl.xiaomi.com
 0.0.0.0 global.video.intl.xiaomi.com
 0.0.0.0 ru.video.intl.xiaomi.com
 0.0.0.0 t7.a.market.xiaomi.com
@@ -17458,6 +17506,7 @@
 0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 music.xiaomi.com
 0.0.0.0 api.music.xiaomi.com
 0.0.0.0 stats.music.xiaomi.com
 0.0.0.0 xicp.net
@@ -17470,6 +17519,7 @@
 0.0.0.0 imgs.xinhuanet.com
 0.0.0.0 xinstall.com
 0.0.0.0 www.xinstall.com
+0.0.0.0 wts.xinwen.cn
 0.0.0.0 dot.wts.xinwen.cn
 0.0.0.0 p.wts.xinwen.cn
 0.0.0.0 analytics.xl.pt
@@ -17572,6 +17622,7 @@
 0.0.0.0 toolbar.yahoo.com
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 m.yap.yahoo.com
+0.0.0.0 ybp.yahoo.com
 0.0.0.0 nrb.ybp.yahoo.com
 0.0.0.0 nrb-v.ybp.yahoo.com
 0.0.0.0 pmp.ybp.yahoo.com
@@ -17753,6 +17804,7 @@
 0.0.0.0 yuy8ab.net
 0.0.0.0 www.yuy8ab.net
 0.0.0.0 t.nl.yves-rocher.de
+0.0.0.0 push.yximgs.com
 0.0.0.0 ali.push.yximgs.com
 0.0.0.0 bd.push.yximgs.com
 0.0.0.0 tx.push.yximgs.com

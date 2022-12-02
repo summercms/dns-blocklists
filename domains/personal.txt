@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 10:38 UTC
-# Version: 2022.1202.1038.55
+# Last modified: 02 Dez 2022 12:51 UTC
+# Version: 2022.1202.1251.52
 # Syntax: Domains
-# Domains: 17942
+# Domains: 17994
 #
 000webhost.com
 www.000webhost.com
@@ -1264,6 +1264,7 @@ amazonadvertising.com
 www.amazonadvertising.com
 avs.eu.amazonalexa.com
 firehose.ap-northeast-2.amazonaws.com
+telemetry.connect.ap-southeast-1.amazonaws.com
 adstailor-478185016.ap-south-1.elb.amazonaws.com
 analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com
 stats-wynkmusic-285784487.ap-south-1.elb.amazonaws.com
@@ -1308,9 +1309,11 @@ baconredirects-elb-mev7rf5mv7m-1287676624.us-west-2.elb.amazonaws.com
 elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
 fa8aa448-devopsts-devopsts-116a-38259446.us-west-2.elb.amazonaws.com
 us2-events-1-427560769.us-west-2.elb.amazonaws.com
+telemetry.connect.eu-central-1.amazonaws.com
 3fzst3kk8h.execute-api.eu-west-1.amazonaws.com
 6n2x6wg3fc.execute-api.eu-west-1.amazonaws.com
 dgm-prd-euw1-log.s3.eu-west-1.amazonaws.com
+telemetry.connect.eu-west-2.amazonaws.com
 eu-west-1.queue.amazonaws.com
 atlasox.s3.amazonaws.com
 iobit.com.s3.amazonaws.com
@@ -1332,6 +1335,7 @@ zeemapsmetrics.s3.amazonaws.com
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 newsharecounts.s3-us-west-2.amazonaws.com
 static-42andpark-com.s3-us-west-2.amazonaws.com
+telemetry.connect.us-east-1.amazonaws.com
 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
 1g26ewet37.execute-api.us-east-1.amazonaws.com
 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
@@ -1339,6 +1343,7 @@ d-8yetngdp45.execute-api.us-east-1.amazonaws.com
 l026e7vji8.execute-api.us-east-1.amazonaws.com
 t0wkqjqlwh.execute-api.us-east-1.amazonaws.com
 rum.us-east-1.amazonaws.com
+telemetry.connect.us-west-2.amazonaws.com
 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 wyze-device-log.s3.us-west-2.amazonaws.com
 amazonbusiness.com
@@ -1734,6 +1739,8 @@ z-na.associates-amazon.com
 ads.associationmediagroup.com
 info.assurant.com
 marketing.astm.org
+astronomytrek.com
+www.astronomytrek.com
 ads.astuntechnology.com
 content.asurion53.com
 at2010.net
@@ -1896,6 +1903,7 @@ stats.avito.ru
 analytics.avizia.com
 log-abroad.avlyun.com
 sdkconf.avlyun.com
+log.slb.avlyun.com
 hwth.log.slb.avlyun.com
 us.log.slb.avlyun.com
 piwik.avm.de
@@ -2899,6 +2907,8 @@ bwz.se
 www.bwz.se
 by4b2trk.com
 www.by4b2trk.com
+byethost7.com
+www.byethost7.com
 byglerezu.com
 www.byglerezu.com
 byluxrayor.com
@@ -3428,6 +3438,7 @@ stats.ciacsports.com
 profiling.digitalbusiness.cibc.com
 m-profiling.cibc.com
 w-profiling.cibc.com
+atm.cp31.ott.cibntv.net
 vali.cp31.ott.cibntv.net
 smetrics.cigarsinternational.com
 cinamk.com
@@ -3904,6 +3915,7 @@ securedata.collectandgo.be
 analytics.collectivemeasures.com
 starget.collegeboard.org
 strack.collegeboard.org
+apps.coloros.com
 breeno.apps.coloros.com
 classify.apps.coloros.com
 classify-eu.apps.coloros.com
@@ -3919,6 +3931,7 @@ videoclipf.apps.coloros.com
 videoclipf-eu.apps.coloros.com
 conn1.coloros.com
 conn2.coloros.com
+foreign.coloros.com
 i.ota.foreign.coloros.com
 i.rus.foreign.coloros.com
 i.sau.foreign.coloros.com
@@ -4001,6 +4014,8 @@ analytics.mercadolivre.com.br
 analytics.mercadopago.com.mx
 d.mlcdn.com.br
 tms.nab.com.au
+stat.foreign.nearme.com.cn
+stat.nearme.com.cn
 loc.api.nine.com.au
 c.nine.com.au
 somni.nine.com.au
@@ -5047,6 +5062,8 @@ umami.dribblegame.com
 track.dribunals.com
 chat.api.drift.com
 js.driftt.com
+dripdepot.com
+www.dripdepot.com
 drivemotors.com
 www.drivemotors.com
 pixel.driveniq.com
@@ -5365,6 +5382,7 @@ edgeme.sh
 edgenet.com
 www.edgenet.com
 p16-ad.byteoversea.com.edgesuite.net
+analytics.edmentum.com.edgesuite.net
 demdex.hm.com.edgesuite.net
 video-ads-module.ad-tech.nbcuni.com.edgesuite.net
 smartadserver.com.edgesuite.net
@@ -5385,6 +5403,7 @@ ediva.gr
 www.ediva.gr
 edlib.org
 www.edlib.org
+analytics.edmentum.com
 pixel.edo.com
 engine.edocbuilder.com
 edperformance.com
@@ -5519,6 +5538,7 @@ www.embrace.io
 ssl.o.emedicinehealth.com
 exhibit.emeraldx.com
 emeritus-analytics.io
+track.go.comres.emerson.com
 dyn.emetriq.de
 emeu0circ.com
 www.emeu0circ.com
@@ -6406,6 +6426,8 @@ www.funnystore.com
 stat.funshion.com
 funuzai.ru
 www.funuzai.ru
+fuqpremium.com
+www.fuqpremium.com
 fuse-ad.com
 www.fuse-ad.com
 umami.fusestudio.net
@@ -7373,6 +7395,7 @@ u-id.cpc.heytapmobile.com
 httpdns-euex-push.heytapmobile.com
 jscatch-sg-frontend.heytapmobile.com
 obus-dc-eu.heytapmobile.com
+push.heytapmobile.com
 dceuex.push.heytapmobile.com
 dcintl.push.heytapmobile.com
 dcintl1.push.heytapmobile.com
@@ -8069,6 +8092,7 @@ insignal.co
 www.insignal.co
 inspectlet.io
 www.inspectlet.io
+analytics.insperity.com
 tracking.insperity.com
 inspidspad.com
 hermes-us.inspidspad.com
@@ -8151,6 +8175,8 @@ smetrics.intervalworld.com
 imptrack.intoday.in
 recengine.intoday.in
 ad.intools.dev
+intoxicatedonlife.com
+www.intoxicatedonlife.com
 intsband-phopsetts.icu
 rum.api.intuit.com
 images.eq.intuit.com
@@ -9947,6 +9973,8 @@ www.memfault.com
 memob.com
 www.memob.com
 memoinsights.com
+menhealthreport.net
+www.menhealthreport.net
 jzoxch.menswearhouse.com
 mention-me.com
 www.mention-me.com
@@ -10175,10 +10203,12 @@ www.mitself.net
 mitsubilla.xyz
 www.mitsubilla.xyz
 sreport.mitsubishicars.com
+assistant.miui.com
 api.assistant.miui.com
 store.assistant.miui.com
 trading.assistant.miui.com
 xpa.assistant.miui.com
+browser.miui.com
 api.browser.miui.com
 api-ipv4.browser.miui.com
 c3-cache.browser.miui.com
@@ -10187,7 +10217,9 @@ search.browser.miui.com
 sug.browser.miui.com
 webapp.browser.miui.com
 tracking.eu.miui.com
+huangye.miui.com
 open.mp.huangye.miui.com
+india.miui.com
 inf.miui.com
 api.accelerator.intl.miui.com
 brs.api.intl.miui.com
@@ -10209,10 +10241,13 @@ port.sec.intl.miui.com
 api.setting.intl.miui.com
 api.sms.intl.miui.com
 api-rec.stellar.intl.miui.com
+mcc.miui.com
 api.mcc.miui.com
 static.mcc.miui.com
 track.mcc.miui.com
 connect.intl.rom.miui.com
+rus.miui.com
+search.miui.com
 api.transfer.search.miui.com
 cse.avlyun.sec.miui.com
 flash.sec.miui.com
@@ -10412,6 +10447,7 @@ incoming.telemetry.mozilla.org
 live.mozillamessaging.com
 mpctrak.com
 www.mpctrak.com
+mpeasylink.com
 atandttradein.mpeasylink.com
 att.mpeasylink.com
 belletire.mpeasylink.com
@@ -10441,6 +10477,7 @@ southwestairlines.mpeasylink.com
 suncoastfcuorg.mpeasylink.com
 tmobilees.mpeasylink.com
 walgreens.mpeasylink.com
+www.mpeasylink.com
 mplayvideos.biz
 prebid.mpwdigital.com
 mql5.net
@@ -11498,6 +11535,7 @@ opinionsquare.com
 www.opinionsquare.com
 tracking.opn.la
 gtrack.opossumsauce.com
+apps.oppomobile.com
 location.apps.oppomobile.com
 logistics.apps.oppomobile.com
 proxy.apps.oppomobile.com
@@ -11509,6 +11547,7 @@ stickerf.apps.oppomobile.com
 tipsf.apps.oppomobile.com
 translate.apps.oppomobile.com
 conn1.oppomobile.com
+dc.oppomobile.com
 card.dc.oppomobile.com
 conf.dc.oppomobile.com
 confe.dc.oppomobile.com
@@ -11522,9 +11561,11 @@ statf.dc.oppomobile.com
 stuck-cn.dc.oppomobile.com
 stuck-sg.dc.oppomobile.com
 api.dns.oppomobile.com
+foreign.oppomobile.com
 dc.foreign.oppomobile.com
 i.oau.foreign.oppomobile.com
 stuck.foreign.oppomobile.com
+push.oppomobile.com
 api.push.oppomobile.com
 dceuex.push.oppomobile.com
 dcintl1.push.oppomobile.com
@@ -11558,6 +11599,8 @@ s-06.optvdo.com
 s-10.optvdo.com
 s-114.optvdo.com
 a.opumo.net
+opusvirtualoffices.com
+www.opusvirtualoffices.com
 web-analytics.opusvl.com
 oqnvm.xyz
 mtcs.nhk.or.jp
@@ -12563,6 +12606,7 @@ news.qhstatic.com
 logs.quality.qiku.com
 qingcdn.com
 www.qingcdn.com
+z.qingting.fm
 abtest.z.qingting.fm
 cache.z.qingting.fm
 profile.z.qingting.fm
@@ -12610,6 +12654,7 @@ masterconn11.qq.com
 masterconn2.qq.com
 pacaio.match.qq.com
 dir.minigame.qq.com
+mpush.qq.com
 news.mpush.qq.com
 msdk.qq.com
 p2p.qq.com
@@ -12632,6 +12677,7 @@ tpns.qq.com
 safebrowsing.urlsec.qq.com
 uu.qq.com
 commdata6.v.qq.com
+ott.video.qq.com
 connect.play.ott.video.qq.com
 vv.play.ott.video.qq.com
 vvoice.play.ott.video.qq.com
@@ -17027,6 +17073,7 @@ www.wehaa.net
 jeccmq.wehkamp.nl
 banner-mgt.wehost24.com
 vip.storage.weibo.com
+uve.weibo.com
 api.uve.weibo.com
 contentrecommend-out.uve.weibo.com
 datacollection.uve.weibo.com
@@ -17447,6 +17494,7 @@ idmb.register.xmpush.global.xiaomi.com
 globalvideo.cdn.pandora.intl.xiaomi.com
 ruvideo.cdn.pandora.intl.xiaomi.com
 in-miuilog.sms.intl.xiaomi.com
+sys.intl.xiaomi.com
 global.video.intl.xiaomi.com
 ru.video.intl.xiaomi.com
 t7.a.market.xiaomi.com
@@ -17458,6 +17506,7 @@ resolver.mi.xiaomi.com
 us.micardapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 data.mistat.xiaomi.com
+music.xiaomi.com
 api.music.xiaomi.com
 stats.music.xiaomi.com
 xicp.net
@@ -17470,6 +17519,7 @@ a3.xinhuanet.com
 imgs.xinhuanet.com
 xinstall.com
 www.xinstall.com
+wts.xinwen.cn
 dot.wts.xinwen.cn
 p.wts.xinwen.cn
 analytics.xl.pt
@@ -17572,6 +17622,7 @@ us-west-1-web-oao.ssp.yahoo.com
 toolbar.yahoo.com
 udcm.yahoo.com
 m.yap.yahoo.com
+ybp.yahoo.com
 nrb.ybp.yahoo.com
 nrb-v.ybp.yahoo.com
 pmp.ybp.yahoo.com
@@ -17753,6 +17804,7 @@ www.yusp.com
 yuy8ab.net
 www.yuy8ab.net
 t.nl.yves-rocher.de
+push.yximgs.com
 ali.push.yximgs.com
 bd.push.yximgs.com
 tx.push.yximgs.com
