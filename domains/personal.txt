@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 16:36 UTC
-# Version: 2022.1202.1636.48
+# Last modified: 02 Dez 2022 17:43 UTC
+# Version: 2022.1202.1743.15
 # Syntax: Domains
-# Domains: 12487
+# Domains: 12488
 #
 0i0i0i0.com
 1-1ads.com
@@ -2883,6 +2883,7 @@ certona.net
 www.certona.net
 smetrics.cfainstitute.org
 cfjump.com
+www.cfjump.com
 chango.com
 www.chango.com
 channeladvisor.com
@@ -7881,7 +7882,6 @@ www.neodatagroup.com
 nervoussummer.com
 smetrics.nesn.com
 nessainy.net
-adjust.net.in
 c8.net.ua
 vads.net.vn
 analytics.netdirector.auto
@@ -10339,6 +10339,7 @@ smetrics.startribune.com
 analytics.starz.com
 stat.media
 stat-rock.com
+www.stat-rock.com
 stat-track.com
 smetrics.statefarm.com
 smetrics.statestreet.com
