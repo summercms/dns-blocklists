@@ -9,32 +9,34 @@
 3. [Multi normal](#normal) - *Broom: All-round protection*
 4. [Multi pro](#pro) - *Big broom: Extended protection*
 5. [Multi pro++](#proplus) - *Sweeper: Maximum protection (more aggressive)*
-6. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
-7. [Threat Intelligence Feeds](#tif) - *Increases security significantly!*
-8. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
-9. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
-10. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
-11. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
-12. [Personal](#personal) - *My manually maintained blacklist*
-13. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
-14. [Credits](#credits)
-15. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
-16. [Recommendation](#recommendation)
-17. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
-18. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
-19. [Sources/Statistics](usedsources.md)
-20. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
+6. [Multi ultimate](#ultimate) - *Ultimate Sweeper: Aggressive protection*
+7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
+8. [Threat Intelligence Feeds](#tif) - *Increases security significantly!*
+9. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
+10. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
+11. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
+12. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
+13. [Personal](#personal) - *My manually maintained blacklist*
+14. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
+15. [Credits](#credits)
+16. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
+17. [Recommendation](#recommendation)
+18. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
+19. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
+20. [Sources/Statistics](usedsources.md)
+21. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
 ### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
-*An all in one DNS blocklist in **various versions (light, normal, pro and pro++)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
+*An all in one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
 
 #### ***Multi blocklist version and size overview:***
-| Version | Hosts | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
-|:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 315521<br>141706     |   |   | = | X | P | X |
-| [Normal](#normal)       | 1189938<br>313059     |   | = | X | X | P | X |
-| [Pro](#pro)              | 1310335<br>388982         | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1411060<br>429692 | ++ | X | X | X | P |  X |
+| Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
+|:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
+| [Light](#light)             | 315520<br>141705     | |   |   | = | X | P | X |
+| [Normal](#normal)       | 1189936<br>313058     | |   | = | X | X | P | X |
+| [Pro](#pro)              | 1310333<br>388981         | | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1411058<br>429691 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 1893288<br>586283 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -46,7 +48,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *315521 domains/hosts - 141706 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *315520 domains/hosts - 141705 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -61,7 +63,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1189938 domains/hosts - 313059 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1189936 domains/hosts - 313058 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -76,7 +78,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1310335 domains/hosts - 388982 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1310333 domains/hosts - 388981 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -91,9 +93,9 @@
 
 *Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-*More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
+*More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
 
-**Entries:** *1411060 domains/hosts - 429692 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1411058 domains/hosts - 429691 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -103,6 +105,23 @@
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/pro.plus.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.plus.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt) | DNSCrypt, DNSCloak, YogaDNS, ...  |
+                  
+### ***Multi ULTIMATE*** - **Aggressive protection** <a name="ultimate"></a>
+
+*Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking (+Referral), Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other "Crap".*
+         
+*Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains are removed from the list!*
+
+**Entries:** *1893288 domains/hosts - 586283 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+                                                
+| Format | Link | Can be used for |
+|:-------|:-----|:----------------|
+| Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
+| Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
+| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/ultimate.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/ultimate.txt) | DNSMasq                                                              | 
+| Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) | DNSCrypt, DNSCloak, YogaDNS, ...  |
                          
 **Expires:** *24 hours (update frequency)*
 
@@ -259,7 +278,7 @@
 ### ***Native Tracker - Broadband tracker of devices and operating systems*** <a name="native"></a>
 *Blocks native broadband tracker from devices and operating systems that frequently run at the operating system level and track your activity.*         
                   
-***The native broadband trackers are already included in all blocklist versions (Personal, Light, Normal, Pro, Pro++)!***
+***The native broadband trackers are already included in all blocklist versions (Personal, Light, Normal, Pro, Pro++, Ultimate)!***
                          
 | Device | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
 |:-------|:--------|:------|:--------|:--------|:--------|:---------|
@@ -348,9 +367,11 @@ Test them and give [feedback](https://github.com/hagezi/dns-blocklists/discussio
 
 #### Referral Domains <a name="referral"></a>
 
-*Affiliate and tracking links (referral domains) that appear frequently on offer web pages, in emails or in search results are allowed in my lists.  These are mostly called only after manual clicking on a link and are not used to display advertising.
+*Affiliate and tracking links (referral domains) that appear frequently on offer web pages, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
 If these are blocked, the first hit links from search results, for example, no longer work.* 
           
+*Referral domains have been removed from all lists except the ultimate list!*
+                  
 *There are users who want to block referral domains anyway, so for each list I show the domains that were whitelisted because of referral. You can see them in the list of [used sources](usedsources.md) behind the link "whitelisted referral domains" per list.
 This list can then be used as a blocklist to "undo" the whitelisting of referral domains.*
           

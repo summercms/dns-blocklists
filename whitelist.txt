@@ -1463,66 +1463,8 @@ majesticseo.com
 # Tyk
 tyk.io
 
-# https://github.com/hagezi/dns-blocklists/issues/45
-chinatruck.org
-21food.cn
-8684.cn
-bjtime.cn
-bozhou.gov.cn
-ccgslb.com.cn
-cert.org.cn
-cggc.cn
-cnnic.cn
-cnnic.net
-cnvd.org.cn
-game2.cn
-gxuwz.edu.cn
-htpm.com.cn
-maimai.cn
-neixin.cn
-nejmqianyan.cn
-openwrite.cn
-quickapp.cn
-rayli.com.cn
-s11.cn
-sinastorage.cn
-sinastorage.com
-whnews.cn
-xyaz.cn
-z.cn
-catch.net.tw
-ypu.edu.tw
-hecom.com.hk
-
 # ECOSIA
 ecosia.de
-
-# https://github.com/hagezi/dns-blocklists/issues/47
-chrunlee.cn
-clarins.com.cn
-lockview.cn
-pepsico.com.cn
-rbc.cn
-wilf.cn
-yhjxcj.cn
-zhongmin.cn
-
-# https://github.com/hagezi/dns-blocklists/issues/48
-apu.edu.my
-atsn.ac.th
-chnu.edu.ua
-ifbaiano.edu.br
-iitrpr.ac.in
-kanlayanee.ac.th
-mut.ac.ke
-netco.edu.np
-overseas.edu.lk
-pamer.edu.pe
-ringling.edu
-tsatu.edu.ua
-unicauca.edu.co
-vanividyalaya.edu.in
-wcc.edu.in
 
 # Portainer
 cr.portainer.io
