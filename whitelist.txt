@@ -29,7 +29,7 @@ mas-ext.amazon.com
 
 # Amazon Shopping
 *.images-amazon.com
-c.amazon-adsystem.com
+# c.amazon-adsystem.com
 dp-gw-*.amazon.com
 fls-*.amazon-adsystem.com
 fls-*.amazon.ae
@@ -120,17 +120,17 @@ cdn.cloudflare.net
 cdnjs.cloudflare.co
 
 # Discord
-*.discord.com
-*.discord.gg
-*.discord.media
-*.discordapp.com
-*.discordapp.net
-*.discordstatus.com
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com
 
 # Disney+
 disney-plus.net
 disneyplus.com
-disneyplus.com.ssl.sc.omtrdc.net
+# disneyplus.com.ssl.sc.omtrdc.net
 dss.map.fastly.net
 dssott.com
 dssott.com.akamaized.net
@@ -165,13 +165,13 @@ web.facebook.com
 *.fbcdn.net
 
 # Github
-*.ghcr.io
-*.github.com
-*.github.io
-*.github.map.fastly.net
-*.githubapp.com
-*.githubassets.com
-*.gitlab.com
+ghcr.io
+github.com
+github.io
+github.map.fastly.net
+githubapp.com
+githubassets.com
+gitlab.com
 githubusercontent.com
 raw.githubusercontent.com
 
@@ -279,7 +279,6 @@ windowsupdate.s.llnwi.net
 *.msftconnecttest.com
 
 # Netflix
-*.netflix.net
 *.nflxext.com
 *.nflximg.com
 *.nflximg.net
@@ -288,14 +287,15 @@ windowsupdate.s.llnwi.net
 api-global.netflix.com
 appboot.netflix.com
 netflix.com
+netflix.net
 nrdp.nccp*.netflix.com
 nrdp.prod*.netflix.com
 secure.netflix.com
 
 # Nintendo Switch
-*.nintendo.com
-*.nintendo.net
-*.nintendowifi.net
+nintendo.com
+nintendo.net
+nintendowifi.net
 a1843.g.akamai.net
 
 # NVidia
@@ -314,35 +314,35 @@ paypal.map.fastly.net
 paypalobjects.com
 
 # Sony (Playstation)
-*.playstation.com
-*.playstation.com.edgekey.net
-*.playstation.com.ssl.d1.sc.omtrdc.net
-*.playstation.net
-*.playstation.net.edgekey88.net
-*.sonycoment.loris-e.llnwd.net
-*.sonyentertainmentnetwork.com
-*.sonyjpnpsg-1.hs.llnwd.net
+playstation.com
+playstation.com.edgekey.net
+# playstation.com.ssl.d1.sc.omtrdc.net
+playstation.net
+playstation.net.edgekey88.net
+sonycoment.loris-e.llnwd.net
+sonyentertainmentnetwork.com
+sonyjpnpsg-1.hs.llnwd.net
 
 # Steam
-*.s.team
-*.steam-chat.com
-*.steambroadcast.akamaized.net
-*.steamcdn-a.akamaihd.net
-*.steamchina.com
-*.steamcommunity-a.akamaihd.net
-*.steamcommunity.com
-*.steamcontent.com
-*.steamgames.com
-*.steampowered.com
-*.steampowered.com.8686c.com
-*.steamstatic.com
-*.steamstatic.com.8686c.com
-*.steamstore-a.akamaihd.net
-*.steamusercontent-a.akamaihd.net
-*.steamusercontent.com
-*.steamuserimages-a.akamaihd.net
-*.steamvideo-a.akamaihd.net
-*.valvesoftware.com
+s.team
+steam-chat.com
+steambroadcast.akamaized.net
+steamcdn-a.akamaihd.net
+steamchina.com
+steamcommunity-a.akamaihd.net
+steamcommunity.com
+steamcontent.com
+steamgames.com
+steampowered.com
+steampowered.com.8686c.com
+steamstatic.com
+steamstatic.com.8686c.com
+steamstore-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steamusercontent.com
+steamuserimages-a.akamaihd.net
+steamvideo-a.akamaihd.net
+valvesoftware.com
 
 # Signal
 signal.org
@@ -418,15 +418,15 @@ telesco.pe
 tg.dev
 
 # Twitch
-*.ext-twitch.tv
-*.jtvnw.net
-*.live-video.net
-*.ttvnw.net
-*.twitch.map.fastly.net
-*.twitch.okta.com
-*.twitch.tv
-*.twitchcdn.net
-*.twitchsvc.net
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.map.fastly.net
+twitch.okta.com
+twitch.tv
+twitchcdn.net
+twitchsvc.net
 
 # Twitter
 ads.twitter.com
@@ -459,14 +459,14 @@ whatsapp.tv
 whatsappbrand.com
 
 # XBox
-*.xbox.com
-*.xboxab.com
-*.xboxab.net
-*.xboxlive.com
-*.xboxlive.com.akadns.net
-*.xboxlive.com.c.footprint.net
-*.xboxlive.com.edgekey.net
-*.xboxservices.com
+xbox.com
+xboxab.com
+xboxab.net
+xboxlive.com
+xboxlive.com.akadns.net
+xboxlive.com.c.footprint.net
+xboxlive.com.edgekey.net
+xboxservices.com
 
 # Youtube
 *.googlevideo.com
