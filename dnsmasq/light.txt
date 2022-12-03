@@ -4701,7 +4701,6 @@ address=/ubxvdx.accuweather.com/#
 address=/acdcdn.com/#
 address=/acdnpro.com/#
 address=/acdpedia.com/#
-address=/acdid.acdsystems.com/#
 address=/acduyqwnz.com/#
 address=/ajljei.ace.jp/#
 address=/ace-academy.fr/#

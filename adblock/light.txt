@@ -4701,7 +4701,6 @@
 ||acdcdn.com^
 ||acdnpro.com^
 ||acdpedia.com^
-||acdid.acdsystems.com^
 ||acduyqwnz.com^
 ||ajljei.ace.jp^
 ||ace-academy.fr^
