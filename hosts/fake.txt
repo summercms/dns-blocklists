@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 00:53 UTC
-# Version: 2022.1203.0053.49
+# Last modified: 03 Dez 2022 11:02 UTC
+# Version: 2022.1203.1102.59
 # Syntax: Hosts
-# Domains: 11839
+# Domains: 11837
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -78,8 +78,6 @@
 0.0.0.0 www.aalborgfrivilligraad.dk
 0.0.0.0 aaliencart.com
 0.0.0.0 www.aaliencart.com
-0.0.0.0 aavqb.com
-0.0.0.0 www.aavqb.com
 0.0.0.0 ab-homes.com
 0.0.0.0 www.ab-homes.com
 0.0.0.0 ababilhajjbd.com
@@ -934,6 +932,8 @@
 0.0.0.0 www.barando-shop.de
 0.0.0.0 barbaravonfrisch.at
 0.0.0.0 www.barbaravonfrisch.at
+0.0.0.0 barbefisch.de
+0.0.0.0 www.barbefisch.de
 0.0.0.0 barborabatt.com
 0.0.0.0 www.barborabatt.com
 0.0.0.0 barboutletus.com
@@ -1998,6 +1998,8 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
+0.0.0.0 chicsoso.com
+0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -4878,8 +4880,6 @@
 0.0.0.0 www.heyewall.de
 0.0.0.0 heyseeodyssey.com
 0.0.0.0 www.heyseeodyssey.com
-0.0.0.0 hhaclothing.com
-0.0.0.0 www.hhaclothing.com
 0.0.0.0 hiarts.store
 0.0.0.0 www.hiarts.store
 0.0.0.0 hibote.de
@@ -11460,8 +11460,6 @@
 0.0.0.0 www.wintercomfy.com
 0.0.0.0 winterfallkits.de
 0.0.0.0 www.winterfallkits.de
-0.0.0.0 winternigh.com
-0.0.0.0 www.winternigh.com
 0.0.0.0 winterstiefelsale.at
 0.0.0.0 www.winterstiefelsale.at
 0.0.0.0 winterzone.com

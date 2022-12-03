@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 00:53 UTC
-# Version: 2022.1203.0053.49
+# Last modified: 03 Dez 2022 11:02 UTC
+# Version: 2022.1203.1102.59
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6169
+# Domains: 6168
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -48,7 +48,6 @@
 *.aachentag.com
 *.aalborgfrivilligraad.dk
 *.aaliencart.com
-*.aavqb.com
 *.ab-homes.com
 *.ababilhajjbd.com
 *.abaildonment.com
@@ -489,6 +488,7 @@
 *.barando-online.de
 *.barando-shop.de
 *.barbaravonfrisch.at
+*.barbefisch.de
 *.barborabatt.com
 *.barboutletus.com
 *.bardacstore.com
@@ -1030,6 +1030,7 @@
 *.chichandbagsshop.com
 *.chicladdy.com
 *.chiclolo.com
+*.chicsoso.com
 *.chictogerther.com
 *.chicwells.de
 *.chillgod.com
@@ -2546,7 +2547,6 @@
 *.heuser-garderobe.de
 *.heyewall.de
 *.heyseeodyssey.com
-*.hhaclothing.com
 *.hiarts.store
 *.hibote.de
 *.hicity.de
@@ -5977,7 +5977,6 @@
 *.winterangebote.store
 *.wintercomfy.com
 *.winterfallkits.de
-*.winternigh.com
 *.winterstiefelsale.at
 *.winterzone.com
 *.wipideal.de
