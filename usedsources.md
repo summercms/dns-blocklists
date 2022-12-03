@@ -235,6 +235,8 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  89 |     100% |   0% |      0% | tif.txt
  90 |     100% |   0% |      0% | pro.plus.txt
 
+For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
+```
 #### FAKE
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-dead.txt)
 ```
