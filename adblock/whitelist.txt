@@ -1905,3 +1905,6 @@
 ! Legit bank
 @@|hsbc.com.au^
 
+! ACDSee Photo Studio
+@@||acdsystems.com^
+
