@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 11:26 UTC
-# Version: 2022.1203.1126.45
+# Last modified: 04 Dez 2022 01:19 UTC
+# Version: 2022.1204.0119.23
 # Syntax: DNSMasq
-# Domains: 6253
+# Domains: 6250
 #
 address=/0i0i0i0.com/#
 address=/1-1ads.com/#
@@ -1993,7 +1993,6 @@ address=/dynatrace.com/#
 address=/dlt-beacon.dynatrace-managed.com/#
 address=/dynsrvtbg.com/#
 address=/cdn.n.dynstc.com/#
-address=/dyntracker.de/#
 address=/dyntrk.com/#
 address=/e-mark.nl/#
 address=/e-planning.net/#
@@ -4689,7 +4688,6 @@ address=/rwadx.com/#
 address=/smetrics.ryanair.com/#
 address=/stats.ryzeo.com/#
 address=/s-onetag.com/#
-address=/tracking.s24.com/#
 address=/pro-web-metrics.alias.s24cloud.net/#
 address=/s3xified.com/#
 address=/stats.sa-as.com/#
@@ -4882,7 +4880,6 @@ address=/shinystat.com/#
 address=/smetrics.sho.com/#
 address=/shockingship.com/#
 address=/shop2market.com/#
-address=/track.shoparize.com/#
 address=/log-collector.shopee.ph/#
 address=/log-collector.shopee.sg/#
 address=/log-collector.shopee.tw/#

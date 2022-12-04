@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 11:26 UTC
-# Version: 2022.1203.1126.45
+# Last modified: 04 Dez 2022 01:19 UTC
+# Version: 2022.1204.0119.23
 # Syntax: Hosts
-# Domains: 12605
+# Domains: 12600
 #
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1-1ads.com
@@ -4225,9 +4225,6 @@
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dynsrvtbg.com
 0.0.0.0 cdn.n.dynstc.com
-0.0.0.0 dyntracker.de
-0.0.0.0 ad.dyntracker.de
-0.0.0.0 www.dyntracker.de
 0.0.0.0 dyntrk.com
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 www.dyntrk.com
@@ -9522,7 +9519,6 @@
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 signal-beacon.s-onetag.com
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
-0.0.0.0 tracking.s24.com
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 s3xified.com
 0.0.0.0 stats.sa-as.com
@@ -9856,7 +9852,6 @@
 0.0.0.0 shockingship.com
 0.0.0.0 shop2market.com
 0.0.0.0 www.shop2market.com
-0.0.0.0 track.shoparize.com
 0.0.0.0 log-collector.shopee.ph
 0.0.0.0 log-collector.shopee.sg
 0.0.0.0 log-collector.shopee.tw
