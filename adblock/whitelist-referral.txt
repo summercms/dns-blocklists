@@ -27,7 +27,6 @@
 @@||gopjn.com^
 @@||href.li^
 @@||hubspotemail.net^
-@@||ink1001.com^
 @@||jdoqocy.com^
 @@||kqzyfj.com^
 @@||lddy.no^
@@ -95,6 +94,7 @@
 @@||click.emcom.bankofamerica.com^
 @@||analytics.barnebys.sh^
 @@||rd.bizrate.com^
+@@||rd2szde.bizrate.com^
 @@||click.em.blizzard.com^
 @@||go.blokada.org^
 @@||custom.bnc.lt^
@@ -194,6 +194,7 @@
 @@||adservice.google.com.vc^
 @@||adservice.google.com.vn^
 @@||tags.news.com.au^
+@@||www.partner-ads.com7eer.net^
 @@||el2.convertkit-mail.com^
 @@||click.cptrack.de^
 @@||click.mc.crimsontrace.com^
@@ -214,6 +215,7 @@
 @@||pagead.l.doubleclick.net^
 @@||pagead46.l.doubleclick.net^
 @@||t.dripemail2.com^
+@@||ad.dyntracker.de^
 @@||go.e2language.com^
 @@||exacttarget.com.edgekey.net^
 @@||track.effiliation.com^
@@ -464,7 +466,6 @@
 @@||image.email.microsoftemail.com^
 @@||click.email.microsoftonline.com^
 @@||click.email.microsoftrewards.com^
-@@||image.email.microsoftrewards.com^
 @@||click.microsoftstoreemail.com^
 @@||links.mkt41.net^
 @@||links.mkt51.net^
@@ -491,10 +492,7 @@
 @@||c.office.com^
 @@||email.office.com^
 @@||click.email.office.com^
-@@||image.email.office.com^
-@@||image.email2.office.com^
 @@||click.mail.onedrive.com^
-@@||image.mail.onedrive.com^
 @@||clickcash.onelink.me^
 @@||go.onelink.me^
 @@||go.pardot.com^
@@ -513,6 +511,7 @@
 @@||newslink.reuters.com^
 @@||click.royalcaribbeanmarketing.com^
 @@||r20.rs6.net^
+@@||tracking.s24.com^
 @@||click.e.safelite.com^
 @@||cb.sailthru.com^
 @@||webto.salesforce.com^
@@ -525,6 +524,7 @@
 @@||ct.sendgrid.net^
 @@||app.sephora.com^
 @@||bs.serving-sys.com^
+@@||track.shoparize.com^
 @@||tag.shopping-feed.com^
 @@||app.e.sigsauer.com^
 @@||go.skimresources.com^
@@ -537,7 +537,6 @@
 @@||wl.spotify.com^
 @@||link.springer.com^
 @@||r.srvtrck.com^
-@@||image.engage.surface.com^
 @@||link.swa.info^
 @@||link.sylikes.com^
 @@||count.shopping.t-online.de^
@@ -561,10 +560,8 @@
 @@||track.webgains.com^
 @@||solution.weborama.fr^
 @@||click.engage.windows.com^
-@@||image.engage.windows.com^
 @@||link.wizzair.com^
 @@||click.engage.xbox.com^
-@@||image.engage.xbox.com^
 @@||5014.xg4ken.com^
 @@||6008.xg4ken.com^
 @@||clck.yandex.ru^

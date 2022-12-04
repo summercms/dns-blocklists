@@ -49,6 +49,7 @@ click.emcom.bankofamerica.com
 analytics.barnebys.sh
 bfast.com
 rd.bizrate.com
+rd2szde.bizrate.com
 click.em.blizzard.com
 go.blokada.org
 bnc.lt
@@ -153,6 +154,7 @@ adservice.google.com.uy
 adservice.google.com.vc
 adservice.google.com.vn
 tags.news.com.au
+www.partner-ads.com7eer.net
 commander1.com
 commission-junction.com
 conversantmedia.com
@@ -177,6 +179,7 @@ pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 dpbolvw.net
 t.dripemail2.com
+ad.dyntracker.de
 go.e2language.com
 exacttarget.com.edgekey.net
 track.effiliation.com
@@ -381,7 +384,6 @@ click.icptrack.com
 ct.impactradius.com
 customtraffic.impactradius.com
 email-tracking.infobip.com
-ink1001.com
 t23.intelliad.de
 links.iterable.com
 click.email.jcpenney.com
@@ -442,7 +444,6 @@ click.email.microsoftemail.com
 image.email.microsoftemail.com
 click.email.microsoftonline.com
 click.email.microsoftrewards.com
-image.email.microsoftrewards.com
 click.microsoftstoreemail.com
 links.mkt41.net
 links.mkt51.net
@@ -471,11 +472,8 @@ view.email.nzz.ch
 c.office.com
 email.office.com
 click.email.office.com
-image.email.office.com
-image.email2.office.com
 ojrq.net
 click.mail.onedrive.com
-image.mail.onedrive.com
 onelink.me
 clickcash.onelink.me
 go.onelink.me
@@ -507,6 +505,7 @@ go.redirectingat.com
 newslink.reuters.com
 click.royalcaribbeanmarketing.com
 r20.rs6.net
+tracking.s24.com
 click.e.safelite.com
 sailthru.com
 cb.sailthru.com
@@ -522,6 +521,7 @@ app.sephora.com
 bs.serving-sys.com
 shareasale.com
 shareasale-analytics.com
+track.shoparize.com
 tag.shopping-feed.com
 app.e.sigsauer.com
 go.skimresources.com
@@ -534,7 +534,6 @@ open.spotify.com
 wl.spotify.com
 link.springer.com
 r.srvtrck.com
-image.engage.surface.com
 link.swa.info
 link.sylikes.com
 t.co
@@ -561,10 +560,8 @@ cdn.webclicks24.com
 track.webgains.com
 solution.weborama.fr
 click.engage.windows.com
-image.engage.windows.com
 link.wizzair.com
 click.engage.xbox.com
-image.engage.xbox.com
 5014.xg4ken.com
 6008.xg4ken.com
 clck.yandex.ru

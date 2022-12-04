@@ -685,7 +685,8 @@ mintos.com
 
 # Images/Links in Twitch mails
 ink1001.com
-# Prime Loot
+
+# Twitch Prime Loot
 spade.twitch.tv
 countess.twitch.tv
 
@@ -1849,4 +1850,18 @@ hsbc.com.au
 
 # ACDSee Photo Studio
 *.acdsystems.com
+
+# Images in Mails (Nintendo, SEAT, ...)
+akamai-san*.exacttarget.com.edgekey.net
+s*.exacttarget.com.edgesuite.net
+
+# Images in Microsft Mails
+image.email.microsoftemail.com
+image.email.microsoftrewards.com
+image.email.office.com
+image.email2.office.com
+image.engage.surface.com
+image.engage.windows.com
+image.engage.xbox.com
+image.mail.onedrive.com
 
