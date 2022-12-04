@@ -1,6 +1,6 @@
 !
 ! Title: HaGeZi's Personal/Fake Black- & Whitelist(+referral)
-! Last modified: 2022-12-03T14:27:44.738Z
+! Last modified: 2022-12-04T04:27:45.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12,10 +12,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 03 Dez 2022 11:26 UTC
-! Version: 2022.1203.1126.45
+! Last modified: 04 Dez 2022 01:19 UTC
+! Version: 2022.1204.0119.23
 ! Syntax: AdBlock
-! Domains: 6253
+! Domains: 6250
 !
 ||0i0i0i0.com^
 ||1-1ads.com^
@@ -2001,7 +2001,6 @@
 ||dlt-beacon.dynatrace-managed.com^
 ||dynsrvtbg.com^
 ||cdn.n.dynstc.com^
-||dyntracker.de^
 ||dyntrk.com^
 ||e-mark.nl^
 ||e-planning.net^
@@ -4697,7 +4696,6 @@
 ||smetrics.ryanair.com^
 ||stats.ryzeo.com^
 ||s-onetag.com^
-||tracking.s24.com^
 ||pro-web-metrics.alias.s24cloud.net^
 ||s3xified.com^
 ||stats.sa-as.com^
@@ -4890,7 +4888,6 @@
 ||smetrics.sho.com^
 ||shockingship.com^
 ||shop2market.com^
-||track.shoparize.com^
 ||log-collector.shopee.ph^
 ||log-collector.shopee.sg^
 ||log-collector.shopee.tw^
@@ -13141,7 +13138,8 @@
 
 ! Images/Links in Twitch mails
 @@|ink1001.com^
-! Prime Loot
+
+! Twitch Prime Loot
 @@|spade.twitch.tv^
 @@|countess.twitch.tv^
 
@@ -14295,6 +14293,20 @@
 ! ACDSee Photo Studio
 @@||acdsystems.com^
 
+! Images in Mails (Nintendo, SEAT, ...)
+@@|akamai-san*.exacttarget.com.edgekey.net^
+@@|s*.exacttarget.com.edgesuite.net^
+
+! Images in Microsft Mails
+@@|image.email.microsoftemail.com^
+@@|image.email.microsoftrewards.com^
+@@|image.email.office.com^
+@@|image.email2.office.com^
+@@|image.engage.surface.com^
+@@|image.engage.windows.com^
+@@|image.engage.xbox.com^
+@@|image.mail.onedrive.com^
+
 !
 ! Source name: HaGeZi's Referral White-/Allowlist
 ! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
@@ -14328,7 +14340,6 @@
 @@||gopjn.com^
 @@||href.li^
 @@||hubspotemail.net^
-@@||ink1001.com^
 @@||jdoqocy.com^
 @@||kqzyfj.com^
 @@||lddy.no^
@@ -14396,6 +14407,7 @@
 @@||click.emcom.bankofamerica.com^
 @@||analytics.barnebys.sh^
 @@||rd.bizrate.com^
+@@||rd2szde.bizrate.com^
 @@||click.em.blizzard.com^
 @@||go.blokada.org^
 @@||custom.bnc.lt^
@@ -14495,6 +14507,7 @@
 @@||adservice.google.com.vc^
 @@||adservice.google.com.vn^
 @@||tags.news.com.au^
+@@||www.partner-ads.com7eer.net^
 @@||el2.convertkit-mail.com^
 @@||click.cptrack.de^
 @@||click.mc.crimsontrace.com^
@@ -14515,6 +14528,7 @@
 @@||pagead.l.doubleclick.net^
 @@||pagead46.l.doubleclick.net^
 @@||t.dripemail2.com^
+@@||ad.dyntracker.de^
 @@||go.e2language.com^
 @@||exacttarget.com.edgekey.net^
 @@||track.effiliation.com^
@@ -14765,7 +14779,6 @@
 @@||image.email.microsoftemail.com^
 @@||click.email.microsoftonline.com^
 @@||click.email.microsoftrewards.com^
-@@||image.email.microsoftrewards.com^
 @@||click.microsoftstoreemail.com^
 @@||links.mkt41.net^
 @@||links.mkt51.net^
@@ -14792,10 +14805,7 @@
 @@||c.office.com^
 @@||email.office.com^
 @@||click.email.office.com^
-@@||image.email.office.com^
-@@||image.email2.office.com^
 @@||click.mail.onedrive.com^
-@@||image.mail.onedrive.com^
 @@||clickcash.onelink.me^
 @@||go.onelink.me^
 @@||go.pardot.com^
@@ -14814,6 +14824,7 @@
 @@||newslink.reuters.com^
 @@||click.royalcaribbeanmarketing.com^
 @@||r20.rs6.net^
+@@||tracking.s24.com^
 @@||click.e.safelite.com^
 @@||cb.sailthru.com^
 @@||webto.salesforce.com^
@@ -14826,6 +14837,7 @@
 @@||ct.sendgrid.net^
 @@||app.sephora.com^
 @@||bs.serving-sys.com^
+@@||track.shoparize.com^
 @@||tag.shopping-feed.com^
 @@||app.e.sigsauer.com^
 @@||go.skimresources.com^
@@ -14838,7 +14850,6 @@
 @@||wl.spotify.com^
 @@||link.springer.com^
 @@||r.srvtrck.com^
-@@||image.engage.surface.com^
 @@||link.swa.info^
 @@||link.sylikes.com^
 @@||count.shopping.t-online.de^
@@ -14862,10 +14873,8 @@
 @@||track.webgains.com^
 @@||solution.weborama.fr^
 @@||click.engage.windows.com^
-@@||image.engage.windows.com^
 @@||link.wizzair.com^
 @@||click.engage.xbox.com^
-@@||image.engage.xbox.com^
 @@||5014.xg4ken.com^
 @@||6008.xg4ken.com^
 @@||clck.yandex.ru^
