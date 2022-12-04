@@ -1233,6 +1233,7 @@ page.gitlab.com
 
 # Firefox tracking protection
 tracking-protection.cdn.mozilla.net
+tracking-protection.prod.mozaws.net
 
 # ChannelPilot - Product Management Tool
 click.cptrack.de
@@ -1855,15 +1856,16 @@ hsbc.com.au
 akamai-san*.exacttarget.com.edgekey.net
 s*.exacttarget.com.edgesuite.net
 
-# Images in Microsft Mails
-image.email.microsoftemail.com
-image.email.microsoftrewards.com
-image.email.office.com
-image.email2.office.com
-image.engage.surface.com
-image.engage.windows.com
-image.engage.xbox.com
-image.mail.onedrive.com
+# Images/Links in Microsft Mails
+*.email*.office.com
+*.email.microsoftemail.com
+*.email.microsoftonline.com
+*.email.microsoftrewards.com
+*.engage.surface.com
+*.engage.windows.com
+*.engage.xbox.com
+*.mail.onedrive.com
+*.microsoftstoreemail.com
 
 # Images in Mails - DHL, …
 lforr.elainelfo.net
@@ -1874,4 +1876,11 @@ dns.digitale-gesellschaft.ch
 
 # video playback
 jwpcdn.com
+
+# Backup software
+arqbackup.com
+
+# Survey in Mails
+global.cdn.survey.medallia.com
+survey*.medallia.eu
 
