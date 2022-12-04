@@ -1872,3 +1872,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/87
 @@|dns.digitale-gesellschaft.ch^
 
+! video playback
+@@|jwpcdn.com^
+
