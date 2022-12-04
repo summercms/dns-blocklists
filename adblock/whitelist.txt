@@ -1865,13 +1865,10 @@
 @@|image.engage.xbox.com^
 @@|image.mail.onedrive.com^
 
-! DNS
-@@|| digitale-gesellschaft.ch^
-
 ! Images in Mails - DHL, …
 @@|lforr.elainelfo.net^
 @@|lforr.elaine-asp.de^
 
-! #87
+! https://github.com/hagezi/dns-blocklists/issues/87
 @@|dns.digitale-gesellschaft.ch^
 
