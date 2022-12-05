@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 05 Dez 2022 00:55 UTC
-# Version: 2022.1205.0055.12
+# Last modified: 05 Dez 2022 10:31 UTC
+# Version: 2022.1205.1031.42
 # Syntax: Hosts
-# Domains: 11827
+# Domains: 11819
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -278,6 +278,7 @@
 0.0.0.0 www.akku-pc.at
 0.0.0.0 akkubuy.de
 0.0.0.0 www.akkubuy.de
+0.0.0.0 akkukaufen.at
 0.0.0.0 akkusmarkt.de
 0.0.0.0 www.akkusmarkt.de
 0.0.0.0 akkusmir.de
@@ -353,6 +354,8 @@
 0.0.0.0 www.allescasual.at
 0.0.0.0 www.allescasual.ch
 0.0.0.0 www.allescasual.de
+0.0.0.0 allesfurgartenoutlet.com
+0.0.0.0 www.allesfurgartenoutlet.com
 0.0.0.0 allesnett.de
 0.0.0.0 www.allesnett.de
 0.0.0.0 alleszumheizen.com
@@ -967,6 +970,8 @@
 0.0.0.0 www.batteryzone.de
 0.0.0.0 bau-profis24.de
 0.0.0.0 www.bau-profis24.de
+0.0.0.0 bau-woitec.com
+0.0.0.0 www.bau-woitec.com
 0.0.0.0 bauelemente-altotec.at
 0.0.0.0 www.bauelemente-altotec.at
 0.0.0.0 de.bauhausshop.com
@@ -1994,8 +1999,6 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
-0.0.0.0 chicsoso.com
-0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -2098,8 +2101,6 @@
 0.0.0.0 www.clockersbcn.es
 0.0.0.0 clonesuperwatch.ru
 0.0.0.0 www.clonesuperwatch.ru
-0.0.0.0 clorislife.com
-0.0.0.0 www.clorislife.com
 0.0.0.0 clothes-limited.com
 0.0.0.0 www.clothes-limited.com
 0.0.0.0 clothmyths.com
@@ -2550,8 +2551,6 @@
 0.0.0.0 www.dein-gartenmarkt.de
 0.0.0.0 dein-huettenurlaub.de
 0.0.0.0 www.dein-huettenurlaub.de
-0.0.0.0 deinbike.net
-0.0.0.0 www.deinbike.net
 0.0.0.0 deinbikeprofi.de
 0.0.0.0 www.deinbikeprofi.de
 0.0.0.0 deine-modewelt.com
@@ -3614,7 +3613,6 @@
 0.0.0.0 www.famore-fashion.com
 0.0.0.0 fancyclothing.de
 0.0.0.0 www.fancyclothing.de
-0.0.0.0 fancynic.com
 0.0.0.0 fanogo.de
 0.0.0.0 www.fanogo.de
 0.0.0.0 faooefs.top
@@ -5041,8 +5039,6 @@
 0.0.0.0 www.hotels-colorado.net
 0.0.0.0 hotels-in-riga.de
 0.0.0.0 www.hotels-in-riga.de
-0.0.0.0 hotels-in-tyrol.com
-0.0.0.0 www.hotels-in-tyrol.com
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 www.hotelsinperm.ru
 0.0.0.0 hotelsinvienna.org
@@ -5246,6 +5242,7 @@
 0.0.0.0 politics.illegalstore.xyz
 0.0.0.0 similarly.illegalstore.xyz
 0.0.0.0 wind.illegalstore.xyz
+0.0.0.0 illlucky.com
 0.0.0.0 ilysend.com
 0.0.0.0 www.ilysend.com
 0.0.0.0 ilysne.com
@@ -5560,7 +5557,6 @@
 0.0.0.0 www.justasitsounds.com
 0.0.0.0 justclothes.club
 0.0.0.0 www.justclothes.club
-0.0.0.0 de.justfashionnow.com
 0.0.0.0 justlo.tv
 0.0.0.0 www.justlo.tv
 0.0.0.0 justshopy4u.com
@@ -5781,9 +5777,7 @@
 0.0.0.0 kinostream.org
 0.0.0.0 www.kinostream.org
 0.0.0.0 kinox.su
-0.0.0.0 kinox.top
 0.0.0.0 www.kinox.su
-0.0.0.0 www.kinox.top
 0.0.0.0 kinox-deutsch.com
 0.0.0.0 www.kinox-deutsch.com
 0.0.0.0 kinozeit.net
@@ -6786,8 +6780,6 @@
 0.0.0.0 mehrwerken.de
 0.0.0.0 meier-24.com
 0.0.0.0 www.meier-24.com
-0.0.0.0 meierelektro.net
-0.0.0.0 www.meierelektro.net
 0.0.0.0 meiers.eu
 0.0.0.0 www.meiers.eu
 0.0.0.0 mein-babybauch.de
@@ -7077,8 +7069,6 @@
 0.0.0.0 www.modency.de
 0.0.0.0 modernindigo.com
 0.0.0.0 www.modernindigo.com
-0.0.0.0 modetalente.com
-0.0.0.0 www.modetalente.com
 0.0.0.0 modetopper.com
 0.0.0.0 www.modetopper.com
 0.0.0.0 moditec.fr
@@ -9286,6 +9276,8 @@
 0.0.0.0 www.senthiln.top
 0.0.0.0 seoyou.de
 0.0.0.0 www.seoyou.de
+0.0.0.0 sepkicks.com
+0.0.0.0 www.sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 www.seprun.com
 0.0.0.0 sepshoe.com
@@ -10680,8 +10672,6 @@
 0.0.0.0 www.tuyyds.store
 0.0.0.0 tv-gesundheit.at
 0.0.0.0 www.tv-gesundheit.at
-0.0.0.0 tvidler.com
-0.0.0.0 www.tvidler.com
 0.0.0.0 tvmarket.club
 0.0.0.0 www.tvmarket.club
 0.0.0.0 twilight-fans.de
@@ -10868,6 +10858,8 @@
 0.0.0.0 www.vaggv.com
 0.0.0.0 vagomarkt.com
 0.0.0.0 www.vagomarkt.com
+0.0.0.0 vakkerlight.com
+0.0.0.0 www.vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 www.valanza.de
 0.0.0.0 valty-heater.com
