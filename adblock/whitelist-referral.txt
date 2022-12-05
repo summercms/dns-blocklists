@@ -194,7 +194,6 @@
 @@||adservice.google.com.vc^
 @@||adservice.google.com.vn^
 @@||tags.news.com.au^
-@@||www.partner-ads.com7eer.net^
 @@||el2.convertkit-mail.com^
 @@||click.cptrack.de^
 @@||click.mc.crimsontrace.com^

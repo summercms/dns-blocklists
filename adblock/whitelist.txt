@@ -516,6 +516,8 @@
 @@||adguard-dns.com^
 @@||adguard-dns.io^
 @@||adguard.com^
+@@|email-clk.adguard.com^
+@@|email-link.adtidy.org^
 
 ! Misc (Breaking)
 @@|assets.dwell.com^

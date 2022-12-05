@@ -154,7 +154,6 @@ adservice.google.com.uy
 adservice.google.com.vc
 adservice.google.com.vn
 tags.news.com.au
-www.partner-ads.com7eer.net
 commander1.com
 commission-junction.com
 conversantmedia.com
