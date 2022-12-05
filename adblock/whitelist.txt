@@ -1884,3 +1884,9 @@
 @@|global.cdn.survey.medallia.com^
 @@|survey*.medallia.eu^
 
+! C99's API Service
+@@|api.c99.nl^
+
+! Images/Links in Mails
+@@|images.s*.exacttarget.com.edgesuite.net^
+
