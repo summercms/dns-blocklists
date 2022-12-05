@@ -29,7 +29,7 @@
 
 ! Amazon Shopping
 @@||images-amazon.com^
-! c.amazon-adsystem.com
+@@|c.amazon-adsystem.com^
 @@|dp-gw-*.amazon.com^
 @@|fls-*.amazon-adsystem.com^
 @@|fls-*.amazon.ae^
@@ -90,6 +90,7 @@
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
 @@|apple-dns.net^
+@@|c.apple.com^
 @@|cstat.apple.com^
 ! doh.dns.apple.com
 ! doh.dns.apple.com.v.aaplimg.com
@@ -251,6 +252,8 @@
 @@|arc.msn.com^
 @@|assets.activity.windows.com^
 @@|atm-settingsfe-prod-geo*.trafficmanager.net^
+@@|c.msn.com^
+@@|c.office.com^
 @@|continuum.dds.microsoft.com^
 @@|cs.dds.microsoft.com^
 @@|g.live.com^
@@ -1340,7 +1343,6 @@
 @@|qastack.com.de^
 
 ! Images in Nintendo mails
-@@|exacttarget.com.edgesuite.net^
 @@|image.ccg.nintendo.net^
 
 ! Content in RTL+ mails
@@ -1854,9 +1856,8 @@
 ! ACDSee Photo Studio
 @@||acdsystems.com^
 
-! Images in Mails (Nintendo, SEAT, ...)
-@@|akamai-san*.exacttarget.com.edgekey.net^
-@@|s*.exacttarget.com.edgesuite.net^
+! Images/Links/... in Mails (Nintendo, SEAT, ...)
+@@||exacttarget.com.edgekey.net^
 
 ! Images/Links in Microsft Mails
 @@||email*.office.com^
@@ -1876,7 +1877,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/87
 @@|dns.digitale-gesellschaft.ch^
 
-! video playback
+! Video Playback on various sites
 @@|jwpcdn.com^
 
 ! Backup software
@@ -1888,7 +1889,4 @@
 
 ! C99's API Service
 @@|api.c99.nl^
-
-! Images/Links in Mails
-@@|images.s*.exacttarget.com.edgesuite.net^
 

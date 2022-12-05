@@ -72,15 +72,8 @@
 @@||bs.eyeblaster.akadns.net^
 @@||goto.algolia.com^
 @@||s.click.aliexpress.com^
-@@||aax*.amazon.com^
-@@||aax*.amazon.de^
-@@||aax*.amazon.es^
-@@||aax*.amazon.fr^
-@@||aax*.amazon.in^
-@@||aax*.amazon.it^
 @@||amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
-@@||aax*.amazon-adsystem.com^
 @@||click.member.americanexpress.com^
 @@||www.anrdoezrs.net^
 @@||prism.app-us1.com^
@@ -108,7 +101,6 @@
 @@||cse3.chausport.com^
 @@||monitor.clickcease.com^
 @@||readdle.cmail20.com^
-@@||aax*.amazon.co.uk^
 @@||adservice.google.co.ao^
 @@||adservice.google.co.bw^
 @@||adservice.google.co.ck^
