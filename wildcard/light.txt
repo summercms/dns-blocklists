@@ -20689,7 +20689,6 @@
 *.bn5x.net
 *.smetrics.bna.com
 *.eagle.bnamericas.com
-*.bnamic.com
 *.bnbfyt.com
 *.bnbsagevcuca.com
 *.bnbtgroup.com

@@ -20689,7 +20689,6 @@ address=/bmzdysi.cn/#
 address=/bn5x.net/#
 address=/smetrics.bna.com/#
 address=/eagle.bnamericas.com/#
-address=/bnamic.com/#
 address=/bnbfyt.com/#
 address=/bnbsagevcuca.com/#
 address=/bnbtgroup.com/#
