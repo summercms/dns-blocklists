@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 11:02 UTC
-# Version: 2022.1203.1102.59
+# Last modified: 05 Dez 2022 00:55 UTC
+# Version: 2022.1205.0055.12
 # Syntax: Hosts
-# Domains: 11837
+# Domains: 11827
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1200,8 +1200,6 @@
 0.0.0.0 www.biabe.de
 0.0.0.0 bicycleshopsonline.com
 0.0.0.0 www.bicycleshopsonline.com
-0.0.0.0 bidshoping.com
-0.0.0.0 www.bidshoping.com
 0.0.0.0 bieyt.com
 0.0.0.0 www.bieyt.com
 0.0.0.0 bigostream.com
@@ -1293,8 +1291,6 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 www.blackwidow.at
-0.0.0.0 blaroken.com
-0.0.0.0 www.blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 blaue-dragoner.de
@@ -2554,6 +2550,8 @@
 0.0.0.0 www.dein-gartenmarkt.de
 0.0.0.0 dein-huettenurlaub.de
 0.0.0.0 www.dein-huettenurlaub.de
+0.0.0.0 deinbike.net
+0.0.0.0 www.deinbike.net
 0.0.0.0 deinbikeprofi.de
 0.0.0.0 www.deinbikeprofi.de
 0.0.0.0 deine-modewelt.com
@@ -3272,8 +3270,6 @@
 0.0.0.0 www.eluxuryonline.com
 0.0.0.0 elviksport.com
 0.0.0.0 www.elviksport.com
-0.0.0.0 elvshoping.com
-0.0.0.0 www.elvshoping.com
 0.0.0.0 emd-service.de
 0.0.0.0 www.emd-service.de
 0.0.0.0 emergefun.com
@@ -3618,6 +3614,7 @@
 0.0.0.0 www.famore-fashion.com
 0.0.0.0 fancyclothing.de
 0.0.0.0 www.fancyclothing.de
+0.0.0.0 fancynic.com
 0.0.0.0 fanogo.de
 0.0.0.0 www.fanogo.de
 0.0.0.0 faooefs.top
@@ -5283,8 +5280,6 @@
 0.0.0.0 michaelkorsoutletoff.in.net
 0.0.0.0 inc-real.com
 0.0.0.0 www.inc-real.com
-0.0.0.0 incerunmen.com
-0.0.0.0 www.incerunmen.com
 0.0.0.0 incesanitar.de
 0.0.0.0 www.incesanitar.de
 0.0.0.0 indonesiahotel24.com
@@ -6948,7 +6943,6 @@
 0.0.0.0 www.mikeelike.com
 0.0.0.0 mikenovember.com
 0.0.0.0 www.mikenovember.com
-0.0.0.0 m.milanoo.com
 0.0.0.0 milbdy.com
 0.0.0.0 www.milbdy.com
 0.0.0.0 milchcheese.com
@@ -10923,8 +10917,6 @@
 0.0.0.0 www.vejaaustria.at
 0.0.0.0 vejaschuhe.at
 0.0.0.0 www.vejaschuhe.at
-0.0.0.0 vejaschuheosterreich.com
-0.0.0.0 www.vejaschuheosterreich.com
 0.0.0.0 vejasneakerswien.at
 0.0.0.0 www.vejasneakerswien.at
 0.0.0.0 vejoheza.top
@@ -11452,8 +11444,6 @@
 0.0.0.0 www.winklerversand.net
 0.0.0.0 winmuli.com
 0.0.0.0 www.winmuli.com
-0.0.0.0 wintehere.com
-0.0.0.0 www.wintehere.com
 0.0.0.0 winterangebote.store
 0.0.0.0 www.winterangebote.store
 0.0.0.0 wintercomfy.com

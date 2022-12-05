@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Dez 2022 11:02 UTC
-# Version: 2022.1203.1102.59
+# Last modified: 05 Dez 2022 00:55 UTC
+# Version: 2022.1205.0055.12
 # Syntax: DNSMasq
-# Domains: 6168
+# Domains: 6163
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -626,7 +626,6 @@ address=/bhechler.de/#
 address=/bhmconference.com/#
 address=/biabe.de/#
 address=/bicycleshopsonline.com/#
-address=/bidshoping.com/#
 address=/bieyt.com/#
 address=/bigostream.com/#
 address=/bigpizza-fuerth.de/#
@@ -673,7 +672,6 @@ address=/biwbcu.top/#
 address=/bjorkcoffee.com/#
 address=/black-forestcake.com/#
 address=/blackwidow.at/#
-address=/blaroken.com/#
 address=/blaudonau.de/#
 address=/blaue-dragoner.de/#
 address=/blauerhein.de/#
@@ -1340,6 +1338,7 @@ address=/dein-elektroshop.de/#
 address=/dein-gartenheld.de/#
 address=/dein-gartenmarkt.de/#
 address=/dein-huettenurlaub.de/#
+address=/deinbike.net/#
 address=/deinbikeprofi.de/#
 address=/deine-modewelt.com/#
 address=/deinhandwerkershop.de/#
@@ -1710,7 +1709,6 @@ address=/elternsale.de/#
 address=/eltordotango.com/#
 address=/eluxuryonline.com/#
 address=/elviksport.com/#
-address=/elvshoping.com/#
 address=/emd-service.de/#
 address=/emergefun.com/#
 address=/emergencydiecastmodels.com/#
@@ -1894,6 +1892,7 @@ address=/familienbegleiterin.de/#
 address=/famore.shop/#
 address=/famore-fashion.com/#
 address=/fancyclothing.de/#
+address=/fancynic.com/#
 address=/fanogo.de/#
 address=/faooefs.top/#
 address=/farado.de/#
@@ -2759,7 +2758,6 @@ address=/bogner.in.ua/#
 address=/cheap-michaelkors.in.net/#
 address=/michaelkorsoutletoff.in.net/#
 address=/inc-real.com/#
-address=/incerunmen.com/#
 address=/incesanitar.de/#
 address=/indonesiahotel24.com/#
 address=/inedito.fr/#
@@ -3613,7 +3611,6 @@ address=/mikalau.com/#
 address=/mikedavis.de/#
 address=/mikeelike.com/#
 address=/mikenovember.com/#
-address=/m.milanoo.com/#
 address=/milbdy.com/#
 address=/milchcheese.com/#
 address=/milf-direkt.com/#
@@ -5698,7 +5695,6 @@ address=/vconnectworld.net/#
 address=/vdd-osnabrueck.de/#
 address=/vejaaustria.at/#
 address=/vejaschuhe.at/#
-address=/vejaschuheosterreich.com/#
 address=/vejasneakerswien.at/#
 address=/vejoheza.top/#
 address=/velhaven.net/#
@@ -5973,7 +5969,6 @@ address=/winicoin.com/#
 address=/winkler-modehaus.de/#
 address=/winklerversand.net/#
 address=/winmuli.com/#
-address=/wintehere.com/#
 address=/winterangebote.store/#
 address=/wintercomfy.com/#
 address=/winterfallkits.de/#
