@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 Dez 2022 10:31 UTC
-! Version: 2022.1205.1031.42
+! Last modified: 06 Dez 2022 07:40 UTC
+! Version: 2022.1206.0740.55
 ! Syntax: AdBlock
-! Domains: 6159
+! Domains: 6164
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -675,6 +675,7 @@
 ||bjorkcoffee.com^
 ||black-forestcake.com^
 ||blackwidow.at^
+||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -1031,6 +1032,7 @@
 ||chichandbagsshop.com^
 ||chicladdy.com^
 ||chiclolo.com^
+||chicsoso.com^
 ||chictogerther.com^
 ||chicwells.de^
 ||chillgod.com^
@@ -1083,6 +1085,7 @@
 ||clockersbcn.com^
 ||clockersbcn.es^
 ||clonesuperwatch.ru^
+||clorislife.com^
 ||clothes-limited.com^
 ||clothmyths.com^
 ||cloudcryptoexpert.com^
@@ -1178,6 +1181,7 @@
 ||hoeschag.company.site^
 ||compixa.de^
 ||component-hk.com^
+||components-store.com^
 ||computerzubehoer22.de^
 ||concosua.us^
 ||consilium-golke.de^
@@ -2629,6 +2633,7 @@
 ||hotels-colombo.com^
 ||hotels-colorado.net^
 ||hotels-in-riga.de^
+||hotels-in-tyrol.com^
 ||hotelsinperm.ru^
 ||hotelsinvienna.org^
 ||hotelsofmenorca.com^
@@ -2757,6 +2762,7 @@
 ||cheap-michaelkors.in.net^
 ||michaelkorsoutletoff.in.net^
 ||inc-real.com^
+||incerunmen.com^
 ||incesanitar.de^
 ||indonesiahotel24.com^
 ||inedito.fr^
@@ -2900,6 +2906,7 @@
 ||julireh.com^
 ||justasitsounds.com^
 ||justclothes.club^
+||de.justfashionnow.com^
 ||justlo.tv^
 ||justshopy4u.com^
 ||justvanilla.de^
@@ -3607,6 +3614,7 @@
 ||mikedavis.de^
 ||mikeelike.com^
 ||mikenovember.com^
+||m.milanoo.com^
 ||milbdy.com^
 ||milchcheese.com^
 ||milf-direkt.com^
@@ -4793,7 +4801,6 @@
 ||schuster-wien.at^
 ||schwab-outlet.de^
 ||schwabler.com^
-||schwanhaus.de^
 ||scientificentre.com^
 ||screenacy.co^
 ||screenwithenvy.de^
@@ -4834,7 +4841,6 @@
 ||sensalve.de^
 ||senthiln.top^
 ||seoyou.de^
-||sepkicks.com^
 ||seprun.com^
 ||sepshoe.com^
 ||sepsneakers.co^
@@ -5556,6 +5562,7 @@
 ||tusneumuehl.de^
 ||tuyyds.store^
 ||tv-gesundheit.at^
+||tvidler.com^
 ||tvmarket.club^
 ||twilight-fans.de^
 ||twovillas.com^
@@ -5663,7 +5670,6 @@
 ||vacioy.com^
 ||vaggv.com^
 ||vagomarkt.com^
-||vakkerlight.com^
 ||valanza.de^
 ||valty-heater.com^
 ||valurabeauty.com^
@@ -5730,7 +5736,6 @@
 ||vespin-versand.de^
 ||vespin24.de^
 ||vetola.de^
-||vevor.de^
 ||vfcsnc.shop^
 ||vgr8.com^
 ||viagrafuerfrauen.com^

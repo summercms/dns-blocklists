@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 05 Dez 2022 10:31 UTC
-# Version: 2022.1205.1031.42
+# Last modified: 06 Dez 2022 07:40 UTC
+# Version: 2022.1206.0740.55
 # Syntax: DNSMasq
-# Domains: 6159
+# Domains: 6164
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -675,6 +675,7 @@ address=/biwbcu.top/#
 address=/bjorkcoffee.com/#
 address=/black-forestcake.com/#
 address=/blackwidow.at/#
+address=/blaroken.com/#
 address=/blaudonau.de/#
 address=/blaue-dragoner.de/#
 address=/blauerhein.de/#
@@ -1031,6 +1032,7 @@ address=/chicanti.com/#
 address=/chichandbagsshop.com/#
 address=/chicladdy.com/#
 address=/chiclolo.com/#
+address=/chicsoso.com/#
 address=/chictogerther.com/#
 address=/chicwells.de/#
 address=/chillgod.com/#
@@ -1083,6 +1085,7 @@ address=/cllovery.com/#
 address=/clockersbcn.com/#
 address=/clockersbcn.es/#
 address=/clonesuperwatch.ru/#
+address=/clorislife.com/#
 address=/clothes-limited.com/#
 address=/clothmyths.com/#
 address=/cloudcryptoexpert.com/#
@@ -1178,6 +1181,7 @@ address=/compact-shop.de/#
 address=/hoeschag.company.site/#
 address=/compixa.de/#
 address=/component-hk.com/#
+address=/components-store.com/#
 address=/computerzubehoer22.de/#
 address=/concosua.us/#
 address=/consilium-golke.de/#
@@ -2629,6 +2633,7 @@ address=/hotelinphuket.net/#
 address=/hotels-colombo.com/#
 address=/hotels-colorado.net/#
 address=/hotels-in-riga.de/#
+address=/hotels-in-tyrol.com/#
 address=/hotelsinperm.ru/#
 address=/hotelsinvienna.org/#
 address=/hotelsofmenorca.com/#
@@ -2757,6 +2762,7 @@ address=/bogner.in.ua/#
 address=/cheap-michaelkors.in.net/#
 address=/michaelkorsoutletoff.in.net/#
 address=/inc-real.com/#
+address=/incerunmen.com/#
 address=/incesanitar.de/#
 address=/indonesiahotel24.com/#
 address=/inedito.fr/#
@@ -2900,6 +2906,7 @@ address=/julhouse.shop/#
 address=/julireh.com/#
 address=/justasitsounds.com/#
 address=/justclothes.club/#
+address=/de.justfashionnow.com/#
 address=/justlo.tv/#
 address=/justshopy4u.com/#
 address=/justvanilla.de/#
@@ -3607,6 +3614,7 @@ address=/mikalau.com/#
 address=/mikedavis.de/#
 address=/mikeelike.com/#
 address=/mikenovember.com/#
+address=/m.milanoo.com/#
 address=/milbdy.com/#
 address=/milchcheese.com/#
 address=/milf-direkt.com/#
@@ -4793,7 +4801,6 @@ address=/schultheissundroth.de/#
 address=/schuster-wien.at/#
 address=/schwab-outlet.de/#
 address=/schwabler.com/#
-address=/schwanhaus.de/#
 address=/scientificentre.com/#
 address=/screenacy.co/#
 address=/screenwithenvy.de/#
@@ -4834,7 +4841,6 @@ address=/seniorlivinglab.ch/#
 address=/sensalve.de/#
 address=/senthiln.top/#
 address=/seoyou.de/#
-address=/sepkicks.com/#
 address=/seprun.com/#
 address=/sepshoe.com/#
 address=/sepsneakers.co/#
@@ -5556,6 +5562,7 @@ address=/turkeycoachrental.com/#
 address=/tusneumuehl.de/#
 address=/tuyyds.store/#
 address=/tv-gesundheit.at/#
+address=/tvidler.com/#
 address=/tvmarket.club/#
 address=/twilight-fans.de/#
 address=/twovillas.com/#
@@ -5663,7 +5670,6 @@ address=/uyqwb.com/#
 address=/vacioy.com/#
 address=/vaggv.com/#
 address=/vagomarkt.com/#
-address=/vakkerlight.com/#
 address=/valanza.de/#
 address=/valty-heater.com/#
 address=/valurabeauty.com/#
@@ -5730,7 +5736,6 @@ address=/vesinhhoatam.com/#
 address=/vespin-versand.de/#
 address=/vespin24.de/#
 address=/vetola.de/#
-address=/vevor.de/#
 address=/vfcsnc.shop/#
 address=/vgr8.com/#
 address=/viagrafuerfrauen.com/#
