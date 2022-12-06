@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 10:24 UTC
-# Version: 2022.1206.1024.13
+# Last modified: 06 Dez 2022 23:55 UTC
+# Version: 2022.1206.2355.17
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6161
+# Domains: 6146
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -53,7 +53,6 @@
 *.abarqi.com
 *.abbagirlz.com
 *.abbywilsona.com
-*.abccart.xyz
 *.abendbrotmainz.de
 *.abenteuer-direkt.com
 *.abenteuerlust.net
@@ -100,7 +99,6 @@
 *.adriennegray.de
 *.adskaadda.com
 *.adurrye.com
-*.advaplusa.com
 *.adventuied.com
 *.advo-care.de
 *.aehesis.de
@@ -130,7 +128,6 @@
 *.aigenbauer.at
 *.aim-assist.de
 *.airbow.at
-*.aircargo-logistics.com
 *.aircoox.com
 *.airmaxoutlet.net
 *.airmaxsale.de
@@ -148,7 +145,6 @@
 *.akku-laden.at
 *.akku-pc.at
 *.akkubuy.de
-*.akkukaufen.at
 *.akkusmarkt.de
 *.akkusmir.de
 *.akrostichon.at
@@ -157,7 +153,6 @@
 *.alakar.de
 *.alamode.ru
 *.alanmarshelt.com
-*.alanwaynemyers.com
 *.alben-mode.com
 *.albertaqualitybeef.com
 *.albible.xyz
@@ -177,7 +172,6 @@
 *.all-est.com
 *.all4you-fashion.com
 *.allbuy.com
-*.allcart.xyz
 *.allechantboutique.store
 *.alleein.com
 *.allenedmondsschuhe.com
@@ -187,11 +181,9 @@
 *.allescasual.at
 *.allescasual.ch
 *.allescasual.de
-*.allesfurgartenoutlet.com
 *.allesnett.de
 *.alleszumheizen.com
 *.alleygh.co
-*.allhealthmall.com
 *.allhomesinspokane.com
 *.allhotelsmorocco.com
 *.allicoco.com
@@ -275,7 +267,6 @@
 *.anthead.club
 *.anthonylogrande.com
 *.antik-kunst-genuss.de
-*.antiwurm.de
 *.antminerfarm.com
 *.antobi-shop.de
 *.anwalt-wendelmuth.de
@@ -284,10 +275,7 @@
 *.group.ap-real.com
 *.aparipalan.com
 *.apartments-ciric.com
-*.apbay.site
 *.apbcdg.fr
-*.apbooksbay.site
-*.apdealhub.site
 *.aphidophaga.de
 *.apivity.xyz
 *.apodeutschland.biz
@@ -331,7 +319,6 @@
 *.aresc.de
 *.arielozg.com
 *.arila.de
-*.arimarkkola.top
 *.aripken.de
 *.arlodesire.com
 *.armodamobilya.com
@@ -342,10 +329,8 @@
 *.ars-conservare.de
 *.artemondo.eu
 *.artiefitness.com
-*.artkart.site
 *.artsy-co.de
 *.artsyartisans.com
-*.artycart.site
 *.arulnathan.com
 *.as-transport.org
 *.ascelteria.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 10:24 UTC
-# Version: 2022.1206.1024.13
+# Last modified: 06 Dez 2022 23:55 UTC
+# Version: 2022.1206.2355.17
 # Syntax: DNSMasq
-# Domains: 6161
+# Domains: 6146
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -53,7 +53,6 @@ address=/abaildonment.com/#
 address=/abarqi.com/#
 address=/abbagirlz.com/#
 address=/abbywilsona.com/#
-address=/abccart.xyz/#
 address=/abendbrotmainz.de/#
 address=/abenteuer-direkt.com/#
 address=/abenteuerlust.net/#
@@ -100,7 +99,6 @@ address=/adriennegray.ch/#
 address=/adriennegray.de/#
 address=/adskaadda.com/#
 address=/adurrye.com/#
-address=/advaplusa.com/#
 address=/adventuied.com/#
 address=/advo-care.de/#
 address=/aehesis.de/#
@@ -130,7 +128,6 @@ address=/aicowatanabe.com/#
 address=/aigenbauer.at/#
 address=/aim-assist.de/#
 address=/airbow.at/#
-address=/aircargo-logistics.com/#
 address=/aircoox.com/#
 address=/airmaxoutlet.net/#
 address=/airmaxsale.de/#
@@ -148,7 +145,6 @@ address=/akjfood.com/#
 address=/akku-laden.at/#
 address=/akku-pc.at/#
 address=/akkubuy.de/#
-address=/akkukaufen.at/#
 address=/akkusmarkt.de/#
 address=/akkusmir.de/#
 address=/akrostichon.at/#
@@ -157,7 +153,6 @@ address=/aku-vital.de/#
 address=/alakar.de/#
 address=/alamode.ru/#
 address=/alanmarshelt.com/#
-address=/alanwaynemyers.com/#
 address=/alben-mode.com/#
 address=/albertaqualitybeef.com/#
 address=/albible.xyz/#
@@ -177,7 +172,6 @@ address=/aliasboards.de/#
 address=/all-est.com/#
 address=/all4you-fashion.com/#
 address=/allbuy.com/#
-address=/allcart.xyz/#
 address=/allechantboutique.store/#
 address=/alleein.com/#
 address=/allenedmondsschuhe.com/#
@@ -187,11 +181,9 @@ address=/alles-rezeptfrei.net/#
 address=/allescasual.at/#
 address=/allescasual.ch/#
 address=/allescasual.de/#
-address=/allesfurgartenoutlet.com/#
 address=/allesnett.de/#
 address=/alleszumheizen.com/#
 address=/alleygh.co/#
-address=/allhealthmall.com/#
 address=/allhomesinspokane.com/#
 address=/allhotelsmorocco.com/#
 address=/allicoco.com/#
@@ -275,7 +267,6 @@ address=/anowanda.com/#
 address=/anthead.club/#
 address=/anthonylogrande.com/#
 address=/antik-kunst-genuss.de/#
-address=/antiwurm.de/#
 address=/antminerfarm.com/#
 address=/antobi-shop.de/#
 address=/anwalt-wendelmuth.de/#
@@ -284,10 +275,7 @@ address=/anzugewspeichern.com/#
 address=/group.ap-real.com/#
 address=/aparipalan.com/#
 address=/apartments-ciric.com/#
-address=/apbay.site/#
 address=/apbcdg.fr/#
-address=/apbooksbay.site/#
-address=/apdealhub.site/#
 address=/aphidophaga.de/#
 address=/apivity.xyz/#
 address=/apodeutschland.biz/#
@@ -331,7 +319,6 @@ address=/ardora.at/#
 address=/aresc.de/#
 address=/arielozg.com/#
 address=/arila.de/#
-address=/arimarkkola.top/#
 address=/aripken.de/#
 address=/arlodesire.com/#
 address=/armodamobilya.com/#
@@ -342,10 +329,8 @@ address=/arrsdo.com/#
 address=/ars-conservare.de/#
 address=/artemondo.eu/#
 address=/artiefitness.com/#
-address=/artkart.site/#
 address=/artsy-co.de/#
 address=/artsyartisans.com/#
-address=/artycart.site/#
 address=/arulnathan.com/#
 address=/as-transport.org/#
 address=/ascelteria.com/#

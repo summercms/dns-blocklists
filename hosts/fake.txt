@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 10:24 UTC
-# Version: 2022.1206.1024.13
+# Last modified: 06 Dez 2022 23:55 UTC
+# Version: 2022.1206.2355.17
 # Syntax: Hosts
-# Domains: 11823
+# Domains: 11794
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -88,8 +88,6 @@
 0.0.0.0 www.abbagirlz.com
 0.0.0.0 abbywilsona.com
 0.0.0.0 www.abbywilsona.com
-0.0.0.0 abccart.xyz
-0.0.0.0 www.abccart.xyz
 0.0.0.0 abendbrotmainz.de
 0.0.0.0 www.abendbrotmainz.de
 0.0.0.0 abenteuer-direkt.com
@@ -180,8 +178,6 @@
 0.0.0.0 www.adskaadda.com
 0.0.0.0 adurrye.com
 0.0.0.0 www.adurrye.com
-0.0.0.0 advaplusa.com
-0.0.0.0 www.advaplusa.com
 0.0.0.0 adventuied.com
 0.0.0.0 www.adventuied.com
 0.0.0.0 advo-care.de
@@ -240,8 +236,6 @@
 0.0.0.0 www.aim-assist.de
 0.0.0.0 airbow.at
 0.0.0.0 www.airbow.at
-0.0.0.0 aircargo-logistics.com
-0.0.0.0 www.aircargo-logistics.com
 0.0.0.0 aircoox.com
 0.0.0.0 www.aircoox.com
 0.0.0.0 airmaxoutlet.net
@@ -276,7 +270,6 @@
 0.0.0.0 www.akku-pc.at
 0.0.0.0 akkubuy.de
 0.0.0.0 www.akkubuy.de
-0.0.0.0 akkukaufen.at
 0.0.0.0 akkusmarkt.de
 0.0.0.0 www.akkusmarkt.de
 0.0.0.0 akkusmir.de
@@ -293,8 +286,6 @@
 0.0.0.0 www.alamode.ru
 0.0.0.0 alanmarshelt.com
 0.0.0.0 www.alanmarshelt.com
-0.0.0.0 alanwaynemyers.com
-0.0.0.0 www.alanwaynemyers.com
 0.0.0.0 alben-mode.com
 0.0.0.0 www.alben-mode.com
 0.0.0.0 albertaqualitybeef.com
@@ -332,8 +323,6 @@
 0.0.0.0 all4you-fashion.com
 0.0.0.0 allbuy.com
 0.0.0.0 www.allbuy.com
-0.0.0.0 allcart.xyz
-0.0.0.0 www.allcart.xyz
 0.0.0.0 allechantboutique.store
 0.0.0.0 www.allechantboutique.store
 0.0.0.0 alleein.com
@@ -352,16 +341,12 @@
 0.0.0.0 www.allescasual.at
 0.0.0.0 www.allescasual.ch
 0.0.0.0 www.allescasual.de
-0.0.0.0 allesfurgartenoutlet.com
-0.0.0.0 www.allesfurgartenoutlet.com
 0.0.0.0 allesnett.de
 0.0.0.0 www.allesnett.de
 0.0.0.0 alleszumheizen.com
 0.0.0.0 www.alleszumheizen.com
 0.0.0.0 alleygh.co
 0.0.0.0 www.alleygh.co
-0.0.0.0 allhealthmall.com
-0.0.0.0 www.allhealthmall.com
 0.0.0.0 allhomesinspokane.com
 0.0.0.0 www.allhomesinspokane.com
 0.0.0.0 allhotelsmorocco.com
@@ -524,8 +509,6 @@
 0.0.0.0 www.anthonylogrande.com
 0.0.0.0 antik-kunst-genuss.de
 0.0.0.0 www.antik-kunst-genuss.de
-0.0.0.0 antiwurm.de
-0.0.0.0 www.antiwurm.de
 0.0.0.0 antminerfarm.com
 0.0.0.0 www.antminerfarm.com
 0.0.0.0 antobi-shop.de
@@ -541,14 +524,8 @@
 0.0.0.0 www.aparipalan.com
 0.0.0.0 apartments-ciric.com
 0.0.0.0 www.apartments-ciric.com
-0.0.0.0 apbay.site
-0.0.0.0 www.apbay.site
 0.0.0.0 apbcdg.fr
 0.0.0.0 www.apbcdg.fr
-0.0.0.0 apbooksbay.site
-0.0.0.0 www.apbooksbay.site
-0.0.0.0 apdealhub.site
-0.0.0.0 www.apdealhub.site
 0.0.0.0 aphidophaga.de
 0.0.0.0 www.aphidophaga.de
 0.0.0.0 apivity.xyz
@@ -632,8 +609,6 @@
 0.0.0.0 www.arielozg.com
 0.0.0.0 arila.de
 0.0.0.0 www.arila.de
-0.0.0.0 arimarkkola.top
-0.0.0.0 www.arimarkkola.top
 0.0.0.0 aripken.de
 0.0.0.0 www.aripken.de
 0.0.0.0 arlodesire.com
@@ -654,14 +629,10 @@
 0.0.0.0 www.artemondo.eu
 0.0.0.0 artiefitness.com
 0.0.0.0 www.artiefitness.com
-0.0.0.0 artkart.site
-0.0.0.0 www.artkart.site
 0.0.0.0 artsy-co.de
 0.0.0.0 www.artsy-co.de
 0.0.0.0 artsyartisans.com
 0.0.0.0 www.artsyartisans.com
-0.0.0.0 artycart.site
-0.0.0.0 www.artycart.site
 0.0.0.0 arulnathan.com
 0.0.0.0 www.arulnathan.com
 0.0.0.0 as-transport.org

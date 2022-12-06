@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 10:24 UTC
-# Version: 2022.1206.1024.13
+# Last modified: 06 Dez 2022 23:55 UTC
+# Version: 2022.1206.2355.17
 # Syntax: Domains
-# Domains: 11823
+# Domains: 11794
 #
 willhaben.at.04300.id
 11trikots.com
@@ -88,8 +88,6 @@ abbagirlz.com
 www.abbagirlz.com
 abbywilsona.com
 www.abbywilsona.com
-abccart.xyz
-www.abccart.xyz
 abendbrotmainz.de
 www.abendbrotmainz.de
 abenteuer-direkt.com
@@ -180,8 +178,6 @@ adskaadda.com
 www.adskaadda.com
 adurrye.com
 www.adurrye.com
-advaplusa.com
-www.advaplusa.com
 adventuied.com
 www.adventuied.com
 advo-care.de
@@ -240,8 +236,6 @@ aim-assist.de
 www.aim-assist.de
 airbow.at
 www.airbow.at
-aircargo-logistics.com
-www.aircargo-logistics.com
 aircoox.com
 www.aircoox.com
 airmaxoutlet.net
@@ -276,7 +270,6 @@ akku-pc.at
 www.akku-pc.at
 akkubuy.de
 www.akkubuy.de
-akkukaufen.at
 akkusmarkt.de
 www.akkusmarkt.de
 akkusmir.de
@@ -293,8 +286,6 @@ alamode.ru
 www.alamode.ru
 alanmarshelt.com
 www.alanmarshelt.com
-alanwaynemyers.com
-www.alanwaynemyers.com
 alben-mode.com
 www.alben-mode.com
 albertaqualitybeef.com
@@ -332,8 +323,6 @@ www.all-est.com
 all4you-fashion.com
 allbuy.com
 www.allbuy.com
-allcart.xyz
-www.allcart.xyz
 allechantboutique.store
 www.allechantboutique.store
 alleein.com
@@ -352,16 +341,12 @@ allescasual.de
 www.allescasual.at
 www.allescasual.ch
 www.allescasual.de
-allesfurgartenoutlet.com
-www.allesfurgartenoutlet.com
 allesnett.de
 www.allesnett.de
 alleszumheizen.com
 www.alleszumheizen.com
 alleygh.co
 www.alleygh.co
-allhealthmall.com
-www.allhealthmall.com
 allhomesinspokane.com
 www.allhomesinspokane.com
 allhotelsmorocco.com
@@ -524,8 +509,6 @@ anthonylogrande.com
 www.anthonylogrande.com
 antik-kunst-genuss.de
 www.antik-kunst-genuss.de
-antiwurm.de
-www.antiwurm.de
 antminerfarm.com
 www.antminerfarm.com
 antobi-shop.de
@@ -541,14 +524,8 @@ aparipalan.com
 www.aparipalan.com
 apartments-ciric.com
 www.apartments-ciric.com
-apbay.site
-www.apbay.site
 apbcdg.fr
 www.apbcdg.fr
-apbooksbay.site
-www.apbooksbay.site
-apdealhub.site
-www.apdealhub.site
 aphidophaga.de
 www.aphidophaga.de
 apivity.xyz
@@ -632,8 +609,6 @@ arielozg.com
 www.arielozg.com
 arila.de
 www.arila.de
-arimarkkola.top
-www.arimarkkola.top
 aripken.de
 www.aripken.de
 arlodesire.com
@@ -654,14 +629,10 @@ artemondo.eu
 www.artemondo.eu
 artiefitness.com
 www.artiefitness.com
-artkart.site
-www.artkart.site
 artsy-co.de
 www.artsy-co.de
 artsyartisans.com
 www.artsyartisans.com
-artycart.site
-www.artycart.site
 arulnathan.com
 www.arulnathan.com
 as-transport.org
