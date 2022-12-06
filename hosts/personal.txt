@@ -1327,7 +1327,6 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 agl-intl.hotstar.com
-0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 hb-analytics.hotstar.com

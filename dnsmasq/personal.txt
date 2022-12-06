@@ -919,7 +919,6 @@ address=/trk.homeaway.com/#
 address=/gtrack.hometalk.com/#
 address=/hotjar.com/#
 address=/agl-intl.hotstar.com/#
-address=/bifrost-api.hotstar.com/#
 address=/events-analytics.hotstar.com/#
 address=/fp-analytics.hotstar.com/#
 address=/hb-analytics.hotstar.com/#

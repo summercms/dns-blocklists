@@ -65834,7 +65834,6 @@ address=/hotsimulator.com/#
 address=/hotsongx.com/#
 address=/hotssmart.com/#
 address=/agl-intl.hotstar.com/#
-address=/bifrost-api.hotstar.com/#
 address=/events-analytics.hotstar.com/#
 address=/fp-analytics.hotstar.com/#
 address=/hb-analytics.hotstar.com/#

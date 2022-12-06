@@ -919,7 +919,6 @@
 ||gtrack.hometalk.com^
 ||hotjar.com^
 ||agl-intl.hotstar.com^
-||bifrost-api.hotstar.com^
 ||events-analytics.hotstar.com^
 ||fp-analytics.hotstar.com^
 ||hb-analytics.hotstar.com^
