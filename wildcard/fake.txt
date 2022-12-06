@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 07:40 UTC
-# Version: 2022.1206.0740.55
+# Last modified: 06 Dez 2022 10:24 UTC
+# Version: 2022.1206.1024.13
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6164
+# Domains: 6161
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -27,7 +27,6 @@
 *.24things.de
 *.eu.2bagsvalley.cn
 *.2rad-enik.com
-*.2rad-kern.de
 *.2radwelten.de
 *.365ersatzteile.de
 *.3amoto.com
@@ -719,7 +718,6 @@
 *.bonluda.de
 *.bonnyin.at
 *.bonviviale.shop
-*.boobie.at
 *.boofashion.de
 *.boofashions.com
 *.booking-ibizahouses.com
@@ -5474,7 +5472,6 @@
 *.totaltv.store
 *.totiate.xyz
 *.totofashion2021.com
-*.touchy.at
 *.tour-de-hell.de
 *.de.tour-home.com
 *.europe.tour-home.com
