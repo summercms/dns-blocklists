@@ -1896,3 +1896,6 @@
 ! Breaks Qikify App
 @@|sdk.qikify.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/90
+@@|softonic.com^
+
