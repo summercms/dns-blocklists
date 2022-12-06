@@ -141,12 +141,12 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### ULTIMATE
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-dead.txt)
 ```
-2044236 total unique domains | 1743510 (85%) included | 3716 (0%) removed | 297010 (15%) dead
+2052159 total unique domains | 1751397 (85%) included | 3718 (0%) removed | 297044 (14%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      98% |   2% |      0% | oisd.domains.txt
   2 |      98% |   1% |      1% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-  3 |      71% |  28% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  3 |      72% |  28% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   4 |      91% |   9% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   5 |      77% |  23% |      0% | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
   6 |      89% |   9% |      2% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -232,9 +232,10 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  86 |     100% |   0% |      0% | apple.txt
  87 |      95% |   0% |      5% | windows-office.txt
  88 |      97% |   3% |      0% | huawei.txt
- 89 |      94% |   2% |      4% | hoster.txt
- 90 |     100% |   0% |      0% | tif.txt
- 91 |     100% |   0% |      0% | pro.plus.txt
+ 89 |     100% |   0% |      0% | ultimate.extension.domains
+ 90 |      94% |   2% |      4% | hoster.txt
+ 91 |     100% |   0% |      0% | tif.txt
+ 92 |     100% |   0% |      0% | pro.plus.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
