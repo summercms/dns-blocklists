@@ -117020,7 +117020,6 @@
 ||www2.softinway.com^
 ||softmania.pl^
 ||softmaticsoftware.com^
-||softonic.com^
 ||softonic.it^
 ||softonic-analytics.net^
 ||softonicads.com^

@@ -117020,7 +117020,6 @@ address=/fg.softguy.com/#
 address=/www2.softinway.com/#
 address=/softmania.pl/#
 address=/softmaticsoftware.com/#
-address=/softonic.com/#
 address=/softonic.it/#
 address=/softonic-analytics.net/#
 address=/softonicads.com/#
