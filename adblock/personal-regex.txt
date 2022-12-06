@@ -22,9 +22,9 @@
 
 ! Tracking
 /^(error|g|bug|[a-z0-9\-]*\-)?track(er|ing)?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
-/^r?t(rk|rc)?\./
-/^r\./
-/^sentry\./
+/^sentry\.[a-z0-9\-]*\./
+/^r?t(rk|rc)?\.[a-z0-9\-]*\./
+/^r\.[a-z0-9\-]*\./
 
 ! Abused TLD
 ||xyz^
@@ -35,8 +35,7 @@
 ! Referral/Email links
 @@/^click\.[a-z0-9\-]*\./
 @@/^e?mail(\-[a-z0-9]*)?\.[a-z0-9\-]*\./
-@@/^go\.[a-z0-9\-]*\./
-@@/^goto\.[a-z0-9\-]*\./
+@@/^go(to)?\.[a-z0-9\-]*\./
 @@/^(news)?links?\.[a-z0-9\-]*\./
 @@/^redirect\.[a-z0-9\-]*\./
 @@/^target\.[a-z0-9\-]*\./
