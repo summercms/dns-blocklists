@@ -1893,3 +1893,6 @@ api.c99.nl
 # Breaks apis and services - e.g. imprint won't load: https://www.cyprianerhof.com/credits/impressum
 bnamic.com
 
+# Breaks Qikify App
+sdk.qikify.com
+

@@ -72,8 +72,10 @@
 @@||bs.eyeblaster.akadns.net^
 @@||goto.algolia.com^
 @@||s.click.aliexpress.com^
+@@||aax-*-retail-direct.amazon.com^
 @@||amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
+@@||aax-*-retail-direct.amazon-adsystem.com^
 @@||click.member.americanexpress.com^
 @@||www.anrdoezrs.net^
 @@||prism.app-us1.com^

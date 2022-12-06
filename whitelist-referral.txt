@@ -19,9 +19,11 @@ a1.adformnet.akadns.net
 bs.eyeblaster.akadns.net
 goto.algolia.com
 s.click.aliexpress.com
+aax-*-retail-direct.amazon.com
 amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
 amazon-adsystem.com
+aax-*-retail-direct.amazon-adsystem.com
 click.member.americanexpress.com
 anrdoezrs.net
 www.anrdoezrs.net
