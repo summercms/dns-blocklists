@@ -26,10 +26,6 @@
 /^r?t(rk|rc)?\.[a-z0-9\-]*\./
 /^r\.[a-z0-9\-]*\./
 
-! Abused TLD
-||xyz^
-||top^
-
 ! ---- White -----
 
 ! Referral/Email links
