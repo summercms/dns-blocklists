@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 02 Dez 2022 17:13 UTC
-# Version: 2022.1202.1713.15
+# Last modified: 06 Dez 2022 23:49 UTC
+# Version: 2022.1206.2349.05
 # Syntax: DNSMasq
-# Domains: 900
+# Domains: 897
 #
 address=/012proxy.ga/#
 address=/12vpx.com/#
@@ -68,14 +68,11 @@ address=/dns.alidns.com/#
 address=/allunblocked.com/#
 address=/amanvpn.com/#
 address=/americaproxy.info/#
-address=/android-vpn.tk/#
-address=/anhomevpns.tk/#
 address=/aniscartujo.com/#
 address=/anonine.com/#
 address=/anonvpn.io/#
 address=/anonymize.com/#
 address=/anonymizer.com/#
-address=/anonymousboozebagvpn.tk/#
 address=/anonymouse.org/#
 address=/anonymousvpn.info/#
 address=/anonymousvpn.org/#

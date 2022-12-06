@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 02 Dez 2022 17:13 UTC
-! Version: 2022.1202.1713.15
+! Last modified: 06 Dez 2022 23:49 UTC
+! Version: 2022.1206.2349.05
 ! Syntax: AdBlock
-! Domains: 900
+! Domains: 897
 !
 ||012proxy.ga^
 ||12vpx.com^
@@ -68,14 +68,11 @@
 ||allunblocked.com^
 ||amanvpn.com^
 ||americaproxy.info^
-||android-vpn.tk^
-||anhomevpns.tk^
 ||aniscartujo.com^
 ||anonine.com^
 ||anonvpn.io^
 ||anonymize.com^
 ||anonymizer.com^
-||anonymousboozebagvpn.tk^
 ||anonymouse.org^
 ||anonymousvpn.info^
 ||anonymousvpn.org^
