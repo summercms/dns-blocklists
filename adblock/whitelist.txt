@@ -1899,3 +1899,9 @@
 ! https://github.com/hagezi/dns-blocklists/issues/90
 @@|softonic.com^
 
+! Search on bricomart.es
+@@|tag.search.sensefuel.live^
+
+! Disney+ Asia will show a No Internet Connection banner
+@@|bifrost-api.hotstar.com^
+
