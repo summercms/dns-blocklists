@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 05 Dez 2022 18:47 UTC
-# Version: 2022.1205.1847.42
+# Last modified: 06 Dez 2022 01:19 UTC
+# Version: 2022.1206.0119.54
 # Syntax: DNSMasq
-# Domains: 7048
+# Domains: 7060
 #
 address=/000webhost.com/#
 address=/000webhostapp.com/#
@@ -1214,6 +1214,7 @@ address=/cdn.boomtrain.com/#
 address=/smetrics.boostmobile.com/#
 address=/boredcrown.com/#
 address=/borrelioseweb.de/#
+address=/borrowdefeat.com/#
 address=/borrowedculture.com/#
 address=/smetrics.boston.com/#
 address=/smetrics.bostonglobe.com/#
@@ -1481,6 +1482,7 @@ address=/lms.ebayk.liberty-prod.classifiedscloud.io/#
 address=/clean.gg/#
 address=/clear-reports.com/#
 address=/clearbit.com/#
+address=/clearbitjs.com/#
 address=/clearbitscripts.com/#
 address=/clearcode.cc/#
 address=/clenchedyouthmatching.com/#
@@ -2892,6 +2894,7 @@ address=/gop1.co/#
 address=/gorillanation.com/#
 address=/goroost.com/#
 address=/gortova.ru/#
+address=/goshita.ru/#
 address=/gosquared.com/#
 address=/gostats.com/#
 address=/gothamads.com/#
@@ -3015,6 +3018,7 @@ address=/heatmap.it/#
 address=/hellobar.com/#
 address=/hellosmpl.com/#
 address=/helloworld.com/#
+address=/hstats.hepsiburada.com/#
 address=/smetrics.herbalife.com/#
 address=/adv.herocraft.com/#
 address=/essential-apps-analytics.herokuapp.com/#
@@ -4386,6 +4390,7 @@ address=/newsbreak.com/#
 address=/newscgp.com/#
 address=/newscred.com/#
 address=/newsinc.com/#
+address=/newsroom.bi/#
 address=/stats.newsweek.com/#
 address=/track.newtomoney.com/#
 address=/nex8.net/#
@@ -4559,6 +4564,7 @@ address=/tt.onthe.io/#
 address=/ontoplist.com/#
 address=/ontraport.com/#
 address=/onwardfertilizerlinger.com/#
+address=/ads.ookbee.net/#
 address=/tagger.opecloud.com/#
 address=/openair.pw/#
 address=/openli.com/#
@@ -4718,6 +4724,7 @@ address=/track.pcgh.io/#
 address=/pchelpsoft.com/#
 address=/smetrics.pcid.ca/#
 address=/smetrics.pcoptimum.ca/#
+address=/pcrl.co/#
 address=/smetrics.pearlevision.com/#
 address=/peer39.com/#
 address=/analytics.penaten.de/#
@@ -4762,6 +4769,7 @@ address=/photorank.me/#
 address=/phunware.com/#
 address=/metrics.pico.tools/#
 address=/adsdk.picooapps.com/#
+address=/picreel.com/#
 address=/analytics.picsart.com/#
 address=/pictela.net/#
 address=/piksel.com/#
@@ -4882,6 +4890,7 @@ address=/schemea.prinit.net/#
 address=/privacity.se/#
 address=/privacytrck.com/#
 address=/privy.com/#
+address=/privymktg.com/#
 address=/prmtracking3.com/#
 address=/prmutv.co/#
 address=/prnx.net/#
@@ -5032,6 +5041,7 @@ address=/log.wtlogin.qq.com/#
 address=/wxs.qq.com/#
 address=/ysdk.qq.com/#
 address=/qrlsx.com/#
+address=/qualaroo.com/#
 address=/siteintercept.qualtrics.com/#
 address=/quantcount.com/#
 address=/quantserve.com/#
@@ -5197,6 +5207,7 @@ address=/rexadvert.xyz/#
 address=/reyden-x.com/#
 address=/analytics.reyrey.net/#
 address=/rezync.com/#
+address=/ad.eu.rf-group.org/#
 address=/rfihub.com/#
 address=/rfihub.net/#
 address=/rfrl.pw/#
@@ -6253,7 +6264,7 @@ address=/tremorhub.com/#
 address=/tremormedia.com/#
 address=/trendcounter.com/#
 address=/trendmd.com/#
-address=/analytics.tresensa.com/#
+address=/tresensa.com/#
 address=/trialfire.com/#
 address=/trialpay.com/#
 address=/tribalfusion.com/#
@@ -6563,7 +6574,7 @@ address=/visenze.com/#
 address=/visilabs.net/#
 address=/visistat.com/#
 address=/visitor-analytics.io/#
-address=/t.visitorqueue.com/#
+address=/visitorqueue.com/#
 address=/visitstats.com/#
 address=/gtrack.visualchase.com/#
 address=/visualrevenue.com/#
@@ -6621,6 +6632,7 @@ address=/was.vodafone.de/#
 address=/vogulprecast.com/#
 address=/voiceads.cn/#
 address=/voicefive.com/#
+address=/volotras.ru/#
 address=/voltn.com/#
 address=/voluum.com/#
 address=/voluumtrk.com/#

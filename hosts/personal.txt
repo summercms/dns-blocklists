@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 05 Dez 2022 18:47 UTC
-# Version: 2022.1205.1847.42
+# Last modified: 06 Dez 2022 01:19 UTC
+# Version: 2022.1206.0119.54
 # Syntax: Hosts
-# Domains: 13970
+# Domains: 13996
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -2594,6 +2594,8 @@
 0.0.0.0 boredcrown.com
 0.0.0.0 borrelioseweb.de
 0.0.0.0 www.borrelioseweb.de
+0.0.0.0 borrowdefeat.com
+0.0.0.0 www.borrowdefeat.com
 0.0.0.0 borrowedculture.com
 0.0.0.0 www.borrowedculture.com
 0.0.0.0 smetrics.boston.com
@@ -3246,6 +3248,7 @@
 0.0.0.0 marketo.clearbit.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 www.clearbit.com
+0.0.0.0 clearbitjs.com
 0.0.0.0 clearbitscripts.com
 0.0.0.0 www.clearbitscripts.com
 0.0.0.0 clearcode.cc
@@ -5795,6 +5798,8 @@
 0.0.0.0 goroost.com
 0.0.0.0 gortova.ru
 0.0.0.0 www.gortova.ru
+0.0.0.0 goshita.ru
+0.0.0.0 www.goshita.ru
 0.0.0.0 gosquared.com
 0.0.0.0 www.gosquared.com
 0.0.0.0 gostats.com
@@ -6021,6 +6026,7 @@
 0.0.0.0 www.hellosmpl.com
 0.0.0.0 helloworld.com
 0.0.0.0 www.helloworld.com
+0.0.0.0 hstats.hepsiburada.com
 0.0.0.0 smetrics.herbalife.com
 0.0.0.0 adv.herocraft.com
 0.0.0.0 essential-apps-analytics.herokuapp.com
@@ -6171,6 +6177,7 @@
 0.0.0.0 hostedprebid.com
 0.0.0.0 www.hostedprebid.com
 0.0.0.0 hoster-test.ru
+0.0.0.0 www.hoster-test.ru
 0.0.0.0 hot-mob.com
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 cdn.hot-mob.com
@@ -8878,6 +8885,8 @@
 0.0.0.0 www.newscred.com
 0.0.0.0 newsinc.com
 0.0.0.0 www.newsinc.com
+0.0.0.0 newsroom.bi
+0.0.0.0 www.newsroom.bi
 0.0.0.0 stats.newsweek.com
 0.0.0.0 track.newtomoney.com
 0.0.0.0 nex8.net
@@ -9178,6 +9187,7 @@
 0.0.0.0 www.ontraport.com
 0.0.0.0 onwardfertilizerlinger.com
 0.0.0.0 www.onwardfertilizerlinger.com
+0.0.0.0 ads.ookbee.net
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 adalliance.tagger.opecloud.com
 0.0.0.0 openair.pw
@@ -9455,6 +9465,8 @@
 0.0.0.0 www.pchelpsoft.com
 0.0.0.0 smetrics.pcid.ca
 0.0.0.0 smetrics.pcoptimum.ca
+0.0.0.0 pcrl.co
+0.0.0.0 www.pcrl.co
 0.0.0.0 smetrics.pearlevision.com
 0.0.0.0 peer39.com
 0.0.0.0 www.peer39.com
@@ -9543,6 +9555,8 @@
 0.0.0.0 www.phunware.com
 0.0.0.0 metrics.pico.tools
 0.0.0.0 adsdk.picooapps.com
+0.0.0.0 picreel.com
+0.0.0.0 www.picreel.com
 0.0.0.0 analytics.picsart.com
 0.0.0.0 pictela.net
 0.0.0.0 www.pictela.net
@@ -9750,6 +9764,8 @@
 0.0.0.0 events.privy.com
 0.0.0.0 widget.privy.com
 0.0.0.0 www.privy.com
+0.0.0.0 privymktg.com
+0.0.0.0 www.privymktg.com
 0.0.0.0 prmtracking3.com
 0.0.0.0 www.prmtracking3.com
 0.0.0.0 prmutv.co
@@ -10036,6 +10052,8 @@
 0.0.0.0 wxs.qq.com
 0.0.0.0 ysdk.qq.com
 0.0.0.0 qrlsx.com
+0.0.0.0 qualaroo.com
+0.0.0.0 www.qualaroo.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 quantcount.com
 0.0.0.0 assets.quantcount.com
@@ -10365,6 +10383,7 @@
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 rezync.com
 0.0.0.0 live.rezync.com
+0.0.0.0 ad.eu.rf-group.org
 0.0.0.0 rfihub.com
 0.0.0.0 rfihub.net
 0.0.0.0 20738914p.rfihub.com
@@ -10720,6 +10739,7 @@
 0.0.0.0 sddan.com
 0.0.0.0 www.sddan.com
 0.0.0.0 sdkconfig.site
+0.0.0.0 www.sdkconfig.site
 0.0.0.0 se05.biz
 0.0.0.0 www.se05.biz
 0.0.0.0 se07.biz
@@ -12457,7 +12477,9 @@
 0.0.0.0 www.trendcounter.com
 0.0.0.0 trendmd.com
 0.0.0.0 www.trendmd.com
+0.0.0.0 tresensa.com
 0.0.0.0 analytics.tresensa.com
+0.0.0.0 www.tresensa.com
 0.0.0.0 trialfire.com
 0.0.0.0 www.trialfire.com
 0.0.0.0 trialpay.com
@@ -13135,7 +13157,9 @@
 0.0.0.0 www.visistat.com
 0.0.0.0 visitor-analytics.io
 0.0.0.0 www.visitor-analytics.io
+0.0.0.0 visitorqueue.com
 0.0.0.0 t.visitorqueue.com
+0.0.0.0 www.visitorqueue.com
 0.0.0.0 visitstats.com
 0.0.0.0 www.visitstats.com
 0.0.0.0 gtrack.visualchase.com
@@ -13215,6 +13239,8 @@
 0.0.0.0 voicefive.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 www.voicefive.com
+0.0.0.0 volotras.ru
+0.0.0.0 www.volotras.ru
 0.0.0.0 voltn.com
 0.0.0.0 www.voltn.com
 0.0.0.0 voluum.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 05 Dez 2022 18:47 UTC
-# Version: 2022.1205.1847.42
+# Last modified: 06 Dez 2022 01:19 UTC
+# Version: 2022.1206.0119.54
 # Syntax: Domains
-# Domains: 13970
+# Domains: 13996
 #
 000webhost.com
 www.000webhost.com
@@ -2594,6 +2594,8 @@ smetrics.boostmobile.com
 boredcrown.com
 borrelioseweb.de
 www.borrelioseweb.de
+borrowdefeat.com
+www.borrowdefeat.com
 borrowedculture.com
 www.borrowedculture.com
 smetrics.boston.com
@@ -3246,6 +3248,7 @@ ga.clearbit.com
 marketo.clearbit.com
 reveal.clearbit.com
 www.clearbit.com
+clearbitjs.com
 clearbitscripts.com
 www.clearbitscripts.com
 clearcode.cc
@@ -5795,6 +5798,8 @@ www.gorillanation.com
 goroost.com
 gortova.ru
 www.gortova.ru
+goshita.ru
+www.goshita.ru
 gosquared.com
 www.gosquared.com
 gostats.com
@@ -6021,6 +6026,7 @@ hellosmpl.com
 www.hellosmpl.com
 helloworld.com
 www.helloworld.com
+hstats.hepsiburada.com
 smetrics.herbalife.com
 adv.herocraft.com
 essential-apps-analytics.herokuapp.com
@@ -6171,6 +6177,7 @@ www.hostcontent.live
 hostedprebid.com
 www.hostedprebid.com
 hoster-test.ru
+www.hoster-test.ru
 hot-mob.com
 ad.hot-mob.com
 cdn.hot-mob.com
@@ -8878,6 +8885,8 @@ newscred.com
 www.newscred.com
 newsinc.com
 www.newsinc.com
+newsroom.bi
+www.newsroom.bi
 stats.newsweek.com
 track.newtomoney.com
 nex8.net
@@ -9178,6 +9187,7 @@ ontraport.com
 www.ontraport.com
 onwardfertilizerlinger.com
 www.onwardfertilizerlinger.com
+ads.ookbee.net
 tagger.opecloud.com
 adalliance.tagger.opecloud.com
 openair.pw
@@ -9455,6 +9465,8 @@ pchelpsoft.com
 www.pchelpsoft.com
 smetrics.pcid.ca
 smetrics.pcoptimum.ca
+pcrl.co
+www.pcrl.co
 smetrics.pearlevision.com
 peer39.com
 www.peer39.com
@@ -9543,6 +9555,8 @@ phunware.com
 www.phunware.com
 metrics.pico.tools
 adsdk.picooapps.com
+picreel.com
+www.picreel.com
 analytics.picsart.com
 pictela.net
 www.pictela.net
@@ -9750,6 +9764,8 @@ assets.privy.com
 events.privy.com
 widget.privy.com
 www.privy.com
+privymktg.com
+www.privymktg.com
 prmtracking3.com
 www.prmtracking3.com
 prmutv.co
@@ -10036,6 +10052,8 @@ log.wtlogin.qq.com
 wxs.qq.com
 ysdk.qq.com
 qrlsx.com
+qualaroo.com
+www.qualaroo.com
 siteintercept.qualtrics.com
 quantcount.com
 assets.quantcount.com
@@ -10365,6 +10383,7 @@ www.reyden-x.com
 analytics.reyrey.net
 rezync.com
 live.rezync.com
+ad.eu.rf-group.org
 rfihub.com
 rfihub.net
 20738914p.rfihub.com
@@ -10720,6 +10739,7 @@ smetrics.sdcvisit.com
 sddan.com
 www.sddan.com
 sdkconfig.site
+www.sdkconfig.site
 se05.biz
 www.se05.biz
 se07.biz
@@ -12457,7 +12477,9 @@ trendcounter.com
 www.trendcounter.com
 trendmd.com
 www.trendmd.com
+tresensa.com
 analytics.tresensa.com
+www.tresensa.com
 trialfire.com
 www.trialfire.com
 trialpay.com
@@ -13135,7 +13157,9 @@ visistat.com
 www.visistat.com
 visitor-analytics.io
 www.visitor-analytics.io
+visitorqueue.com
 t.visitorqueue.com
+www.visitorqueue.com
 visitstats.com
 www.visitstats.com
 gtrack.visualchase.com
@@ -13215,6 +13239,8 @@ www.voiceads.cn
 voicefive.com
 sb.voicefive.com
 www.voicefive.com
+volotras.ru
+www.volotras.ru
 voltn.com
 www.voltn.com
 voluum.com
