@@ -1,6 +1,6 @@
 !
 ! Title: HaGeZi's Personal/Fake Black- & Whitelist(+referral)
-! Last modified: 2022-12-05T18:50:13.252Z
+! Last modified: 2022-12-06T04:16:12.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12,10 +12,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 Dez 2022 18:47 UTC
-! Version: 2022.1205.1847.42
+! Last modified: 06 Dez 2022 01:19 UTC
+! Version: 2022.1206.0119.54
 ! Syntax: AdBlock
-! Domains: 7048
+! Domains: 7060
 !
 ||000webhost.com^
 ||000webhostapp.com^
@@ -1222,6 +1222,7 @@
 ||smetrics.boostmobile.com^
 ||boredcrown.com^
 ||borrelioseweb.de^
+||borrowdefeat.com^
 ||borrowedculture.com^
 ||smetrics.boston.com^
 ||smetrics.bostonglobe.com^
@@ -1489,6 +1490,7 @@
 ||clean.gg^
 ||clear-reports.com^
 ||clearbit.com^
+||clearbitjs.com^
 ||clearbitscripts.com^
 ||clearcode.cc^
 ||clenchedyouthmatching.com^
@@ -2900,6 +2902,7 @@
 ||gorillanation.com^
 ||goroost.com^
 ||gortova.ru^
+||goshita.ru^
 ||gosquared.com^
 ||gostats.com^
 ||gothamads.com^
@@ -3023,6 +3026,7 @@
 ||hellobar.com^
 ||hellosmpl.com^
 ||helloworld.com^
+||hstats.hepsiburada.com^
 ||smetrics.herbalife.com^
 ||adv.herocraft.com^
 ||essential-apps-analytics.herokuapp.com^
@@ -4394,6 +4398,7 @@
 ||newscgp.com^
 ||newscred.com^
 ||newsinc.com^
+||newsroom.bi^
 ||stats.newsweek.com^
 ||track.newtomoney.com^
 ||nex8.net^
@@ -4567,6 +4572,7 @@
 ||ontoplist.com^
 ||ontraport.com^
 ||onwardfertilizerlinger.com^
+||ads.ookbee.net^
 ||tagger.opecloud.com^
 ||openair.pw^
 ||openli.com^
@@ -4726,6 +4732,7 @@
 ||pchelpsoft.com^
 ||smetrics.pcid.ca^
 ||smetrics.pcoptimum.ca^
+||pcrl.co^
 ||smetrics.pearlevision.com^
 ||peer39.com^
 ||analytics.penaten.de^
@@ -4770,6 +4777,7 @@
 ||phunware.com^
 ||metrics.pico.tools^
 ||adsdk.picooapps.com^
+||picreel.com^
 ||analytics.picsart.com^
 ||pictela.net^
 ||piksel.com^
@@ -4890,6 +4898,7 @@
 ||privacity.se^
 ||privacytrck.com^
 ||privy.com^
+||privymktg.com^
 ||prmtracking3.com^
 ||prmutv.co^
 ||prnx.net^
@@ -5040,6 +5049,7 @@
 ||wxs.qq.com^
 ||ysdk.qq.com^
 ||qrlsx.com^
+||qualaroo.com^
 ||siteintercept.qualtrics.com^
 ||quantcount.com^
 ||quantserve.com^
@@ -5205,6 +5215,7 @@
 ||reyden-x.com^
 ||analytics.reyrey.net^
 ||rezync.com^
+||ad.eu.rf-group.org^
 ||rfihub.com^
 ||rfihub.net^
 ||rfrl.pw^
@@ -6261,7 +6272,7 @@
 ||tremormedia.com^
 ||trendcounter.com^
 ||trendmd.com^
-||analytics.tresensa.com^
+||tresensa.com^
 ||trialfire.com^
 ||trialpay.com^
 ||tribalfusion.com^
@@ -6571,7 +6582,7 @@
 ||visilabs.net^
 ||visistat.com^
 ||visitor-analytics.io^
-||t.visitorqueue.com^
+||visitorqueue.com^
 ||visitstats.com^
 ||gtrack.visualchase.com^
 ||visualrevenue.com^
@@ -6629,6 +6640,7 @@
 ||vogulprecast.com^
 ||voiceads.cn^
 ||voicefive.com^
+||volotras.ru^
 ||voltn.com^
 ||voluum.com^
 ||voluumtrk.com^
@@ -15107,6 +15119,9 @@
 
 ! C99's API Service
 @@|api.c99.nl^
+
+! Breaks apis and services - e.g. imprint won't load: https://www.cyprianerhof.com/credits/impressum
+@@|bnamic.com^
 
 !
 ! Source name: HaGeZi's Referral White-/Allowlist
