@@ -32,7 +32,7 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 321614<br>146620     | |   |   | = | X | P | X |
+| [Light](#light)             | 323776<br>148194     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 1159085<br>318192     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1276938<br>391954         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1374743<br>433960 | | ++ | X | X | X | P |  X |
@@ -48,7 +48,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *321614 domains/hosts - 146620 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *323776 domains/hosts - 148194 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -260,7 +260,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *3040 domains/hosts - 2101 compressed domains*
+**Entries:** *28260 domains/hosts - 21439 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
