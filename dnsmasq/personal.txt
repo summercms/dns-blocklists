@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 00:20 UTC
-# Version: 2022.1207.0020.47
+# Last modified: 07 Dez 2022 08:58 UTC
+# Version: 2022.1207.0858.10
 # Syntax: DNSMasq
-# Domains: 2095
+# Domains: 2101
 #
 address=/1-1ads.com/#
 address=/1010data.com/#
@@ -610,6 +610,7 @@ address=/grs.platform.dbankcloud.ru/#
 address=/logservice-dre.platform.dbankcloud.cn/#
 address=/openlocation-drcn.platform.dbankcloud.com/#
 address=/ddjiayou.cn/#
+address=/ddlmob.com/#
 address=/rushrally3-statistics.ddns.net/#
 address=/dealer.com/#
 address=/analytics.dealmoon.com/#
@@ -721,6 +722,7 @@ address=/empower.net/#
 address=/enigmasoftware.com/#
 address=/enrichyummy.com/#
 address=/epagogerepines.com/#
+address=/statsproxy-public-service-live.ol.epicgames.com/#
 address=/trackers.peerius.episerver.net/#
 address=/eprize.com/#
 address=/smetrics.equitable.com/#
@@ -1000,6 +1002,7 @@ address=/metrics.icloud.com/#
 address=/system-lexoffice.identify-cmd.de/#
 address=/idevaffiliate.com/#
 address=/analytics.idfnet.net/#
+address=/idg.com/#
 address=/idqqimg.com/#
 address=/igodigital.com/#
 address=/tracking.igs-logistics.de/#
@@ -1029,6 +1032,7 @@ address=/inmobiapis.com/#
 address=/innertrends.com/#
 address=/inq.com/#
 address=/analytics.insendi.com/#
+address=/insgly.net/#
 address=/smetrics.insight.com/#
 address=/inspectlet.io/#
 address=/hermes-us.inspidspad.com/#
@@ -1274,7 +1278,6 @@ address=/monetizer.com/#
 address=/ivwtracking.mopo.de/#
 address=/mopub.com/#
 address=/smetrics.mounjaro.com/#
-address=/mountain.com/#
 address=/p-cg64-slinganalytics.movetv.com/#
 address=/analytics.moviepilot.de/#
 address=/smetrics.moving.com/#
@@ -1300,6 +1303,7 @@ address=/analytics.myhermes.de/#
 address=/mymarketingreports.com/#
 address=/sanalytics.myspreadshop.de/#
 address=/sanalytics.myspreadshop.net/#
+address=/myswitchads.com/#
 address=/tracking.myzufall.de/#
 address=/dzc-metrics.mzstatic.com/#
 address=/metrics.mzstatic.com/#
@@ -1369,6 +1373,7 @@ address=/affiliate.oliverclick.com/#
 address=/omessage.com/#
 address=/cdn.ometria.com/#
 address=/trk.ometria.com/#
+address=/omgt1.com/#
 address=/omgt3.com/#
 address=/hb.omtrdc.net/#
 address=/nbcume.hb-api.omtrdc.net/#
@@ -2020,7 +2025,6 @@ address=/count.wenxuecity.com/#
 address=/pixel.wenxuecity.com/#
 address=/smetrics.westelm.com/#
 address=/smetrics.westernunion.com/#
-address=/btrace.wetvinfo.com/#
 address=/mtrace.wetvinfo.com/#
 address=/clog.weverse.io/#
 address=/wgplayer.com/#
@@ -2073,11 +2077,13 @@ address=/mc.yandex.ru/#
 address=/startup.mobile.yandex.net/#
 address=/tracking.ott.yandex.net/#
 address=/startup-mobile.ap.yandex-net.ru/#
+address=/ybsitecenter.com/#
 address=/analytics.ycdn.de/#
 address=/tracks.yclients.com/#
 address=/yeahdsp.com/#
 address=/yesware.com/#
 address=/realtimeanalytics.yext.com/#
+address=/ads.yimg.com/#
 address=/analytics.yinxiang.com/#
 address=/analytics.yiyouliao.com/#
 address=/ykvlen.com/#

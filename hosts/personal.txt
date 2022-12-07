@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 00:20 UTC
-# Version: 2022.1207.0020.47
+# Last modified: 07 Dez 2022 08:58 UTC
+# Version: 2022.1207.0858.10
 # Syntax: Hosts
-# Domains: 3031
+# Domains: 3040
 #
 0.0.0.0 1-1ads.com
 0.0.0.0 www.1-1ads.com
@@ -891,6 +891,8 @@
 0.0.0.0 puz.ddjiayou.cn
 0.0.0.0 tadata.ddjiayou.cn
 0.0.0.0 www.ddjiayou.cn
+0.0.0.0 ddlmob.com
+0.0.0.0 www.ddlmob.com
 0.0.0.0 rushrally3-statistics.ddns.net
 0.0.0.0 dealer.com
 0.0.0.0 www.dealer.com
@@ -1049,6 +1051,7 @@
 0.0.0.0 enrichyummy.com
 0.0.0.0 www.enrichyummy.com
 0.0.0.0 epagogerepines.com
+0.0.0.0 statsproxy-public-service-live.ol.epicgames.com
 0.0.0.0 trackers.peerius.episerver.net
 0.0.0.0 eprize.com
 0.0.0.0 www.eprize.com
@@ -1424,6 +1427,8 @@
 0.0.0.0 idevaffiliate.com
 0.0.0.0 www.idevaffiliate.com
 0.0.0.0 analytics.idfnet.net
+0.0.0.0 idg.com
+0.0.0.0 www.idg.com
 0.0.0.0 idqqimg.com
 0.0.0.0 igodigital.com
 0.0.0.0 www.igodigital.com
@@ -1464,6 +1469,7 @@
 0.0.0.0 www.innertrends.com
 0.0.0.0 inq.com
 0.0.0.0 analytics.insendi.com
+0.0.0.0 insgly.net
 0.0.0.0 smetrics.insight.com
 0.0.0.0 inspectlet.io
 0.0.0.0 www.inspectlet.io
@@ -1830,8 +1836,6 @@
 0.0.0.0 mopub.com
 0.0.0.0 www.mopub.com
 0.0.0.0 smetrics.mounjaro.com
-0.0.0.0 mountain.com
-0.0.0.0 www.mountain.com
 0.0.0.0 p-cg64-slinganalytics.movetv.com
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 smetrics.moving.com
@@ -1870,6 +1874,8 @@
 0.0.0.0 www.mymarketingreports.com
 0.0.0.0 sanalytics.myspreadshop.de
 0.0.0.0 sanalytics.myspreadshop.net
+0.0.0.0 myswitchads.com
+0.0.0.0 www.myswitchads.com
 0.0.0.0 tracking.myzufall.de
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
@@ -1965,6 +1971,7 @@
 0.0.0.0 www.omessage.com
 0.0.0.0 cdn.ometria.com
 0.0.0.0 trk.ometria.com
+0.0.0.0 omgt1.com
 0.0.0.0 omgt3.com
 0.0.0.0 hb.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
@@ -2932,7 +2939,6 @@
 0.0.0.0 pixel.wenxuecity.com
 0.0.0.0 smetrics.westelm.com
 0.0.0.0 smetrics.westernunion.com
-0.0.0.0 btrace.wetvinfo.com
 0.0.0.0 mtrace.wetvinfo.com
 0.0.0.0 clog.weverse.io
 0.0.0.0 wgplayer.com
@@ -2996,6 +3002,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 tracking.ott.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 ybsitecenter.com
+0.0.0.0 www.ybsitecenter.com
 0.0.0.0 analytics.ycdn.de
 0.0.0.0 tracks.yclients.com
 0.0.0.0 yeahdsp.com
@@ -3003,6 +3011,7 @@
 0.0.0.0 yesware.com
 0.0.0.0 www.yesware.com
 0.0.0.0 realtimeanalytics.yext.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 analytics.yinxiang.com
 0.0.0.0 analytics.yiyouliao.com
 0.0.0.0 ykvlen.com

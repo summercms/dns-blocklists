@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 00:20 UTC
-# Version: 2022.1207.0020.47
+# Last modified: 07 Dez 2022 08:58 UTC
+# Version: 2022.1207.0858.10
 # Syntax: Domains
-# Domains: 3031
+# Domains: 3040
 #
 1-1ads.com
 www.1-1ads.com
@@ -891,6 +891,8 @@ ddjiayou.cn
 puz.ddjiayou.cn
 tadata.ddjiayou.cn
 www.ddjiayou.cn
+ddlmob.com
+www.ddlmob.com
 rushrally3-statistics.ddns.net
 dealer.com
 www.dealer.com
@@ -1049,6 +1051,7 @@ www.enigmasoftware.com
 enrichyummy.com
 www.enrichyummy.com
 epagogerepines.com
+statsproxy-public-service-live.ol.epicgames.com
 trackers.peerius.episerver.net
 eprize.com
 www.eprize.com
@@ -1424,6 +1427,8 @@ system-lexoffice.identify-cmd.de
 idevaffiliate.com
 www.idevaffiliate.com
 analytics.idfnet.net
+idg.com
+www.idg.com
 idqqimg.com
 igodigital.com
 www.igodigital.com
@@ -1464,6 +1469,7 @@ innertrends.com
 www.innertrends.com
 inq.com
 analytics.insendi.com
+insgly.net
 smetrics.insight.com
 inspectlet.io
 www.inspectlet.io
@@ -1830,8 +1836,6 @@ ivwtracking.mopo.de
 mopub.com
 www.mopub.com
 smetrics.mounjaro.com
-mountain.com
-www.mountain.com
 p-cg64-slinganalytics.movetv.com
 analytics.moviepilot.de
 smetrics.moving.com
@@ -1870,6 +1874,8 @@ mymarketingreports.com
 www.mymarketingreports.com
 sanalytics.myspreadshop.de
 sanalytics.myspreadshop.net
+myswitchads.com
+www.myswitchads.com
 tracking.myzufall.de
 dzc-metrics.mzstatic.com
 metrics.mzstatic.com
@@ -1965,6 +1971,7 @@ omessage.com
 www.omessage.com
 cdn.ometria.com
 trk.ometria.com
+omgt1.com
 omgt3.com
 hb.omtrdc.net
 cbsinteractive.hb.omtrdc.net
@@ -2932,7 +2939,6 @@ count.wenxuecity.com
 pixel.wenxuecity.com
 smetrics.westelm.com
 smetrics.westernunion.com
-btrace.wetvinfo.com
 mtrace.wetvinfo.com
 clog.weverse.io
 wgplayer.com
@@ -2996,6 +3002,8 @@ mc.yandex.ru
 startup.mobile.yandex.net
 tracking.ott.yandex.net
 startup-mobile.ap.yandex-net.ru
+ybsitecenter.com
+www.ybsitecenter.com
 analytics.ycdn.de
 tracks.yclients.com
 yeahdsp.com
@@ -3003,6 +3011,7 @@ www.yeahdsp.com
 yesware.com
 www.yesware.com
 realtimeanalytics.yext.com
+ads.yimg.com
 analytics.yinxiang.com
 analytics.yiyouliao.com
 ykvlen.com
