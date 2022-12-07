@@ -21,14 +21,27 @@ kinesis.*.amazonaws.com
 s3.amazonaws.com
 
 # Amazon Devices
+# d3p8zr0ffa9t17.cloudfront.net
+# device-metrics-us-2.amazon.com
+# device-metrics-us.amazon.com
 acsechocaptiveportal.com
 avs-alexa*.amazon.com
+dxz5jxhrrzigf.cloudfront.net
 msh.amazon.co.uk
+web.diagnostic.networking.aws.dev
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-ext.amazon.com
 
 # Amazon Shopping
 *.images-amazon.com
+aax*.amazon-adsystem.com
+aax*.amazon.co.uk
+aax*.amazon.com
+aax*.amazon.de
+aax*.amazon.es
+aax*.amazon.fr
+aax*.amazon.in
+aax*.amazon.it
 c.amazon-adsystem.com
 dp-gw-*.amazon.com
 fls-*.amazon-adsystem.com
@@ -50,8 +63,8 @@ fls-*.amazon.nl
 fls-*.amazon.sa
 fls-*.amazon.se
 fls-*.amazon.sg
-rcm-*.amazon.de
 rcm-*.amazon.com
+rcm-*.amazon.de
 unagi-*.amazon.com
 unagi.amazon.cn
 unagi.amazon.co.jp
@@ -70,16 +83,16 @@ unagi.amazon.it
 # endpoint.prod.*.forester.a2z.com
 
 # Amazon Video
-aiv-cdn.net
-aiv-cdn.net.c.footprint.net
-aiv-delivery.net
-amazonvideo.com
-atv-ext*.amazon.com
-atv-ps.amazon.com
-d25xi40x97liuc.cloudfront.net
-dmqdd6hw24ucf.cloudfront.net
-primevideo.com
-pv-cdn.net
+*.aiv-cdn.net
+*.aiv-cdn.net.c.footprint.net
+*.aiv-delivery.net
+*.amazonvideo.com
+*.atv-ext-*.amazon.com
+*.atv-ext.amazon.com
+*.atv-ps.amazon.com
+*.primevideo.com
+*.pv-cdn.net
+# *.video.a2z.com
 
 # Apple
 # https://support.apple.com/en-us/HT210060
@@ -121,22 +134,22 @@ cdn.cloudflare.net
 cdnjs.cloudflare.co
 
 # Discord
-discord.com
-discord.gg
-discord.media
-discordapp.com
-discordapp.net
-discordstatus.com
+*.discord.com
+*.discord.gg
+*.discord.media
+*.discordapp.com
+*.discordapp.net
+*.discordstatus.com
 
 # Disney+
 disney-plus.net
 disneyplus.com
 # disneyplus.com.ssl.sc.omtrdc.net
-dss.map.fastly.net
-dssott.com
-dssott.com.akamaized.net
-search-api-disney.bamgrid.com
-cd-dmgz.bamgrid.com
+*.dss.map.fastly.net
+*.dssott.com
+*.dssott.com.akamaized.net
+*.search-api-disney.bamgrid.com
+*.cd-dmgz.bamgrid.com
 dvf2rc3rx4ypk.cloudfront.net
 
 # Disqus
@@ -166,13 +179,13 @@ web.facebook.com
 *.fbcdn.net
 
 # Github
-ghcr.io
-github.com
-github.io
-github.map.fastly.net
-githubapp.com
-githubassets.com
-gitlab.com
+*.ghcr.io
+*.github.com
+*.github.io
+*.github.map.fastly.net
+*.githubapp.com
+*.githubassets.com
+*.gitlab.com
 githubusercontent.com
 raw.githubusercontent.com
 
@@ -298,10 +311,11 @@ secure.netflix.com
 # Nintendo Switch
 nintendo.com
 nintendo.net
-nintendowifi.net
+*.nintendowifi.net
 a1843.g.akamai.net
 
 # NVidia
+*.nvgs.nvidia.cn
 activation.gfe.nvidia.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
@@ -318,34 +332,34 @@ paypalobjects.com
 
 # Sony (Playstation)
 playstation.com
-playstation.com.edgekey.net
+*.playstation.com.edgekey.net
 # playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
-playstation.net.edgekey88.net
-sonycoment.loris-e.llnwd.net
-sonyentertainmentnetwork.com
-sonyjpnpsg-1.hs.llnwd.net
+*.playstation.net.edgekey88.net
+*.sonycoment.loris-e.llnwd.net
+*.sonyentertainmentnetwork.com
+*.sonyjpnpsg-1.hs.llnwd.net
 
 # Steam
-s.team
-steam-chat.com
-steambroadcast.akamaized.net
-steamcdn-a.akamaihd.net
-steamchina.com
-steamcommunity-a.akamaihd.net
-steamcommunity.com
-steamcontent.com
-steamgames.com
-steampowered.com
-steampowered.com.8686c.com
-steamstatic.com
-steamstatic.com.8686c.com
-steamstore-a.akamaihd.net
-steamusercontent-a.akamaihd.net
-steamusercontent.com
-steamuserimages-a.akamaihd.net
-steamvideo-a.akamaihd.net
-valvesoftware.com
+*.s.team
+*.steam-chat.com
+*.steambroadcast.akamaized.net
+*.steamcdn-a.akamaihd.net
+*.steamchina.com
+*.steamcommunity-a.akamaihd.net
+*.steamcommunity.com
+*.steamcontent.com
+*.steamgames.com
+*.steampowered.com
+*.steampowered.com.8686c.com
+*.steamstatic.com
+*.steamstatic.com.8686c.com
+*.steamstore-a.akamaihd.net
+*.steamusercontent-a.akamaihd.net
+*.steamusercontent.com
+*.steamuserimages-a.akamaihd.net
+*.steamvideo-a.akamaihd.net
+*.valvesoftware.com
 
 # Signal
 signal.org
@@ -463,13 +477,16 @@ whatsappbrand.com
 
 # XBox
 xbox.com
-xboxab.com
-xboxab.net
-xboxlive.com
-xboxlive.com.akadns.net
-xboxlive.com.c.footprint.net
-xboxlive.com.edgekey.net
-xboxservices.com
+*.xboxab.com
+*.xboxab.net
+*.xboxlive.com
+*.xboxlive.com.akadns.net
+*.xboxlive.com.c.footprint.net
+*.xboxlive.com.edgekey.net
+*.xboxservices.com
+
+# Xiaomi device updates
+*.update.intl.miui.com
 
 # Youtube
 *.googlevideo.com
@@ -481,6 +498,11 @@ s.ytimg.com
 s2.youtube.com
 youtu.be
 youtube-nocookie.com
+
+# Zoom
+logfiles.zoom.us
+us04logfiles.zoom.us
+us04zpns.zoom.us
 
 # -----------------------------------------------------------------------
 
@@ -1473,8 +1495,9 @@ tyk.io
 ecosia.de
 
 # Portainer
+*.scarf.sh
 cr.portainer.io
-gateway.scarf.sh
+# gateway.scarf.sh
 
 # Microsoft Edge
 microsoftedgewelcome.microsoft.com
@@ -1705,6 +1728,9 @@ cdn.split.io
 # events.split.io
 sdk.split.io
 
+# Used by Origin for content delivery and others
+*.cdn*.optimizely.com
+
 # https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 appsumo.com
 
@@ -1871,8 +1897,9 @@ hsbc.com.au
 *.microsoftstoreemail.com
 
 # Images in Mails - DHL, …
-lforr.elainelfo.net
+imgs.elaine-asp.de
 lforr.elaine-asp.de
+lforr.elainelfo.net
 
 # https://github.com/hagezi/dns-blocklists/issues/87
 dns.digitale-gesellschaft.ch
@@ -1904,4 +1931,16 @@ tag.search.sensefuel.live
 
 # Disney+ Asia will show a No Internet Connection banner
 bifrost-api.hotstar.com
+
+# Epic Games Launcher
+eulatracking-public-service-*.ol.epicgames.com
+
+# Chick-Fil-A App 
+*.tmetrix.my.chick-fil-a.com
+
+# Imgur 
+js.media-lab.ai
+
+# Men's Health videos
+glimmer.hearstapps.com
 
