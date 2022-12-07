@@ -68118,7 +68118,6 @@
 *.hseqserver.com
 *.hsequniversal.com
 *.hsfejwlnt.com
-*.hsforms.com
 *.hsgdyq.com
 *.hsk-bessel.de
 *.hskj.net

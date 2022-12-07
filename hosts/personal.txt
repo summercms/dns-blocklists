@@ -13104,7 +13104,6 @@
 0.0.0.0 cdntm.us.hsbc.com
 0.0.0.0 hscollectedforms.net
 0.0.0.0 hscta.net
-0.0.0.0 hsforms.com
 0.0.0.0 hskwq.com
 0.0.0.0 hsleadflows.net
 0.0.0.0 refer.hsn.com

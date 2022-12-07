@@ -10079,7 +10079,6 @@ address=/hsadspixel.net/#
 address=/cdntm.us.hsbc.com/#
 address=/hscollectedforms.net/#
 address=/hscta.net/#
-address=/hsforms.com/#
 address=/hskwq.com/#
 address=/hsleadflows.net/#
 address=/refer.hsn.com/#
