@@ -29,7 +29,7 @@
 ! ---- White -----
 
 ! Referral/Email links
-@@/^click\.[a-z0-9\-]*\./
+@@/^clicks?\.[a-z0-9\-]*\./
 @@/^e?mail(\-[a-z0-9]*)?\.[a-z0-9\-]*\./
 @@/^go(to)?\.[a-z0-9\-]*\./
 @@/^(news)?links?\.[a-z0-9\-]*\./
