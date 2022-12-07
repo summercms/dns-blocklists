@@ -33,10 +33,10 @@
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
 | [Light](#light)             | 321614<br>146620     | |   |   | = | X | P | X |
-| [Normal](#normal)       | 1159087<br>318193     | |   | = | X | X | P | X |
-| [Pro](#pro)              | 1276940<br>391955         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1374746<br>433961 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 1707549<br>558028 | ++ | X | X | X | X | X |  X |
+| [Normal](#normal)       | 1159085<br>318192     | |   | = | X | X | P | X |
+| [Pro](#pro)              | 1276938<br>391954         | | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1374743<br>433960 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 1684057<br>557968 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -63,7 +63,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1159087 domains/hosts - 318193 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1159085 domains/hosts - 318192 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -78,7 +78,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1276940 domains/hosts - 391955 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1276938 domains/hosts - 391954 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -95,7 +95,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1374746 domains/hosts - 433961 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1374743 domains/hosts - 433960 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -112,13 +112,13 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1707549 domains/hosts - 558028 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *1684057 domains/hosts - 557968 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
 | Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
-| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) | ~~AdGuard~~ (oversized, limited to 535000 rules!), AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/ultimate.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/ultimate.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) | DNSCrypt, DNSCloak, YogaDNS, ...  |
@@ -148,13 +148,13 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!*** <a name="tif"></a>
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *663050 domains/hosts - 353768 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
+**Entries:** *663048 domains/hosts - 353767 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
 | Domains  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist | 
 | Hosts    | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) | PiHole, Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard              |
-| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) | ~~AdGuard~~ (oversized, limited to 535000 rules!), AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Adblock  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
 | Unbound  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/tif.blacklist.conf) | Unbound                                                              |
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
@@ -334,7 +334,9 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 | Profile    | Blocklists                                                                                    |
 |:-----------|:----------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) (coming soon!) |
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt)* |
+           
+* = Includes: Personal + Fake + Whitelist + Whitelist Referral
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 

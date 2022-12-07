@@ -37,6 +37,7 @@ ad.atdmt.com
 auto-swiat.pl
 avantlink.com
 classic.avantlink.com
+clicks.aweber.com
 www.awin1.com
 awstrack.me
 api.bam-x.com

@@ -84,6 +84,7 @@
 @@||customlinks.appsflyer.com^
 @@||ad.atdmt.com^
 @@||classic.avantlink.com^
+@@||clicks.aweber.com^
 @@||www.awin1.com^
 @@||api.bam-x.com^
 @@||click.emcom.bankofamerica.com^

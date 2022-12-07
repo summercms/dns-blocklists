@@ -426,6 +426,7 @@ vcs.vdspf.com
 heads*.spotify.com
 audio*.spotify.com
 wl.spotify.com
+# quicksilver.scdn.co
 
 # Telegram
 t.me
@@ -1943,4 +1944,15 @@ js.media-lab.ai
 
 # Men's Health videos
 glimmer.hearstapps.com
+
+# https://github.com/geoapify
+maps.geoapify.com
+
+# Streaming website
+# https://github.com/hagezi/dns-blocklists/issues/92
+vidio.com
+
+# Legit website for a garden in Malaysia
+# https://github.com/hagezi/dns-blocklists/issues/93
+tropicalspicegarden.com
 
