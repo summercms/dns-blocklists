@@ -334,9 +334,9 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 | Profile    | Blocklists                                                                                    |
 |:-----------|:----------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt)* |
+| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) |
            
-* = Includes: Personal + Fake + Whitelist + Whitelist Referral
+Black & White includes: Personal + Fake + Whitelist + Whitelist Referral
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
