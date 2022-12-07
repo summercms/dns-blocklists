@@ -334,9 +334,11 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 | Profile    | Blocklists                                                                                    |
 |:-----------|:----------------------------------------------------------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD full + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) |
+| Pro | 1Hosts (Lite) + AdGuard DNS + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) + OISD full + Notracking + StevenBlack |
            
-Black & White includes: Personal + Fake + Whitelist + Whitelist Referral
+*Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt)*
+
+*You can also import my [server settings](https://github.com/hagezi/files/tree/main/adguarddns), it contains - under the user rules - also my [RegEx rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-regex.txt).*
 
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
