@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Dez 2022 23:55 UTC
-# Version: 2022.1206.2355.17
+# Last modified: 07 Dez 2022 08:31 UTC
+# Version: 2022.1207.0831.49
 # Syntax: Domains
-# Domains: 11794
+# Domains: 11740
 #
 willhaben.at.04300.id
 11trikots.com
@@ -26,7 +26,6 @@ www.1zylinder.at
 2021bestcheaponline.com
 www.2021bestcheaponline.com
 deonline.2021dealsoutlet.com
-bests.2021salesonline.ru
 24bitcoinexchange.com
 www.24bitcoinexchange.com
 24hschlossdienst.at
@@ -743,8 +742,6 @@ autocryptooptions.online
 www.autocryptooptions.online
 autodisco.de
 www.autodisco.de
-autohausbismuth.de
-www.autohausbismuth.de
 autohobby.at
 www.autohobby.at
 autolinie.de
@@ -818,14 +815,10 @@ az-finanzmanagement.at
 www.az-finanzmanagement.at
 aztitanium.com
 www.aztitanium.com
-aztradeoption.com
-www.aztradeoption.com
 azur-teck.de
 www.azur-teck.de
 b-und-h.com
 www.b-und-h.com
-babanora.com
-www.babanora.com
 babara-mode.com
 www.babara-mode.com
 babaroni.de
@@ -851,8 +844,6 @@ badabang.de
 www.badabang.de
 badeanzugtreff.de
 www.badeanzugtreff.de
-bademoebel.net
-www.bademoebel.net
 badgyalbrand.com
 www.badgyalbrand.com
 baeckerei-huber.at
@@ -876,8 +867,6 @@ baissonw.com
 www.baissonw.com
 balance-leben.at
 www.balance-leben.at
-baledino.com
-www.baledino.com
 baleurs.de
 www.baleurs.de
 baliley.com
@@ -931,16 +920,12 @@ baseballsupplys.com
 www.baseballsupplys.com
 basefinex.com
 www.basefinex.com
-basercms.top
-www.basercms.top
 bass8.store
 www.bass8.store
 batteryzone.de
 www.batteryzone.de
 bau-profis24.de
 www.bau-profis24.de
-bau-woitec.com
-www.bau-woitec.com
 bauelemente-altotec.at
 www.bauelemente-altotec.at
 de.bauhausshop.com
@@ -1008,7 +993,6 @@ www.behawelt.de
 behead-offers.com
 www.behead-offers.com
 behner-berlin.com
-beisimple.de
 bekleidungsoutlet.com
 www.bekleidungsoutlet.com
 bekos.at
@@ -1032,8 +1016,6 @@ belovedaroma.com
 www.belovedaroma.com
 belsium.de
 www.belsium.de
-bemazenbest.site
-www.bemazenbest.site
 bemodern.de
 www.bemodern.de
 bemygalaxy.com
@@ -1060,8 +1042,6 @@ www.berlinbluebox.de
 berliner-laden.de
 berlinfarador.com
 www.berlinfarador.com
-berlinfast.com
-www.berlinfast.com
 berlinget.com
 www.berlinget.com
 berlintag.com
@@ -1082,8 +1062,6 @@ besondereprasente.com
 www.besondereprasente.com
 besser-gesund.at
 www.besser-gesund.at
-bestbookshop.site
-www.bestbookshop.site
 bestbuymovie.de
 www.bestbuymovie.de
 bestchooes.com
@@ -1092,10 +1070,6 @@ bestcosmetic.club
 www.bestcosmetic.club
 bestdiscountsforyou.com
 www.bestdiscountsforyou.com
-beste-brennholz.de
-www.beste-brennholz.de
-besteapotheke.com
-www.besteapotheke.com
 bestelektronicshop.de
 www.bestelektronicshop.de
 bestellung-rezeptfrei.de
@@ -1116,8 +1090,6 @@ bestfxpremiumtrade.com
 www.bestfxpremiumtrade.com
 bestgulfrentals.com
 www.bestgulfrentals.com
-besthjsp.shop
-www.besthjsp.shop
 besthomeship.com
 www.besthomeship.com
 bestoutfit.store
@@ -1164,8 +1136,6 @@ beziehungspersoenlichkeit.de
 www.beziehungspersoenlichkeit.de
 bfqlehf.top
 www.bfqlehf.top
-bgamenet.com
-www.bgamenet.com
 bhechler.de
 www.bhechler.de
 bhmconference.com
@@ -1184,8 +1154,6 @@ biharusi.com
 www.biharusi.com
 bike-heller.de
 www.bike-heller.de
-bike-roles.de
-www.bike-roles.de
 bikecannondale.com
 www.bikecannondale.com
 bikekauf.com
@@ -1209,8 +1177,6 @@ billigeklokker.com
 www.billigeklokker.com
 bineflix.de
 www.bineflix.de
-binfxoptions.online
-www.binfxoptions.online
 bingoblitz.shop
 www.bingoblitz.shop
 binovex.com
@@ -1223,8 +1189,6 @@ bioamsee.de
 www.bioamsee.de
 biogaming.de
 www.biogaming.de
-biogts.top
-www.biogts.top
 bioherby.de
 www.bioherby.de
 biologichealing.com
@@ -1241,8 +1205,6 @@ biromotion.de
 www.biromotion.de
 bis-estate.com
 www.bis-estate.com
-bitbeni.net
-www.bitbeni.net
 bitcoin-trader.net
 www.bitcoin-trader.net
 bitcoinexpertrading.com
@@ -1253,8 +1215,6 @@ bitfxnex.com
 www.bitfxnex.com
 bitsocompany.net
 www.bitsocompany.net
-bitterlich-brennholz.com
-www.bitterlich-brennholz.com
 bittpayoptions.org
 www.bittpayoptions.org
 biwbcu.top
@@ -1265,8 +1225,6 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
-blaroken.com
-www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -1317,8 +1275,6 @@ bocarora.com
 www.bocarora.com
 bocceli.com
 www.bocceli.com
-bodasi.de
-www.bodasi.de
 bogdanski-salonbau.com
 www.bogdanski-salonbau.com
 bogner-siberia.ru
@@ -1359,10 +1315,6 @@ www.booking-ibizahouses.com
 booking-mallorcahouses.com
 www.booking-mallorcahouses.com
 bookingmallorca-villas.com
-bookshopclub.xyz
-www.bookshopclub.xyz
-bookshotbay.xyz
-www.bookshotbay.xyz
 boomaya.com
 www.boomaya.com
 boomboomgadgets.de
@@ -1373,8 +1325,6 @@ bootsclearanus.com
 www.bootsclearanus.com
 bootsdeutschland.com
 www.bootsdeutschland.com
-bordertales.de
-www.bordertales.de
 borrelioseweb.de
 www.borrelioseweb.de
 bosch-futter.de
@@ -1451,14 +1401,8 @@ brennholzshop24.com
 www.brennholzshop24.com
 brgab.com
 www.brgab.com
-brick-gear.com
-www.brick-gear.com
-brickcreating.com
-www.brickcreating.com
 bricksb.com
 www.bricksb.com
-brickstec.com
-www.brickstec.com
 bridgsol.com
 www.bridgsol.com
 brillo.at
@@ -1471,8 +1415,6 @@ bringwish.com
 www.bringwish.com
 british-columbia-hotels.com
 www.british-columbia-hotels.com
-britzmedia24.com
-www.britzmedia24.com
 brizhell.org
 www.brizhell.org
 bro-ker.de
@@ -1495,8 +1437,6 @@ brycus.de
 www.brycus.de
 brytei.com
 www.brytei.com
-bsbb-fahrrad.de
-www.bsbb-fahrrad.de
 btcminer.website
 www.btcminer.website
 btctradingstrategies.com
@@ -1537,8 +1477,6 @@ bufnkce.top
 www.bufnkce.top
 bugabooashland.com
 www.bugabooashland.com
-buhrlishome.de
-www.buhrlishome.de
 build-en.com
 europe.build-en.com
 global.build-en.com
@@ -2459,8 +2397,6 @@ davesaunderscfo.com
 www.davesaunderscfo.com
 davidkimboyle.net
 www.davidkimboyle.net
-davidoutwear.com
-www.davidoutwear.com
 daygpl.shop
 www.daygpl.shop
 daytradinginstitutionpro.com
@@ -4506,6 +4442,8 @@ graskaufen.net
 graskaufen.shop
 www.graskaufen.net
 www.graskaufen.shop
+gratis-produkttests.de
+www.gratis-produkttests.de
 gravelmac.com
 www.gravelmac.com
 gravityspot.de
@@ -5758,7 +5696,9 @@ www.kinoplay.de
 kinostream.org
 www.kinostream.org
 kinox.su
+kinox.top
 www.kinox.su
+www.kinox.top
 kinox-deutsch.com
 www.kinox-deutsch.com
 kinozeit.net
@@ -7051,6 +6991,8 @@ modency.de
 www.modency.de
 modernindigo.com
 www.modernindigo.com
+modetalente.com
+www.modetalente.com
 modetopper.com
 www.modetopper.com
 moditec.fr
@@ -9179,6 +9121,8 @@ schwab-outlet.de
 www.schwab-outlet.de
 schwabler.com
 www.schwabler.com
+schwanhaus.de
+www.schwanhaus.de
 scientificentre.com
 www.scientificentre.com
 screenacy.co
@@ -10957,6 +10901,8 @@ vespin-versand.de
 vespin24.de
 vetola.de
 www.vetola.de
+vevor.de
+www.vevor.de
 vfcsnc.shop
 www.vfcsnc.shop
 vgr8.com
