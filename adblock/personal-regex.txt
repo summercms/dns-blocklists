@@ -6,29 +6,26 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
-! ---- Black -----
+! Black
 
-! TikTok fingerprinting
+! TikTok Fingerprinting
 /'.*(analytics|frontier|gecko|mon|log|mssdk|mcs|pitaya).*\.(tiktok(v|cdn)?|byteoversea)\.com$/
 
-! Analytics
+! Analytics - Metrics - Telemetry
 /^(s|[a-z0-9\-]*\-)?analytics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
-
-! Metrics
 /^(s|[a-z0-9\-]*\-)?metrics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
-
-! Telemtry
 /^([a-z0-9\-]*\-)?telemetry(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
 
 ! Tracking
 /^(error|g|bug|[a-z0-9\-]*\-)?track(er|ing)?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^trk\.[a-z0-9\-]*\./
+
+! Sentry
 /^sentry\.[a-z0-9\-]*\./
-/^r?t(rk|rc)?\.[a-z0-9\-]*\./
-/^r\.[a-z0-9\-]*\./
 
-! ---- White -----
+! White
 
-! Referral/Email links
+! Allow Referral Links
 @@/^clicks?\.[a-z0-9\-]*\./
 @@/^e?mail(\-[a-z0-9]*)?\.[a-z0-9\-]*\./
 @@/^go(to)?\.[a-z0-9\-]*\./
