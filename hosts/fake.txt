@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 08:31 UTC
-# Version: 2022.1207.0831.49
+# Last modified: 07 Dez 2022 23:55 UTC
+# Version: 2022.1207.2355.09
 # Syntax: Hosts
-# Domains: 11740
+# Domains: 11624
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1498,8 +1498,6 @@
 0.0.0.0 www.burberryonlineshop.de
 0.0.0.0 burberryoutlet-online.net
 0.0.0.0 www.burberryoutlet-online.net
-0.0.0.0 burberryoutlet-sale.com
-0.0.0.0 www.burberryoutlet-sale.com
 0.0.0.0 burnout-cockpit.de
 0.0.0.0 www.burnout-cockpit.de
 0.0.0.0 busblech-shop.de
@@ -1514,18 +1512,6 @@
 0.0.0.0 www.buushop.com
 0.0.0.0 buxtownbeacher.de
 0.0.0.0 www.buxtownbeacher.de
-0.0.0.0 buy-viagra-cheapestprice.site
-0.0.0.0 www.buy-viagra-cheapestprice.site
-0.0.0.0 buybayzon.xyz
-0.0.0.0 www.buybayzon.xyz
-0.0.0.0 buybokstores.site
-0.0.0.0 www.buybokstores.site
-0.0.0.0 buycheap.fun
-0.0.0.0 www.buycheap.fun
-0.0.0.0 buycheapsale.site
-0.0.0.0 www.buycheapsale.site
-0.0.0.0 buycheapstuff.site
-0.0.0.0 www.buycheapstuff.site
 0.0.0.0 buycircaknee.com
 0.0.0.0 www.buycircaknee.com
 0.0.0.0 buyerando.de
@@ -1534,37 +1520,17 @@
 0.0.0.0 www.buyheatcore.com
 0.0.0.0 buyjordan2021.com
 0.0.0.0 www.buyjordan2021.com
-0.0.0.0 buyjust.site
-0.0.0.0 www.buyjust.site
 0.0.0.0 buyldoram.com
 0.0.0.0 www.buyldoram.com
-0.0.0.0 buyluvgreat.site
-0.0.0.0 www.buyluvgreat.site
 0.0.0.0 buyneckrelaxofficial.com
 0.0.0.0 www.buyneckrelaxofficial.com
-0.0.0.0 buynice.site
-0.0.0.0 www.buynice.site
 0.0.0.0 buyoshenwatch.com
 0.0.0.0 www.buyoshenwatch.com
-0.0.0.0 buypushing.com
-0.0.0.0 www.buypushing.com
-0.0.0.0 buysguru.com
-0.0.0.0 www.buysguru.com
-0.0.0.0 buysnetwork.com
-0.0.0.0 www.buysnetwork.com
 0.0.0.0 buyster.xyz
-0.0.0.0 buystime.com
-0.0.0.0 www.buystime.com
-0.0.0.0 buythegood.site
-0.0.0.0 www.buythegood.site
-0.0.0.0 buytocshop.site
-0.0.0.0 www.buytocshop.site
 0.0.0.0 bvp-frobel.de
 0.0.0.0 www.bvp-frobel.de
 0.0.0.0 bvuyyds.shop
 0.0.0.0 www.bvuyyds.shop
-0.0.0.0 bxtemas.com
-0.0.0.0 www.bxtemas.com
 0.0.0.0 byberlin.de
 0.0.0.0 www.byberlin.de
 0.0.0.0 bydumont.de
@@ -1587,8 +1553,6 @@
 0.0.0.0 www.c21watches.com
 0.0.0.0 caandcolimited.com
 0.0.0.0 www.caandcolimited.com
-0.0.0.0 cadenrs.com
-0.0.0.0 www.cadenrs.com
 0.0.0.0 caesar-installateur.at
 0.0.0.0 www.caesar-installateur.at
 0.0.0.0 cafe-bauer.at
@@ -1622,8 +1586,6 @@
 0.0.0.0 www.camperberlin.com
 0.0.0.0 camping-specialisten24.de
 0.0.0.0 www.camping-specialisten24.de
-0.0.0.0 camppolster.de
-0.0.0.0 www.camppolster.de
 0.0.0.0 canbrace.com
 0.0.0.0 www.canbrace.com
 0.0.0.0 canderro.com
@@ -1638,8 +1600,6 @@
 0.0.0.0 www.capitalfair.co
 0.0.0.0 capitalinvestmentreviews.com
 0.0.0.0 www.capitalinvestmentreviews.com
-0.0.0.0 capitalmaster.de
-0.0.0.0 www.capitalmaster.de
 0.0.0.0 capogrillo.com
 0.0.0.0 www.capogrillo.com
 0.0.0.0 caprin.net
@@ -1706,8 +1666,6 @@
 0.0.0.0 www.caseking-elektro.com
 0.0.0.0 casimir-coburg.de
 0.0.0.0 www.casimir-coburg.de
-0.0.0.0 castelloh.com
-0.0.0.0 www.castelloh.com
 0.0.0.0 casual.at
 0.0.0.0 casual.ch
 0.0.0.0 casual.de
@@ -1782,16 +1740,12 @@
 0.0.0.0 www.ccleboulou.com
 0.0.0.0 cddej.fr
 0.0.0.0 www.cddej.fr
-0.0.0.0 cdu-solidaritaet.de
-0.0.0.0 www.cdu-solidaritaet.de
 0.0.0.0 cealiey.com
 0.0.0.0 www.cealiey.com
 0.0.0.0 ceasaro.com
 0.0.0.0 www.ceasaro.com
 0.0.0.0 cecilliab.com
 0.0.0.0 www.cecilliab.com
-0.0.0.0 cefortacf.com
-0.0.0.0 www.cefortacf.com
 0.0.0.0 celcapx.top
 0.0.0.0 www.celcapx.top
 0.0.0.0 celinemichaud.com
@@ -1855,42 +1809,20 @@
 0.0.0.0 www.cheap123.ru
 0.0.0.0 cheapbagmalluk.cn
 0.0.0.0 www.cheapbagmalluk.cn
-0.0.0.0 cheapbeatsbydretop.top
-0.0.0.0 www.cheapbeatsbydretop.top
-0.0.0.0 cheapbokbest.site
-0.0.0.0 www.cheapbokbest.site
 0.0.0.0 cheapcharly.de
 0.0.0.0 www.cheapcharly.de
-0.0.0.0 cheaplab.store
-0.0.0.0 www.cheaplab.store
 0.0.0.0 cheapmusical.com
 0.0.0.0 www.cheapmusical.com
 0.0.0.0 onlinesale.cheaps2022.ru
 0.0.0.0 discount.cheapsalesstore2022.ru
-0.0.0.0 cheapsart.com
-0.0.0.0 www.cheapsart.com
-0.0.0.0 cheapsbest.com
-0.0.0.0 www.cheapsbest.com
-0.0.0.0 cheapsbox.com
-0.0.0.0 www.cheapsbox.com
 0.0.0.0 cheapshoplove.site
 0.0.0.0 www.cheapshoplove.site
-0.0.0.0 cheapshub.com
-0.0.0.0 www.cheapshub.com
-0.0.0.0 cheapsmall.site
-0.0.0.0 www.cheapsmall.site
-0.0.0.0 cheazonpsell.xyz
-0.0.0.0 www.cheazonpsell.xyz
-0.0.0.0 chebkbest.site
-0.0.0.0 www.chebkbest.site
 0.0.0.0 checkra1n-windows.com
 0.0.0.0 www.checkra1n-windows.com
 0.0.0.0 checkrain.com
 0.0.0.0 checkrain.org
 0.0.0.0 www.checkrain.com
 0.0.0.0 www.checkrain.org
-0.0.0.0 chegood.xyz
-0.0.0.0 www.chegood.xyz
 0.0.0.0 chenkkbusiness.com
 0.0.0.0 www.chenkkbusiness.com
 0.0.0.0 chentingk.top
@@ -1925,8 +1857,6 @@
 0.0.0.0 www.china-hifi-audio.com
 0.0.0.0 chinawok-erfurt.de
 0.0.0.0 www.chinawok-erfurt.de
-0.0.0.0 chrischona-hdh.de
-0.0.0.0 www.chrischona-hdh.de
 0.0.0.0 chrisclavelli.com
 0.0.0.0 www.chrisclavelli.com
 0.0.0.0 chriskkfishing.com
@@ -1977,8 +1907,6 @@
 0.0.0.0 www.ckl-bau.de
 0.0.0.0 cklinen.com
 0.0.0.0 www.cklinen.com
-0.0.0.0 claeze.com
-0.0.0.0 www.claeze.com
 0.0.0.0 clarks-schweiz.com
 0.0.0.0 www.clarks-schweiz.com
 0.0.0.0 clarksgermany.com
@@ -2071,10 +1999,6 @@
 0.0.0.0 www.coach-wallets.com
 0.0.0.0 coachclearance.net
 0.0.0.0 www.coachclearance.net
-0.0.0.0 coachfactorycom.com
-0.0.0.0 www.coachfactorycom.com
-0.0.0.0 coachfactoryoutlet80off.com
-0.0.0.0 www.coachfactoryoutlet80off.com
 0.0.0.0 coachfactoryoutletonlinesite.com
 0.0.0.0 www.coachfactoryoutletonlinesite.com
 0.0.0.0 coachfactoryoutletonlinewebsite.com
@@ -2083,8 +2007,6 @@
 0.0.0.0 www.coachhandbagssite.com
 0.0.0.0 coachoutletonline70off.com
 0.0.0.0 www.coachoutletonline70off.com
-0.0.0.0 coachoutletstoreonlinesite.com
-0.0.0.0 www.coachoutletstoreonlinesite.com
 0.0.0.0 coachoutletstoresonlineshopping.com
 0.0.0.0 www.coachoutletstoresonlineshopping.com
 0.0.0.0 coatpark.com
@@ -2225,8 +2147,6 @@
 0.0.0.0 www.cpgtstream4.com
 0.0.0.0 cr8newyork.com
 0.0.0.0 www.cr8newyork.com
-0.0.0.0 craftsmaner.de
-0.0.0.0 www.craftsmaner.de
 0.0.0.0 craftterns.com
 0.0.0.0 www.craftterns.com
 0.0.0.0 crateel.com
@@ -2237,7 +2157,6 @@
 0.0.0.0 www.credivisor.at
 0.0.0.0 cremant.at
 0.0.0.0 www.cremant.at
-0.0.0.0 crnstore.com
 0.0.0.0 crocsat.at
 0.0.0.0 www.crocsat.at
 0.0.0.0 crocsoutletdeutschland.com
@@ -2248,8 +2167,6 @@
 0.0.0.0 www.cryptoinas.com
 0.0.0.0 cryptoprime.eu
 0.0.0.0 www.cryptoprime.eu
-0.0.0.0 cryptotradingfxt.com
-0.0.0.0 www.cryptotradingfxt.com
 0.0.0.0 crystalfashion.vip
 0.0.0.0 www.crystalfashion.vip
 0.0.0.0 crystalsoul.de
@@ -2278,8 +2195,6 @@
 0.0.0.0 cuoed.top
 0.0.0.0 www.cuoed.top
 0.0.0.0 curment.xyz
-0.0.0.0 curryfpw.top
-0.0.0.0 www.curryfpw.top
 0.0.0.0 custably.com
 0.0.0.0 www.custably.com
 0.0.0.0 cutepets.site
@@ -2305,8 +2220,6 @@
 0.0.0.0 cyttion.xyz
 0.0.0.0 d-rock.at
 0.0.0.0 www.d-rock.at
-0.0.0.0 dachdecker-otto.de
-0.0.0.0 www.dachdecker-otto.de
 0.0.0.0 daddeln.net
 0.0.0.0 www.daddeln.net
 0.0.0.0 daflix.de
@@ -2315,8 +2228,6 @@
 0.0.0.0 www.dafloxx.de
 0.0.0.0 dahlmuehle.de
 0.0.0.0 www.dahlmuehle.de
-0.0.0.0 daietdy.top
-0.0.0.0 www.daietdy.top
 0.0.0.0 daily-disney.com
 0.0.0.0 www.daily-disney.com
 0.0.0.0 dailyflirt.at
@@ -2330,8 +2241,6 @@
 0.0.0.0 www.dailywish43.com
 0.0.0.0 dalaline.com
 0.0.0.0 www.dalaline.com
-0.0.0.0 dalkatvf.com
-0.0.0.0 www.dalkatvf.com
 0.0.0.0 dalmatinac.de
 0.0.0.0 www.dalmatinac.de
 0.0.0.0 damco-transport.com
@@ -2376,8 +2285,6 @@
 0.0.0.0 www.dashausimgarten.de
 0.0.0.0 daskarnevalkostuem.de
 0.0.0.0 www.daskarnevalkostuem.de
-0.0.0.0 dataery.xyz
-0.0.0.0 www.dataery.xyz
 0.0.0.0 datafic.xyz
 0.0.0.0 dateanker.de
 0.0.0.0 www.dateanker.de
@@ -2399,8 +2306,6 @@
 0.0.0.0 www.davidkimboyle.net
 0.0.0.0 daygpl.shop
 0.0.0.0 www.daygpl.shop
-0.0.0.0 daytradinginstitutionpro.com
-0.0.0.0 www.daytradinginstitutionpro.com
 0.0.0.0 dazsistmeins.at
 0.0.0.0 www.dazsistmeins.at
 0.0.0.0 dbackdrop.de
@@ -2416,8 +2321,6 @@
 0.0.0.0 pronewbalance.de.com
 0.0.0.0 proschuhen.de.com
 0.0.0.0 superschuhenwelt.de.com
-0.0.0.0 de-brennstoffe.com
-0.0.0.0 www.de-brennstoffe.com
 0.0.0.0 modellbahn.de-imex.de
 0.0.0.0 modellbahn-versandhaus.de-imex.de
 0.0.0.0 pusheen.de-imex.de
@@ -2425,10 +2328,6 @@
 0.0.0.0 www.dealmanias.com
 0.0.0.0 dealparty.nl
 0.0.0.0 www.dealparty.nl
-0.0.0.0 dealsbay.site
-0.0.0.0 www.dealsbay.site
-0.0.0.0 dealsbayzon.xyz
-0.0.0.0 www.dealsbayzon.xyz
 0.0.0.0 dealsbymike.com
 0.0.0.0 www.dealsbymike.com
 0.0.0.0 dealshopper.de
@@ -2504,8 +2403,6 @@
 0.0.0.0 www.deluxio.de
 0.0.0.0 demababy.de
 0.0.0.0 www.demababy.de
-0.0.0.0 demo-marketing.de
-0.0.0.0 www.demo-marketing.de
 0.0.0.0 demoniaschuhe.de
 0.0.0.0 www.demoniaschuhe.de
 0.0.0.0 den-danske.com
@@ -2585,16 +2482,12 @@
 0.0.0.0 www.deutchmarkt.de
 0.0.0.0 deutere.com
 0.0.0.0 www.deutere.com
-0.0.0.0 deutsche-bit.de
-0.0.0.0 www.deutsche-bit.de
 0.0.0.0 deutscher-experte.de
 0.0.0.0 www.deutscher-experte.de
 0.0.0.0 deutscheritter.de
 0.0.0.0 www.deutscheritter.de
 0.0.0.0 deutschermarkts.com
 0.0.0.0 www.deutschermarkts.com
-0.0.0.0 deutschesholz.com
-0.0.0.0 www.deutschesholz.com
 0.0.0.0 deutschetroniks.com
 0.0.0.0 www.deutschetroniks.com
 0.0.0.0 deveclo.com
@@ -2613,8 +2506,6 @@
 0.0.0.0 www.dfr-hessen.de
 0.0.0.0 dgsys.de
 0.0.0.0 www.dgsys.de
-0.0.0.0 dhappen.com
-0.0.0.0 www.dhappen.com
 0.0.0.0 dhe-globe.com
 0.0.0.0 www.dhe-globe.com
 0.0.0.0 dhineshl.shop
@@ -2696,8 +2587,6 @@
 0.0.0.0 www.diskretetreffen69.de
 0.0.0.0 disput.at
 0.0.0.0 www.disput.at
-0.0.0.0 ditlis.com
-0.0.0.0 www.ditlis.com
 0.0.0.0 dius-institut.de
 0.0.0.0 www.dius-institut.de
 0.0.0.0 divceb.top
@@ -3845,8 +3734,6 @@
 0.0.0.0 www.fondazionegaia.org
 0.0.0.0 foolhouse.de
 0.0.0.0 www.foolhouse.de
-0.0.0.0 foortyfive.com
-0.0.0.0 www.foortyfive.com
 0.0.0.0 footballcamp.at
 0.0.0.0 www.footballcamp.at
 0.0.0.0 footsmart.eu
@@ -3970,6 +3857,7 @@
 0.0.0.0 frohschatz.com
 0.0.0.0 www.frohschatz.com
 0.0.0.0 frohwelt.de
+0.0.0.0 fruchtpresse.at
 0.0.0.0 fruugo.at
 0.0.0.0 www.fruugo.at
 0.0.0.0 ftx-store.de
@@ -4200,8 +4088,6 @@
 0.0.0.0 www.getecotex.com
 0.0.0.0 getevelynbag.com
 0.0.0.0 www.getevelynbag.com
-0.0.0.0 gethypersoft.com
-0.0.0.0 www.gethypersoft.com
 0.0.0.0 getlobuygreat.site
 0.0.0.0 www.getlobuygreat.site
 0.0.0.0 getryoko.com
@@ -5158,7 +5044,6 @@
 0.0.0.0 politics.illegalstore.xyz
 0.0.0.0 similarly.illegalstore.xyz
 0.0.0.0 wind.illegalstore.xyz
-0.0.0.0 illlucky.com
 0.0.0.0 ilysend.com
 0.0.0.0 www.ilysend.com
 0.0.0.0 ilysne.com
@@ -5928,8 +5813,6 @@
 0.0.0.0 www.lagunalaguna.com
 0.0.0.0 lakihair.com
 0.0.0.0 www.lakihair.com
-0.0.0.0 lalipton.com
-0.0.0.0 www.lalipton.com
 0.0.0.0 laltraveu.org
 0.0.0.0 www.laltraveu.org
 0.0.0.0 lamict.com
@@ -9476,7 +9359,6 @@
 0.0.0.0 www.smxrt.de
 0.0.0.0 sneakers-center.com
 0.0.0.0 www.sneakers-center.com
-0.0.0.0 de.sneakers-storm.com
 0.0.0.0 sneakersbrook18.com
 0.0.0.0 www.sneakersbrook18.com
 0.0.0.0 sneakerspalette-de.com
@@ -11363,6 +11245,8 @@
 0.0.0.0 www.wintercomfy.com
 0.0.0.0 winterfallkits.de
 0.0.0.0 www.winterfallkits.de
+0.0.0.0 winternigh.com
+0.0.0.0 www.winternigh.com
 0.0.0.0 winterstiefelsale.at
 0.0.0.0 www.winterstiefelsale.at
 0.0.0.0 winterzone.com

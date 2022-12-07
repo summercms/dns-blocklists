@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 08:31 UTC
-# Version: 2022.1207.0831.49
+# Last modified: 07 Dez 2022 23:55 UTC
+# Version: 2022.1207.2355.09
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 6118
+# Domains: 6059
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -776,7 +776,6 @@
 *.burberryfactoryoutlet.com
 *.burberryonlineshop.de
 *.burberryoutlet-online.net
-*.burberryoutlet-sale.com
 *.burnout-cockpit.de
 *.busblech-shop.de
 *.business-analyse.at
@@ -784,32 +783,16 @@
 *.buucklebrand.com
 *.buushop.com
 *.buxtownbeacher.de
-*.buy-viagra-cheapestprice.site
-*.buybayzon.xyz
-*.buybokstores.site
-*.buycheap.fun
-*.buycheapsale.site
-*.buycheapstuff.site
 *.buycircaknee.com
 *.buyerando.de
 *.buyheatcore.com
 *.buyjordan2021.com
-*.buyjust.site
 *.buyldoram.com
-*.buyluvgreat.site
 *.buyneckrelaxofficial.com
-*.buynice.site
 *.buyoshenwatch.com
-*.buypushing.com
-*.buysguru.com
-*.buysnetwork.com
 *.buyster.xyz
-*.buystime.com
-*.buythegood.site
-*.buytocshop.site
 *.bvp-frobel.de
 *.bvuyyds.shop
-*.bxtemas.com
 *.byberlin.de
 *.bydumont.de
 *.byelvira.de
@@ -822,7 +805,6 @@
 *.bzghee.com
 *.c21watches.com
 *.caandcolimited.com
-*.cadenrs.com
 *.caesar-installateur.at
 *.cafe-bauer.at
 *.cafe-hardenberg.de
@@ -840,7 +822,6 @@
 *.cami-handel.de
 *.camperberlin.com
 *.camping-specialisten24.de
-*.camppolster.de
 *.canbrace.com
 *.canderro.com
 *.candleriddleshop.com
@@ -848,7 +829,6 @@
 *.canvascosta.com
 *.capitalfair.co
 *.capitalinvestmentreviews.com
-*.capitalmaster.de
 *.capogrillo.com
 *.caprin.net
 *.captainboot.de
@@ -882,7 +862,6 @@
 *.casefetish.com
 *.caseking-elektro.com
 *.casimir-coburg.de
-*.castelloh.com
 *.casual.at
 *.casual.ch
 *.casual.de
@@ -920,11 +899,9 @@
 *.cci-immobilien.de
 *.ccleboulou.com
 *.cddej.fr
-*.cdu-solidaritaet.de
 *.cealiey.com
 *.ceasaro.com
 *.cecilliab.com
-*.cefortacf.com
 *.celcapx.top
 *.celinemichaud.com
 *.celmak.de
@@ -956,25 +933,14 @@
 *.chcgkr.top
 *.cheap123.ru
 *.cheapbagmalluk.cn
-*.cheapbeatsbydretop.top
-*.cheapbokbest.site
 *.cheapcharly.de
-*.cheaplab.store
 *.cheapmusical.com
 *.onlinesale.cheaps2022.ru
 *.discount.cheapsalesstore2022.ru
-*.cheapsart.com
-*.cheapsbest.com
-*.cheapsbox.com
 *.cheapshoplove.site
-*.cheapshub.com
-*.cheapsmall.site
-*.cheazonpsell.xyz
-*.chebkbest.site
 *.checkra1n-windows.com
 *.checkrain.com
 *.checkrain.org
-*.chegood.xyz
 *.chenkkbusiness.com
 *.chentingk.top
 *.chesterfiel.de
@@ -992,7 +958,6 @@
 *.chillwalker.de
 *.china-hifi-audio.com
 *.chinawok-erfurt.de
-*.chrischona-hdh.de
 *.chrisclavelli.com
 *.chriskkfishing.com
 *.christiankoenigmusik.de
@@ -1019,7 +984,6 @@
 *.ckerezltd.com
 *.ckl-bau.de
 *.cklinen.com
-*.claeze.com
 *.clarks-schweiz.com
 *.clarksgermany.com
 *.clarksschuhesale.com
@@ -1081,13 +1045,10 @@
 *.coach-sunglasses.com
 *.coach-wallets.com
 *.coachclearance.net
-*.coachfactorycom.com
-*.coachfactoryoutlet80off.com
 *.coachfactoryoutletonlinesite.com
 *.coachfactoryoutletonlinewebsite.com
 *.coachhandbagssite.com
 *.coachoutletonline70off.com
-*.coachoutletstoreonlinesite.com
 *.coachoutletstoresonlineshopping.com
 *.coatpark.com
 *.cocktail-projekt.de
@@ -1167,19 +1128,16 @@
 *.cozyslides.de
 *.cpgtstream4.com
 *.cr8newyork.com
-*.craftsmaner.de
 *.craftterns.com
 *.crateel.com
 *.crazy-cooper.de
 *.credivisor.at
 *.cremant.at
-*.crnstore.com
 *.crocsat.at
 *.crocsoutletdeutschland.com
 *.cryptmaketrade.com
 *.cryptoinas.com
 *.cryptoprime.eu
-*.cryptotradingfxt.com
 *.crystalfashion.vip
 *.crystalsoul.de
 *.csglog.com
@@ -1195,7 +1153,6 @@
 *.cunteny.com
 *.cuoed.top
 *.curment.xyz
-*.curryfpw.top
 *.custably.com
 *.cutepets.site
 *.cutterfarm.de
@@ -1209,12 +1166,10 @@
 *.cymgrup.com
 *.cyttion.xyz
 *.d-rock.at
-*.dachdecker-otto.de
 *.daddeln.net
 *.daflix.de
 *.dafloxx.de
 *.dahlmuehle.de
-*.daietdy.top
 *.daily-disney.com
 *.dailyflirt.at
 *.dailyforu.com
@@ -1222,7 +1177,6 @@
 *.dailystuffstore.com
 *.dailywish43.com
 *.dalaline.com
-*.dalkatvf.com
 *.dalmatinac.de
 *.damco-transport.com
 *.damenboutique-adenberger.com
@@ -1245,7 +1199,6 @@
 *.sport.daselfchenjosephine.at
 *.dashausimgarten.de
 *.daskarnevalkostuem.de
-*.dataery.xyz
 *.datafic.xyz
 *.dateanker.de
 *.datemeile.de
@@ -1257,7 +1210,6 @@
 *.davesaunderscfo.com
 *.davidkimboyle.net
 *.daygpl.shop
-*.daytradinginstitutionpro.com
 *.dazsistmeins.at
 *.dbackdrop.de
 *.dc-belsen.de
@@ -1268,14 +1220,11 @@
 *.pronewbalance.de.com
 *.proschuhen.de.com
 *.superschuhenwelt.de.com
-*.de-brennstoffe.com
 *.modellbahn.de-imex.de
 *.modellbahn-versandhaus.de-imex.de
 *.pusheen.de-imex.de
 *.dealmanias.com
 *.dealparty.nl
-*.dealsbay.site
-*.dealsbayzon.xyz
 *.dealsbymike.com
 *.dealshopper.de
 *.dealviral.de
@@ -1314,7 +1263,6 @@
 *.deluxevillefx.com
 *.deluxio.de
 *.demababy.de
-*.demo-marketing.de
 *.demoniaschuhe.de
 *.den-danske.com
 *.den-home.com
@@ -1355,11 +1303,9 @@
 *.deuhr.de
 *.deutchmarkt.de
 *.deutere.com
-*.deutsche-bit.de
 *.deutscher-experte.de
 *.deutscheritter.de
 *.deutschermarkts.com
-*.deutschesholz.com
 *.deutschetroniks.com
 *.deveclo.com
 *.handschellen.deveri.de
@@ -1370,7 +1316,6 @@
 *.dexia-hyp.de
 *.dfr-hessen.de
 *.dgsys.de
-*.dhappen.com
 *.dhe-globe.com
 *.dhineshl.shop
 *.dhk-transport.com
@@ -1413,7 +1358,6 @@
 *.diskretetreffen.ch
 *.diskretetreffen69.de
 *.disput.at
-*.ditlis.com
 *.dius-institut.de
 *.divceb.top
 *.divenchi.de
@@ -2011,7 +1955,6 @@
 *.folmy.de
 *.fondazionegaia.org
 *.foolhouse.de
-*.foortyfive.com
 *.footballcamp.at
 *.footsmart.eu
 *.fordeals24.com
@@ -2074,6 +2017,7 @@
 *.frohlands.de
 *.frohschatz.com
 *.frohwelt.de
+*.fruchtpresse.at
 *.fruugo.at
 *.ftx-store.de
 *.fuechsefussball.de
@@ -2193,7 +2137,6 @@
 *.getecodriver.com
 *.getecotex.com
 *.getevelynbag.com
-*.gethypersoft.com
 *.getlobuygreat.site
 *.getryoko.com
 *.getsphinx.de
@@ -2692,7 +2635,6 @@
 *.politics.illegalstore.xyz
 *.similarly.illegalstore.xyz
 *.wind.illegalstore.xyz
-*.illlucky.com
 *.ilysend.com
 *.ilysne.com
 *.imalent.net
@@ -3088,7 +3030,6 @@
 *.lagerverkauf24.de
 *.lagunalaguna.com
 *.lakihair.com
-*.lalipton.com
 *.laltraveu.org
 *.lamict.com
 *.lancebruce.com
@@ -4939,7 +4880,6 @@
 *.smushgame.com
 *.smxrt.de
 *.sneakers-center.com
-*.de.sneakers-storm.com
 *.sneakersbrook18.com
 *.sneakerspalette-de.com
 *.sneakerz2020.com
@@ -5927,6 +5867,7 @@
 *.winterangebote.store
 *.wintercomfy.com
 *.winterfallkits.de
+*.winternigh.com
 *.winterstiefelsale.at
 *.winterzone.com
 *.wipideal.de

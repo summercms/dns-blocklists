@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 08:31 UTC
-# Version: 2022.1207.0831.49
+# Last modified: 07 Dez 2022 23:55 UTC
+# Version: 2022.1207.2355.09
 # Syntax: Domains
-# Domains: 11740
+# Domains: 11624
 #
 willhaben.at.04300.id
 11trikots.com
@@ -1498,8 +1498,6 @@ burberryonlineshop.de
 www.burberryonlineshop.de
 burberryoutlet-online.net
 www.burberryoutlet-online.net
-burberryoutlet-sale.com
-www.burberryoutlet-sale.com
 burnout-cockpit.de
 www.burnout-cockpit.de
 busblech-shop.de
@@ -1514,18 +1512,6 @@ buushop.com
 www.buushop.com
 buxtownbeacher.de
 www.buxtownbeacher.de
-buy-viagra-cheapestprice.site
-www.buy-viagra-cheapestprice.site
-buybayzon.xyz
-www.buybayzon.xyz
-buybokstores.site
-www.buybokstores.site
-buycheap.fun
-www.buycheap.fun
-buycheapsale.site
-www.buycheapsale.site
-buycheapstuff.site
-www.buycheapstuff.site
 buycircaknee.com
 www.buycircaknee.com
 buyerando.de
@@ -1534,37 +1520,17 @@ buyheatcore.com
 www.buyheatcore.com
 buyjordan2021.com
 www.buyjordan2021.com
-buyjust.site
-www.buyjust.site
 buyldoram.com
 www.buyldoram.com
-buyluvgreat.site
-www.buyluvgreat.site
 buyneckrelaxofficial.com
 www.buyneckrelaxofficial.com
-buynice.site
-www.buynice.site
 buyoshenwatch.com
 www.buyoshenwatch.com
-buypushing.com
-www.buypushing.com
-buysguru.com
-www.buysguru.com
-buysnetwork.com
-www.buysnetwork.com
 buyster.xyz
-buystime.com
-www.buystime.com
-buythegood.site
-www.buythegood.site
-buytocshop.site
-www.buytocshop.site
 bvp-frobel.de
 www.bvp-frobel.de
 bvuyyds.shop
 www.bvuyyds.shop
-bxtemas.com
-www.bxtemas.com
 byberlin.de
 www.byberlin.de
 bydumont.de
@@ -1587,8 +1553,6 @@ c21watches.com
 www.c21watches.com
 caandcolimited.com
 www.caandcolimited.com
-cadenrs.com
-www.cadenrs.com
 caesar-installateur.at
 www.caesar-installateur.at
 cafe-bauer.at
@@ -1622,8 +1586,6 @@ camperberlin.com
 www.camperberlin.com
 camping-specialisten24.de
 www.camping-specialisten24.de
-camppolster.de
-www.camppolster.de
 canbrace.com
 www.canbrace.com
 canderro.com
@@ -1638,8 +1600,6 @@ capitalfair.co
 www.capitalfair.co
 capitalinvestmentreviews.com
 www.capitalinvestmentreviews.com
-capitalmaster.de
-www.capitalmaster.de
 capogrillo.com
 www.capogrillo.com
 caprin.net
@@ -1706,8 +1666,6 @@ caseking-elektro.com
 www.caseking-elektro.com
 casimir-coburg.de
 www.casimir-coburg.de
-castelloh.com
-www.castelloh.com
 casual.at
 casual.ch
 casual.de
@@ -1782,16 +1740,12 @@ ccleboulou.com
 www.ccleboulou.com
 cddej.fr
 www.cddej.fr
-cdu-solidaritaet.de
-www.cdu-solidaritaet.de
 cealiey.com
 www.cealiey.com
 ceasaro.com
 www.ceasaro.com
 cecilliab.com
 www.cecilliab.com
-cefortacf.com
-www.cefortacf.com
 celcapx.top
 www.celcapx.top
 celinemichaud.com
@@ -1855,42 +1809,20 @@ cheap123.ru
 www.cheap123.ru
 cheapbagmalluk.cn
 www.cheapbagmalluk.cn
-cheapbeatsbydretop.top
-www.cheapbeatsbydretop.top
-cheapbokbest.site
-www.cheapbokbest.site
 cheapcharly.de
 www.cheapcharly.de
-cheaplab.store
-www.cheaplab.store
 cheapmusical.com
 www.cheapmusical.com
 onlinesale.cheaps2022.ru
 discount.cheapsalesstore2022.ru
-cheapsart.com
-www.cheapsart.com
-cheapsbest.com
-www.cheapsbest.com
-cheapsbox.com
-www.cheapsbox.com
 cheapshoplove.site
 www.cheapshoplove.site
-cheapshub.com
-www.cheapshub.com
-cheapsmall.site
-www.cheapsmall.site
-cheazonpsell.xyz
-www.cheazonpsell.xyz
-chebkbest.site
-www.chebkbest.site
 checkra1n-windows.com
 www.checkra1n-windows.com
 checkrain.com
 checkrain.org
 www.checkrain.com
 www.checkrain.org
-chegood.xyz
-www.chegood.xyz
 chenkkbusiness.com
 www.chenkkbusiness.com
 chentingk.top
@@ -1925,8 +1857,6 @@ china-hifi-audio.com
 www.china-hifi-audio.com
 chinawok-erfurt.de
 www.chinawok-erfurt.de
-chrischona-hdh.de
-www.chrischona-hdh.de
 chrisclavelli.com
 www.chrisclavelli.com
 chriskkfishing.com
@@ -1977,8 +1907,6 @@ ckl-bau.de
 www.ckl-bau.de
 cklinen.com
 www.cklinen.com
-claeze.com
-www.claeze.com
 clarks-schweiz.com
 www.clarks-schweiz.com
 clarksgermany.com
@@ -2071,10 +1999,6 @@ coach-wallets.com
 www.coach-wallets.com
 coachclearance.net
 www.coachclearance.net
-coachfactorycom.com
-www.coachfactorycom.com
-coachfactoryoutlet80off.com
-www.coachfactoryoutlet80off.com
 coachfactoryoutletonlinesite.com
 www.coachfactoryoutletonlinesite.com
 coachfactoryoutletonlinewebsite.com
@@ -2083,8 +2007,6 @@ coachhandbagssite.com
 www.coachhandbagssite.com
 coachoutletonline70off.com
 www.coachoutletonline70off.com
-coachoutletstoreonlinesite.com
-www.coachoutletstoreonlinesite.com
 coachoutletstoresonlineshopping.com
 www.coachoutletstoresonlineshopping.com
 coatpark.com
@@ -2225,8 +2147,6 @@ cpgtstream4.com
 www.cpgtstream4.com
 cr8newyork.com
 www.cr8newyork.com
-craftsmaner.de
-www.craftsmaner.de
 craftterns.com
 www.craftterns.com
 crateel.com
@@ -2237,7 +2157,6 @@ credivisor.at
 www.credivisor.at
 cremant.at
 www.cremant.at
-crnstore.com
 crocsat.at
 www.crocsat.at
 crocsoutletdeutschland.com
@@ -2248,8 +2167,6 @@ cryptoinas.com
 www.cryptoinas.com
 cryptoprime.eu
 www.cryptoprime.eu
-cryptotradingfxt.com
-www.cryptotradingfxt.com
 crystalfashion.vip
 www.crystalfashion.vip
 crystalsoul.de
@@ -2278,8 +2195,6 @@ www.cunteny.com
 cuoed.top
 www.cuoed.top
 curment.xyz
-curryfpw.top
-www.curryfpw.top
 custably.com
 www.custably.com
 cutepets.site
@@ -2305,8 +2220,6 @@ www.cymgrup.com
 cyttion.xyz
 d-rock.at
 www.d-rock.at
-dachdecker-otto.de
-www.dachdecker-otto.de
 daddeln.net
 www.daddeln.net
 daflix.de
@@ -2315,8 +2228,6 @@ dafloxx.de
 www.dafloxx.de
 dahlmuehle.de
 www.dahlmuehle.de
-daietdy.top
-www.daietdy.top
 daily-disney.com
 www.daily-disney.com
 dailyflirt.at
@@ -2330,8 +2241,6 @@ dailywish43.com
 www.dailywish43.com
 dalaline.com
 www.dalaline.com
-dalkatvf.com
-www.dalkatvf.com
 dalmatinac.de
 www.dalmatinac.de
 damco-transport.com
@@ -2376,8 +2285,6 @@ dashausimgarten.de
 www.dashausimgarten.de
 daskarnevalkostuem.de
 www.daskarnevalkostuem.de
-dataery.xyz
-www.dataery.xyz
 datafic.xyz
 dateanker.de
 www.dateanker.de
@@ -2399,8 +2306,6 @@ davidkimboyle.net
 www.davidkimboyle.net
 daygpl.shop
 www.daygpl.shop
-daytradinginstitutionpro.com
-www.daytradinginstitutionpro.com
 dazsistmeins.at
 www.dazsistmeins.at
 dbackdrop.de
@@ -2416,8 +2321,6 @@ pronb.de.com
 pronewbalance.de.com
 proschuhen.de.com
 superschuhenwelt.de.com
-de-brennstoffe.com
-www.de-brennstoffe.com
 modellbahn.de-imex.de
 modellbahn-versandhaus.de-imex.de
 pusheen.de-imex.de
@@ -2425,10 +2328,6 @@ dealmanias.com
 www.dealmanias.com
 dealparty.nl
 www.dealparty.nl
-dealsbay.site
-www.dealsbay.site
-dealsbayzon.xyz
-www.dealsbayzon.xyz
 dealsbymike.com
 www.dealsbymike.com
 dealshopper.de
@@ -2504,8 +2403,6 @@ deluxio.de
 www.deluxio.de
 demababy.de
 www.demababy.de
-demo-marketing.de
-www.demo-marketing.de
 demoniaschuhe.de
 www.demoniaschuhe.de
 den-danske.com
@@ -2585,16 +2482,12 @@ deutchmarkt.de
 www.deutchmarkt.de
 deutere.com
 www.deutere.com
-deutsche-bit.de
-www.deutsche-bit.de
 deutscher-experte.de
 www.deutscher-experte.de
 deutscheritter.de
 www.deutscheritter.de
 deutschermarkts.com
 www.deutschermarkts.com
-deutschesholz.com
-www.deutschesholz.com
 deutschetroniks.com
 www.deutschetroniks.com
 deveclo.com
@@ -2613,8 +2506,6 @@ dfr-hessen.de
 www.dfr-hessen.de
 dgsys.de
 www.dgsys.de
-dhappen.com
-www.dhappen.com
 dhe-globe.com
 www.dhe-globe.com
 dhineshl.shop
@@ -2696,8 +2587,6 @@ diskretetreffen69.de
 www.diskretetreffen69.de
 disput.at
 www.disput.at
-ditlis.com
-www.ditlis.com
 dius-institut.de
 www.dius-institut.de
 divceb.top
@@ -3845,8 +3734,6 @@ fondazionegaia.org
 www.fondazionegaia.org
 foolhouse.de
 www.foolhouse.de
-foortyfive.com
-www.foortyfive.com
 footballcamp.at
 www.footballcamp.at
 footsmart.eu
@@ -3970,6 +3857,7 @@ www.frohlands.de
 frohschatz.com
 www.frohschatz.com
 frohwelt.de
+fruchtpresse.at
 fruugo.at
 www.fruugo.at
 ftx-store.de
@@ -4200,8 +4088,6 @@ getecotex.com
 www.getecotex.com
 getevelynbag.com
 www.getevelynbag.com
-gethypersoft.com
-www.gethypersoft.com
 getlobuygreat.site
 www.getlobuygreat.site
 getryoko.com
@@ -5158,7 +5044,6 @@ now.illegalstore.xyz
 politics.illegalstore.xyz
 similarly.illegalstore.xyz
 wind.illegalstore.xyz
-illlucky.com
 ilysend.com
 www.ilysend.com
 ilysne.com
@@ -5928,8 +5813,6 @@ lagunalaguna.com
 www.lagunalaguna.com
 lakihair.com
 www.lakihair.com
-lalipton.com
-www.lalipton.com
 laltraveu.org
 www.laltraveu.org
 lamict.com
@@ -9476,7 +9359,6 @@ smxrt.de
 www.smxrt.de
 sneakers-center.com
 www.sneakers-center.com
-de.sneakers-storm.com
 sneakersbrook18.com
 www.sneakersbrook18.com
 sneakerspalette-de.com
@@ -11363,6 +11245,8 @@ wintercomfy.com
 www.wintercomfy.com
 winterfallkits.de
 www.winterfallkits.de
+winternigh.com
+www.winternigh.com
 winterstiefelsale.at
 www.winterstiefelsale.at
 winterzone.com
