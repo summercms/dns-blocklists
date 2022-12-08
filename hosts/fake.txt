@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 18:07 UTC
-# Version: 2022.1208.1807.25
+# Last modified: 08 Dez 2022 19:25 UTC
+# Version: 2022.1208.1925.22
 # Syntax: Hosts
-# Domains: 11493
+# Domains: 11479
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -4410,12 +4410,8 @@
 0.0.0.0 www.haushalt-deals.net
 0.0.0.0 haushalt-depot.de
 0.0.0.0 www.haushalt-depot.de
-0.0.0.0 haushalt-holtkemper.de
-0.0.0.0 www.haushalt-holtkemper.de
 0.0.0.0 haushalt-jansen.net
 0.0.0.0 www.haushalt-jansen.net
-0.0.0.0 haushalt-schuhmann.com
-0.0.0.0 www.haushalt-schuhmann.com
 0.0.0.0 haushalt-xxl.de
 0.0.0.0 www.haushalt-xxl.de
 0.0.0.0 haushaltskoenig.de
@@ -4432,8 +4428,6 @@
 0.0.0.0 www.haustechnik-muenchen.de
 0.0.0.0 haustierbedarf-friedman.com
 0.0.0.0 www.haustierbedarf-friedman.com
-0.0.0.0 haveivtax.shop
-0.0.0.0 www.haveivtax.shop
 0.0.0.0 hawaiird.com
 0.0.0.0 www.hawaiird.com
 0.0.0.0 hawalili.de
@@ -4456,8 +4450,6 @@
 0.0.0.0 www.healthbenefitsf.com
 0.0.0.0 healthcarebanker.com
 0.0.0.0 www.healthcarebanker.com
-0.0.0.0 healthde.de
-0.0.0.0 www.healthde.de
 0.0.0.0 healthfirst.at
 0.0.0.0 www.healthfirst.at
 0.0.0.0 healthful-pills.com
@@ -4474,8 +4466,6 @@
 0.0.0.0 www.heidecker-rollergang.de
 0.0.0.0 heidekrause.de
 0.0.0.0 www.heidekrause.de
-0.0.0.0 heidelore-kluge.de
-0.0.0.0 www.heidelore-kluge.de
 0.0.0.0 heike-store.com
 0.0.0.0 www.heike-store.com
 0.0.0.0 heimatrad.de
@@ -4502,8 +4492,6 @@
 0.0.0.0 www.helix-sports.de
 0.0.0.0 hellolasana.de
 0.0.0.0 www.hellolasana.de
-0.0.0.0 hellorolexwatch.com
-0.0.0.0 www.hellorolexwatch.com
 0.0.0.0 hellostella.de
 0.0.0.0 www.hellostella.de
 0.0.0.0 hells-kitchen-ink.de
@@ -4516,8 +4504,6 @@
 0.0.0.0 www.helperlo24.de
 0.0.0.0 helpthebees.net
 0.0.0.0 www.helpthebees.net
-0.0.0.0 helsky.de
-0.0.0.0 www.helsky.de
 0.0.0.0 hemstedt-handel.de
 0.0.0.0 www.hemstedt-handel.de
 0.0.0.0 henlenhebe.com
