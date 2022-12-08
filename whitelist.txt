@@ -625,7 +625,7 @@ te.technical-service.net
 # https://github.com/badmojr/1Hosts/issues/553
 api.revenuecat.com
 
-# HP Smart App - Installation wizard not loading
+# HP Smart App - Installation wizard not loading (fixed)
 # mobilesdk-*.kampyle.com
 
 # https://github.com/AdAway/adaway.github.io/issues/309
@@ -1610,7 +1610,7 @@ assets.adobedtm.com
 tag.aticdn.net
 
 # CNAME best-lover
-target.clickfunnels.com
+# target.clickfunnels.com
 
 # Breaks https://support.xbox.com/en-US/
 # https://github.com/AdAway/adaway.github.io/issues/330
