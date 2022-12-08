@@ -36,7 +36,7 @@
 | [Normal](#normal)       | 1065221<br>273739     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1257008<br>395181         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1353436<br>436398 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 1670683<br>554730 | ++ | X | X | X | X | X |  X |
+| [Ultimate](#ultimate)    | 1669977<br>553994 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -112,7 +112,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1670683 domains/hosts - 554730 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *1669977 domains/hosts - 553994 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
