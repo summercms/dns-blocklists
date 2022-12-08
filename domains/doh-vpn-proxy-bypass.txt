@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 08:25 UTC
-# Version: 2022.1207.0825.23
+# Last modified: 08 Dez 2022 23:49 UTC
+# Version: 2022.1208.2349.30
 # Syntax: Domains
-# Domains: 1347
+# Domains: 1346
 #
 0000a-fast-proxy.de
 012proxy.ga
@@ -459,7 +459,6 @@ free-proxyserver.com
 free-proxysite.com
 free-vpn.cn
 free-vpn.xyz
-free4proxy.tv
 freebypassproxy.com
 freecanadavpn.com
 freecavpn.com
