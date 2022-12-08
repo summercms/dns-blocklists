@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 08:09 UTC
-# Version: 2022.1208.0809.16
+# Last modified: 08 Dez 2022 15:14 UTC
+# Version: 2022.1208.1514.09
 # Syntax: Domains
-# Domains: 11582
+# Domains: 11516
 #
 willhaben.at.04300.id
 11trikots.com
@@ -3239,8 +3239,6 @@ evasion-jailbreak.com
 www.evasion-jailbreak.com
 evasion7.com
 www.evasion7.com
-evemoons.com
-www.evemoons.com
 eventplanung-ulm.de
 www.eventplanung-ulm.de
 everflix.de
@@ -3303,20 +3301,8 @@ www.fabionapoli.com
 fabnetstudio.com
 www.fabnetstudio.com
 fabrikverkaufmerrellch.com
-fabulous-k.com
-www.fabulous-k.com
-facebestsell.xyz
-www.facebestsell.xyz
-facebystore.xyz
-www.facebystore.xyz
 facepets.es
 www.facepets.es
-faceshoppro.xyz
-www.faceshoppro.xyz
-facesoutlets.xyz
-www.facesoutlets.xyz
-facetopshop.xyz
-www.facetopshop.xyz
 facyline.de
 fahrra-landau.com
 www.fahrra-landau.com
@@ -3360,8 +3346,6 @@ www.falinas.com
 www.falinas.de
 falzoro.de
 www.falzoro.de
-famiglieinrete.org
-www.famiglieinrete.org
 familie-amelsberg.de
 www.familie-amelsberg.de
 familienbegleiterin.de
@@ -3388,8 +3372,6 @@ fascboots.com
 www.fascboots.com
 faseut.com
 www.faseut.com
-fash-brand.shop
-www.fash-brand.shop
 fashincs.com
 www.fashincs.com
 fashion-kuhlmann.de
@@ -3426,8 +3408,6 @@ www.fatburner-1.com
 fautoizer.top
 www.fautoizer.top
 favornote.com
-favorsunshine.com
-www.favorsunshine.com
 favrice.com
 www.favrice.com
 fbuys.shop
@@ -3490,8 +3470,6 @@ fernbedienung-schalter.de
 www.fernbedienung-schalter.de
 festivalhot.com
 www.festivalhot.com
-festivo.top
-www.festivo.top
 fetishmegastore.com
 www.fetishmegastore.com
 feuerwehr-oberaussem.de
@@ -3504,8 +3482,6 @@ feville.com
 www.feville.com
 fewo-stubbenfelde.de
 www.fewo-stubbenfelde.de
-ffobek.com
-www.ffobek.com
 ffw-oberpoering.de
 www.ffw-oberpoering.de
 ficiior.xyz
@@ -3513,8 +3489,6 @@ fictionstudio.de
 www.fictionstudio.de
 fideligencia.com
 www.fideligencia.com
-fidilityprofx.com
-www.fidilityprofx.com
 fiercehealthfinance.com
 www.fiercehealthfinance.com
 fiesefalle.de
@@ -3585,8 +3559,6 @@ fitfuerinnovation.de
 www.fitfuerinnovation.de
 fitindentag.at
 www.fitindentag.at
-fitnessmarkt-winkler.de
-www.fitnessmarkt-winkler.de
 fits-training.de
 www.fits-training.de
 fitvid.pro
@@ -3618,11 +3590,8 @@ fleezie.de
 www.fleezie.de
 fleiming.com
 www.fleiming.com
-fleisch-paradies.de
 fleshjacket.com
 www.fleshjacket.com
-flexhilfe.de
-www.flexhilfe.de
 flexkino.com
 www.flexkino.com
 flexumgel-official.shop
@@ -3630,8 +3599,6 @@ at.flexumgel-official.shop
 www.flexumgel-official.shop
 flidop.com
 www.flidop.com
-flightsfree.site
-www.flightsfree.site
 flipeak.com
 www.flipeak.com
 flipflix.de
@@ -3678,8 +3645,6 @@ www.fluremoda.com
 flymapairb.com
 flytte-udlandet.dk
 www.flytte-udlandet.dk
-flzychina.com
-www.flzychina.com
 fmeseriasi.com
 www.fmeseriasi.com
 fnpmarkets.co
@@ -3694,8 +3659,6 @@ foolhouse.de
 www.foolhouse.de
 footballcamp.at
 www.footballcamp.at
-footsmart.eu
-www.footsmart.eu
 fordeals24.com
 de.fordeals24.com
 www.fordeals24.com
@@ -3743,8 +3706,6 @@ foxusenet.de
 www.foxusenet.de
 foxxum.com
 www.foxxum.com
-fpc-rr.de
-www.fpc-rr.de
 fpctsc.com
 www.fpctsc.com
 fpjollet.com
@@ -3752,16 +3713,12 @@ www.fpjollet.com
 fr-c.de
 www.fr-c.de
 fractfy.xyz
-fracturai.com
-www.fracturai.com
 frankenmarket.net
 www.frankenmarket.net
 frankiemakeupartist.com
 www.frankiemakeupartist.com
 frankiesdubai.com
 www.frankiesdubai.com
-frankmullerfahrschule.com
-www.frankmullerfahrschule.com
 free-maket.com
 www.free-maket.com
 freeacy.com
@@ -3782,8 +3739,6 @@ freilandsysteme.de
 www.freilandsysteme.de
 freiwing.de
 www.freiwing.de
-freizeit-gemeinsam.com
-www.freizeit-gemeinsam.com
 freizeitbetrieb-worms.de
 www.freizeitbetrieb-worms.de
 freizeiteo.com
@@ -3815,7 +3770,6 @@ www.frohlands.de
 frohschatz.com
 www.frohschatz.com
 frohwelt.de
-fruchtpresse.at
 fruugo.at
 www.fruugo.at
 ftx-store.de
@@ -3831,18 +3785,12 @@ fuehrungszeugnis-online-beantragen.de
 www.fuehrungszeugnis-online-beantragen.de
 fuesschentraeume.de
 www.fuesschentraeume.de
-funatv.de
-www.funatv.de
 fundfconsult.at
 www.fundfconsult.at
 funkenlb.com
 www.funkenlb.com
 funswan.de
 www.funswan.de
-funuetecm.com
-www.funuetecm.com
-funylucki.com
-www.funylucki.com
 furanna.de
 furnidays.de
 www.furnidays.de
@@ -3882,8 +3830,6 @@ galandu.de
 www.galandu.de
 galaxy-star.de
 www.galaxy-star.de
-galaxybal.com
-www.galaxybal.com
 galerieoswald.de
 www.galerieoswald.de
 game.toys
@@ -3907,8 +3853,6 @@ gamestop-markt.de
 www.gamestop-markt.de
 gamestopde.de
 www.gamestopde.de
-gamestopeurope.com
-www.gamestopeurope.com
 gamestopkonsoleplay.de
 www.gamestopkonsoleplay.de
 gamestopmarkt.de
@@ -3925,8 +3869,6 @@ gaming-konsolen.com
 www.gaming-konsolen.com
 gamingmarkt.de
 www.gamingmarkt.de
-gamingo24.net
-www.gamingo24.net
 gamingplanet.eu
 www.gamingplanet.eu
 gammsey.com
@@ -3934,8 +3876,6 @@ www.gammsey.com
 gapmislazzz.tk
 www.gapmislazzz.tk
 stiff.garageoven.xyz
-gardenface.site
-www.gardenface.site
 gardenguru.club
 www.gardenguru.club
 gardenpatch.club
@@ -3950,8 +3890,6 @@ garminwelt.online
 www.garminwelt.online
 garminworldmaps.com
 www.garminworldmaps.com
-garshopbuy.site
-www.garshopbuy.site
 garshoping.com
 www.garshoping.com
 garten-events.de
@@ -4046,14 +3984,10 @@ getecotex.com
 www.getecotex.com
 getevelynbag.com
 www.getevelynbag.com
-getlobuygreat.site
-www.getlobuygreat.site
 getryoko.com
 www.getryoko.com
 getsphinx.de
 www.getsphinx.de
-gettikshop.site
-www.gettikshop.site
 getvoltbox.com
 www.getvoltbox.com
 getvoltplug.com

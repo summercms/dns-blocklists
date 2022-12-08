@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 08:09 UTC
-# Version: 2022.1208.0809.16
+# Last modified: 08 Dez 2022 15:14 UTC
+# Version: 2022.1208.1514.09
 # Syntax: Hosts
-# Domains: 11582
+# Domains: 11516
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -3239,8 +3239,6 @@
 0.0.0.0 www.evasion-jailbreak.com
 0.0.0.0 evasion7.com
 0.0.0.0 www.evasion7.com
-0.0.0.0 evemoons.com
-0.0.0.0 www.evemoons.com
 0.0.0.0 eventplanung-ulm.de
 0.0.0.0 www.eventplanung-ulm.de
 0.0.0.0 everflix.de
@@ -3303,20 +3301,8 @@
 0.0.0.0 fabnetstudio.com
 0.0.0.0 www.fabnetstudio.com
 0.0.0.0 fabrikverkaufmerrellch.com
-0.0.0.0 fabulous-k.com
-0.0.0.0 www.fabulous-k.com
-0.0.0.0 facebestsell.xyz
-0.0.0.0 www.facebestsell.xyz
-0.0.0.0 facebystore.xyz
-0.0.0.0 www.facebystore.xyz
 0.0.0.0 facepets.es
 0.0.0.0 www.facepets.es
-0.0.0.0 faceshoppro.xyz
-0.0.0.0 www.faceshoppro.xyz
-0.0.0.0 facesoutlets.xyz
-0.0.0.0 www.facesoutlets.xyz
-0.0.0.0 facetopshop.xyz
-0.0.0.0 www.facetopshop.xyz
 0.0.0.0 facyline.de
 0.0.0.0 fahrra-landau.com
 0.0.0.0 www.fahrra-landau.com
@@ -3360,8 +3346,6 @@
 0.0.0.0 www.falinas.de
 0.0.0.0 falzoro.de
 0.0.0.0 www.falzoro.de
-0.0.0.0 famiglieinrete.org
-0.0.0.0 www.famiglieinrete.org
 0.0.0.0 familie-amelsberg.de
 0.0.0.0 www.familie-amelsberg.de
 0.0.0.0 familienbegleiterin.de
@@ -3388,8 +3372,6 @@
 0.0.0.0 www.fascboots.com
 0.0.0.0 faseut.com
 0.0.0.0 www.faseut.com
-0.0.0.0 fash-brand.shop
-0.0.0.0 www.fash-brand.shop
 0.0.0.0 fashincs.com
 0.0.0.0 www.fashincs.com
 0.0.0.0 fashion-kuhlmann.de
@@ -3426,8 +3408,6 @@
 0.0.0.0 fautoizer.top
 0.0.0.0 www.fautoizer.top
 0.0.0.0 favornote.com
-0.0.0.0 favorsunshine.com
-0.0.0.0 www.favorsunshine.com
 0.0.0.0 favrice.com
 0.0.0.0 www.favrice.com
 0.0.0.0 fbuys.shop
@@ -3490,8 +3470,6 @@
 0.0.0.0 www.fernbedienung-schalter.de
 0.0.0.0 festivalhot.com
 0.0.0.0 www.festivalhot.com
-0.0.0.0 festivo.top
-0.0.0.0 www.festivo.top
 0.0.0.0 fetishmegastore.com
 0.0.0.0 www.fetishmegastore.com
 0.0.0.0 feuerwehr-oberaussem.de
@@ -3504,8 +3482,6 @@
 0.0.0.0 www.feville.com
 0.0.0.0 fewo-stubbenfelde.de
 0.0.0.0 www.fewo-stubbenfelde.de
-0.0.0.0 ffobek.com
-0.0.0.0 www.ffobek.com
 0.0.0.0 ffw-oberpoering.de
 0.0.0.0 www.ffw-oberpoering.de
 0.0.0.0 ficiior.xyz
@@ -3513,8 +3489,6 @@
 0.0.0.0 www.fictionstudio.de
 0.0.0.0 fideligencia.com
 0.0.0.0 www.fideligencia.com
-0.0.0.0 fidilityprofx.com
-0.0.0.0 www.fidilityprofx.com
 0.0.0.0 fiercehealthfinance.com
 0.0.0.0 www.fiercehealthfinance.com
 0.0.0.0 fiesefalle.de
@@ -3585,8 +3559,6 @@
 0.0.0.0 www.fitfuerinnovation.de
 0.0.0.0 fitindentag.at
 0.0.0.0 www.fitindentag.at
-0.0.0.0 fitnessmarkt-winkler.de
-0.0.0.0 www.fitnessmarkt-winkler.de
 0.0.0.0 fits-training.de
 0.0.0.0 www.fits-training.de
 0.0.0.0 fitvid.pro
@@ -3618,11 +3590,8 @@
 0.0.0.0 www.fleezie.de
 0.0.0.0 fleiming.com
 0.0.0.0 www.fleiming.com
-0.0.0.0 fleisch-paradies.de
 0.0.0.0 fleshjacket.com
 0.0.0.0 www.fleshjacket.com
-0.0.0.0 flexhilfe.de
-0.0.0.0 www.flexhilfe.de
 0.0.0.0 flexkino.com
 0.0.0.0 www.flexkino.com
 0.0.0.0 flexumgel-official.shop
@@ -3630,8 +3599,6 @@
 0.0.0.0 www.flexumgel-official.shop
 0.0.0.0 flidop.com
 0.0.0.0 www.flidop.com
-0.0.0.0 flightsfree.site
-0.0.0.0 www.flightsfree.site
 0.0.0.0 flipeak.com
 0.0.0.0 www.flipeak.com
 0.0.0.0 flipflix.de
@@ -3678,8 +3645,6 @@
 0.0.0.0 flymapairb.com
 0.0.0.0 flytte-udlandet.dk
 0.0.0.0 www.flytte-udlandet.dk
-0.0.0.0 flzychina.com
-0.0.0.0 www.flzychina.com
 0.0.0.0 fmeseriasi.com
 0.0.0.0 www.fmeseriasi.com
 0.0.0.0 fnpmarkets.co
@@ -3694,8 +3659,6 @@
 0.0.0.0 www.foolhouse.de
 0.0.0.0 footballcamp.at
 0.0.0.0 www.footballcamp.at
-0.0.0.0 footsmart.eu
-0.0.0.0 www.footsmart.eu
 0.0.0.0 fordeals24.com
 0.0.0.0 de.fordeals24.com
 0.0.0.0 www.fordeals24.com
@@ -3743,8 +3706,6 @@
 0.0.0.0 www.foxusenet.de
 0.0.0.0 foxxum.com
 0.0.0.0 www.foxxum.com
-0.0.0.0 fpc-rr.de
-0.0.0.0 www.fpc-rr.de
 0.0.0.0 fpctsc.com
 0.0.0.0 www.fpctsc.com
 0.0.0.0 fpjollet.com
@@ -3752,16 +3713,12 @@
 0.0.0.0 fr-c.de
 0.0.0.0 www.fr-c.de
 0.0.0.0 fractfy.xyz
-0.0.0.0 fracturai.com
-0.0.0.0 www.fracturai.com
 0.0.0.0 frankenmarket.net
 0.0.0.0 www.frankenmarket.net
 0.0.0.0 frankiemakeupartist.com
 0.0.0.0 www.frankiemakeupartist.com
 0.0.0.0 frankiesdubai.com
 0.0.0.0 www.frankiesdubai.com
-0.0.0.0 frankmullerfahrschule.com
-0.0.0.0 www.frankmullerfahrschule.com
 0.0.0.0 free-maket.com
 0.0.0.0 www.free-maket.com
 0.0.0.0 freeacy.com
@@ -3782,8 +3739,6 @@
 0.0.0.0 www.freilandsysteme.de
 0.0.0.0 freiwing.de
 0.0.0.0 www.freiwing.de
-0.0.0.0 freizeit-gemeinsam.com
-0.0.0.0 www.freizeit-gemeinsam.com
 0.0.0.0 freizeitbetrieb-worms.de
 0.0.0.0 www.freizeitbetrieb-worms.de
 0.0.0.0 freizeiteo.com
@@ -3815,7 +3770,6 @@
 0.0.0.0 frohschatz.com
 0.0.0.0 www.frohschatz.com
 0.0.0.0 frohwelt.de
-0.0.0.0 fruchtpresse.at
 0.0.0.0 fruugo.at
 0.0.0.0 www.fruugo.at
 0.0.0.0 ftx-store.de
@@ -3831,18 +3785,12 @@
 0.0.0.0 www.fuehrungszeugnis-online-beantragen.de
 0.0.0.0 fuesschentraeume.de
 0.0.0.0 www.fuesschentraeume.de
-0.0.0.0 funatv.de
-0.0.0.0 www.funatv.de
 0.0.0.0 fundfconsult.at
 0.0.0.0 www.fundfconsult.at
 0.0.0.0 funkenlb.com
 0.0.0.0 www.funkenlb.com
 0.0.0.0 funswan.de
 0.0.0.0 www.funswan.de
-0.0.0.0 funuetecm.com
-0.0.0.0 www.funuetecm.com
-0.0.0.0 funylucki.com
-0.0.0.0 www.funylucki.com
 0.0.0.0 furanna.de
 0.0.0.0 furnidays.de
 0.0.0.0 www.furnidays.de
@@ -3882,8 +3830,6 @@
 0.0.0.0 www.galandu.de
 0.0.0.0 galaxy-star.de
 0.0.0.0 www.galaxy-star.de
-0.0.0.0 galaxybal.com
-0.0.0.0 www.galaxybal.com
 0.0.0.0 galerieoswald.de
 0.0.0.0 www.galerieoswald.de
 0.0.0.0 game.toys
@@ -3907,8 +3853,6 @@
 0.0.0.0 www.gamestop-markt.de
 0.0.0.0 gamestopde.de
 0.0.0.0 www.gamestopde.de
-0.0.0.0 gamestopeurope.com
-0.0.0.0 www.gamestopeurope.com
 0.0.0.0 gamestopkonsoleplay.de
 0.0.0.0 www.gamestopkonsoleplay.de
 0.0.0.0 gamestopmarkt.de
@@ -3925,8 +3869,6 @@
 0.0.0.0 www.gaming-konsolen.com
 0.0.0.0 gamingmarkt.de
 0.0.0.0 www.gamingmarkt.de
-0.0.0.0 gamingo24.net
-0.0.0.0 www.gamingo24.net
 0.0.0.0 gamingplanet.eu
 0.0.0.0 www.gamingplanet.eu
 0.0.0.0 gammsey.com
@@ -3934,8 +3876,6 @@
 0.0.0.0 gapmislazzz.tk
 0.0.0.0 www.gapmislazzz.tk
 0.0.0.0 stiff.garageoven.xyz
-0.0.0.0 gardenface.site
-0.0.0.0 www.gardenface.site
 0.0.0.0 gardenguru.club
 0.0.0.0 www.gardenguru.club
 0.0.0.0 gardenpatch.club
@@ -3950,8 +3890,6 @@
 0.0.0.0 www.garminwelt.online
 0.0.0.0 garminworldmaps.com
 0.0.0.0 www.garminworldmaps.com
-0.0.0.0 garshopbuy.site
-0.0.0.0 www.garshopbuy.site
 0.0.0.0 garshoping.com
 0.0.0.0 www.garshoping.com
 0.0.0.0 garten-events.de
@@ -4046,14 +3984,10 @@
 0.0.0.0 www.getecotex.com
 0.0.0.0 getevelynbag.com
 0.0.0.0 www.getevelynbag.com
-0.0.0.0 getlobuygreat.site
-0.0.0.0 www.getlobuygreat.site
 0.0.0.0 getryoko.com
 0.0.0.0 www.getryoko.com
 0.0.0.0 getsphinx.de
 0.0.0.0 www.getsphinx.de
-0.0.0.0 gettikshop.site
-0.0.0.0 www.gettikshop.site
 0.0.0.0 getvoltbox.com
 0.0.0.0 www.getvoltbox.com
 0.0.0.0 getvoltplug.com
