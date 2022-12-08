@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 22:53 UTC
-# Version: 2022.1208.2253.21
+# Last modified: 08 Dez 2022 23:55 UTC
+# Version: 2022.1208.2355.57
 # Syntax: Hosts
-# Domains: 11447
+# Domains: 11439
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1939,8 +1939,6 @@
 0.0.0.0 www.clockersbcn.es
 0.0.0.0 clonesuperwatch.ru
 0.0.0.0 www.clonesuperwatch.ru
-0.0.0.0 clorislife.com
-0.0.0.0 www.clorislife.com
 0.0.0.0 clothes-limited.com
 0.0.0.0 www.clothes-limited.com
 0.0.0.0 clothmyths.com
@@ -4838,16 +4836,12 @@
 0.0.0.0 idealomobls.com
 0.0.0.0 www.idealomobls.com
 0.0.0.0 ielektronik.de
-0.0.0.0 ifbgyxpnr.top
-0.0.0.0 www.ifbgyxpnr.top
 0.0.0.0 iflyer.it
 0.0.0.0 www.iflyer.it
 0.0.0.0 igbce-stolberg.de
 0.0.0.0 www.igbce-stolberg.de
 0.0.0.0 igotit.top
 0.0.0.0 www.igotit.top
-0.0.0.0 igreenwegreen.com
-0.0.0.0 www.igreenwegreen.com
 0.0.0.0 ihre-hausverwalter.de
 0.0.0.0 www.ihre-hausverwalter.de
 0.0.0.0 iiguidek.top
@@ -4860,8 +4854,6 @@
 0.0.0.0 ilamparas.de
 0.0.0.0 www.ilamparas.com
 0.0.0.0 www.ilamparas.de
-0.0.0.0 ilborgocasavacanze.com
-0.0.0.0 www.ilborgocasavacanze.com
 0.0.0.0 construction.illegalstore.xyz
 0.0.0.0 now.illegalstore.xyz
 0.0.0.0 politics.illegalstore.xyz
