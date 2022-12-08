@@ -1,11 +1,3 @@
-!
-! Title: HaGeZi's Personal/Fake Black- & Whitelist(+referral)
-! Last modified: 2022-12-08T08:16:09.863Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.12
-!
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
-!
 ! Title: HaGeZi's Personal DNS Blocklist
 ! Description: My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!
 ! Homepage: https://github.com/hagezi/dns-blocklists
@@ -21642,9 +21634,6 @@
 ||zzux.com^
 ||zzzsleepisnicezzz.art^
 
-!
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
-!
 ! Title: HaGeZi's Fake DNS Blocklist
 ! Description: Protects against internet scams, traps & fakes! Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co.
 ! Homepage: https://github.com/hagezi/dns-blocklists
@@ -22091,6 +22080,7 @@
 ||badeanzugtreff.de^
 ||badgyalbrand.com^
 ||baeckerei-huber.at^
+||de.baerskinhoodie.com^
 ||baetz-malerei.de^
 ||baeuchel.at^
 ||baffinosterreich.at^
@@ -22336,6 +22326,7 @@
 ||boomjoo.co^
 ||bootsclearanus.com^
 ||bootsdeutschland.com^
+||borrelioseweb.de^
 ||bosch-futter.de^
 ||bossfactoryofficial.de^
 ||bossfactorysusa.net^
@@ -22735,6 +22726,7 @@
 ||comicsbyhaemi.com^
 ||comoutloud.de^
 ||compact-shop.de^
+||hoeschag.company.site^
 ||compixa.de^
 ||component-hk.com^
 ||components-store.com^
@@ -23881,6 +23873,7 @@
 ||govaro-shop.de^
 ||gplate.de^
 ||gpswebshop.com^
+||deu.grandado.com^
 ||grandeurlux.com^
 ||grandgardens.store^
 ||grandiancia.com^
@@ -25129,6 +25122,7 @@
 ||mikedavis.de^
 ||mikeelike.com^
 ||mikenovember.com^
+||m.milanoo.com^
 ||milbdy.com^
 ||milchcheese.com^
 ||milf-direkt.com^
@@ -25369,6 +25363,8 @@
 ||warmshopper.myshopify.com^
 ||westchili.myshopify.com^
 ||xfgsdhgxg.myshopify.com^
+||674985034.myshoplaza.com^
+||weekendlily.myshoplaza.com^
 ||myshopwala.com^
 ||myskins.co^
 ||mysneakz.com^
@@ -26418,6 +26414,7 @@
 ||shoperando.com^
 ||shopfreelife.site^
 ||shophunkemoller.com^
+||8evlcbsuk3cm9agc-49220550809.shopifypreview.com^
 ||shopjox.de^
 ||shopkrone.de^
 ||shopmockr.com^
@@ -27392,6 +27389,10 @@
 ||webyeh.de^
 ||weconti.com^
 ||weddingdresshouse.com^
+||4na.weebly.com^
+||cydiainstall9.weebly.com^
+||downloadcydiainstaller.weebly.com^
+||thewatchmaker1.weebly.com^
 ||weed-bestellen.biz^
 ||weelux.de^
 ||weflix.de^
@@ -27683,9 +27684,6 @@
 ||zyyef.com^
 ||zzyha.shop^
 
-!
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt
-!
 ! Title: HaGeZi's White-/Allowlist
 ! Description: The list contains incorrectly blocked domains that limit functionality
 ! Homepage: https://github.com/hagezi/dns-blocklists
@@ -27790,6 +27788,7 @@
 @@||gc.fe.apple-dns.net^
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
+@@|apple-dns.net^
 @@|c.apple.com^
 @@|cstat.apple.com^
 ! doh.dns.apple.com
@@ -27952,6 +27951,7 @@
 @@|arc.msn.com^
 @@|assets.activity.windows.com^
 @@|atm-settingsfe-prod-geo*.trafficmanager.net^
+@@|c.msn.com^
 @@|c.office.com^
 @@|continuum.dds.microsoft.com^
 @@|cs.dds.microsoft.com^
@@ -28216,6 +28216,7 @@
 @@|services.brid.tv^
 @@|servix.idnes.cz^
 @@|slike.indiatimes.com^
+@@|tdn.da-services.ch^
 @@|tm.jsuol.com.br^
 @@|uim.tifbs.net^
 @@|v.shoosh.co^
@@ -28527,6 +28528,14 @@
 
 ! Breaks site layout on ctrip.com
 @@|c-ctrip.com^
+
+! Videos on digitaltrends.com
+! !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
+! pub.doubleverify.com
+! securepubads.g.doubleclick.net
+
+! Breaks site layout fastpic.org
+@@|static.fastpic.org^
 
 ! Imageas and site layout on femmeactuelle.fr
 @@|tra.scds.pmdstatic.net^
@@ -28868,6 +28877,9 @@
 ! Videos on kino.de
 @@|vid-cdn*.stroeermb.de^
 @@|videos.kino.de^
+
+! https://github.com/nextdns/metadata/issues/1058
+@@|learn.cisecurity.org^
 
 ! Videos on RTL.de
 @@|rtl-relay.iocnt.net^
@@ -29547,11 +29559,18 @@
 @@|tantanapp.com^
 @@|api.immomo.com^
 
+! Market research by survey panels
+@@|opinions.research-interactive.com^
+@@|surveymyopinion.researchnow.com^
+
 ! Legit bank
 @@|hsbc.com.au^
 
 ! ACDSee Photo Studio
 @@||acdsystems.com^
+
+! Images/Links/... in Mails (Nintendo, SEAT, ...)
+@@||exacttarget.com.edgekey.net^
 
 ! Images/Links in Microsft Mails
 @@||email*.office.com^
@@ -29637,10 +29656,13 @@
 ! Customer live chat support
 @@|liveperson.com^
 
-!
-! Source name: HaGeZi's Referral White-/Allowlist
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
-!
+! Title: HaGeZi's White-/Allowlist Referral
+! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+! Expires: Updated regularly
+
 @@||7eer.net^
 @@||adfoc.us^
 @@||adj.st^
