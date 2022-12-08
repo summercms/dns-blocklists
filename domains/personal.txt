@@ -7710,8 +7710,6 @@ geolocation.daznservices.com
 mit.db.com
 wtk.db.com
 cs02-pps-drcn.dbankcdn.com
-dbankcloud.cn
-dbankcloud.ru
 ubacollect-drcn.cloud.dbankcloud.cn
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
@@ -7739,8 +7737,6 @@ dnkeeper.platform.dbankcloud.cn
 grs.platform.dbankcloud.ru
 logservice-dre.platform.dbankcloud.cn
 openlocation-drcn.platform.dbankcloud.com
-www.dbankcloud.cn
-www.dbankcloud.ru
 analytics.dbdigi.com
 dblks.net
 www.dblks.net

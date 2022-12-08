@@ -42177,8 +42177,6 @@
 *.aa.db-finanzberatung.de
 *.dbackdrop.de
 *.cs02-pps-drcn.dbankcdn.com
-*.dbankcloud.cn
-*.dbankcloud.ru
 *.dnkeeper.dbankcloud.com
 *.ad-dra.dt.dbankcloud.com
 *.ad-dre.dt.dbankcloud.com
