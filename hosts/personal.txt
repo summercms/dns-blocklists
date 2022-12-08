@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 15:17 UTC
-# Version: 2022.1208.1517.46
+# Last modified: 08 Dez 2022 18:11 UTC
+# Version: 2022.1208.1811.08
 # Syntax: Hosts
-# Domains: 28649
+# Domains: 28611
 #
 0.0.0.0 000webhost.com
 0.0.0.0 www.000webhost.com
@@ -309,7 +309,6 @@
 0.0.0.0 www2.3dsystems.com
 0.0.0.0 3ec9b600789b3bacf2c72ebae142a9c3.net
 0.0.0.0 www.3ec9b600789b3bacf2c72ebae142a9c3.net
-0.0.0.0 godfs.3g.cn
 0.0.0.0 gostat.3g.cn
 0.0.0.0 goupdate.3g.cn
 0.0.0.0 launchermsg.3g.cn
@@ -999,7 +998,6 @@
 0.0.0.0 addstrap-ui.addshoppers.com
 0.0.0.0 as-labs.addshoppers.com
 0.0.0.0 cdn.addshoppers.com
-0.0.0.0 srv.addshoppers.com
 0.0.0.0 api.addthis.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 cf.addthis.com
@@ -2464,7 +2462,6 @@
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 log.aliyuncs.com
-0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 sz88.oss-cn-shenzhen.aliyuncs.com
@@ -4364,8 +4361,6 @@
 0.0.0.0 www.bitflyer.jp
 0.0.0.0 bithunterr.com
 0.0.0.0 www.bithunterr.com
-0.0.0.0 bitkubs.com
-0.0.0.0 www.bitkubs.com
 0.0.0.0 api.bitmango.com
 0.0.0.0 bitmedia.io
 0.0.0.0 www.bitmedia.io
@@ -4836,7 +4831,6 @@
 0.0.0.0 smetrics.brookdale.com
 0.0.0.0 brostraffic.com
 0.0.0.0 www.brostraffic.com
-0.0.0.0 offers.brothersail.com
 0.0.0.0 browardworkshop.com
 0.0.0.0 www.browardworkshop.com
 0.0.0.0 browork3er.cc
@@ -6066,7 +6060,6 @@
 0.0.0.0 metrics.cnn.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 smetrics.cnn.com
-0.0.0.0 sportsillustrated.cnn.com
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 v20.cnnd.vn
 0.0.0.0 push.cnnindonesia.com
@@ -6616,7 +6609,6 @@
 0.0.0.0 geoloc.hurriyet.com.tr
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 ibest.com.br
-0.0.0.0 r237-pw-guarapo.ibys.com.br
 0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 itadapi.ithome.com.tw
 0.0.0.0 metrics.kidspot.com.au
@@ -7366,8 +7358,6 @@
 0.0.0.0 smetrics.cru.org
 0.0.0.0 stats.cruisingpower.com
 0.0.0.0 eec.crunchyroll.com
-0.0.0.0 crustwebsites.net
-0.0.0.0 www.crustwebsites.net
 0.0.0.0 stereos2s.crutchfield.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
@@ -9969,8 +9959,6 @@
 0.0.0.0 cdn.empower.net
 0.0.0.0 www.empower.net
 0.0.0.0 track.info.empr.com
-0.0.0.0 empresaestadoseting.com
-0.0.0.0 www.empresaestadoseting.com
 0.0.0.0 adctrl.emsmobile.de
 0.0.0.0 emsservice.de
 0.0.0.0 emv2.com
@@ -12900,8 +12888,6 @@
 0.0.0.0 herosit.com
 0.0.0.0 www.herosit.com
 0.0.0.0 static.herr.io
-0.0.0.0 hesbetloran.ru
-0.0.0.0 www.hesbetloran.ru
 0.0.0.0 hestuthygro.pro
 0.0.0.0 www.hestuthygro.pro
 0.0.0.0 hetadinh.com
@@ -14136,7 +14122,6 @@
 0.0.0.0 streamjs.investing.com
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 cdn.investingchannel.com
-0.0.0.0 oascentral.investingmediasolutions.com
 0.0.0.0 sstats.investors.com
 0.0.0.0 mkztpk.invictastores.com
 0.0.0.0 invitemedia.com
@@ -14368,8 +14353,6 @@
 0.0.0.0 www.it-supportdesk.com
 0.0.0.0 168.it168.com
 0.0.0.0 ingestion.webanalytics.italia.it
-0.0.0.0 itaniu.com
-0.0.0.0 www.itaniu.com
 0.0.0.0 data.vod.itc.cn
 0.0.0.0 itcleffaom.com
 0.0.0.0 refer.itcosmetics.com
@@ -15106,8 +15089,6 @@
 0.0.0.0 dataapi.ktplay.com
 0.0.0.0 dwimg.ktplay.com
 0.0.0.0 track.ktplay.com
-0.0.0.0 ktxtr.com
-0.0.0.0 www.ktxtr.com
 0.0.0.0 analytics.ku.de
 0.0.0.0 ku2d3a7pa8mdi.com
 0.0.0.0 ku558.net
@@ -15518,7 +15499,6 @@
 0.0.0.0 leya.tech
 0.0.0.0 i.lf360.co
 0.0.0.0 lfeeder.com
-0.0.0.0 push.scloud.lfengmobile.com
 0.0.0.0 cdn2.lfg.com
 0.0.0.0 lfport.com
 0.0.0.0 www.lfport.com
@@ -16880,7 +16860,6 @@
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 proxy.sec.miui.com
 0.0.0.0 xlmc.sec.miui.com
-0.0.0.0 report.sp.miui.com
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 metok.sys.miui.com
@@ -19443,7 +19422,6 @@
 0.0.0.0 neweracap.peerius.com
 0.0.0.0 nisbetsuk.peerius.com
 0.0.0.0 pt3.peerius.com
-0.0.0.0 sainsburys.peerius.com
 0.0.0.0 sainsburysgroceries.peerius.com
 0.0.0.0 teufel.peerius.com
 0.0.0.0 thewhitecompany.peerius.com
@@ -19463,7 +19441,6 @@
 0.0.0.0 data.pendo.io
 0.0.0.0 eu.pendo.io
 0.0.0.0 poalim.data99.mobile.pendo.io
-0.0.0.0 device.mobile.pendo.io
 0.0.0.0 us.device3.mobile.pendo.io
 0.0.0.0 poalim.device99.mobile.pendo.io
 0.0.0.0 pendo-internal.pendo.io
@@ -20010,10 +19987,8 @@
 0.0.0.0 perimeter81.postaffiliatepro.com
 0.0.0.0 repfitness.postaffiliatepro.com
 0.0.0.0 selfdecode.postaffiliatepro.com
-0.0.0.0 shipbob.postaffiliatepro.com
 0.0.0.0 sumup.postaffiliatepro.com
 0.0.0.0 thermoworks.postaffiliatepro.com
-0.0.0.0 toynkcom.postaffiliatepro.com
 0.0.0.0 ubiquiti.postaffiliatepro.com
 0.0.0.0 xeroshoes.postaffiliatepro.com
 0.0.0.0 aa.postbank.de
@@ -20175,8 +20150,6 @@
 0.0.0.0 privatproxy-cdn.xyz
 0.0.0.0 www.privatproxy-cdn.xyz
 0.0.0.0 privatproxy-chat.com
-0.0.0.0 privatproxy-chat.xyz
-0.0.0.0 www.privatproxy-chat.xyz
 0.0.0.0 privatproxy-endpoint.com
 0.0.0.0 privatproxy-schnellvpn.com
 0.0.0.0 privatproxy-schnellvpn.xyz
@@ -21335,7 +21308,6 @@
 0.0.0.0 assets.remerge.io
 0.0.0.0 reminews.com
 0.0.0.0 www.reminews.com
-0.0.0.0 remotessa.com
 0.0.0.0 id.remoteutilities.com
 0.0.0.0 analytics.renaliq.com
 0.0.0.0 pixel.renovai.com
@@ -22594,8 +22566,6 @@
 0.0.0.0 sf14g.com
 0.0.0.0 www.sf14g.com
 0.0.0.0 q777.sfchronicle.com
-0.0.0.0 sfeauigrwvfivg.com
-0.0.0.0 www.sfeauigrwvfivg.com
 0.0.0.0 dolphin.sfelc.com
 0.0.0.0 sffsdvc.com
 0.0.0.0 www.sffsdvc.com
@@ -23280,7 +23250,6 @@
 0.0.0.0 snapsurveys.com
 0.0.0.0 www.snapsurveys.com
 0.0.0.0 ad.snaptube.app
-0.0.0.0 analytics.snaptube.app
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 snatchhr.com
@@ -25885,8 +25854,6 @@
 0.0.0.0 u.uc123.com
 0.0.0.0 ucbonline.com
 0.0.0.0 www.ucbonline.com
-0.0.0.0 uccvc.com
-0.0.0.0 www.uccvc.com
 0.0.0.0 u.ucfly.com
 0.0.0.0 uciservice.com
 0.0.0.0 www.uciservice.com
@@ -26907,7 +26874,6 @@
 0.0.0.0 ww3.business.vonage.com
 0.0.0.0 smetrics.vonage.com
 0.0.0.0 crosspromo.voodoo.io
-0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 voodoo-tech.io
 0.0.0.0 www.voodoo-tech.io
 0.0.0.0 voraciousgrip.com
@@ -27356,9 +27322,7 @@
 0.0.0.0 www.wetacoin-manger.com
 0.0.0.0 cs4.wettercomassets.com
 0.0.0.0 ltsveh.wetteronline.de
-0.0.0.0 mtrace.wetvinfo.com
 0.0.0.0 clog.weverse.io
-0.0.0.0 fastlane-adv.rubiconproject.com.wework.com
 0.0.0.0 c1.wfinterface.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 wg-aff.com
@@ -28422,7 +28386,6 @@
 0.0.0.0 analytics.zapps.vn
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 za.zapps.vn
-0.0.0.0 sdk.zapr.in
 0.0.0.0 zaptic.com
 0.0.0.0 www.zaptic.com
 0.0.0.0 zarget.com

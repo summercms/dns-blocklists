@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 08 Dez 2022 15:17 UTC
-! Version: 2022.1208.1517.46
+! Last modified: 08 Dez 2022 18:11 UTC
+! Version: 2022.1208.1811.08
 ! Syntax: AdBlock
-! Domains: 21620
+! Domains: 21591
 !
 ||000webhost.com^
 ||000webhostapp.com^
@@ -230,7 +230,6 @@
 ||tracking.3ds.com^
 ||www2.3dsystems.com^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
-||godfs.3g.cn^
 ||gostat.3g.cn^
 ||goupdate.3g.cn^
 ||launchermsg.3g.cn^
@@ -681,7 +680,6 @@
 ||addstrap-ui.addshoppers.com^
 ||as-labs.addshoppers.com^
 ||cdn.addshoppers.com^
-||srv.addshoppers.com^
 ||api.addthis.com^
 ||api-public.addthis.com^
 ||cf.addthis.com^
@@ -1699,7 +1697,6 @@
 ||beacon-api.aliyuncs.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||log.aliyuncs.com^
-||log-global.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
@@ -3155,7 +3152,6 @@
 ||starget.bitdefender.com^
 ||bitflyer.jp^
 ||bithunterr.com^
-||bitkubs.com^
 ||api.bitmango.com^
 ||bitmedia.io^
 ||bitmedianetwork.com^
@@ -3480,7 +3476,6 @@
 ||bronto.com^
 ||smetrics.brookdale.com^
 ||brostraffic.com^
-||offers.brothersail.com^
 ||browardworkshop.com^
 ||browork3er.cc^
 ||broworker7.com^
@@ -4383,7 +4378,6 @@
 ||metrics.cnn.com^
 ||mms.cnn.com^
 ||smetrics.cnn.com^
-||sportsillustrated.cnn.com^
 ||sharefb.cnnd.vn^
 ||v20.cnnd.vn^
 ||push.cnnindonesia.com^
@@ -4899,7 +4893,6 @@
 ||geoloc.hurriyet.com.tr^
 ||t.hypers.com.cn^
 ||ibest.com.br^
-||r237-pw-guarapo.ibys.com.br^
 ||feedbackws.icloud.com.cn^
 ||itadapi.ithome.com.tw^
 ||metrics.kidspot.com.au^
@@ -5486,7 +5479,6 @@
 ||smetrics.cru.org^
 ||stats.cruisingpower.com^
 ||eec.crunchyroll.com^
-||crustwebsites.net^
 ||stereos2s.crutchfield.com^
 ||ad.crwdcntrl.net^
 ||bcp.crwdcntrl.net^
@@ -7644,7 +7636,6 @@
 ||metricssecure.empiretoday.com^
 ||empower.net^
 ||track.info.empr.com^
-||empresaestadoseting.com^
 ||adctrl.emsmobile.de^
 ||emsservice.de^
 ||emv2.com^
@@ -9897,7 +9888,6 @@
 ||analytics.yopify.com.herokudns.com^
 ||herosit.com^
 ||static.herr.io^
-||hesbetloran.ru^
 ||hestuthygro.pro^
 ||hetadinh.com^
 ||hetaint.com^
@@ -10826,7 +10816,6 @@
 ||streamjs.investing.com^
 ||ads.investingchannel.com^
 ||cdn.investingchannel.com^
-||oascentral.investingmediasolutions.com^
 ||sstats.investors.com^
 ||mkztpk.invictastores.com^
 ||invitemedia.com^
@@ -11011,7 +11000,6 @@
 ||it-supportdesk.com^
 ||168.it168.com^
 ||ingestion.webanalytics.italia.it^
-||itaniu.com^
 ||data.vod.itc.cn^
 ||itcleffaom.com^
 ||refer.itcosmetics.com^
@@ -11543,7 +11531,6 @@
 ||dataapi.ktplay.com^
 ||dwimg.ktplay.com^
 ||track.ktplay.com^
-||ktxtr.com^
 ||analytics.ku.de^
 ||ku2d3a7pa8mdi.com^
 ||ku558.net^
@@ -11858,7 +11845,6 @@
 ||leya.tech^
 ||i.lf360.co^
 ||lfeeder.com^
-||push.scloud.lfengmobile.com^
 ||cdn2.lfg.com^
 ||lfport.com^
 ||lfstmedia.com^
@@ -12867,7 +12853,6 @@
 ||mazu.sec.miui.com^
 ||proxy.sec.miui.com^
 ||xlmc.sec.miui.com^
-||report.sp.miui.com^
 ||cc.sys.miui.com^
 ||ccc.sys.miui.com^
 ||metok.sys.miui.com^
@@ -14794,7 +14779,6 @@
 ||neweracap.peerius.com^
 ||nisbetsuk.peerius.com^
 ||pt3.peerius.com^
-||sainsburys.peerius.com^
 ||sainsburysgroceries.peerius.com^
 ||teufel.peerius.com^
 ||thewhitecompany.peerius.com^
@@ -14811,7 +14795,6 @@
 ||data.pendo.io^
 ||eu.pendo.io^
 ||poalim.data99.mobile.pendo.io^
-||device.mobile.pendo.io^
 ||us.device3.mobile.pendo.io^
 ||poalim.device99.mobile.pendo.io^
 ||pendo-internal.pendo.io^
@@ -15214,10 +15197,8 @@
 ||perimeter81.postaffiliatepro.com^
 ||repfitness.postaffiliatepro.com^
 ||selfdecode.postaffiliatepro.com^
-||shipbob.postaffiliatepro.com^
 ||sumup.postaffiliatepro.com^
 ||thermoworks.postaffiliatepro.com^
-||toynkcom.postaffiliatepro.com^
 ||ubiquiti.postaffiliatepro.com^
 ||xeroshoes.postaffiliatepro.com^
 ||aa.postbank.de^
@@ -15326,7 +15307,6 @@
 ||privatproxy-blog.xyz^
 ||privatproxy-cdn.xyz^
 ||privatproxy-chat.com^
-||privatproxy-chat.xyz^
 ||privatproxy-endpoint.com^
 ||privatproxy-schnellvpn.com^
 ||privatproxy-schnellvpn.xyz^
@@ -16166,7 +16146,6 @@
 ||ap2.remerge.events^
 ||assets.remerge.io^
 ||reminews.com^
-||remotessa.com^
 ||id.remoteutilities.com^
 ||analytics.renaliq.com^
 ||pixel.renovai.com^
@@ -17107,7 +17086,6 @@
 ||tracking.sezzle.com^
 ||sf14g.com^
 ||q777.sfchronicle.com^
-||sfeauigrwvfivg.com^
 ||dolphin.sfelc.com^
 ||sffsdvc.com^
 ||u927.sfgate.com^
@@ -17601,7 +17579,6 @@
 ||sensors.snappea.com^
 ||snapsurveys.com^
 ||ad.snaptube.app^
-||analytics.snaptube.app^
 ||misc.api.snaptube.app^
 ||sensors.snaptube.app^
 ||snatchhr.com^
@@ -19551,7 +19528,6 @@
 ||woodpecker.uc.cn^
 ||u.uc123.com^
 ||ucbonline.com^
-||uccvc.com^
 ||u.ucfly.com^
 ||uciservice.com^
 ||atmos.ucla.edu^
@@ -20289,7 +20265,6 @@
 ||ww3.business.vonage.com^
 ||smetrics.vonage.com^
 ||crosspromo.voodoo.io^
-||trackers.voodoo-analytics.io^
 ||voodoo-tech.io^
 ||voraciousgrip.com^
 ||kube.prod.vortexa.com^
@@ -20612,9 +20587,7 @@
 ||wetacoin-manger.com^
 ||cs4.wettercomassets.com^
 ||ltsveh.wetteronline.de^
-||mtrace.wetvinfo.com^
 ||clog.weverse.io^
-||fastlane-adv.rubiconproject.com.wework.com^
 ||c1.wfinterface.com^
 ||triggers.wfxtriggers.com^
 ||wg-aff.com^
@@ -21446,7 +21419,6 @@
 ||analytics.zapps.vn^
 ||zplayer.trk.zapps.vn^
 ||za.zapps.vn^
-||sdk.zapr.in^
 ||zaptic.com^
 ||zarget.com^
 ||zarpop.com^
