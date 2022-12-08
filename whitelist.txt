@@ -1973,3 +1973,9 @@ liveperson.com
 # https://github.com/hagezi/dns-blocklists/issues/96
 *.arc.epoq.de
 
+# legit website
+deviceatlas.com
+
+# Adult site
+fapcat.com
+
