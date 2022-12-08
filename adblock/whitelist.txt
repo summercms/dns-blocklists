@@ -218,7 +218,7 @@
 @@|googleapis.com^
 @@|gstatic.com^
 @@|gvt1.com^
-@@|gvt2.com^
+! gvt2.com
 @@|gvt3.com^
 @@|imasdk.googleapis.com^
 @@|instantmessaging-pa.googleapis.com^
@@ -241,6 +241,11 @@
 @@|yt3.ggpht.com^
 ! Not used for tracking, metrics, analytics
 @@||metric.gstatic.com^
+
+! Huawei
+@@|dbankcloud.cn^
+@@|dbankcloud.ru^
+@@|dbankcloud.com^
 
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
@@ -1410,9 +1415,6 @@
 ! REWE online Prospekt
 @@|content-media.bonial.biz^
 
-! Fix Office Forms
-@@|c.msn.com^
-
 ! General support chat
 ! https://github.com/hagezi/dns-blocklists/issues/40
 @@||intercom.io^
@@ -1936,10 +1938,10 @@
 ! Epic Games Launcher
 @@|eulatracking-public-service-*.ol.epicgames.com^
 
-! Chick-Fil-A App 
+! Chick-Fil-A App
 @@||tmetrix.my.chick-fil-a.com^
 
-! Imgur 
+! Imgur
 @@|js.media-lab.ai^
 
 ! Men's Health videos
