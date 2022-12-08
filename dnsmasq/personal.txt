@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 07:33 UTC
-# Version: 2022.1208.0733.27
+# Last modified: 08 Dez 2022 08:12 UTC
+# Version: 2022.1208.0812.59
 # Syntax: DNSMasq
-# Domains: 21625
+# Domains: 21624
 #
 address=/000webhost.com/#
 address=/000webhostapp.com/#
@@ -7758,7 +7758,6 @@ address=/securetags.esri.com/#
 address=/l522.essent.us/#
 address=/swa.essent.nl/#
 address=/bid.essrtb.com/#
-address=/estadoempresaweblife.com/#
 address=/estara.com/#
 address=/estat.com/#
 address=/estonine.com/#
