@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 19:25 UTC
-# Version: 2022.1208.1925.22
+# Last modified: 08 Dez 2022 22:53 UTC
+# Version: 2022.1208.2253.21
 # Syntax: Domains
-# Domains: 11479
+# Domains: 11447
 #
 willhaben.at.04300.id
 11trikots.com
@@ -4518,8 +4518,6 @@ heraldik-leitfaden.de
 www.heraldik-leitfaden.de
 herrenmode-pietro.com
 www.herrenmode-pietro.com
-herrngarten.de
-www.herrngarten.de
 herzens-mensch.de
 www.herzens-mensch.de
 herzensnotiz.de
@@ -4560,8 +4558,6 @@ himaya.at
 www.himaya.at
 himmelok.com
 www.himmelok.com
-hiremyparents.com
-www.hiremyparents.com
 hitecschuhe.com
 www.hitecschuhe.com
 hivasportsl.com
@@ -4596,8 +4592,6 @@ holemann.de
 www.holemann.de
 hollisteronline-shop.at
 www.hollisteronline-shop.at
-holmric-spedition.com
-www.holmric-spedition.com
 vlor.holycrossmoravianchurch.com
 holydogwater.de
 www.holydogwater.de
@@ -4617,8 +4611,6 @@ home-garten-shop.de
 www.home-garten-shop.de
 home-lan.fr
 www.home-lan.fr
-home-try.com
-www.home-try.com
 homedepart.com
 www.homedepart.com
 homeinw.com
@@ -4642,8 +4634,6 @@ www.hondrox.eu
 www.hondrox.shop
 honestmemories.com
 www.honestmemories.com
-honesttradefx.com
-www.honesttradefx.com
 honeyen.com
 www.honeyen.com
 hongduvehicle.de
@@ -4672,8 +4662,6 @@ hospiz-im-ahrtal.de
 www.hospiz-im-ahrtal.de
 hostalesquella.com
 www.hostalesquella.com
-hotboygood.site
-www.hotboygood.site
 hotbrooks.com
 www.hotbrooks.com
 hotcheapswear.store
@@ -4706,31 +4694,17 @@ hotelsofnewyorkcity.net
 www.hotelsofnewyorkcity.net
 hotideabuy.com
 www.hotideabuy.com
-hotluvgood.site
-www.hotluvgood.site
 hotment.xyz
-hotngood.site
-www.hotngood.site
 hototools.com
 www.hototools.com
 hotpremiumdate.de
 www.hotpremiumdate.de
-hotsalecheap.xyz
-www.hotsalecheap.xyz
-hotshomes.com
-www.hotshomes.com
-hotssmart.com
-www.hotssmart.com
-hottlovegood.site
-www.hottlovegood.site
 hoverboard-time.com
 www.hoverboard-time.com
 hovko.store
 www.hovko.store
 howtoavoid.net
 www.howtoavoid.net
-hpchiba.top
-www.hpchiba.top
 hq-shopping.de
 www.hq-shopping.de
 hr2021.com
@@ -4758,8 +4732,6 @@ hubert-steinert.com
 www.hubert-steinert.com
 hubertlaenen.online
 www.hubertlaenen.online
-hubschhome.com
-www.hubschhome.com
 hudabeauty-lagen.com
 www.hudabeauty-lagen.com
 hugfirst.com
@@ -4772,8 +4744,6 @@ hulapro.de
 www.hulapro.de
 hulkwheels.com
 www.hulkwheels.com
-hundaidirectinsu.xyz
-www.hundaidirectinsu.xyz
 hunde-fun.de
 www.hunde-fun.de
 hundekrone.de
@@ -4834,8 +4804,6 @@ iancheer.com
 www.iancheer.com
 iauvon.com
 www.iauvon.com
-ibid-events.com
-www.ibid-events.com
 ibismall.net
 www.ibismall.net
 ibiza-bookingvillas.com

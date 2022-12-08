@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 19:25 UTC
-# Version: 2022.1208.1925.22
+# Last modified: 08 Dez 2022 22:53 UTC
+# Version: 2022.1208.2253.21
 # Syntax: Hosts
-# Domains: 11479
+# Domains: 11447
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -4518,8 +4518,6 @@
 0.0.0.0 www.heraldik-leitfaden.de
 0.0.0.0 herrenmode-pietro.com
 0.0.0.0 www.herrenmode-pietro.com
-0.0.0.0 herrngarten.de
-0.0.0.0 www.herrngarten.de
 0.0.0.0 herzens-mensch.de
 0.0.0.0 www.herzens-mensch.de
 0.0.0.0 herzensnotiz.de
@@ -4560,8 +4558,6 @@
 0.0.0.0 www.himaya.at
 0.0.0.0 himmelok.com
 0.0.0.0 www.himmelok.com
-0.0.0.0 hiremyparents.com
-0.0.0.0 www.hiremyparents.com
 0.0.0.0 hitecschuhe.com
 0.0.0.0 www.hitecschuhe.com
 0.0.0.0 hivasportsl.com
@@ -4596,8 +4592,6 @@
 0.0.0.0 www.holemann.de
 0.0.0.0 hollisteronline-shop.at
 0.0.0.0 www.hollisteronline-shop.at
-0.0.0.0 holmric-spedition.com
-0.0.0.0 www.holmric-spedition.com
 0.0.0.0 vlor.holycrossmoravianchurch.com
 0.0.0.0 holydogwater.de
 0.0.0.0 www.holydogwater.de
@@ -4617,8 +4611,6 @@
 0.0.0.0 www.home-garten-shop.de
 0.0.0.0 home-lan.fr
 0.0.0.0 www.home-lan.fr
-0.0.0.0 home-try.com
-0.0.0.0 www.home-try.com
 0.0.0.0 homedepart.com
 0.0.0.0 www.homedepart.com
 0.0.0.0 homeinw.com
@@ -4642,8 +4634,6 @@
 0.0.0.0 www.hondrox.shop
 0.0.0.0 honestmemories.com
 0.0.0.0 www.honestmemories.com
-0.0.0.0 honesttradefx.com
-0.0.0.0 www.honesttradefx.com
 0.0.0.0 honeyen.com
 0.0.0.0 www.honeyen.com
 0.0.0.0 hongduvehicle.de
@@ -4672,8 +4662,6 @@
 0.0.0.0 www.hospiz-im-ahrtal.de
 0.0.0.0 hostalesquella.com
 0.0.0.0 www.hostalesquella.com
-0.0.0.0 hotboygood.site
-0.0.0.0 www.hotboygood.site
 0.0.0.0 hotbrooks.com
 0.0.0.0 www.hotbrooks.com
 0.0.0.0 hotcheapswear.store
@@ -4706,31 +4694,17 @@
 0.0.0.0 www.hotelsofnewyorkcity.net
 0.0.0.0 hotideabuy.com
 0.0.0.0 www.hotideabuy.com
-0.0.0.0 hotluvgood.site
-0.0.0.0 www.hotluvgood.site
 0.0.0.0 hotment.xyz
-0.0.0.0 hotngood.site
-0.0.0.0 www.hotngood.site
 0.0.0.0 hototools.com
 0.0.0.0 www.hototools.com
 0.0.0.0 hotpremiumdate.de
 0.0.0.0 www.hotpremiumdate.de
-0.0.0.0 hotsalecheap.xyz
-0.0.0.0 www.hotsalecheap.xyz
-0.0.0.0 hotshomes.com
-0.0.0.0 www.hotshomes.com
-0.0.0.0 hotssmart.com
-0.0.0.0 www.hotssmart.com
-0.0.0.0 hottlovegood.site
-0.0.0.0 www.hottlovegood.site
 0.0.0.0 hoverboard-time.com
 0.0.0.0 www.hoverboard-time.com
 0.0.0.0 hovko.store
 0.0.0.0 www.hovko.store
 0.0.0.0 howtoavoid.net
 0.0.0.0 www.howtoavoid.net
-0.0.0.0 hpchiba.top
-0.0.0.0 www.hpchiba.top
 0.0.0.0 hq-shopping.de
 0.0.0.0 www.hq-shopping.de
 0.0.0.0 hr2021.com
@@ -4758,8 +4732,6 @@
 0.0.0.0 www.hubert-steinert.com
 0.0.0.0 hubertlaenen.online
 0.0.0.0 www.hubertlaenen.online
-0.0.0.0 hubschhome.com
-0.0.0.0 www.hubschhome.com
 0.0.0.0 hudabeauty-lagen.com
 0.0.0.0 www.hudabeauty-lagen.com
 0.0.0.0 hugfirst.com
@@ -4772,8 +4744,6 @@
 0.0.0.0 www.hulapro.de
 0.0.0.0 hulkwheels.com
 0.0.0.0 www.hulkwheels.com
-0.0.0.0 hundaidirectinsu.xyz
-0.0.0.0 www.hundaidirectinsu.xyz
 0.0.0.0 hunde-fun.de
 0.0.0.0 www.hunde-fun.de
 0.0.0.0 hundekrone.de
@@ -4834,8 +4804,6 @@
 0.0.0.0 www.iancheer.com
 0.0.0.0 iauvon.com
 0.0.0.0 www.iauvon.com
-0.0.0.0 ibid-events.com
-0.0.0.0 www.ibid-events.com
 0.0.0.0 ibismall.net
 0.0.0.0 www.ibismall.net
 0.0.0.0 ibiza-bookingvillas.com

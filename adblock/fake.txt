@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 08 Dez 2022 19:25 UTC
-! Version: 2022.1208.1925.22
+! Last modified: 08 Dez 2022 22:53 UTC
+! Version: 2022.1208.2253.21
 ! Syntax: AdBlock
-! Domains: 5985
+! Domains: 5969
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -2363,7 +2363,6 @@
 ||henrystyle.de^
 ||heraldik-leitfaden.de^
 ||herrenmode-pietro.com^
-||herrngarten.de^
 ||herzens-mensch.de^
 ||herzensnotiz.de^
 ||heuser-garderobe.de^
@@ -2384,7 +2383,6 @@
 ||himalayankraft.in^
 ||himaya.at^
 ||himmelok.com^
-||hiremyparents.com^
 ||hitecschuhe.com^
 ||hivasportsl.com^
 ||hivintage.com^
@@ -2402,7 +2400,6 @@
 ||holafancy.com^
 ||holemann.de^
 ||hollisteronline-shop.at^
-||holmric-spedition.com^
 ||vlor.holycrossmoravianchurch.com^
 ||holydogwater.de^
 ||holz-baumstamm.com^
@@ -2413,7 +2410,6 @@
 ||holzti.com^
 ||home-garten-shop.de^
 ||home-lan.fr^
-||home-try.com^
 ||homedepart.com^
 ||homeinw.com^
 ||homelieferant.com^
@@ -2427,7 +2423,6 @@
 ||hondrox.eu^
 ||hondrox.shop^
 ||honestmemories.com^
-||honesttradefx.com^
 ||honeyen.com^
 ||hongduvehicle.de^
 ||honk-projekt.de^
@@ -2442,7 +2437,6 @@
 ||hosenwerk.com^
 ||hospiz-im-ahrtal.de^
 ||hostalesquella.com^
-||hotboygood.site^
 ||hotbrooks.com^
 ||hotcheapswear.store^
 ||hotcollectiblegoods.com^
@@ -2459,19 +2453,12 @@
 ||hotelsofmenorca.com^
 ||hotelsofnewyorkcity.net^
 ||hotideabuy.com^
-||hotluvgood.site^
 ||hotment.xyz^
-||hotngood.site^
 ||hototools.com^
 ||hotpremiumdate.de^
-||hotsalecheap.xyz^
-||hotshomes.com^
-||hotssmart.com^
-||hottlovegood.site^
 ||hoverboard-time.com^
 ||hovko.store^
 ||howtoavoid.net^
-||hpchiba.top^
 ||hq-shopping.de^
 ||hr2021.com^
 ||hrqeepy.top^
@@ -2485,14 +2472,12 @@
 ||huayutuozhan.com^
 ||hubert-steinert.com^
 ||hubertlaenen.online^
-||hubschhome.com^
 ||hudabeauty-lagen.com^
 ||hugfirst.com^
 ||hugoverkauf.de^
 ||hulahip.de^
 ||hulapro.de^
 ||hulkwheels.com^
-||hundaidirectinsu.xyz^
 ||hunde-fun.de^
 ||hundekrone.de^
 ||hundeliebee.de^
@@ -2525,7 +2510,6 @@
 ||iamkamu.de^
 ||iancheer.com^
 ||iauvon.com^
-||ibid-events.com^
 ||ibismall.net^
 ||ibiza-bookingvillas.com^
 ||ibiza-villasrental.com^

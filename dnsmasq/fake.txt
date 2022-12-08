@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 19:25 UTC
-# Version: 2022.1208.1925.22
+# Last modified: 08 Dez 2022 22:53 UTC
+# Version: 2022.1208.2253.21
 # Syntax: DNSMasq
-# Domains: 5985
+# Domains: 5969
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -2363,7 +2363,6 @@ address=/henryo.de/#
 address=/henrystyle.de/#
 address=/heraldik-leitfaden.de/#
 address=/herrenmode-pietro.com/#
-address=/herrngarten.de/#
 address=/herzens-mensch.de/#
 address=/herzensnotiz.de/#
 address=/heuser-garderobe.de/#
@@ -2384,7 +2383,6 @@ address=/hillaryvonhacht.com/#
 address=/himalayankraft.in/#
 address=/himaya.at/#
 address=/himmelok.com/#
-address=/hiremyparents.com/#
 address=/hitecschuhe.com/#
 address=/hivasportsl.com/#
 address=/hivintage.com/#
@@ -2402,7 +2400,6 @@ address=/hokaoneoneosterreich.at/#
 address=/holafancy.com/#
 address=/holemann.de/#
 address=/hollisteronline-shop.at/#
-address=/holmric-spedition.com/#
 address=/vlor.holycrossmoravianchurch.com/#
 address=/holydogwater.de/#
 address=/holz-baumstamm.com/#
@@ -2413,7 +2410,6 @@ address=/holzprofis.at/#
 address=/holzti.com/#
 address=/home-garten-shop.de/#
 address=/home-lan.fr/#
-address=/home-try.com/#
 address=/homedepart.com/#
 address=/homeinw.com/#
 address=/homelieferant.com/#
@@ -2427,7 +2423,6 @@ address=/hondrox.com/#
 address=/hondrox.eu/#
 address=/hondrox.shop/#
 address=/honestmemories.com/#
-address=/honesttradefx.com/#
 address=/honeyen.com/#
 address=/hongduvehicle.de/#
 address=/honk-projekt.de/#
@@ -2442,7 +2437,6 @@ address=/horologicalbooks.de/#
 address=/hosenwerk.com/#
 address=/hospiz-im-ahrtal.de/#
 address=/hostalesquella.com/#
-address=/hotboygood.site/#
 address=/hotbrooks.com/#
 address=/hotcheapswear.store/#
 address=/hotcollectiblegoods.com/#
@@ -2459,19 +2453,12 @@ address=/hotelsinvienna.org/#
 address=/hotelsofmenorca.com/#
 address=/hotelsofnewyorkcity.net/#
 address=/hotideabuy.com/#
-address=/hotluvgood.site/#
 address=/hotment.xyz/#
-address=/hotngood.site/#
 address=/hototools.com/#
 address=/hotpremiumdate.de/#
-address=/hotsalecheap.xyz/#
-address=/hotshomes.com/#
-address=/hotssmart.com/#
-address=/hottlovegood.site/#
 address=/hoverboard-time.com/#
 address=/hovko.store/#
 address=/howtoavoid.net/#
-address=/hpchiba.top/#
 address=/hq-shopping.de/#
 address=/hr2021.com/#
 address=/hrqeepy.top/#
@@ -2485,14 +2472,12 @@ address=/huaihaigc.com/#
 address=/huayutuozhan.com/#
 address=/hubert-steinert.com/#
 address=/hubertlaenen.online/#
-address=/hubschhome.com/#
 address=/hudabeauty-lagen.com/#
 address=/hugfirst.com/#
 address=/hugoverkauf.de/#
 address=/hulahip.de/#
 address=/hulapro.de/#
 address=/hulkwheels.com/#
-address=/hundaidirectinsu.xyz/#
 address=/hunde-fun.de/#
 address=/hundekrone.de/#
 address=/hundeliebee.de/#
@@ -2525,7 +2510,6 @@ address=/matfide.iai-shop.com/#
 address=/iamkamu.de/#
 address=/iancheer.com/#
 address=/iauvon.com/#
-address=/ibid-events.com/#
 address=/ibismall.net/#
 address=/ibiza-bookingvillas.com/#
 address=/ibiza-villasrental.com/#
