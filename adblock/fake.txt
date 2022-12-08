@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 08 Dez 2022 15:14 UTC
-! Version: 2022.1208.1514.09
+! Last modified: 08 Dez 2022 18:07 UTC
+! Version: 2022.1208.1807.25
 ! Syntax: AdBlock
-! Domains: 6004
+! Domains: 5992
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -2098,7 +2098,6 @@
 ||gideonsarmymusic.com^
 ||giesler-drogerie.com^
 ||giesswein-outdoor.de^
-||giftinooy.com^
 ||giftmarket.top^
 ||giftworld.shop^
 ||gigagamesclub.com^
@@ -2111,7 +2110,6 @@
 ||ginsengrai.top^
 ||giondo-online.de^
 ||girlsruby.com^
-||giveloveshop.site^
 ||givenic.com^
 ||givoza.store^
 ||gizupp.com^
@@ -2127,7 +2125,6 @@
 ||global-elektro.com^
 ||global-expressdelivery.com^
 ||globalcryptotraders.com^
-||globaltradeoption.online^
 ||glowyplant.de^
 ||gluckaro.de^
 ||gluckbox.com^
@@ -2180,7 +2177,6 @@
 ||goldsouk.de^
 ||goldstollen.de^
 ||golfschule-maxlrain.de^
-||golo-handel.de^
 ||gonaflix.com^
 ||gonetzteil.de^
 ||goodcom.at^
@@ -2193,12 +2189,10 @@
 ||goodweek.de^
 ||googstca.com^
 ||goollucky.com^
-||goosheizen.com^
 ||gooshop.org^
 ||gore-zone.de^
 ||gorlitzfahrschule.com^
 ||gosmartwatch.de^
-||gostoreelec.com^
 ||gotteeshirts.live^
 ||govaro-shop.de^
 ||gplate.de^
@@ -2213,12 +2207,10 @@
 ||gratis-produkttests.de^
 ||gravelmac.com^
 ||gravityspot.de^
-||gravityspot.store^
 ||greatescapery.com^
 ||greatsalefun.com^
 ||grecoguitars.de^
 ||greenbiday.com^
-||greenblisscrash.com^
 ||greencardorganization.com^
 ||greenpayl.top^
 ||greenvillage-online.de^
@@ -2227,7 +2219,6 @@
 ||gridiron2021.com^
 ||grill-shop.eu^
 ||grillmatte.at^
-||grillwerk24.de^
 ||grisino.de^
 ||gritronic.com^
 ||grob-reifen.de^
@@ -2253,11 +2244,9 @@
 ||gulposhn.com^
 ||gummistiefelhunter.de^
 ||gumtreeshop8.com^
-||guneydc.top^
 ||gusti-ledertaschen.de^
 ||gut-mag.ru^
 ||gutbutzow.de^
-||gutcwels.com^
 ||guterkauf.com^
 ||gutesbestes.com^
 ||guude-wie.de^
@@ -2268,7 +2257,6 @@
 ||gymiva.com^
 ||gymonefit.com^
 ||gymsharkosterreich.at^
-||gymwav.de^
 ||gyopar.net^
 ||gzbiaogan.com^
 ||h-birds.store^

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 15:14 UTC
-# Version: 2022.1208.1514.09
+# Last modified: 08 Dez 2022 18:07 UTC
+# Version: 2022.1208.1807.25
 # Syntax: Hosts
-# Domains: 11516
+# Domains: 11493
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -4011,8 +4011,6 @@
 0.0.0.0 giesler-drogerie.com
 0.0.0.0 giesswein-outdoor.de
 0.0.0.0 www.giesswein-outdoor.de
-0.0.0.0 giftinooy.com
-0.0.0.0 www.giftinooy.com
 0.0.0.0 giftmarket.top
 0.0.0.0 giftworld.shop
 0.0.0.0 www.giftworld.shop
@@ -4035,8 +4033,6 @@
 0.0.0.0 www.giondo-online.de
 0.0.0.0 girlsruby.com
 0.0.0.0 www.girlsruby.com
-0.0.0.0 giveloveshop.site
-0.0.0.0 www.giveloveshop.site
 0.0.0.0 givenic.com
 0.0.0.0 www.givenic.com
 0.0.0.0 givoza.store
@@ -4064,8 +4060,6 @@
 0.0.0.0 www.global-expressdelivery.com
 0.0.0.0 globalcryptotraders.com
 0.0.0.0 www.globalcryptotraders.com
-0.0.0.0 globaltradeoption.online
-0.0.0.0 www.globaltradeoption.online
 0.0.0.0 glowyplant.de
 0.0.0.0 www.glowyplant.de
 0.0.0.0 gluckaro.de
@@ -4164,8 +4158,6 @@
 0.0.0.0 www.goldstollen.de
 0.0.0.0 golfschule-maxlrain.de
 0.0.0.0 www.golfschule-maxlrain.de
-0.0.0.0 golo-handel.de
-0.0.0.0 www.golo-handel.de
 0.0.0.0 gonaflix.com
 0.0.0.0 gonetzteil.de
 0.0.0.0 www.gonetzteil.de
@@ -4189,8 +4181,6 @@
 0.0.0.0 www.googstca.com
 0.0.0.0 goollucky.com
 0.0.0.0 www.goollucky.com
-0.0.0.0 goosheizen.com
-0.0.0.0 www.goosheizen.com
 0.0.0.0 gooshop.org
 0.0.0.0 www.gooshop.org
 0.0.0.0 gore-zone.de
@@ -4199,8 +4189,6 @@
 0.0.0.0 www.gorlitzfahrschule.com
 0.0.0.0 gosmartwatch.de
 0.0.0.0 www.gosmartwatch.de
-0.0.0.0 gostoreelec.com
-0.0.0.0 www.gostoreelec.com
 0.0.0.0 gotteeshirts.live
 0.0.0.0 govaro-shop.de
 0.0.0.0 www.govaro-shop.de
@@ -4225,9 +4213,7 @@
 0.0.0.0 gravelmac.com
 0.0.0.0 www.gravelmac.com
 0.0.0.0 gravityspot.de
-0.0.0.0 gravityspot.store
 0.0.0.0 www.gravityspot.de
-0.0.0.0 www.gravityspot.store
 0.0.0.0 greatescapery.com
 0.0.0.0 www.greatescapery.com
 0.0.0.0 greatsalefun.com
@@ -4236,8 +4222,6 @@
 0.0.0.0 www.grecoguitars.de
 0.0.0.0 greenbiday.com
 0.0.0.0 www.greenbiday.com
-0.0.0.0 greenblisscrash.com
-0.0.0.0 www.greenblisscrash.com
 0.0.0.0 greencardorganization.com
 0.0.0.0 www.greencardorganization.com
 0.0.0.0 greenpayl.top
@@ -4254,7 +4238,6 @@
 0.0.0.0 www.grill-shop.eu
 0.0.0.0 grillmatte.at
 0.0.0.0 www.grillmatte.at
-0.0.0.0 grillwerk24.de
 0.0.0.0 grisino.de
 0.0.0.0 www.grisino.de
 0.0.0.0 gritronic.com
@@ -4304,16 +4287,12 @@
 0.0.0.0 www.gummistiefelhunter.de
 0.0.0.0 gumtreeshop8.com
 0.0.0.0 www.gumtreeshop8.com
-0.0.0.0 guneydc.top
-0.0.0.0 www.guneydc.top
 0.0.0.0 gusti-ledertaschen.de
 0.0.0.0 www.gusti-ledertaschen.de
 0.0.0.0 gut-mag.ru
 0.0.0.0 www.gut-mag.ru
 0.0.0.0 gutbutzow.de
 0.0.0.0 www.gutbutzow.de
-0.0.0.0 gutcwels.com
-0.0.0.0 www.gutcwels.com
 0.0.0.0 guterkauf.com
 0.0.0.0 www.guterkauf.com
 0.0.0.0 gutesbestes.com
@@ -4333,8 +4312,6 @@
 0.0.0.0 www.gymonefit.com
 0.0.0.0 gymsharkosterreich.at
 0.0.0.0 www.gymsharkosterreich.at
-0.0.0.0 gymwav.de
-0.0.0.0 www.gymwav.de
 0.0.0.0 gyopar.net
 0.0.0.0 www.gyopar.net
 0.0.0.0 gzbiaogan.com

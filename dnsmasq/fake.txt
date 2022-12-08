@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 15:14 UTC
-# Version: 2022.1208.1514.09
+# Last modified: 08 Dez 2022 18:07 UTC
+# Version: 2022.1208.1807.25
 # Syntax: DNSMasq
-# Domains: 6004
+# Domains: 5992
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -2098,7 +2098,6 @@ address=/ghrh.shop/#
 address=/gideonsarmymusic.com/#
 address=/giesler-drogerie.com/#
 address=/giesswein-outdoor.de/#
-address=/giftinooy.com/#
 address=/giftmarket.top/#
 address=/giftworld.shop/#
 address=/gigagamesclub.com/#
@@ -2111,7 +2110,6 @@ address=/ginkslab.com/#
 address=/ginsengrai.top/#
 address=/giondo-online.de/#
 address=/girlsruby.com/#
-address=/giveloveshop.site/#
 address=/givenic.com/#
 address=/givoza.store/#
 address=/gizupp.com/#
@@ -2127,7 +2125,6 @@ address=/glitzermoment.com/#
 address=/global-elektro.com/#
 address=/global-expressdelivery.com/#
 address=/globalcryptotraders.com/#
-address=/globaltradeoption.online/#
 address=/glowyplant.de/#
 address=/gluckaro.de/#
 address=/gluckbox.com/#
@@ -2180,7 +2177,6 @@ address=/shop.goldsea.es/#
 address=/goldsouk.de/#
 address=/goldstollen.de/#
 address=/golfschule-maxlrain.de/#
-address=/golo-handel.de/#
 address=/gonaflix.com/#
 address=/gonetzteil.de/#
 address=/goodcom.at/#
@@ -2193,12 +2189,10 @@ address=/goodtall.live/#
 address=/goodweek.de/#
 address=/googstca.com/#
 address=/goollucky.com/#
-address=/goosheizen.com/#
 address=/gooshop.org/#
 address=/gore-zone.de/#
 address=/gorlitzfahrschule.com/#
 address=/gosmartwatch.de/#
-address=/gostoreelec.com/#
 address=/gotteeshirts.live/#
 address=/govaro-shop.de/#
 address=/gplate.de/#
@@ -2213,12 +2207,10 @@ address=/graskaufen.shop/#
 address=/gratis-produkttests.de/#
 address=/gravelmac.com/#
 address=/gravityspot.de/#
-address=/gravityspot.store/#
 address=/greatescapery.com/#
 address=/greatsalefun.com/#
 address=/grecoguitars.de/#
 address=/greenbiday.com/#
-address=/greenblisscrash.com/#
 address=/greencardorganization.com/#
 address=/greenpayl.top/#
 address=/greenvillage-online.de/#
@@ -2227,7 +2219,6 @@ address=/grensondeutschland.de/#
 address=/gridiron2021.com/#
 address=/grill-shop.eu/#
 address=/grillmatte.at/#
-address=/grillwerk24.de/#
 address=/grisino.de/#
 address=/gritronic.com/#
 address=/grob-reifen.de/#
@@ -2253,11 +2244,9 @@ address=/guitarsgarden.com/#
 address=/gulposhn.com/#
 address=/gummistiefelhunter.de/#
 address=/gumtreeshop8.com/#
-address=/guneydc.top/#
 address=/gusti-ledertaschen.de/#
 address=/gut-mag.ru/#
 address=/gutbutzow.de/#
-address=/gutcwels.com/#
 address=/guterkauf.com/#
 address=/gutesbestes.com/#
 address=/guude-wie.de/#
@@ -2268,7 +2257,6 @@ address=/gwz-max.de/#
 address=/gymiva.com/#
 address=/gymonefit.com/#
 address=/gymsharkosterreich.at/#
-address=/gymwav.de/#
 address=/gyopar.net/#
 address=/gzbiaogan.com/#
 address=/h-birds.store/#
