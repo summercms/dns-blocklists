@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Dez 2022 08:12 UTC
-# Version: 2022.1208.0812.59
+# Last modified: 08 Dez 2022 15:17 UTC
+# Version: 2022.1208.1517.46
 # Syntax: DNSMasq
-# Domains: 21624
+# Domains: 21620
 #
 address=/000webhost.com/#
 address=/000webhostapp.com/#
@@ -8148,9 +8148,6 @@ address=/refer.fahw.com/#
 address=/www2.fairhealth.org/#
 address=/sstats.fairmont.com/#
 address=/fairu-blog.com/#
-address=/fairu-blog.xyz/#
-address=/fairu-cdn.xyz/#
-address=/fairu-chat.xyz/#
 address=/fairu-endpoint.com/#
 address=/fairu-endpoint.xyz/#
 address=/fairu-schnellvpn.xyz/#
@@ -8399,7 +8396,6 @@ address=/gtrack.flamingoof.com/#
 address=/track.flamingoof.com/#
 address=/flash.cn/#
 address=/flashb.id/#
-address=/supertracker.flashget.com/#
 address=/flashnetic.com/#
 address=/flashrewards.co/#
 address=/hiuplq.flashscore.com/#
