@@ -1963,3 +1963,10 @@
 @@|hsforms.com^
 @@|hsforms.net^
 
+! Surveys
+@@|opinions.research-interactive.com^
+@@|surveymyopinion.researchnow.com^
+
+! Customer live chat support
+@@|liveperson.com^
+
