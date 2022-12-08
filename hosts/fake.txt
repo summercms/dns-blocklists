@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 23:55 UTC
-# Version: 2022.1207.2355.09
+# Last modified: 08 Dez 2022 08:09 UTC
+# Version: 2022.1208.0809.16
 # Syntax: Hosts
-# Domains: 11624
+# Domains: 11582
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -2621,8 +2621,6 @@
 0.0.0.0 www.dogarta.de
 0.0.0.0 doggenkirchner.de
 0.0.0.0 www.doggenkirchner.de
-0.0.0.0 doggyplum.com
-0.0.0.0 www.doggyplum.com
 0.0.0.0 dogsdreamaustria.at
 0.0.0.0 www.dogsdreamaustria.at
 0.0.0.0 dohahotel24.com
@@ -2729,12 +2727,8 @@
 0.0.0.0 www.drsonnberger.at
 0.0.0.0 dslladen.com
 0.0.0.0 www.dslladen.com
-0.0.0.0 dsomoybd.com
-0.0.0.0 www.dsomoybd.com
 0.0.0.0 dsuleipzig.de
 0.0.0.0 www.dsuleipzig.de
-0.0.0.0 dsyswy.top
-0.0.0.0 www.dsyswy.top
 0.0.0.0 dt-courier.net
 0.0.0.0 www.dt-courier.net
 0.0.0.0 du-und-ich.at
@@ -2763,8 +2757,6 @@
 0.0.0.0 www.dvdsetstore.com
 0.0.0.0 dvg-hagen-mitte.de
 0.0.0.0 www.dvg-hagen-mitte.de
-0.0.0.0 dvsongrlf.top
-0.0.0.0 www.dvsongrlf.top
 0.0.0.0 dwaynejohnson.de
 0.0.0.0 dxvape.com
 0.0.0.0 www.dxvape.com
@@ -2792,14 +2784,10 @@
 0.0.0.0 www.ea-jena.de
 0.0.0.0 eacsquash.fr
 0.0.0.0 www.eacsquash.fr
-0.0.0.0 eaepp.com
-0.0.0.0 www.eaepp.com
 0.0.0.0 eaglelightfx.com
 0.0.0.0 www.eaglelightfx.com
 0.0.0.0 earlyty.xyz
 0.0.0.0 www.earlyty.xyz
-0.0.0.0 easarwood.com
-0.0.0.0 www.easarwood.com
 0.0.0.0 easthamforum.com
 0.0.0.0 www.easthamforum.com
 0.0.0.0 easy-ltd.eu
@@ -2815,10 +2803,6 @@
 0.0.0.0 www.eatggrant.shop
 0.0.0.0 eaxpch.site
 0.0.0.0 www.eaxpch.site
-0.0.0.0 eazybobuy.site
-0.0.0.0 www.eazybobuy.site
-0.0.0.0 ebereader.top
-0.0.0.0 www.ebereader.top
 0.0.0.0 eberhard-versand.de
 0.0.0.0 www.eberhard-versand.de
 0.0.0.0 eberhard-wurst.de
@@ -2916,10 +2900,6 @@
 0.0.0.0 www.einfacher-markt.com
 0.0.0.0 einfachknorke.de
 0.0.0.0 www.einfachknorke.de
-0.0.0.0 eis-henning.de
-0.0.0.0 www.eis-henning.de
-0.0.0.0 eiseleshop.de
-0.0.0.0 www.eiseleshop.de
 0.0.0.0 eisschild.com
 0.0.0.0 www.eisschild.com
 0.0.0.0 ejoy.ch
@@ -2988,24 +2968,14 @@
 0.0.0.0 www.elektrodo.de
 0.0.0.0 elektrofahrradladen.de
 0.0.0.0 www.elektrofahrradladen.de
-0.0.0.0 elektrohaus-schulze.com
-0.0.0.0 www.elektrohaus-schulze.com
-0.0.0.0 elektrohaus24.com
-0.0.0.0 www.elektrohaus24.com
 0.0.0.0 elektrohoppe.de
 0.0.0.0 www.elektrohoppe.de
 0.0.0.0 elektronik-handel.com
 0.0.0.0 www.elektronik-handel.com
-0.0.0.0 elektronik-steiner.com
-0.0.0.0 www.elektronik-steiner.com
 0.0.0.0 elektronikbester.com
 0.0.0.0 www.elektronikbester.com
-0.0.0.0 elektronikbilliger.com
-0.0.0.0 www.elektronikbilliger.com
 0.0.0.0 elektroniknetzteil.de
 0.0.0.0 www.elektroniknetzteil.de
-0.0.0.0 elektronikoutlet.com
-0.0.0.0 www.elektronikoutlet.com
 0.0.0.0 elektronio.de
 0.0.0.0 www.elektronio.de
 0.0.0.0 elektronlinestore.com
@@ -3054,8 +3024,6 @@
 0.0.0.0 www.ellerne.com
 0.0.0.0 elleslife.com
 0.0.0.0 www.elleslife.com
-0.0.0.0 ellessebillig.com
-0.0.0.0 www.ellessebillig.com
 0.0.0.0 elo-cc.de
 0.0.0.0 www.elo-cc.de
 0.0.0.0 elo-werker.com
@@ -3120,8 +3088,6 @@
 0.0.0.0 www.engeliebe.de
 0.0.0.0 enginelover.com
 0.0.0.0 www.enginelover.com
-0.0.0.0 engins-siebenraben.de
-0.0.0.0 www.engins-siebenraben.de
 0.0.0.0 englle.com
 0.0.0.0 www.englle.com
 0.0.0.0 enjify.com
@@ -3140,8 +3106,6 @@
 0.0.0.0 www.enstlogistics.com
 0.0.0.0 enter-croatia.com
 0.0.0.0 www.enter-croatia.com
-0.0.0.0 entruempelung-gruber.info
-0.0.0.0 www.entruempelung-gruber.info
 0.0.0.0 entscheider-messe.de
 0.0.0.0 www.entscheider-messe.de
 0.0.0.0 eowo.de
@@ -3151,8 +3115,6 @@
 0.0.0.0 www.eporlake.com
 0.0.0.0 eprohrs.top
 0.0.0.0 www.eprohrs.top
-0.0.0.0 equapulia.it
-0.0.0.0 www.equapulia.it
 0.0.0.0 equsi0n.com
 0.0.0.0 www.equsi0n.com
 0.0.0.0 erbrechtstage-gera.de
@@ -3163,8 +3125,6 @@
 0.0.0.0 www.eregro.com
 0.0.0.0 ereka-elecktro.com
 0.0.0.0 www.ereka-elecktro.com
-0.0.0.0 erektslim.com
-0.0.0.0 www.erektslim.com
 0.0.0.0 eremea.de
 0.0.0.0 www.eremea.de
 0.0.0.0 ergo-ruhrgebiet.de
@@ -3202,8 +3162,6 @@
 0.0.0.0 ethashop.com
 0.0.0.0 www.ethashop.com
 0.0.0.0 ethoose.xyz
-0.0.0.0 etkbbc.com
-0.0.0.0 www.etkbbc.com
 0.0.0.0 etniesosterreich.at
 0.0.0.0 www.etniesosterreich.at
 0.0.0.0 etr-karlsruhe.de

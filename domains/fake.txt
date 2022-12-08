@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Dez 2022 23:55 UTC
-# Version: 2022.1207.2355.09
+# Last modified: 08 Dez 2022 08:09 UTC
+# Version: 2022.1208.0809.16
 # Syntax: Domains
-# Domains: 11624
+# Domains: 11582
 #
 willhaben.at.04300.id
 11trikots.com
@@ -2621,8 +2621,6 @@ dogarta.de
 www.dogarta.de
 doggenkirchner.de
 www.doggenkirchner.de
-doggyplum.com
-www.doggyplum.com
 dogsdreamaustria.at
 www.dogsdreamaustria.at
 dohahotel24.com
@@ -2729,12 +2727,8 @@ drsonnberger.at
 www.drsonnberger.at
 dslladen.com
 www.dslladen.com
-dsomoybd.com
-www.dsomoybd.com
 dsuleipzig.de
 www.dsuleipzig.de
-dsyswy.top
-www.dsyswy.top
 dt-courier.net
 www.dt-courier.net
 du-und-ich.at
@@ -2763,8 +2757,6 @@ dvdsetstore.com
 www.dvdsetstore.com
 dvg-hagen-mitte.de
 www.dvg-hagen-mitte.de
-dvsongrlf.top
-www.dvsongrlf.top
 dwaynejohnson.de
 dxvape.com
 www.dxvape.com
@@ -2792,14 +2784,10 @@ ea-jena.de
 www.ea-jena.de
 eacsquash.fr
 www.eacsquash.fr
-eaepp.com
-www.eaepp.com
 eaglelightfx.com
 www.eaglelightfx.com
 earlyty.xyz
 www.earlyty.xyz
-easarwood.com
-www.easarwood.com
 easthamforum.com
 www.easthamforum.com
 easy-ltd.eu
@@ -2815,10 +2803,6 @@ eatggrant.shop
 www.eatggrant.shop
 eaxpch.site
 www.eaxpch.site
-eazybobuy.site
-www.eazybobuy.site
-ebereader.top
-www.ebereader.top
 eberhard-versand.de
 www.eberhard-versand.de
 eberhard-wurst.de
@@ -2916,10 +2900,6 @@ einfacher-markt.com
 www.einfacher-markt.com
 einfachknorke.de
 www.einfachknorke.de
-eis-henning.de
-www.eis-henning.de
-eiseleshop.de
-www.eiseleshop.de
 eisschild.com
 www.eisschild.com
 ejoy.ch
@@ -2988,24 +2968,14 @@ elektrodo.de
 www.elektrodo.de
 elektrofahrradladen.de
 www.elektrofahrradladen.de
-elektrohaus-schulze.com
-www.elektrohaus-schulze.com
-elektrohaus24.com
-www.elektrohaus24.com
 elektrohoppe.de
 www.elektrohoppe.de
 elektronik-handel.com
 www.elektronik-handel.com
-elektronik-steiner.com
-www.elektronik-steiner.com
 elektronikbester.com
 www.elektronikbester.com
-elektronikbilliger.com
-www.elektronikbilliger.com
 elektroniknetzteil.de
 www.elektroniknetzteil.de
-elektronikoutlet.com
-www.elektronikoutlet.com
 elektronio.de
 www.elektronio.de
 elektronlinestore.com
@@ -3054,8 +3024,6 @@ ellerne.com
 www.ellerne.com
 elleslife.com
 www.elleslife.com
-ellessebillig.com
-www.ellessebillig.com
 elo-cc.de
 www.elo-cc.de
 elo-werker.com
@@ -3120,8 +3088,6 @@ engeliebe.de
 www.engeliebe.de
 enginelover.com
 www.enginelover.com
-engins-siebenraben.de
-www.engins-siebenraben.de
 englle.com
 www.englle.com
 enjify.com
@@ -3140,8 +3106,6 @@ enstlogistics.com
 www.enstlogistics.com
 enter-croatia.com
 www.enter-croatia.com
-entruempelung-gruber.info
-www.entruempelung-gruber.info
 entscheider-messe.de
 www.entscheider-messe.de
 eowo.de
@@ -3151,8 +3115,6 @@ eporlake.com
 www.eporlake.com
 eprohrs.top
 www.eprohrs.top
-equapulia.it
-www.equapulia.it
 equsi0n.com
 www.equsi0n.com
 erbrechtstage-gera.de
@@ -3163,8 +3125,6 @@ eregro.com
 www.eregro.com
 ereka-elecktro.com
 www.ereka-elecktro.com
-erektslim.com
-www.erektslim.com
 eremea.de
 www.eremea.de
 ergo-ruhrgebiet.de
@@ -3202,8 +3162,6 @@ www.esyqefp.top
 ethashop.com
 www.ethashop.com
 ethoose.xyz
-etkbbc.com
-www.etkbbc.com
 etniesosterreich.at
 www.etniesosterreich.at
 etr-karlsruhe.de
