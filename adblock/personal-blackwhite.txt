@@ -7712,7 +7712,6 @@
 ||epizy.com^
 ||ea.epochbase.com^
 ||epom.com^
-||arc.epoq.de^
 ||eprize.com^
 ||eproof.com^
 ||epstiensblackbook.com^
@@ -29617,6 +29616,9 @@
 
 ! Customer live chat support
 @@|liveperson.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/96
+@@||arc.epoq.de^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.

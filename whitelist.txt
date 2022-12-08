@@ -1970,3 +1970,6 @@ surveymyopinion.researchnow.com
 # Customer live chat support
 liveperson.com
 
+# https://github.com/hagezi/dns-blocklists/issues/96
+*.arc.epoq.de
+
