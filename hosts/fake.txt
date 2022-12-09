@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 07:39 UTC
-# Version: 2022.1209.0739.25
+# Last modified: 09 Dez 2022 23:55 UTC
+# Version: 2022.1209.2355.52
 # Syntax: Hosts
-# Domains: 11423
+# Domains: 11324
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1976,7 +1976,6 @@
 0.0.0.0 knightsgoneby.co.uk
 0.0.0.0 labubu.co.uk
 0.0.0.0 littlecow.co.kr
-0.0.0.0 luna-motors.co.uk
 0.0.0.0 luxeparfum.co.uk
 0.0.0.0 mgfoundation.co.uk
 0.0.0.0 officialiphoneunlock.co.uk
@@ -5484,8 +5483,6 @@
 0.0.0.0 www.kochgrill24.com
 0.0.0.0 kochsalon.at
 0.0.0.0 www.kochsalon.at
-0.0.0.0 koenig-handel.de
-0.0.0.0 www.koenig-handel.de
 0.0.0.0 koffer-store.com
 0.0.0.0 www.koffer-store.com
 0.0.0.0 kofitnessd.top
@@ -5509,8 +5506,6 @@
 0.0.0.0 www.konsolen-online.com
 0.0.0.0 konsolenparadies.de
 0.0.0.0 www.konsolenparadies.de
-0.0.0.0 konsumentenschuetzer.com
-0.0.0.0 www.konsumentenschuetzer.com
 0.0.0.0 kontaktgrill-test.net
 0.0.0.0 www.kontaktgrill-test.net
 0.0.0.0 konzept-raum.de
@@ -5519,8 +5514,6 @@
 0.0.0.0 www.koogoshop.com
 0.0.0.0 koretrak.kaufen
 0.0.0.0 www.koretrak.kaufen
-0.0.0.0 kortsdam.de
-0.0.0.0 www.kortsdam.de
 0.0.0.0 koscielnya.com
 0.0.0.0 www.koscielnya.com
 0.0.0.0 kosmetik-kreis.de
@@ -5538,8 +5531,6 @@
 0.0.0.0 www.kredit-ohne-auskunft.at
 0.0.0.0 kreditcenter24.org
 0.0.0.0 www.kreditcenter24.org
-0.0.0.0 kreispiraten-of.de
-0.0.0.0 www.kreispiraten-of.de
 0.0.0.0 kreisverbandleer.de
 0.0.0.0 www.kreisverbandleer.de
 0.0.0.0 kristroom.ru
@@ -5556,8 +5547,6 @@
 0.0.0.0 www.kruggolife.com
 0.0.0.0 kryptomaschinen.com
 0.0.0.0 www.kryptomaschinen.com
-0.0.0.0 kswissschuhes.com
-0.0.0.0 www.kswissschuhes.com
 0.0.0.0 ktristandy.com
 0.0.0.0 www.ktristandy.com
 0.0.0.0 kuechen-xxl.de
@@ -5604,8 +5593,6 @@
 0.0.0.0 www.ladyones.com
 0.0.0.0 ladyvanilla.de
 0.0.0.0 www.ladyvanilla.de
-0.0.0.0 lafrican.top
-0.0.0.0 www.lafrican.top
 0.0.0.0 lagerverkauf24.de
 0.0.0.0 www.lagerverkauf24.de
 0.0.0.0 lagunalaguna.com
@@ -5614,8 +5601,6 @@
 0.0.0.0 www.lakihair.com
 0.0.0.0 laltraveu.org
 0.0.0.0 www.laltraveu.org
-0.0.0.0 lamict.com
-0.0.0.0 www.lamict.com
 0.0.0.0 lancebruce.com
 0.0.0.0 www.lancebruce.com
 0.0.0.0 landchi.com
@@ -5756,8 +5741,6 @@
 0.0.0.0 levelbikes.de
 0.0.0.0 levitra-20mg-priceof.online
 0.0.0.0 www.levitra-20mg-priceof.online
-0.0.0.0 levitra365.top
-0.0.0.0 www.levitra365.top
 0.0.0.0 levoda.de
 0.0.0.0 www.levoda.de
 0.0.0.0 lewitznetzwerk.de
@@ -5768,8 +5751,6 @@
 0.0.0.0 www.lexflix.de
 0.0.0.0 lexingtonplus.com
 0.0.0.0 www.lexingtonplus.com
-0.0.0.0 lferton.com
-0.0.0.0 www.lferton.com
 0.0.0.0 lfidsor.com
 0.0.0.0 www.lfidsor.com
 0.0.0.0 lfirst-ag.ch
@@ -5784,8 +5765,6 @@
 0.0.0.0 www.lichthaeusl.de
 0.0.0.0 lidawood.eu
 0.0.0.0 www.lidawood.eu
-0.0.0.0 lideabag.com
-0.0.0.0 www.lideabag.com
 0.0.0.0 lidoras.com
 0.0.0.0 www.lidoras.com
 0.0.0.0 lieb-schafft.de
@@ -5860,8 +5839,6 @@
 0.0.0.0 www.linh-nguyen.de
 0.0.0.0 lioray.com
 0.0.0.0 www.lioray.com
-0.0.0.0 litise.com
-0.0.0.0 www.litise.com
 0.0.0.0 littlebo.at
 0.0.0.0 www.littlebo.at
 0.0.0.0 liudadaa.com
@@ -5898,8 +5875,6 @@
 0.0.0.0 www.lloydloom.com
 0.0.0.0 lmwip.top
 0.0.0.0 www.lmwip.top
-0.0.0.0 localdealservices.com
-0.0.0.0 www.localdealservices.com
 0.0.0.0 locating.mobi
 0.0.0.0 www.locating.mobi
 0.0.0.0 lockpickingstore.de
@@ -5952,25 +5927,12 @@
 0.0.0.0 www.lovecatzone.com
 0.0.0.0 lovefashion.site
 0.0.0.0 www.lovefashion.site
-0.0.0.0 loveforshop.site
-0.0.0.0 www.loveforshop.site
-0.0.0.0 lovegreat.site
-0.0.0.0 www.lovegreat.site
-0.0.0.0 lovemybest.site
-0.0.0.0 www.lovemybest.site
-0.0.0.0 lovetogobook.site
-0.0.0.0 www.lovetogobook.site
-0.0.0.0 lovetokkbook.site
-0.0.0.0 www.lovetokkbook.site
-0.0.0.0 lovetryshop.site
-0.0.0.0 www.lovetryshop.site
 0.0.0.0 lovisdora.com
 0.0.0.0 www.lovisdora.com
 0.0.0.0 lovvingss.com
 0.0.0.0 www.lovvingss.com
 0.0.0.0 lowadeutschland.de
 0.0.0.0 www.lowadeutschland.de
-0.0.0.0 lowaonlineshops.de
 0.0.0.0 lowaosterreich.at
 0.0.0.0 www.lowaosterreich.at
 0.0.0.0 lowasale.de
@@ -6039,8 +6001,6 @@
 0.0.0.0 www.luxefetch.com
 0.0.0.0 luxhause.de
 0.0.0.0 www.luxhause.de
-0.0.0.0 luxishop.de
-0.0.0.0 www.luxishop.de
 0.0.0.0 luxsofabezuege.com
 0.0.0.0 www.luxsofabezuege.com
 0.0.0.0 luxury-shop.at
@@ -6091,8 +6051,6 @@
 0.0.0.0 www.maehercenter.de
 0.0.0.0 mafiatekno.com
 0.0.0.0 www.mafiatekno.com
-0.0.0.0 magacryptotrading.com
-0.0.0.0 www.magacryptotrading.com
 0.0.0.0 magliecalciocn.net
 0.0.0.0 www.magliecalciocn.net
 0.0.0.0 magnitshop.com
@@ -6141,8 +6099,6 @@
 0.0.0.0 man-homes.com
 0.0.0.0 www.man-homes.com
 0.0.0.0 manatic.xyz
-0.0.0.0 maneyers.com
-0.0.0.0 www.maneyers.com
 0.0.0.0 manga-reich.de
 0.0.0.0 www.manga-reich.de
 0.0.0.0 mangodeluxe.at
@@ -6195,12 +6151,8 @@
 0.0.0.0 www.marrbudm.top
 0.0.0.0 martensosterreich.com
 0.0.0.0 www.martensosterreich.com
-0.0.0.0 marthoney.site
-0.0.0.0 www.marthoney.site
 0.0.0.0 marti-bosom.de
 0.0.0.0 www.marti-bosom.de
-0.0.0.0 martsbuy.site
-0.0.0.0 www.martsbuy.site
 0.0.0.0 marvinmartin.de
 0.0.0.0 www.marvinmartin.de
 0.0.0.0 maryrosecuskelly.com
@@ -6209,28 +6161,20 @@
 0.0.0.0 www.mascotsmall.com
 0.0.0.0 mashskincare.com
 0.0.0.0 www.mashskincare.com
-0.0.0.0 masoponline.site
-0.0.0.0 www.masoponline.site
 0.0.0.0 massive-deals.com
 0.0.0.0 www.massive-deals.com
 0.0.0.0 masterclass-toblach.de
 0.0.0.0 www.masterclass-toblach.de
 0.0.0.0 matcha-sllim.cc
 0.0.0.0 www.matcha-sllim.cc
-0.0.0.0 matec-media.com
-0.0.0.0 www.matec-media.com
 0.0.0.0 matejkohotelkrakow.com
 0.0.0.0 www.matejkohotelkrakow.com
 0.0.0.0 mathiasbruchmann.de
 0.0.0.0 www.mathiasbruchmann.de
-0.0.0.0 matreex99.com
-0.0.0.0 www.matreex99.com
 0.0.0.0 mattgrafix-grafikdesign.de
 0.0.0.0 www.mattgrafix-grafikdesign.de
 0.0.0.0 matthiastierheim.com
 0.0.0.0 www.matthiastierheim.com
-0.0.0.0 mauritius-koeln.de
-0.0.0.0 www.mauritius-koeln.de
 0.0.0.0 mauromilana.it
 0.0.0.0 www.mauromilana.it
 0.0.0.0 mautgebuhren.de
@@ -6248,28 +6192,10 @@
 0.0.0.0 www.maxspiele.com
 0.0.0.0 maxxdrinks.com
 0.0.0.0 www.maxxdrinks.com
-0.0.0.0 maxxi.tech
-0.0.0.0 www.maxxi.tech
 0.0.0.0 mayeroutlet.com
 0.0.0.0 www.mayeroutlet.com
 0.0.0.0 mayrhofen-hotels.at
 0.0.0.0 www.mayrhofen-hotels.at
-0.0.0.0 mazobuylove.site
-0.0.0.0 www.mazobuylove.site
-0.0.0.0 mazoncash.com
-0.0.0.0 www.mazoncash.com
-0.0.0.0 mazopllc.site
-0.0.0.0 www.mazopllc.site
-0.0.0.0 mazopo.site
-0.0.0.0 www.mazopo.site
-0.0.0.0 mazops.site
-0.0.0.0 www.mazops.site
-0.0.0.0 mazopsnow.site
-0.0.0.0 www.mazopsnow.site
-0.0.0.0 mazopulove.site
-0.0.0.0 www.mazopulove.site
-0.0.0.0 mazopuplove.site
-0.0.0.0 www.mazopuplove.site
 0.0.0.0 mbali-yangu.de
 0.0.0.0 www.mbali-yangu.de
 0.0.0.0 mbike-jena.de
@@ -6368,8 +6294,6 @@
 0.0.0.0 megaflix.de
 0.0.0.0 www.megaflix.de
 0.0.0.0 megahood.de
-0.0.0.0 megahood.store
-0.0.0.0 www.megahood.store
 0.0.0.0 megaose.xyz
 0.0.0.0 www.megaose.xyz
 0.0.0.0 megarabat.shop
@@ -6381,8 +6305,6 @@
 0.0.0.0 mehnike.com
 0.0.0.0 www.mehnike.com
 0.0.0.0 mehrwerken.de
-0.0.0.0 meier-24.com
-0.0.0.0 www.meier-24.com
 0.0.0.0 meiers.eu
 0.0.0.0 www.meiers.eu
 0.0.0.0 mein-babybauch.de
@@ -6444,8 +6366,6 @@
 0.0.0.0 www.meisteruebersiedlung.at
 0.0.0.0 meiteshop.com
 0.0.0.0 www.meiteshop.com
-0.0.0.0 mejrubiop.com
-0.0.0.0 www.mejrubiop.com
 0.0.0.0 meladen.de
 0.0.0.0 www.meladen.de
 0.0.0.0 melanca.de
@@ -6531,16 +6451,12 @@
 0.0.0.0 www.mih-luehr.de
 0.0.0.0 mihorga.com
 0.0.0.0 www.mihorga.com
-0.0.0.0 mikalau.com
-0.0.0.0 www.mikalau.com
 0.0.0.0 mikedavis.de
 0.0.0.0 mikeelike.com
 0.0.0.0 www.mikeelike.com
 0.0.0.0 mikenovember.com
 0.0.0.0 www.mikenovember.com
 0.0.0.0 m.milanoo.com
-0.0.0.0 milbdy.com
-0.0.0.0 www.milbdy.com
 0.0.0.0 milchcheese.com
 0.0.0.0 www.milchcheese.com
 0.0.0.0 milf-direkt.com
@@ -6579,8 +6495,6 @@
 0.0.0.0 www.miniflix.de
 0.0.0.0 minimalsurvival.com
 0.0.0.0 www.minimalsurvival.com
-0.0.0.0 miningcointrader.com
-0.0.0.0 www.miningcointrader.com
 0.0.0.0 miniwallet.at
 0.0.0.0 minkenundpalme.de
 0.0.0.0 www.minkenundpalme.de
@@ -6739,7 +6653,6 @@
 0.0.0.0 www.mondschiff.de
 0.0.0.0 mondycar.de
 0.0.0.0 www.mondycar.de
-0.0.0.0 mongroe.de
 0.0.0.0 monicasneaker.cc
 0.0.0.0 www.monicasneaker.cc
 0.0.0.0 monoflix.de
@@ -6748,12 +6661,8 @@
 0.0.0.0 www.monokompakt.de
 0.0.0.0 monostarscope.com
 0.0.0.0 www.monostarscope.com
-0.0.0.0 monplay.de
-0.0.0.0 www.monplay.de
 0.0.0.0 montanahudson.com
 0.0.0.0 www.montanahudson.com
-0.0.0.0 montgerra.com
-0.0.0.0 www.montgerra.com
 0.0.0.0 montrereplique.to
 0.0.0.0 www.montrereplique.to
 0.0.0.0 monvada.de
@@ -6803,8 +6712,6 @@
 0.0.0.0 www.moviesta.de
 0.0.0.0 moyucubeshop.com
 0.0.0.0 www.moyucubeshop.com
-0.0.0.0 mozopon.site
-0.0.0.0 www.mozopon.site
 0.0.0.0 mrair.xyz
 0.0.0.0 mrphonedeals.com
 0.0.0.0 www.mrphonedeals.com
@@ -6873,8 +6780,6 @@
 0.0.0.0 www.mycaboconcierge.com
 0.0.0.0 mycezanny.com
 0.0.0.0 www.mycezanny.com
-0.0.0.0 mychealove.site
-0.0.0.0 www.mychealove.site
 0.0.0.0 myclothes.shop
 0.0.0.0 myclothes.site
 0.0.0.0 www.myclothes.shop
@@ -6887,8 +6792,6 @@
 0.0.0.0 www.myfaktory.com
 0.0.0.0 myfunnysocks.de
 0.0.0.0 www.myfunnysocks.de
-0.0.0.0 mygoodstuff.site
-0.0.0.0 www.mygoodstuff.site
 0.0.0.0 myhobbyclub.com
 0.0.0.0 www.myhobbyclub.com
 0.0.0.0 myhomestore.club
@@ -10406,8 +10309,6 @@
 0.0.0.0 www.up4profit.net
 0.0.0.0 upservices.de
 0.0.0.0 www.upservices.de
-0.0.0.0 upsolutmv.com
-0.0.0.0 www.upsolutmv.com
 0.0.0.0 upup.at
 0.0.0.0 www.upup.at
 0.0.0.0 urban-patterns.de
@@ -11038,14 +10939,14 @@
 0.0.0.0 www.winklerversand.net
 0.0.0.0 winmuli.com
 0.0.0.0 www.winmuli.com
+0.0.0.0 wintehere.com
+0.0.0.0 www.wintehere.com
 0.0.0.0 winterangebote.store
 0.0.0.0 www.winterangebote.store
 0.0.0.0 wintercomfy.com
 0.0.0.0 www.wintercomfy.com
 0.0.0.0 winterfallkits.de
 0.0.0.0 www.winterfallkits.de
-0.0.0.0 winternigh.com
-0.0.0.0 www.winternigh.com
 0.0.0.0 winterstiefelsale.at
 0.0.0.0 www.winterstiefelsale.at
 0.0.0.0 winterzone.com

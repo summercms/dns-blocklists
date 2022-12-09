@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 07:39 UTC
-# Version: 2022.1209.0739.25
+# Last modified: 09 Dez 2022 23:55 UTC
+# Version: 2022.1209.2355.52
 # Syntax: Domains
-# Domains: 11423
+# Domains: 11324
 #
 willhaben.at.04300.id
 11trikots.com
@@ -1976,7 +1976,6 @@ jackwolfskinaustria.co.at
 knightsgoneby.co.uk
 labubu.co.uk
 littlecow.co.kr
-luna-motors.co.uk
 luxeparfum.co.uk
 mgfoundation.co.uk
 officialiphoneunlock.co.uk
@@ -5484,8 +5483,6 @@ kochgrill24.com
 www.kochgrill24.com
 kochsalon.at
 www.kochsalon.at
-koenig-handel.de
-www.koenig-handel.de
 koffer-store.com
 www.koffer-store.com
 kofitnessd.top
@@ -5509,8 +5506,6 @@ konsolen-online.com
 www.konsolen-online.com
 konsolenparadies.de
 www.konsolenparadies.de
-konsumentenschuetzer.com
-www.konsumentenschuetzer.com
 kontaktgrill-test.net
 www.kontaktgrill-test.net
 konzept-raum.de
@@ -5519,8 +5514,6 @@ koogoshop.com
 www.koogoshop.com
 koretrak.kaufen
 www.koretrak.kaufen
-kortsdam.de
-www.kortsdam.de
 koscielnya.com
 www.koscielnya.com
 kosmetik-kreis.de
@@ -5538,8 +5531,6 @@ kredit-ohne-auskunft.at
 www.kredit-ohne-auskunft.at
 kreditcenter24.org
 www.kreditcenter24.org
-kreispiraten-of.de
-www.kreispiraten-of.de
 kreisverbandleer.de
 www.kreisverbandleer.de
 kristroom.ru
@@ -5556,8 +5547,6 @@ kruggolife.com
 www.kruggolife.com
 kryptomaschinen.com
 www.kryptomaschinen.com
-kswissschuhes.com
-www.kswissschuhes.com
 ktristandy.com
 www.ktristandy.com
 kuechen-xxl.de
@@ -5604,8 +5593,6 @@ ladyones.com
 www.ladyones.com
 ladyvanilla.de
 www.ladyvanilla.de
-lafrican.top
-www.lafrican.top
 lagerverkauf24.de
 www.lagerverkauf24.de
 lagunalaguna.com
@@ -5614,8 +5601,6 @@ lakihair.com
 www.lakihair.com
 laltraveu.org
 www.laltraveu.org
-lamict.com
-www.lamict.com
 lancebruce.com
 www.lancebruce.com
 landchi.com
@@ -5756,8 +5741,6 @@ www.letsgoshop.de
 levelbikes.de
 levitra-20mg-priceof.online
 www.levitra-20mg-priceof.online
-levitra365.top
-www.levitra365.top
 levoda.de
 www.levoda.de
 lewitznetzwerk.de
@@ -5768,8 +5751,6 @@ lexflix.de
 www.lexflix.de
 lexingtonplus.com
 www.lexingtonplus.com
-lferton.com
-www.lferton.com
 lfidsor.com
 www.lfidsor.com
 lfirst-ag.ch
@@ -5784,8 +5765,6 @@ lichthaeusl.de
 www.lichthaeusl.de
 lidawood.eu
 www.lidawood.eu
-lideabag.com
-www.lideabag.com
 lidoras.com
 www.lidoras.com
 lieb-schafft.de
@@ -5860,8 +5839,6 @@ linh-nguyen.de
 www.linh-nguyen.de
 lioray.com
 www.lioray.com
-litise.com
-www.litise.com
 littlebo.at
 www.littlebo.at
 liudadaa.com
@@ -5898,8 +5875,6 @@ lloydloom.com
 www.lloydloom.com
 lmwip.top
 www.lmwip.top
-localdealservices.com
-www.localdealservices.com
 locating.mobi
 www.locating.mobi
 lockpickingstore.de
@@ -5952,25 +5927,12 @@ lovecatzone.com
 www.lovecatzone.com
 lovefashion.site
 www.lovefashion.site
-loveforshop.site
-www.loveforshop.site
-lovegreat.site
-www.lovegreat.site
-lovemybest.site
-www.lovemybest.site
-lovetogobook.site
-www.lovetogobook.site
-lovetokkbook.site
-www.lovetokkbook.site
-lovetryshop.site
-www.lovetryshop.site
 lovisdora.com
 www.lovisdora.com
 lovvingss.com
 www.lovvingss.com
 lowadeutschland.de
 www.lowadeutschland.de
-lowaonlineshops.de
 lowaosterreich.at
 www.lowaosterreich.at
 lowasale.de
@@ -6039,8 +6001,6 @@ luxefetch.com
 www.luxefetch.com
 luxhause.de
 www.luxhause.de
-luxishop.de
-www.luxishop.de
 luxsofabezuege.com
 www.luxsofabezuege.com
 luxury-shop.at
@@ -6091,8 +6051,6 @@ maehercenter.de
 www.maehercenter.de
 mafiatekno.com
 www.mafiatekno.com
-magacryptotrading.com
-www.magacryptotrading.com
 magliecalciocn.net
 www.magliecalciocn.net
 magnitshop.com
@@ -6141,8 +6099,6 @@ www.mambojamboaruba.com
 man-homes.com
 www.man-homes.com
 manatic.xyz
-maneyers.com
-www.maneyers.com
 manga-reich.de
 www.manga-reich.de
 mangodeluxe.at
@@ -6195,12 +6151,8 @@ marrbudm.top
 www.marrbudm.top
 martensosterreich.com
 www.martensosterreich.com
-marthoney.site
-www.marthoney.site
 marti-bosom.de
 www.marti-bosom.de
-martsbuy.site
-www.martsbuy.site
 marvinmartin.de
 www.marvinmartin.de
 maryrosecuskelly.com
@@ -6209,28 +6161,20 @@ mascotsmall.com
 www.mascotsmall.com
 mashskincare.com
 www.mashskincare.com
-masoponline.site
-www.masoponline.site
 massive-deals.com
 www.massive-deals.com
 masterclass-toblach.de
 www.masterclass-toblach.de
 matcha-sllim.cc
 www.matcha-sllim.cc
-matec-media.com
-www.matec-media.com
 matejkohotelkrakow.com
 www.matejkohotelkrakow.com
 mathiasbruchmann.de
 www.mathiasbruchmann.de
-matreex99.com
-www.matreex99.com
 mattgrafix-grafikdesign.de
 www.mattgrafix-grafikdesign.de
 matthiastierheim.com
 www.matthiastierheim.com
-mauritius-koeln.de
-www.mauritius-koeln.de
 mauromilana.it
 www.mauromilana.it
 mautgebuhren.de
@@ -6248,28 +6192,10 @@ maxspiele.com
 www.maxspiele.com
 maxxdrinks.com
 www.maxxdrinks.com
-maxxi.tech
-www.maxxi.tech
 mayeroutlet.com
 www.mayeroutlet.com
 mayrhofen-hotels.at
 www.mayrhofen-hotels.at
-mazobuylove.site
-www.mazobuylove.site
-mazoncash.com
-www.mazoncash.com
-mazopllc.site
-www.mazopllc.site
-mazopo.site
-www.mazopo.site
-mazops.site
-www.mazops.site
-mazopsnow.site
-www.mazopsnow.site
-mazopulove.site
-www.mazopulove.site
-mazopuplove.site
-www.mazopuplove.site
 mbali-yangu.de
 www.mbali-yangu.de
 mbike-jena.de
@@ -6368,8 +6294,6 @@ www.meetmyflirt.com
 megaflix.de
 www.megaflix.de
 megahood.de
-megahood.store
-www.megahood.store
 megaose.xyz
 www.megaose.xyz
 megarabat.shop
@@ -6381,8 +6305,6 @@ www.megbydesign.com
 mehnike.com
 www.mehnike.com
 mehrwerken.de
-meier-24.com
-www.meier-24.com
 meiers.eu
 www.meiers.eu
 mein-babybauch.de
@@ -6444,8 +6366,6 @@ meisteruebersiedlung.at
 www.meisteruebersiedlung.at
 meiteshop.com
 www.meiteshop.com
-mejrubiop.com
-www.mejrubiop.com
 meladen.de
 www.meladen.de
 melanca.de
@@ -6531,16 +6451,12 @@ mih-luehr.de
 www.mih-luehr.de
 mihorga.com
 www.mihorga.com
-mikalau.com
-www.mikalau.com
 mikedavis.de
 mikeelike.com
 www.mikeelike.com
 mikenovember.com
 www.mikenovember.com
 m.milanoo.com
-milbdy.com
-www.milbdy.com
 milchcheese.com
 www.milchcheese.com
 milf-direkt.com
@@ -6579,8 +6495,6 @@ miniflix.de
 www.miniflix.de
 minimalsurvival.com
 www.minimalsurvival.com
-miningcointrader.com
-www.miningcointrader.com
 miniwallet.at
 minkenundpalme.de
 www.minkenundpalme.de
@@ -6739,7 +6653,6 @@ mondschiff.de
 www.mondschiff.de
 mondycar.de
 www.mondycar.de
-mongroe.de
 monicasneaker.cc
 www.monicasneaker.cc
 monoflix.de
@@ -6748,12 +6661,8 @@ monokompakt.de
 www.monokompakt.de
 monostarscope.com
 www.monostarscope.com
-monplay.de
-www.monplay.de
 montanahudson.com
 www.montanahudson.com
-montgerra.com
-www.montgerra.com
 montrereplique.to
 www.montrereplique.to
 monvada.de
@@ -6803,8 +6712,6 @@ moviesta.de
 www.moviesta.de
 moyucubeshop.com
 www.moyucubeshop.com
-mozopon.site
-www.mozopon.site
 mrair.xyz
 mrphonedeals.com
 www.mrphonedeals.com
@@ -6873,8 +6780,6 @@ mycaboconcierge.com
 www.mycaboconcierge.com
 mycezanny.com
 www.mycezanny.com
-mychealove.site
-www.mychealove.site
 myclothes.shop
 myclothes.site
 www.myclothes.shop
@@ -6887,8 +6792,6 @@ myfaktory.com
 www.myfaktory.com
 myfunnysocks.de
 www.myfunnysocks.de
-mygoodstuff.site
-www.mygoodstuff.site
 myhobbyclub.com
 www.myhobbyclub.com
 myhomestore.club
@@ -10406,8 +10309,6 @@ up4profit.net
 www.up4profit.net
 upservices.de
 www.upservices.de
-upsolutmv.com
-www.upsolutmv.com
 upup.at
 www.upup.at
 urban-patterns.de
@@ -11038,14 +10939,14 @@ winklerversand.net
 www.winklerversand.net
 winmuli.com
 www.winmuli.com
+wintehere.com
+www.wintehere.com
 winterangebote.store
 www.winterangebote.store
 wintercomfy.com
 www.wintercomfy.com
 winterfallkits.de
 www.winterfallkits.de
-winternigh.com
-www.winternigh.com
 winterstiefelsale.at
 www.winterstiefelsale.at
 winterzone.com
