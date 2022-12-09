@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 07:32 UTC
-# Version: 2022.1209.0732.53
+# Last modified: 09 Dez 2022 23:49 UTC
+# Version: 2022.1209.2349.30
 # Syntax: Hosts
-# Domains: 1345
+# Domains: 1342
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -635,8 +635,6 @@
 0.0.0.0 linkmefree.net
 0.0.0.0 linkmetube.com
 0.0.0.0 quickvpn.lipisoft.com
-0.0.0.0 litevpn.top
-0.0.0.0 lmpproxyssurfukvpn.tk
 0.0.0.0 locaproxy.com
 0.0.0.0 lopana.com
 0.0.0.0 luminati.io
@@ -667,7 +665,6 @@
 0.0.0.0 adblock.doh.mullvad.net
 0.0.0.0 my-proxy.com
 0.0.0.0 mybestvpn.info
-0.0.0.0 mycelium.site
 0.0.0.0 freedom.mydns.network
 0.0.0.0 myip.io
 0.0.0.0 myprivateproxy.net
