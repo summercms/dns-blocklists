@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 06:58 UTC
-# Version: 2022.1209.0658.43
+# Last modified: 09 Dez 2022 08:05 UTC
+# Version: 2022.1209.0805.54
 # Syntax: Domains
-# Domains: 29421
+# Domains: 29426
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -1419,6 +1419,7 @@ www.adinplay.com
 adipolo.com
 www.adipolo.com
 ad.adition.com
+adfarm1.adition.com
 ad1.adfarm1.adition.com
 ad11.adfarm1.adition.com
 ad11p.adfarm1.adition.com
@@ -22331,7 +22332,9 @@ rtvwerjyuver.com
 www.rtvwerjyuver.com
 rtxplatform.com
 www.rtxplatform.com
+ru.com
 vcdnads.ru.com
+www.ru.com
 ru4.com
 ru6sapasgs8tror.com
 ruamupr.com
@@ -29190,6 +29193,8 @@ track.zappos.com
 analytics.zapps.vn
 zplayer.trk.zapps.vn
 za.zapps.vn
+zapto.org
+www.zapto.org
 zarget.com
 zarpop.com
 www.zarpop.com

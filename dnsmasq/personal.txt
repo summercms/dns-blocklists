@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 06:58 UTC
-# Version: 2022.1209.0658.43
+# Last modified: 09 Dez 2022 08:05 UTC
+# Version: 2022.1209.0805.54
 # Syntax: DNSMasq
-# Domains: 19643
+# Domains: 19632
 #
 address=/000webhostapp.com/#
 address=/00px.net/#
@@ -754,19 +754,7 @@ address=/adingo.jp/#
 address=/adinplay.com/#
 address=/adipolo.com/#
 address=/ad.adition.com/#
-address=/ad1.adfarm1.adition.com/#
-address=/ad11.adfarm1.adition.com/#
-address=/ad11p.adfarm1.adition.com/#
-address=/ad13.adfarm1.adition.com/#
-address=/ad2.adfarm1.adition.com/#
-address=/ad71.adfarm1.adition.com/#
-address=/ad9.adfarm1.adition.com/#
-address=/adsdk.adfarm1.adition.com/#
-address=/dsp.adfarm1.adition.com/#
-address=/dspcluster.adfarm1.adition.com/#
-address=/match.adfarm1.adition.com/#
-address=/mobile.adfarm1.adition.com/#
-address=/static.adfarm1.adition.com/#
+address=/adfarm1.adition.com/#
 address=/cd.adition.com/#
 address=/imagesrv.adition.com/#
 address=/track.adition.com/#
@@ -14872,7 +14860,7 @@ address=/rtschannel.com/#
 address=/sadbmetrics.rtve.es/#
 address=/rtvwerjyuver.com/#
 address=/rtxplatform.com/#
-address=/vcdnads.ru.com/#
+address=/ru.com/#
 address=/ru4.com/#
 address=/ru6sapasgs8tror.com/#
 address=/ruamupr.com/#
@@ -19471,6 +19459,7 @@ address=/track.zappos.com/#
 address=/analytics.zapps.vn/#
 address=/zplayer.trk.zapps.vn/#
 address=/za.zapps.vn/#
+address=/zapto.org/#
 address=/zarget.com/#
 address=/zarpop.com/#
 address=/adtima-common.zascdn.me/#

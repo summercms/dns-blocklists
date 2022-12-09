@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 06:58 UTC
-# Version: 2022.1209.0658.43
+# Last modified: 09 Dez 2022 08:05 UTC
+# Version: 2022.1209.0805.54
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 19643
+# Domains: 19632
 #
 *.000webhostapp.com
 *.00px.net
@@ -754,19 +754,7 @@
 *.adinplay.com
 *.adipolo.com
 *.ad.adition.com
-*.ad1.adfarm1.adition.com
-*.ad11.adfarm1.adition.com
-*.ad11p.adfarm1.adition.com
-*.ad13.adfarm1.adition.com
-*.ad2.adfarm1.adition.com
-*.ad71.adfarm1.adition.com
-*.ad9.adfarm1.adition.com
-*.adsdk.adfarm1.adition.com
-*.dsp.adfarm1.adition.com
-*.dspcluster.adfarm1.adition.com
-*.match.adfarm1.adition.com
-*.mobile.adfarm1.adition.com
-*.static.adfarm1.adition.com
+*.adfarm1.adition.com
 *.cd.adition.com
 *.imagesrv.adition.com
 *.track.adition.com
@@ -14872,7 +14860,7 @@
 *.sadbmetrics.rtve.es
 *.rtvwerjyuver.com
 *.rtxplatform.com
-*.vcdnads.ru.com
+*.ru.com
 *.ru4.com
 *.ru6sapasgs8tror.com
 *.ruamupr.com
@@ -19471,6 +19459,7 @@
 *.analytics.zapps.vn
 *.zplayer.trk.zapps.vn
 *.za.zapps.vn
+*.zapto.org
 *.zarget.com
 *.zarpop.com
 *.adtima-common.zascdn.me
