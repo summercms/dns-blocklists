@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 05:15 UTC
-# Version: 2022.1209.0515.12
+# Last modified: 09 Dez 2022 07:39 UTC
+# Version: 2022.1209.0739.25
 # Syntax: DNSMasq
-# Domains: 5960
+# Domains: 5957
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -638,6 +638,7 @@ address=/biwbcu.top/#
 address=/bjorkcoffee.com/#
 address=/black-forestcake.com/#
 address=/blackwidow.at/#
+address=/blaroken.com/#
 address=/blaudonau.de/#
 address=/blaue-dragoner.de/#
 address=/blauerhein.de/#
@@ -949,7 +950,6 @@ address=/chicanti.com/#
 address=/chichandbagsshop.com/#
 address=/chicladdy.com/#
 address=/chiclolo.com/#
-address=/chicsoso.com/#
 address=/chictogerther.com/#
 address=/chicwells.de/#
 address=/chillgod.com/#
@@ -1208,6 +1208,7 @@ address=/daughtersofindia.net/#
 address=/daveintheshop.com/#
 address=/davesaunderscfo.com/#
 address=/davidkimboyle.net/#
+address=/davidoutwear.com/#
 address=/daygpl.shop/#
 address=/dazsistmeins.at/#
 address=/dbackdrop.de/#
@@ -2735,7 +2736,6 @@ address=/kanzleiklaus.de/#
 address=/kappawien.at/#
 address=/karchgeraete.com/#
 address=/karenmiss.com/#
-address=/karin-selest.com/#
 address=/karins-rasselbande.de/#
 address=/karmavana.de/#
 address=/karneval-zingst.de/#
@@ -2756,7 +2756,6 @@ address=/kaufhausonline.com/#
 address=/kauflusts.de/#
 address=/kauful.de/#
 address=/kaufyshop.de/#
-address=/kaukokiito.top/#
 address=/kawawo.de/#
 address=/kbavliv.com/#
 address=/kbnlogistics.com/#
@@ -2822,11 +2821,9 @@ address=/kirchenaustritt24.at/#
 address=/kirchweih-info.de/#
 address=/kirmes-rueckers.de/#
 address=/kisarazu-happy2.com/#
-address=/kistand.de/#
 address=/kita-much.de/#
 address=/kitarjetas.com/#
 address=/kitchenchef.club/#
-address=/kiteeo.com/#
 address=/kithery.com/#
 address=/kiweecases.com/#
 address=/kizaro.de/#

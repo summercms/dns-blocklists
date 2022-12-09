@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 05:15 UTC
-# Version: 2022.1209.0515.12
+# Last modified: 09 Dez 2022 07:39 UTC
+# Version: 2022.1209.0739.25
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 5960
+# Domains: 5957
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -638,6 +638,7 @@
 *.bjorkcoffee.com
 *.black-forestcake.com
 *.blackwidow.at
+*.blaroken.com
 *.blaudonau.de
 *.blaue-dragoner.de
 *.blauerhein.de
@@ -949,7 +950,6 @@
 *.chichandbagsshop.com
 *.chicladdy.com
 *.chiclolo.com
-*.chicsoso.com
 *.chictogerther.com
 *.chicwells.de
 *.chillgod.com
@@ -1208,6 +1208,7 @@
 *.daveintheshop.com
 *.davesaunderscfo.com
 *.davidkimboyle.net
+*.davidoutwear.com
 *.daygpl.shop
 *.dazsistmeins.at
 *.dbackdrop.de
@@ -2735,7 +2736,6 @@
 *.kappawien.at
 *.karchgeraete.com
 *.karenmiss.com
-*.karin-selest.com
 *.karins-rasselbande.de
 *.karmavana.de
 *.karneval-zingst.de
@@ -2756,7 +2756,6 @@
 *.kauflusts.de
 *.kauful.de
 *.kaufyshop.de
-*.kaukokiito.top
 *.kawawo.de
 *.kbavliv.com
 *.kbnlogistics.com
@@ -2822,11 +2821,9 @@
 *.kirchweih-info.de
 *.kirmes-rueckers.de
 *.kisarazu-happy2.com
-*.kistand.de
 *.kita-much.de
 *.kitarjetas.com
 *.kitchenchef.club
-*.kiteeo.com
 *.kithery.com
 *.kiweecases.com
 *.kizaro.de

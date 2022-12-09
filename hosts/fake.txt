@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 05:15 UTC
-# Version: 2022.1209.0515.12
+# Last modified: 09 Dez 2022 07:39 UTC
+# Version: 2022.1209.0739.25
 # Syntax: Hosts
-# Domains: 11429
+# Domains: 11423
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1225,6 +1225,8 @@
 0.0.0.0 www.black-forestcake.com
 0.0.0.0 blackwidow.at
 0.0.0.0 www.blackwidow.at
+0.0.0.0 blaroken.com
+0.0.0.0 www.blaroken.com
 0.0.0.0 blaudonau.de
 0.0.0.0 www.blaudonau.de
 0.0.0.0 blaue-dragoner.de
@@ -1839,8 +1841,6 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
-0.0.0.0 chicsoso.com
-0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -2302,6 +2302,8 @@
 0.0.0.0 www.davesaunderscfo.com
 0.0.0.0 davidkimboyle.net
 0.0.0.0 www.davidkimboyle.net
+0.0.0.0 davidoutwear.com
+0.0.0.0 www.davidoutwear.com
 0.0.0.0 daygpl.shop
 0.0.0.0 www.daygpl.shop
 0.0.0.0 dazsistmeins.at
@@ -5233,8 +5235,6 @@
 0.0.0.0 www.karchgeraete.com
 0.0.0.0 karenmiss.com
 0.0.0.0 www.karenmiss.com
-0.0.0.0 karin-selest.com
-0.0.0.0 www.karin-selest.com
 0.0.0.0 karins-rasselbande.de
 0.0.0.0 www.karins-rasselbande.de
 0.0.0.0 karmavana.de
@@ -5274,8 +5274,6 @@
 0.0.0.0 www.kauful.de
 0.0.0.0 kaufyshop.de
 0.0.0.0 www.kaufyshop.de
-0.0.0.0 kaukokiito.top
-0.0.0.0 www.kaukokiito.top
 0.0.0.0 kawawo.de
 0.0.0.0 www.kawawo.de
 0.0.0.0 kbavliv.com
@@ -5403,16 +5401,12 @@
 0.0.0.0 www.kirmes-rueckers.de
 0.0.0.0 kisarazu-happy2.com
 0.0.0.0 www.kisarazu-happy2.com
-0.0.0.0 kistand.de
-0.0.0.0 www.kistand.de
 0.0.0.0 kita-much.de
 0.0.0.0 www.kita-much.de
 0.0.0.0 kitarjetas.com
 0.0.0.0 www.kitarjetas.com
 0.0.0.0 kitchenchef.club
 0.0.0.0 www.kitchenchef.club
-0.0.0.0 kiteeo.com
-0.0.0.0 www.kiteeo.com
 0.0.0.0 kithery.com
 0.0.0.0 www.kithery.com
 0.0.0.0 kiweecases.com

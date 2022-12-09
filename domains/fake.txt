@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 05:15 UTC
-# Version: 2022.1209.0515.12
+# Last modified: 09 Dez 2022 07:39 UTC
+# Version: 2022.1209.0739.25
 # Syntax: Domains
-# Domains: 11429
+# Domains: 11423
 #
 willhaben.at.04300.id
 11trikots.com
@@ -1225,6 +1225,8 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
+blaroken.com
+www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -1839,8 +1841,6 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
-chicsoso.com
-www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -2302,6 +2302,8 @@ davesaunderscfo.com
 www.davesaunderscfo.com
 davidkimboyle.net
 www.davidkimboyle.net
+davidoutwear.com
+www.davidoutwear.com
 daygpl.shop
 www.daygpl.shop
 dazsistmeins.at
@@ -5233,8 +5235,6 @@ karchgeraete.com
 www.karchgeraete.com
 karenmiss.com
 www.karenmiss.com
-karin-selest.com
-www.karin-selest.com
 karins-rasselbande.de
 www.karins-rasselbande.de
 karmavana.de
@@ -5274,8 +5274,6 @@ kauful.de
 www.kauful.de
 kaufyshop.de
 www.kaufyshop.de
-kaukokiito.top
-www.kaukokiito.top
 kawawo.de
 www.kawawo.de
 kbavliv.com
@@ -5403,16 +5401,12 @@ kirmes-rueckers.de
 www.kirmes-rueckers.de
 kisarazu-happy2.com
 www.kisarazu-happy2.com
-kistand.de
-www.kistand.de
 kita-much.de
 www.kita-much.de
 kitarjetas.com
 www.kitarjetas.com
 kitchenchef.club
 www.kitchenchef.club
-kiteeo.com
-www.kiteeo.com
 kithery.com
 www.kithery.com
 kiweecases.com
