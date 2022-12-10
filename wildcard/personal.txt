@@ -3537,7 +3537,6 @@
 *.sentry.cafebazaar.org
 *.cagothie.net
 *.smetrics.cahealthwellness.com
-*.cainiao.com
 *.metrics.caixabank.es
 *.apollo.caixin.com
 *.gg.caixin.com

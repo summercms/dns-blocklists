@@ -3537,7 +3537,6 @@ address=/smetrics.caesars.com/#
 address=/sentry.cafebazaar.org/#
 address=/cagothie.net/#
 address=/smetrics.cahealthwellness.com/#
-address=/cainiao.com/#
 address=/metrics.caixabank.es/#
 address=/apollo.caixin.com/#
 address=/gg.caixin.com/#

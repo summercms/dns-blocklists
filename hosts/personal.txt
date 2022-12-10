@@ -5853,8 +5853,6 @@
 0.0.0.0 sentry.cafebazaar.org
 0.0.0.0 cagothie.net
 0.0.0.0 smetrics.cahealthwellness.com
-0.0.0.0 cainiao.com
-0.0.0.0 www.cainiao.com
 0.0.0.0 metrics.caixabank.es
 0.0.0.0 apollo.caixin.com
 0.0.0.0 gg.caixin.com

@@ -24181,7 +24181,6 @@
 *.caiknr.top
 *.caimei.me
 *.caimoasy.net
-*.cainiao.com
 *.isjoui.cainz.com
 *.caioaraujo.vip
 *.caipowho.net
