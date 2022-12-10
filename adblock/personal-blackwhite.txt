@@ -3537,7 +3537,6 @@
 ||sentry.cafebazaar.org^
 ||cagothie.net^
 ||smetrics.cahealthwellness.com^
-||cainiao.com^
 ||metrics.caixabank.es^
 ||apollo.caixin.com^
 ||gg.caixin.com^
@@ -27771,6 +27770,9 @@
 
 ! Chia blockchain
 @@|chia.net^
+
+! Chinese logistics company
+@@|cainiao.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.

@@ -1987,3 +1987,6 @@ xtrapath*.izatcloud.net
 # Chia blockchain
 chia.net
 
+# Chinese logistics company
+cainiao.com
+
