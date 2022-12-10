@@ -682,6 +682,8 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malwar
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+https://raw.githubusercontent.com/sjhgvr/oisd/dda0cf5e3b68fcd25c8363242e3854c465cb36cf/abp_full.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/dda0cf5e3b68fcd25c8363242e3854c465cb36cf/dbl_full.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_basic.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_extra.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_full.txt
