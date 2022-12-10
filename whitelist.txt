@@ -102,6 +102,7 @@ unagi.amazon.it
 *.gc.fe.apple-dns.net
 *.safebrowsing.apple
 *.smoot.apple.com
+*.push.apple.com
 apple-dns.net
 c.apple.com
 cstat.apple.com
@@ -193,6 +194,7 @@ raw.githubusercontent.com
 *.android.pool.ntp.org
 *.client-channel.google.com
 *.gstaticadssl.l.google.com
+*.googlemail.com
 afs.googleusercontent.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
