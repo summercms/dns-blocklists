@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Dez 2022 12:16 UTC
-# Version: 2022.1210.1216.12
+# Last modified: 10 Dez 2022 12:26 UTC
+# Version: 2022.1210.1226.07
 # Syntax: DNSMasq
-# Domains: 20263
+# Domains: 20255
 #
 address=/000webhostapp.com/#
 address=/00px.net/#
@@ -2060,10 +2060,6 @@ address=/iadcontent.apple.com/#
 address=/iadsdk.apple.com/#
 address=/metrics.apple.com/#
 address=/notes-analytics-events.apple.com/#
-address=/courier.push.apple.com/#
-address=/courier2.push.apple.com/#
-address=/gateway.push.apple.com/#
-address=/webcourier.push.apple.com/#
 address=/securemetrics.apple.com/#
 address=/securemvt.apple.com/#
 address=/stocks-analytics-events.apple.com/#
@@ -8432,10 +8428,6 @@ address=/firebaselogging-pa.googleapis.com/#
 address=/growth-pa.googleapis.com/#
 address=/googlecommerce.com/#
 address=/googleinfo.se/#
-address=/aspmx2.googlemail.com/#
-address=/aspmx3.googlemail.com/#
-address=/aspmx4.googlemail.com/#
-address=/aspmx5.googlemail.com/#
 address=/googleoptimize.com/#
 address=/analytics.googlepeer.cloud/#
 address=/googles.video/#
