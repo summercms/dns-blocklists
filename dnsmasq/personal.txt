@@ -3914,7 +3914,6 @@ address=/chestishugli.com/#
 address=/pdmsmrt.chevrolet.com/#
 address=/chewsrompedhemp.com/#
 address=/email-sendgrid-deep-linking.chewy.com/#
-address=/chia.net/#
 address=/affiliate.chiaki.vn/#
 address=/clicker.chiaki.vn/#
 address=/smetrics.chicagobusiness.com/#

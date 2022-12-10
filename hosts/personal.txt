@@ -6380,8 +6380,6 @@
 0.0.0.0 pdmsmrt.chevrolet.com
 0.0.0.0 chewsrompedhemp.com
 0.0.0.0 email-sendgrid-deep-linking.chewy.com
-0.0.0.0 chia.net
-0.0.0.0 www.chia.net
 0.0.0.0 affiliate.chiaki.vn
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 smetrics.chicagobusiness.com
