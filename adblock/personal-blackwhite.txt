@@ -3914,7 +3914,6 @@
 ||pdmsmrt.chevrolet.com^
 ||chewsrompedhemp.com^
 ||email-sendgrid-deep-linking.chewy.com^
-||chia.net^
 ||affiliate.chiaki.vn^
 ||clicker.chiaki.vn^
 ||smetrics.chicagobusiness.com^
@@ -27766,6 +27765,12 @@
 
 ! Adult site
 @@|fapcat.com^
+
+! Optimized mobile GPS Data - Google
+@@|xtrapath*.izatcloud.net^
+
+! Chia blockchain
+@@|chia.net^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
