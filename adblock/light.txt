@@ -73261,9 +73261,6 @@
 ||izalukaj.pl^
 ||izapteensuls.com^
 ||izarc.fr^
-||xtrapath1.izatcloud.net^
-||xtrapath2.izatcloud.net^
-||xtrapath3.izatcloud.net^
 ||izciparki.com^
 ||izea.com^
 ||izearanks.com^
