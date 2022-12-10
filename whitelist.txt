@@ -1981,3 +1981,6 @@ deviceatlas.com
 # Adult site
 fapcat.com
 
+# Optimized mobile GPS Data - Google
+xtrapath*.izatcloud.net
+
