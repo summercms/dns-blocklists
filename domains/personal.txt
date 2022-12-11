@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 15:43 UTC
-# Version: 2022.1211.1543.45
+# Last modified: 11 Dez 2022 20:30 UTC
+# Version: 2022.1211.2030.29
 # Syntax: Domains
-# Domains: 60786
+# Domains: 60789
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -6933,9 +6933,12 @@ usertrack.appcpi.net
 www.appcpi.net
 mantis-prod-reach.cdn.appdomain.cloud
 cf.appdsp.mobi
+appdynamics.com
 api.appdynamics.com
 analytics.api.appdynamics.com
+cdn.appdynamics.com
 saas.appdynamics.com
+www.appdynamics.com
 trk.apperol.com
 appflood.com
 atracking-auto.appflood.com
