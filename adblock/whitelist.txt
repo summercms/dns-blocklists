@@ -24,7 +24,7 @@
 ! d3p8zr0ffa9t17.cloudfront.net
 ! device-metrics-us-2.amazon.com
 ! device-metrics-us.amazon.com
-@@|acsechocaptiveportal.com^
+@@||acsechocaptiveportal.com^
 @@|avs-alexa*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
 @@|msh.amazon.co.uk^
@@ -104,6 +104,7 @@
 @@||smoot.apple.com^
 @@||push.apple.com^
 @@|apple-dns.net^
+@@|www.apple-dns.net^
 @@|c.apple.com^
 @@|cstat.apple.com^
 ! doh.dns.apple.com
@@ -144,7 +145,9 @@
 
 ! Disney+
 @@|disney-plus.net^
+@@|www.disney-plus.net^
 @@|disneyplus.com^
+@@|www.disneyplus.com^
 ! disneyplus.com.ssl.sc.omtrdc.net
 @@||dss.map.fastly.net^
 @@||dssott.com^
@@ -188,13 +191,14 @@
 @@||githubassets.com^
 @@||gitlab.com^
 @@|githubusercontent.com^
+@@|www.githubusercontent.com^
 @@|raw.githubusercontent.com^
 
 ! Google
 @@||android.pool.ntp.org^
 @@||client-channel.google.com^
-@@||gstaticadssl.l.google.com^
 @@||googlemail.com^
+@@||gstaticadssl.l.google.com^
 @@|afs.googleusercontent.com^
 @@|analyticsinsights-pa.googleapis.com^
 @@|analyticssearch-pa.googleapis.com^
@@ -217,11 +221,17 @@
 @@|geller-pa.googleapis.com^
 @@|geo3.ggpht.com^
 @@|geomobileservices-pa.googleapis.com^
+@@|google.com^
+@@|www.google.com^
 @@|googleapis.com^
+@@|www.googleapis.com^
 @@|gstatic.com^
+@@|www.gstatic.com^
 @@|gvt1.com^
+@@|www.gvt1.com^
 ! gvt2.com
 @@|gvt3.com^
+@@|www.gvt3.com^
 @@|imasdk.googleapis.com^
 @@|instantmessaging-pa.googleapis.com^
 @@|mail.google.com^
@@ -246,13 +256,17 @@
 
 ! Huawei
 @@|dbankcloud.cn^
+@@|www.dbankcloud.cn^
 @@|dbankcloud.ru^
+@@|www.dbankcloud.ru^
 @@|dbankcloud.com^
+@@|www.dbankcloud.com^
 
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 @@|*-msedge.net^
+@@|www.*-msedge.net^
 @@||dds.microsoft.com^
 @@||forms.office.com^
 @@||msedge.net^
@@ -310,14 +324,18 @@
 @@|api-global.netflix.com^
 @@|appboot.netflix.com^
 @@|netflix.com^
+@@|www.netflix.com^
 @@|netflix.net^
+@@|www.netflix.net^
 @@|nrdp.nccp*.netflix.com^
 @@|nrdp.prod*.netflix.com^
 @@|secure.netflix.com^
 
 ! Nintendo Switch
 @@|nintendo.com^
+@@|www.nintendo.com^
 @@|nintendo.net^
+@@|www.nintendo.net^
 @@||nintendowifi.net^
 @@|a1843.g.akamai.net^
 
@@ -332,16 +350,21 @@
 ! Paypal
 @@|paypal-dynamic-map.fastly.net^
 @@|paypal.ca^
+@@|www.paypal.ca^
 @@|paypal.co.uk^
 @@|paypal.com^
+@@|www.paypal.com^
 @@|paypal.map.fastly.net^
 @@|paypalobjects.com^
+@@|www.paypalobjects.com^
 
 ! Sony (Playstation)
 @@|playstation.com^
+@@|www.playstation.com^
 @@||playstation.com.edgekey.net^
 ! playstation.com.ssl.d1.sc.omtrdc.net
 @@|playstation.net^
+@@|www.playstation.net^
 @@||playstation.net.edgekey88.net^
 @@||sonycoment.loris-e.llnwd.net^
 @@||sonyentertainmentnetwork.com^
@@ -370,7 +393,9 @@
 
 ! Signal
 @@|signal.org^
+@@|www.signal.org^
 @@|whispersystems.org^
+@@|www.whispersystems.org^
 
 ! SmartTVs
 @@|acr0.samsungcloudsolution.com^
@@ -412,8 +437,11 @@
 @@|portal.store.sonyentertainmentnetwork.com^
 @@|reg.biv.sony.tv^
 @@|samsungosp.com^
+@@|www.samsungosp.com^
 @@|samsungotn.net^
+@@|www.samsungotn.net^
 @@|samsungrm.net^
+@@|www.samsungrm.net^
 @@|service.biv.sony.tv^
 @@|ssm*.internet.sony.tv^
 @@|time-a.timefreq.bldrdoc.gov^
@@ -437,54 +465,90 @@
 
 ! Telegram
 @@|t.me^
+@@|www.t.me^
 @@|telegram.me^
+@@|www.telegram.me^
 @@|telegram.org^
+@@|www.telegram.org^
 @@|telesco.pe^
+@@|www.telesco.pe^
 @@|tg.dev^
+@@|www.tg.dev^
 
 ! Twitch
 @@|ext-twitch.tv^
+@@|www.ext-twitch.tv^
 @@|jtvnw.net^
+@@|www.jtvnw.net^
 @@|live-video.net^
+@@|www.live-video.net^
 @@|ttvnw.net^
+@@|www.ttvnw.net^
 @@|twitch.map.fastly.net^
 @@|twitch.okta.com^
 @@|twitch.tv^
+@@|www.twitch.tv^
 @@|twitchcdn.net^
+@@|www.twitchcdn.net^
 @@|twitchsvc.net^
+@@|www.twitchsvc.net^
 
 ! Twitter
 @@|ads.twitter.com^
 @@|analytics.twitter.com^
 @@|periscope.tv^
+@@|www.periscope.tv^
 @@|pscp.tv^
+@@|www.pscp.tv^
 @@|syndication.twitter.com^
 @@|t.co^
+@@|www.t.co^
 @@|tweetdeck.com^
+@@|www.tweetdeck.com^
 @@|twimg.com^
+@@|www.twimg.com^
 @@|twitpic.com^
+@@|www.twitpic.com^
 @@|twitter.co^
+@@|www.twitter.co^
 @@|twitter.com^
+@@|www.twitter.com^
 @@|twitterinc.com^
+@@|www.twitterinc.com^
 @@|twitteroauth.com^
+@@|www.twitteroauth.com^
 @@|twitterstat.us^
+@@|www.twitterstat.us^
 @@|twttr.com^
+@@|www.twttr.com^
 
 ! WhatsApp
 @@|wa.me^
+@@|www.wa.me^
 @@|whatsapp-plus.info^
+@@|www.whatsapp-plus.info^
 @@|whatsapp-plus.me^
+@@|www.whatsapp-plus.me^
 @@|whatsapp-plus.net^
+@@|www.whatsapp-plus.net^
 @@|whatsapp.cc^
+@@|www.whatsapp.cc^
 @@|whatsapp.com^
+@@|www.whatsapp.com^
 @@|whatsapp.info^
+@@|www.whatsapp.info^
 @@|whatsapp.net^
+@@|www.whatsapp.net^
 @@|whatsapp.org^
+@@|www.whatsapp.org^
 @@|whatsapp.tv^
+@@|www.whatsapp.tv^
 @@|whatsappbrand.com^
+@@|www.whatsappbrand.com^
 
 ! XBox
 @@|xbox.com^
+@@|www.xbox.com^
 @@||xboxab.com^
 @@||xboxab.net^
 @@||xboxlive.com^
@@ -505,7 +569,9 @@
 @@|s.ytimg.com^
 @@|s2.youtube.com^
 @@|youtu.be^
+@@|www.youtu.be^
 @@|youtube-nocookie.com^
+@@|www.youtube-nocookie.com^
 
 ! Zoom
 @@|logfiles.zoom.us^
@@ -516,6 +582,7 @@
 
 ! Axiad (https://www.axiad.com) provides Private Key Infrastructure (PKI)
 @@|axiadids.net^
+@@|www.axiadids.net^
 @@||cloud.axiadids.net^
 
 ! Videos on different websites do not start when the following domains are blocked:
@@ -525,6 +592,7 @@
 @@||damoh.*.de^
 @@|config-vvs.glomex.com^
 @@|consent.dk^
+@@|www.consent.dk^
 @@|engine.phn.doublepimp.com^
 @@|fr-lb.ultimedia.com^
 @@|i.shoosh.co^
@@ -563,7 +631,9 @@
 @@|images.dwell.com^
 @@|img.yana.asideas.de^
 @@|mycliplister.com^
+@@|www.mycliplister.com^
 @@|pcapredict.com^
+@@|www.pcapredict.com^
 @@|sportsbet.com.au^
 ! tagger.opecloud.com
 
@@ -595,6 +665,7 @@
 
 ! CoinInsider is the authority on bitcoin, ethereum, ICOs & blockchain news
 @@|coininsider.com^
+@@|www.coininsider.com^
 
 ! Deviantart
 @@|static.parastorage.com^
@@ -607,15 +678,18 @@
 
 ! Ad news NL
 @@|ad.nl^
+@@|www.ad.nl^
 
 ! https://github.com/notracking/hosts-blocklists/issues/767
 @@|formspree.io^
+@@|www.formspree.io^
 
 ! https://github.com/notracking/hosts-blocklists/issues/764
 @@|shop.spreadshirt.com^
 
 ! https://github.com/notracking/hosts-blocklists/issues/761
 @@|dynu.net^
+@@|www.dynu.net^
 
 ! https://github.com/anudeepND/blacklist/issues/201
 @@|api.bufferapp.com^
@@ -655,15 +729,18 @@
 
 ! https://github.com/notracking/hosts-blocklists/issues/773
 @@|scenarieconomici.it^
+@@|www.scenarieconomici.it^
 
 ! Images on vagina.nl
 @@|wum97myjdw.ent-cdn.com^
 
 ! deskpi store
 @@|deskpi.com^
+@@|www.deskpi.com^
 
 ! Postal tracking
 @@|swiftcourrier.com^
+@@|www.swiftcourrier.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/8
 @@|mail.tsinghua.edu.cn^
@@ -677,9 +754,11 @@
 ! https://github.com/hagezi/dns-blocklists/issues/10
 @@|ks.cn^
 @@|www.ks.cn^
+@@|www.ks.cn^
 
 ! Shop
 @@|koisea.com^
+@@|www.koisea.com^
 
 ! https://github.com/badmojr/1Hosts/issues/584
 @@|ftp.iij.ad.jp^
@@ -690,36 +769,45 @@
 ! https://github.com/hagezi/dns-blocklists/issues/13
 @@|img.myflixer.to^
 @@|myflixer.to^
+@@|www.myflixer.to^
 
 ! store
 @@|zeelool.com^
+@@|www.zeelool.com^
 
 ! https://github.com/StevenBlack/hosts/issues/2009
 @@|smart.link^
+@@|www.smart.link^
 
 ! https://github.com/hagezi/dns-blocklists/issues/14
 @@|bestgore.fun^
+@@|www.bestgore.fun^
 
 ! Disney images in mails
 @@|image.mail.disneyplus.com^
 
 ! Dev Tutorials
 @@|newbedev.com^
+@@|www.newbedev.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/19
 @@|activehosted.com^
+@@|www.activehosted.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/19
 @@|activecampaign.com^
+@@|www.activecampaign.com^
 
 ! https://forum.adguard.com/index.php?threads/45115/223037
 ! amplitude.com
 
 ! https://github.com/nextdns/metadata/issues/1020
 @@|mintos.com^
+@@|www.mintos.com^
 
 ! Images/Links in Twitch mails
 @@|ink1001.com^
+@@|www.ink1001.com^
 
 ! Twitch Prime Loot
 @@|spade.twitch.tv^
@@ -739,12 +827,14 @@
 
 ! Stock images
 @@|shutterstock.com^
+@@|www.shutterstock.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/24
 @@|go.e2language.com^
 
 ! Verbraucherzentrale NRW
 @@|fakeshop-finder.nrw^
+@@|www.fakeshop-finder.nrw^
 
 ! required for steam purchases
 @@|t.paypal.com^
@@ -782,6 +872,7 @@
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
+@@|www.above.com^
 
 ! https://github.com/nextdns/metadata/issues/1003
 @@|webadvisorc.rest.gti.mcafee.com^
@@ -798,6 +889,7 @@
 
 ! domain reseller
 @@|afternic.com^
+@@|www.afternic.com^
 
 ! Videos on tv.aftonbladet.se
 @@|cdn.stream.schibsted.media^
@@ -807,6 +899,7 @@
 
 ! Red Hat Ansible
 @@|ansible.com^
+@@|www.ansible.com^
 ! CNAMES https://www.ansible.com/
 @@|group46.sites.hscoscdn40.net^
 @@|330046.group46.sites.hubspot.net^
@@ -814,6 +907,7 @@
 
 ! Anime site
 @@|anime-loads.org^
+@@|www.anime-loads.org^
 
 ! Videos on arstechnica.com
 @@|player.cnevids.com^
@@ -843,12 +937,15 @@
 
 ! survey-based insights
 @@|cint.com^
+@@|www.cint.com^
 
 ! Calssmates site
 @@|classmates.com^
+@@|www.classmates.com^
 
 ! Breaks site layout on ctrip.com
 @@|c-ctrip.com^
+@@|www.c-ctrip.com^
 
 ! Videos on digitaltrends.com
 ! !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
@@ -863,6 +960,7 @@
 
 ! Fun Trivia
 @@|funtrivia.com^
+@@|www.funtrivia.com^
 
 ! Breaks site layout on guancha.cn
 @@|i.guancha.cn^
@@ -873,12 +971,15 @@
 
 ! heroeswm.ru
 @@|heroeswm.ru^
+@@|www.heroeswm.ru^
 
 ! Heureka
 @@|heureka.sk^
+@@|www.heureka.sk^
 
 ! Huge Domains
 @@|hugedomains.com^
+@@|www.hugedomains.com^
 
 ! Videos on huffpost.com
 @@|capi.connatix.com^
@@ -903,7 +1004,9 @@
 
 ! https://github.com/badmojr/1Hosts/issues/661
 @@|alvarotrigo.com^
+@@|www.alvarotrigo.com^
 @@|browserhow.com^
+@@|www.browserhow.com^
 
 ! https://github.com/StevenBlack/hosts/issues/2047
 @@|ocs-dl.fra1.cdn.digitaloceanspaces.com^
@@ -917,15 +1020,18 @@
 
 ! Limetorrents
 @@|limetorrents.lol^
+@@|www.limetorrents.lol^
 
 ! Mailerlite main site
 @@|mailerlite.com^
+@@|www.mailerlite.com^
 
 ! MANGO shop
 @@|shop.mango.com^
 
 ! Maxpark site
 @@|maxpark.com^
+@@|www.maxpark.com^
 
 ! Images on mentalfloss.com
 @@|assets.minutemediacdn.com^
@@ -934,18 +1040,23 @@
 
 ! Metal Tracker site
 @@|metal-tracker.com^
+@@|www.metal-tracker.com^
 
 ! mixi site
 @@|mixi.jp^
+@@|www.mixi.jp^
 
 ! MyAbandonWare
 @@|myabandonware.com^
+@@|www.myabandonware.com^
 
 ! MyPoints web site
 @@|mypoints.com^
+@@|www.mypoints.com^
 
 ! Nairland Forum
 @@|nairaland.com^
+@@|www.nairaland.com^
 
 ! Videos on nationalreview.com
 @@|player.avplayer.com^
@@ -957,13 +1068,16 @@
 
 ! Breakls site layout on nnmclub.to
 @@|nnmstatic.win^
+@@|www.nnmstatic.win^
 
 ! Breaks site layout in note.com
 @@|d291vdycu0ht11.cloudfront.net^
 
 ! Site nutaku
 @@|nutaku.net^
+@@|www.nutaku.net^
 @@|nutaku.com^
+@@|www.nutaku.com^
 @@|cdn1-images.nutaku.net^
 @@|cdn1-images.nutaku.com^
 
@@ -980,12 +1094,15 @@
 
 ! PicClick
 @@|picclick.com^
+@@|www.picclick.com^
 
 ! Plarium
 @@|plarium.com^
+@@|www.plarium.com^
 
 ! Qoo10 Shop
 @@|qoo10.sg^
+@@|www.qoo10.sg^
 
 ! https://github.com/hagezi/dns-blocklists/issues/27
 ! Breaks Pizzahut AU - seems to be fixes on site!
@@ -993,6 +1110,7 @@
 
 ! Qt
 @@|qt.io^
+@@|www.qt.io^
 
 ! Search on various sites
 @@||searchnode.io^
@@ -1003,6 +1121,7 @@
 
 ! ROJADIRECTA
 @@|rojadirecta.me^
+@@|www.rojadirecta.me^
 
 ! Videos on rnd.de
 @@||video-api.arcpublishing.com^
@@ -1014,12 +1133,15 @@
 
 ! Site layout on rutor.is
 @@|cdnbunny.org^
+@@|www.cdnbunny.org^
 
 ! save.tv
 @@|save.tv^
+@@|www.save.tv^
 
 ! SCNlog
 @@|scnlog.me^
+@@|www.scnlog.me^
 
 ! Click article Links on scotsman.com
 !+ www.googletagmanager.com
@@ -1029,9 +1151,11 @@
 
 ! sibnet.ru
 @@|sibnet.ru^
+@@|www.sibnet.ru^
 
 ! shopvote.de
 @@|shopvote.de^
+@@|www.shopvote.de^
 
 ! Breaks site layout on sondakika.com
 @@|s.sdacdn.com^
@@ -1039,21 +1163,26 @@
 
 ! falabella.com
 @@|sodimac.cl^
+@@|www.sodimac.cl^
 
 ! socpublic.com
 @@|socpublic.com^
+@@|www.socpublic.com^
 
 ! soso.com
 @@|soso.com^
+@@|www.soso.com^
 
 ! tarafdari.com
 @@|tarafdari.com^
+@@|www.tarafdari.com^
 
 ! Breaks site layout on world.taobao.com
 @@|h5api.m.taobao.com^
 
 ! https://github.com/badmojr/1Hosts/issues/667
 @@|myip.wtf^
+@@|www.myip.wtf^
 
 ! https://github.com/badmojr/1Hosts/issues/669
 @@|netdirector.co.uk^
@@ -1064,36 +1193,47 @@
 
 ! tipico.de
 @@|tipico.de^
+@@|www.tipico.de^
 
 ! tracker.gg
 @@|tracker.gg^
+@@|www.tracker.gg^
 
 ! track24.ru
 @@|track24.ru^
+@@|www.track24.ru^
 
 ! twitchy.com
 @@|twitchy.com^
+@@|www.twitchy.com^
 
 ! IX
 @@|ix.de^
+@@|www.ix.de^
 
 ! kamibox.de
 @@|kamibox.de^
+@@|www.kamibox.de^
 
 ! china-gadgets.de
 @@|china-gadgets.de^
+@@|www.china-gadgets.de^
 
 ! eterna.de
 @@|eterna.de^
+@@|www.eterna.de^
 
 ! ihreapotheken.de
 @@|ihreapotheken.de^
+@@|www.ihreapotheken.de^
 
 ! ad-magazin.de
 @@|ad-magazin.de^
+@@|www.ad-magazin.de^
 
 ! homepage-baukasten.de
 @@|homepage-baukasten.de^
+@@|www.homepage-baukasten.de^
 
 ! Videos on tvspielfilm.de
 @@|cmp.tvspielfilm.de^
@@ -1115,6 +1255,7 @@
 
 ! https://github.com/badmojr/1Hosts/issues/677
 @@|awxcdn.com^
+@@|www.awxcdn.com^
 
 ! Sign in on https://www.spectrum.net/
 ! https://github.com/badmojr/1Hosts/issues/640
@@ -1126,6 +1267,7 @@
 
 ! IP Address Tools
 @@|ipaddress.com^
+@@|www.ipaddress.com^
 
 ! Breaks Windowsupdate in VirtualBox
 @@||api.iris.microsoft.com^
@@ -1144,6 +1286,7 @@
 
 ! co.de / subdomains.com
 @@|co.de^
+@@|www.co.de^
 
 ! Blocks login/content after login on nzz.ch
 @@|track.nzz.ch^
@@ -1159,6 +1302,7 @@
 
 ! DATEV Community
 @@|datev-community.de^
+@@|www.datev-community.de^
 
 ! Breaks site daskochrezept.de
 @@|cmp-consent-tool.privacymanager.io^
@@ -1168,6 +1312,7 @@
 
 ! nickles.de site & cookies
 @@|nickles.de^
+@@|www.nickles.de^
 @@|test.cmp.quantcast.com^
 
 ! Breaks site https://www.forbes.com/cloud100/list/2/
@@ -1175,6 +1320,7 @@
 
 ! Breaks site layout on winfuture.de
 @@|wfcdn.de^
+@@|www.wfcdn.de^
 @@|i.wfcdn.de^
 @@|j.wfcdn.de^
 @@|scr.wfcdn.de^
@@ -1191,6 +1337,7 @@
 
 ! Videos on various sites (SAT1, PRO7, ...)
 @@|polyfill.io^
+@@|www.polyfill.io^
 
 ! Audo Stream on ikz-online.de
 @@|ads.julephosting.de^
@@ -1240,6 +1387,7 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/28
 @@|domaintechnik.at^
+@@|www.domaintechnik.at^
 
 ! Roblox
 @@|locale.roblox.com^
@@ -1252,6 +1400,7 @@
 
 ! Welt.de - internally hosted ads are displayed when the following domain is blocked
 @@|yagiay.com^
+@@|www.yagiay.com^
 
 ! https://github.com/nextdns/metadata/issues/1060
 @@|wallet.advcash.com^
@@ -1287,24 +1436,30 @@
 ! ALDI Prospekte
 @@|prospekt.aldi-sued.de^
 @@|publitas.com^
+@@|www.publitas.com^
 @@||custom-domain.publitas.com^
 
 ! https://github.com/badmojr/1Hosts/issues/699
 @@|ekomi.com^
+@@|www.ekomi.com^
 @@|smartforms.ekomi.com^
 
 ! https://github.com/FadeMind/hosts.extras/issues/54
 @@|pastie.org^
+@@|www.pastie.org^
 
 ! VOE Videos
 @@|voe.sx^
+@@|www.voe.sx^
 @@|uptodatefinishconferenceroom.com^
+@@|www.uptodatefinishconferenceroom.com^
 
 ! https://github.com/bigdargon/hostsVN/issues/327
 @@|sdk-02.moengage.com^
 
 ! Surveys and more
 @@|qualtrics.com^
+@@|www.qualtrics.com^
 
 ! Videos on heise.de
 @@|cdnapisec.kaltura.com^
@@ -1318,6 +1473,7 @@
 
 ! Recruiting smart people
 @@|talentwunder.com^
+@@|www.talentwunder.com^
 
 ! Search on brickshop.nl
 @@|ws.sharethis.com^
@@ -1327,9 +1483,11 @@
 
 ! Islamic University of Technology
 @@|iutoic-dhaka.edu^
+@@|www.iutoic-dhaka.edu^
 
 ! Mexican restaurant
 @@|abuelos.com^
+@@|www.abuelos.com^
 
 ! Images on Baidu
 @@|t10.baidu.com^
@@ -1339,19 +1497,25 @@
 
 ! https://github.com/badmojr/1Hosts/issues/702
 @@|yacy.net^
+@@|www.yacy.net^
 @@|searchlab.eu^
+@@|www.searchlab.eu^
 
 ! https://en.wikipedia.org/wiki/Deep_Freeze_(software)
 @@|faronics.com^
+@@|www.faronics.com^
 
 ! File Upload Service
 @@|files.im^
+@@|www.files.im^
 
 ! URL shortener
 @@|tny.cz^
+@@|www.tny.cz^
 
 ! Black Hat forum
 @@|fssquad.com^
+@@|www.fssquad.com^
 
 ! Videos on dmax.de
 @@|src.litix.io^
@@ -1365,6 +1529,7 @@
 
 ! wieistmeineip.de
 @@|wieistmeineip.de^
+@@|www.wieistmeineip.de^
 
 ! Blogroll on 1000mg.jp
 @@|blogroll.livedoor.net^
@@ -1389,27 +1554,35 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/38
 @@|uu.cc^
+@@|www.uu.cc^
 
 ! https://github.com/hagezi/dns-blocklists/issues/36
 @@|ku6.com^
+@@|www.ku6.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/35
 @@|knet.cn^
+@@|www.knet.cn^
 
 ! https://github.com/hagezi/dns-blocklists/issues/34
 @@|hexun.com^
+@@|www.hexun.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/33
 @@|happyelements.cn^
+@@|www.happyelements.cn^
 
 ! https://github.com/hagezi/dns-blocklists/issues/32
 @@|flvto.biz^
+@@|www.flvto.biz^
 
 ! https://github.com/hagezi/dns-blocklists/issues/31
 @@|baihe.com^
+@@|www.baihe.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/30
 @@|56.com^
+@@|www.56.com^
 
 ! Parcel tracking
 @@|track.aliexpress.com^
@@ -1425,6 +1598,7 @@
 
 ! SurveyMonkey
 @@|research.net^
+@@|www.research.net^
 
 ! O2 App
 @@|api-v4.trbo.com^
@@ -1434,9 +1608,11 @@
 @@||spartoo.de^
 @@||spartoo.it^
 @@|gizmodern.com^
+@@|www.gizmodern.com^
 
 ! https://github.com/badmojr/1Hosts/issues/728
 @@|metricool.com^
+@@|www.metricool.com^
 
 ! https://github.com/notracking/hosts-blocklists/issues/799
 @@|s3.us-west-1.wasabisys.com^
@@ -1449,9 +1625,11 @@
 
 ! Mac Software
 @@|mackeeper.com^
+@@|www.mackeeper.com^
 
 ! GPS Track Platform
 @@|traccar.org^
+@@|www.traccar.org^
 
 ! Customer Chat / Vodafone error reporting
 @@||messengerpeople.com^
@@ -1480,24 +1658,30 @@
 
 ! OpenJDK
 @@|openjdk.org^
+@@|www.openjdk.org^
 
 ! rarbg.to CAPTCHA
 @@|rarbgmirrored.org^
+@@|www.rarbgmirrored.org^
 
 ! WordPress Websites design specialists
 @@|wpbeaches.com^
+@@|www.wpbeaches.com^
 
 ! Images on Forbes
 @@||ceros.com^
 
 ! MAJESTIC
 @@|majesticseo.com^
+@@|www.majesticseo.com^
 
 ! Tyk
 @@|tyk.io^
+@@|www.tyk.io^
 
 ! ECOSIA
 @@|ecosia.de^
+@@|www.ecosia.de^
 
 ! Portainer
 @@||scarf.sh^
@@ -1515,6 +1699,7 @@
 
 ! Maxmind
 @@|maxmind.com^
+@@|www.maxmind.com^
 
 ! https://about.gitlab.com/solutions/open-source/join/
 @@||sheerid.com^
@@ -1542,9 +1727,11 @@
 @@|f1tv-cdn-cent-west.formula1.com.c.footprint.net^
 @@|f1tv-livedata.formula1.com^
 @@|formula1.com^
+@@|www.formula1.com^
 
 ! Manufacture of ZigBee and Z-Wave controllers
 @@|aeotec.com^
+@@|www.aeotec.com^
 
 ! https://github.com/StevenBlack/hosts/issues/2109
 @@|learn.cisecurity.org^
@@ -1559,12 +1746,14 @@
 
 ! Parcel tracking
 @@|17track.net^
+@@|www.17track.net^
 
 ! Videos on linetv.tw
 @@|itad.linetv.tw^
 
 ! Search engine
 @@|yep.com^
+@@|www.yep.com^
 
 ! Vodafone IMS Services
 @@||ims.vodafone.com^
@@ -1574,9 +1763,11 @@
 
 ! WhatsApp news site
 @@|wabetainfo.com^
+@@|www.wabetainfo.com^
 
 ! Personal Domain - https://github.com/notracking/hosts-blocklists/issues/804
 @@|disguised.nl^
+@@|www.disguised.nl^
 
 ! Prevents registration on rungne.com
 @@||a.klaviyo.com^
@@ -1586,6 +1777,7 @@
 
 ! Banking
 @@|zinspilot.de^
+@@|www.zinspilot.de^
 
 ! Disneyland Paris register
 @@||registerdisney.go.com^
@@ -1598,13 +1790,17 @@
 
 ! Akamai
 @@|akamaihd.net^
+@@|www.akamaihd.net^
 @@|akamaitechnologies.com^
+@@|www.akamaitechnologies.com^
 @@|akamaized.net^
+@@|www.akamaized.net^
 @@|lastfm-img2.akamaized.net^
 @@|widget-cdn.rpxnow.com^
 
 ! uceprotect network
 @@|uceprotect.net^
+@@|www.uceprotect.net^
 
 ! Breaks site layouts - ex. bose.com
 @@|assets.adobedtm.com^
@@ -1622,6 +1818,7 @@
 
 ! Adult game site
 @@|ero-labs.online^
+@@|www.ero-labs.online^
 
 ! Videos on NFL.com
 @@|p.nfltags.com^
@@ -1636,6 +1833,7 @@
 
 ! Add calendar events
 @@|addthisevent.com^
+@@|www.addthisevent.com^
 
 ! Images on SkyShowTime
 @@|pixel.disco.skyshowtime.com^
@@ -1645,21 +1843,26 @@
 
 ! Computermagazine
 @@|pcwelt.de^
+@@|www.pcwelt.de^
 
 ! Ionos Mails
 @@|cloud-news.ionos.com^
 
 ! e-mail bulletins
 @@|lnks.gd^
+@@|www.lnks.gd^
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/132565
 @@|shalltry.com^
+@@|www.shalltry.com^
 
 ! Breaks Videos on adult sites
 @@|streamsb.net^
+@@|www.streamsb.net^
 
 ! VPS forum
 @@|lowendbox.com^
+@@|www.lowendbox.com^
 
 ! PerimeterX (HUMAN Security) is an application security and anti fraud solution
 @@||perimeterx.net^
@@ -1680,9 +1883,11 @@
 
 ! reviews about online shops
 @@|avis-verifies.com^
+@@|www.avis-verifies.com^
 
 ! Media CDN
 @@|iframely.net^
+@@|www.iframely.net^
 
 ! CRL server for GoDaddy Subsidiary Starfield CA
 @@|o.ss2.us^
@@ -1693,6 +1898,7 @@
 
 ! Mastodon instance
 @@|ioc.exchange^
+@@|www.ioc.exchange^
 
 ! Shopping tables on verabradley.com
 @@|js.klevu.com^
@@ -1705,15 +1911,18 @@
 
 ! kohls.com product catalog images
 @@|stylitics.com^
+@@|www.stylitics.com^
 @@|web-assets.stylitics.com^
 @@|web-assets.stylitics.com.cdn.cloudflare.net^
 
 ! News site
 @@|dailycaller.com^
+@@|www.dailycaller.com^
 
 ! Application Insights data on the Azure portal
 @@||aimon.applicationinsights.io^
 @@|applicationinsights.io^
+@@|www.applicationinsights.io^
 
 ! RBC Two step authentication
 @@|d3tracking.rbc.com^
@@ -1723,6 +1932,7 @@
 
 ! apple-dns.net
 @@|apple-dns.net^
+@@|www.apple-dns.net^
 
 ! Articles on buzzfee.com
 @@|abeagle-public.buzzfeed.com^
@@ -1738,12 +1948,15 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 @@|appsumo.com^
+@@|www.appsumo.com^
 
 ! Canary email app
 @@|canarymail.io^
+@@|www.canarymail.io^
 
 ! Mastodon instance
 @@|norden.social^
+@@|www.norden.social^
 
 ! Breaks naver.com
 @@||tivan.naver.com^
@@ -1765,10 +1978,12 @@
 
 ! Twibbonize
 @@|twibbonize.com^
+@@|www.twibbonize.com^
 @@||twibbonize.com.cdn.ezoic.net^
 
 ! CDN of Akamai
 @@|akamai-images-content.com^
+@@|www.akamai-images-content.com^
 
 ! Yandex Single Sign On
 @@||passport.yandex.ru^
@@ -1786,16 +2001,22 @@
 
 ! Video Hosting
 @@|ff-01.com^
+@@|www.ff-01.com^
 @@|ff-02.com^
+@@|www.ff-02.com^
 @@|ff-03.com^
+@@|www.ff-03.com^
 @@|ff-04.com^
+@@|www.ff-04.com^
 @@|ff-05.com^
+@@|www.ff-05.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/65
 @@|overclockers.co.uk^
 
 ! Code Examples
 @@|code-examples.net^
+@@|www.code-examples.net^
 
 ! Oaktree Insights investment emails
 @@|go.oaktreecapital.com^
@@ -1805,6 +2026,7 @@
 
 ! Roku TV Crackle app
 @@|ravm.tv^
+@@|www.ravm.tv^
 
 ! https://old.reddit.com/r/nextdns/comments/yzvnuw/nest_usage_metrics_being_blocked/
 @@|logsink.devices.nest.com^
@@ -1827,6 +2049,7 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/72
 @@|manli.com^
+@@|www.manli.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/73
 @@|cdn.reamaze.com^
@@ -1837,6 +2060,7 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/74
 @@|b-cdn.net^
+@@|www.b-cdn.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/75
 @@|ip.istatmenus.app^
@@ -1854,6 +2078,7 @@
 
 ! Open-source and modern URL shortener
 @@|kutt.it^
+@@|www.kutt.it^
 
 ! Images and links in various Mails, e.g. emp.de
 @@|recommender.scarabresearch.com^
@@ -1875,6 +2100,7 @@
 
 ! Tantanapp
 @@|tantanapp.com^
+@@|www.tantanapp.com^
 @@|api.immomo.com^
 
 ! Market research by survey panels
@@ -1911,9 +2137,11 @@
 
 ! Video Playback on various sites
 @@|jwpcdn.com^
+@@|www.jwpcdn.com^
 
 ! Backup software
 @@|arqbackup.com^
+@@|www.arqbackup.com^
 
 ! Survey in Mails
 @@|global.cdn.survey.medallia.com^
@@ -1924,12 +2152,14 @@
 
 ! Breaks apis and services - e.g. imprint won't load: https://www.cyprianerhof.com/credits/impressum
 @@|bnamic.com^
+@@|www.bnamic.com^
 
 ! Breaks Qikify App
 @@|sdk.qikify.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/90
 @@|softonic.com^
+@@|www.softonic.com^
 
 ! Search on bricomart.es
 @@|tag.search.sensefuel.live^
@@ -1955,17 +2185,21 @@
 ! Streaming website
 ! https://github.com/hagezi/dns-blocklists/issues/92
 @@|vidio.com^
+@@|www.vidio.com^
 
 ! Legit website for a garden in Malaysia
 ! https://github.com/hagezi/dns-blocklists/issues/93
 @@|tropicalspicegarden.com^
+@@|www.tropicalspicegarden.com^
 
 ! breaks chart at https://www.cnbc.com/2022/12/07/carvana-shares-tank-as-bankruptcy-concerns-grow-for-used-car-retailer.html
 @@|fm.cnbc.com^
 
 ! breaks https://share.hsforms.com/13gyIEVN5SrScw-iVvCgIew4sk30
 @@|hsforms.com^
+@@|www.hsforms.com^
 @@|hsforms.net^
+@@|www.hsforms.net^
 
 ! Surveys
 @@|opinions.research-interactive.com^
@@ -1973,25 +2207,31 @@
 
 ! Customer live chat support
 @@|liveperson.com^
+@@|www.liveperson.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/96
 @@||arc.epoq.de^
 
 ! legit website
 @@|deviceatlas.com^
+@@|www.deviceatlas.com^
 
 ! Adult site
 @@|fapcat.com^
+@@|www.fapcat.com^
 
 ! Optimized mobile GPS Data - Google
 @@|xtrapath*.izatcloud.net^
 
 ! Chia blockchain
 @@|chia.net^
+@@|www.chia.net^
 
 ! Chinese logistics company
 @@|cainiao.com^
+@@|www.cainiao.com^
 
 ! Portal news
 @@|ac24horas.com^
+@@|www.ac24horas.com^
 

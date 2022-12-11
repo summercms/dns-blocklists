@@ -24,7 +24,7 @@ s3.amazonaws.com
 # d3p8zr0ffa9t17.cloudfront.net
 # device-metrics-us-2.amazon.com
 # device-metrics-us.amazon.com
-acsechocaptiveportal.com
+*.acsechocaptiveportal.com
 avs-alexa*.amazon.com
 dxz5jxhrrzigf.cloudfront.net
 msh.amazon.co.uk
@@ -193,8 +193,8 @@ raw.githubusercontent.com
 # Google
 *.android.pool.ntp.org
 *.client-channel.google.com
-*.gstaticadssl.l.google.com
 *.googlemail.com
+*.gstaticadssl.l.google.com
 afs.googleusercontent.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
@@ -217,6 +217,7 @@ fonts.gstatic.com
 geller-pa.googleapis.com
 geo3.ggpht.com
 geomobileservices-pa.googleapis.com
+google.com
 googleapis.com
 gstatic.com
 gvt1.com
