@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Dez 2022 23:55 UTC
-# Version: 2022.1209.2355.52
+# Last modified: 11 Dez 2022 00:24 UTC
+# Version: 2022.1211.0024.09
 # Syntax: Domains
-# Domains: 11324
+# Domains: 11201
 #
 willhaben.at.04300.id
 11trikots.com
@@ -1225,8 +1225,6 @@ black-forestcake.com
 www.black-forestcake.com
 blackwidow.at
 www.blackwidow.at
-blaroken.com
-www.blaroken.com
 blaudonau.de
 www.blaudonau.de
 blaue-dragoner.de
@@ -1841,6 +1839,8 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
+chicsoso.com
+www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -1939,6 +1939,8 @@ www.clockersbcn.com
 www.clockersbcn.es
 clonesuperwatch.ru
 www.clonesuperwatch.ru
+clorislife.com
+www.clorislife.com
 clothes-limited.com
 www.clothes-limited.com
 clothmyths.com
@@ -1980,7 +1982,6 @@ luxeparfum.co.uk
 mgfoundation.co.uk
 officialiphoneunlock.co.uk
 one8.co.kr
-perfektegeschenke.co.uk
 ra-fragrance.co.uk
 silvanass.co.uk
 urhair.co.uk
@@ -3213,7 +3214,6 @@ euronicsstore.de
 www.euronicsstore.de
 europatradecapital.com
 www.europatradecapital.com
-bmw.europe-moto.com
 europost-eu.biz
 www.europost-eu.biz
 eurshopping.com
@@ -6804,12 +6804,8 @@ mykundenservice.com
 www.mykundenservice.com
 myleadcorner.com
 www.myleadcorner.com
-mylittlebikes.uk
-www.mylittlebikes.uk
 mylookbookclub.com
 www.mylookbookclub.com
-mylovelife.site
-www.mylovelife.site
 mymodeboutique.de
 www.mymodeboutique.de
 mynecklace.de
@@ -6828,8 +6824,6 @@ myschuhe.com
 www.myschuhe.com
 myscreen.site
 www.myscreen.site
-mysellshop.site
-www.mysellshop.site
 88-films.myshopify.com
 baolis.myshopify.com
 bjhxds.myshopify.com
@@ -6884,8 +6878,6 @@ mystreetwear.ga
 www.mystreetwear.ga
 mytierhimmel.de
 www.mytierhimmel.de
-mytoybrick.com
-www.mytoybrick.com
 mywedj.com
 www.mywedj.com
 mywonderfy.com
@@ -6918,8 +6910,6 @@ naturemarket24.com
 www.naturemarket24.com
 naturetrees.org
 www.naturetrees.org
-naturgesunde-tiere.de
-www.naturgesunde-tiere.de
 naturheilpraxis-kirsten-sildatke.de
 www.naturheilpraxis-kirsten-sildatke.de
 naturprojekt.at
@@ -6928,15 +6918,11 @@ nbiafish.top
 www.nbiafish.top
 nbspek.top
 www.nbspek.top
-nbtcentre.top
-www.nbtcentre.top
 nbynicole.com
 de.nbynicole.com
 www.nbynicole.com
 ncases.com
 www.ncases.com
-ncyhnyc.com
-www.ncyhnyc.com
 ndm-faustball.de
 www.ndm-faustball.de
 neapelstore.de
@@ -6947,8 +6933,6 @@ nebulouise.com
 www.nebulouise.com
 neecoco.com
 www.neecoco.com
-negrado.com
-www.negrado.com
 nemphilist.com
 www.nemphilist.com
 nenerotor.com
@@ -6959,8 +6943,6 @@ neo-electronics.com
 www.neo-electronics.com
 neobosen.com
 www.neobosen.com
-neodore.net
-www.neodore.net
 neogames.eu
 www.neogames.eu
 neopass.de
@@ -6976,8 +6958,6 @@ download.net.ua
 uggbootsclearance.net.co
 net-inkasso.de
 www.net-inkasso.de
-netselect.site
-www.netselect.site
 netsiclothing.com
 www.netsiclothing.com
 nettjade.de
@@ -7016,8 +6996,6 @@ newgadgetst.com
 www.newgadgetst.com
 newland-travel.com
 www.newland-travel.com
-newupperlab.com
-www.newupperlab.com
 nexet.xyz
 nexsource.de
 www.nexsource.de
@@ -7110,16 +7088,12 @@ www.nobuldeutschland.me
 nobull-osterreich.at
 nobullaustria.at
 www.nobullaustria.at
-nobulllgermany.com
-www.nobulllgermany.com
 nobullosterreich.at
 nobullosterreich.com
 www.nobullosterreich.at
 www.nobullosterreich.com
 nobulosterreich.me
 www.nobulosterreich.me
-noderecords.de
-www.noderecords.de
 nohrak.com
 www.nohrak.com
 nolimitsound.de
@@ -7178,8 +7152,6 @@ nowflix.de
 www.nowflix.de
 nowistherevolution.com
 www.nowistherevolution.com
-nsebtik.com
-www.nsebtik.com
 ntonio.de
 www.ntonio.de
 ntxmickeymantle.com
@@ -7217,8 +7189,6 @@ obsthalle-froeschau.de
 www.obsthalle-froeschau.de
 oclegends.org
 www.oclegends.org
-octora.de
-www.octora.de
 odenkik.com
 www.odenkik.com
 odyssey-labs.com
@@ -7227,8 +7197,6 @@ oexpel.com
 www.oexpel.com
 ofenbau-torgelow.de
 www.ofenbau-torgelow.de
-offershop.xyz
-www.offershop.xyz
 official-lighton.com
 www.official-lighton.com
 official-watch.com
@@ -7251,8 +7219,6 @@ ofoghesmsm.com
 www.ofoghesmsm.com
 ofychic.com
 www.ofychic.com
-ohdedu.com
-www.ohdedu.com
 ohmstudio.fr
 www.ohmstudio.fr
 ohne-rezept.org
@@ -7280,10 +7246,6 @@ olahagencyh.com
 www.olahagencyh.com
 olakork.com
 www.olakork.com
-oldbeibi.com
-www.oldbeibi.com
-oleean.com
-www.oleean.com
 oliflix.de
 www.oliflix.de
 olivegardenhouses.de
@@ -7314,10 +7276,6 @@ onepolaroid.com
 www.onepolaroid.com
 onesystems.de
 www.onesystems.de
-onevinice.com
-www.onevinice.com
-onezadausa.com
-www.onezadausa.com
 onkel-nolte.de
 www.onkel-nolte.de
 online-gold-shop.de
@@ -7328,12 +7286,8 @@ online-mode-1.de
 www.online-mode-1.de
 online-uggs.net
 www.online-uggs.net
-onlinecheapcenter.com
-www.onlinecheapcenter.com
 onlinechemicalandpills.com
 www.onlinechemicalandpills.com
-onlinediscountusa.com
-www.onlinediscountusa.com
 onlineflamencoguitar.com
 www.onlineflamencoguitar.com
 onlineideastoday.com
@@ -7398,25 +7352,15 @@ osecrobotics.com
 www.osecrobotics.com
 osmi-shop.com
 www.osmi-shop.com
-osotic.com
-www.osotic.com
 osteoar.xyz
 ostergartenhermesdorf.de
 www.ostergartenhermesdorf.de
 otto-angebote.de
 www.otto-angebote.de
-ourcheap.site
-www.ourcheap.site
-ourcheapluv.site
-www.ourcheapluv.site
 ourclothes.club
 www.ourclothes.club
 ourjewellery.club
 www.ourjewellery.club
-oursreplica.com
-www.oursreplica.com
-outbuysnow.site
-www.outbuysnow.site
 outdoor-bronco.com
 www.outdoor-bronco.com
 outdoor-repel.de
@@ -7430,21 +7374,8 @@ www.outlet-moncler.top
 outlet-online.com
 www.outlet-online.com
 hr.outlet2021.com
-outletbuystore.site
-www.outletbuystore.site
 outletcowboy.com
 www.outletcowboy.com
-outletgetstore.site
-www.outletgetstore.site
-outletmonclerjacketco.com
-outletsbestsell.site
-www.outletsbestsell.site
-outletsbuy.site
-www.outletsbuy.site
-outletscell.site
-www.outletscell.site
-outletssell.site
-www.outletssell.site
 outletuggoutletuk.com
 www.outletuggoutletuk.com
 outsidelife.club
@@ -7497,8 +7428,6 @@ panzer-industriebedarf.de
 www.panzer-industriebedarf.de
 panzvor.com
 www.panzvor.com
-papsttasche.de
-www.papsttasche.de
 paradiso24.com
 www.paradiso24.com
 parajumpersitaly.com
@@ -7506,16 +7435,12 @@ www.parajumpersitaly.com
 de2.parazax.com
 parfumly.com
 www.parfumly.com
-parisinpink.com
-www.parisinpink.com
 partnerimwald.ch
 www.partnerimwald.ch
 partsm.top
 www.partsm.top
 partykiste-undorf.de
 www.partykiste-undorf.de
-pascher.top
-www.pascher.top
 passamera.de
 www.passamera.de
 passion-fotos.de
@@ -7536,8 +7461,6 @@ pbglab.it
 www.pbglab.it
 pc-akku.at
 www.pc-akku.at
-pc-topangebote.de
-www.pc-topangebote.de
 pcpartsvendor.com
 www.pcpartsvendor.com
 pcprime.de
@@ -7552,8 +7475,6 @@ pearlfeet.de
 www.pearlfeet.de
 pearlyo.de
 www.pearlyo.de
-peasale.com
-www.peasale.com
 pebasic.com
 www.pebasic.com
 peekachill.com
@@ -7616,8 +7537,6 @@ pfarrei-herz-mariae-igb.de
 www.pfarrei-herz-mariae-igb.de
 pferdehof-kraus.de
 www.pferdehof-kraus.de
-pferdephysio-arndt.de
-www.pferdephysio-arndt.de
 pfm-magazin.at
 www.pfm-magazin.at
 pfotenfans.com
@@ -7678,8 +7597,6 @@ pivht-supplements.com
 www.pivht-supplements.com
 pixelkatze.de
 www.pixelkatze.de
-pjaonemus.com
-www.pjaonemus.com
 pkgqybz.top
 www.pkgqybz.top
 pkuctg.top
@@ -7705,7 +7622,6 @@ playbong.de
 www.playbong.de
 playmeta.de
 www.playmeta.de
-playmoon.de
 playneo.de
 www.playneo.de
 playsdom.com
@@ -7740,8 +7656,6 @@ podium-zukunft.at
 www.podium-zukunft.at
 pogelos.de
 www.pogelos.de
-point-x.shop
-www.point-x.shop
 pointdsgn.com
 www.pointdsgn.com
 pokestores.com
@@ -7750,8 +7664,6 @@ polenboeller-bestellen.com
 www.polenboeller-bestellen.com
 polenboeller-deutschland.com
 www.polenboeller-deutschland.com
-polodresse2020.com
-www.polodresse2020.com
 polomano.co
 www.polomano.co
 polsterei-daniels.de
@@ -7845,8 +7757,6 @@ presentpanda.de
 www.presentpanda.de
 pressl.co
 www.pressl.co
-prestige-eu.com
-www.prestige-eu.com
 prestige-express.ru
 www.prestige-express.ru
 prestiles.com
@@ -7908,8 +7818,6 @@ prolebenklinik-igls.at
 www.prolebenklinik-igls.at
 promdressesshop.com
 www.promdressesshop.com
-prontho.de
-www.prontho.de
 proseccotrex.de
 www.proseccotrex.de
 prosleepy.com
@@ -7962,10 +7870,6 @@ pushup.at
 www.pushup.at
 pushup-bh.at
 www.pushup-bh.at
-puustelli.top
-www.puustelli.top
-pwowide.com
-www.pwowide.com
 pwrdsport.com
 www.pwrdsport.com
 pymds.com
@@ -7999,8 +7903,6 @@ quaestus.at
 www.quaestus.at
 qualitygadgetshop.com
 www.qualitygadgetshop.com
-quaranti.de
-www.quaranti.de
 queeneva.com
 www.queeneva.com
 queenofarticle.com
@@ -8047,8 +7949,6 @@ radbekleidung4u.com
 www.radbekleidung4u.com
 radeondelivery.com
 www.radeondelivery.com
-rader-loewen.de
-www.rader-loewen.de
 radikhub.com
 www.radikhub.com
 radinod.com
@@ -8087,8 +7987,6 @@ randalu.de
 www.randalu.de
 rangeecoin.com
 www.rangeecoin.com
-rangpoa.com
-www.rangpoa.com
 ranjnagupta.com
 www.ranjnagupta.com
 ranthambhorekothi.com
@@ -8103,8 +8001,6 @@ rases.work
 www.rases.work
 ratemyaxe.com
 www.ratemyaxe.com
-ravenprombagsoutlet2021.com
-www.ravenprombagsoutlet2021.com
 ravensburger-krippenland.de
 www.ravensburger-krippenland.de
 rawchanger.com
@@ -8121,8 +8017,6 @@ rdoering.de
 www.rdoering.de
 reacapacity.shop
 www.reacapacity.shop
-readyshop.xyz
-www.readyshop.xyz
 realchems.de
 www.realchems.de
 realestate.immobilien
@@ -8150,8 +8044,6 @@ red-estate.com
 www.red-estate.com
 redactjuri.fr
 www.redactjuri.fr
-redebcna.com
-www.redebcna.com
 redflix.de
 www.redflix.de
 reeboknanonz.com
@@ -8179,8 +8071,6 @@ regplay.de
 www.regplay.de
 regulh.com
 www.regulh.com
-rehapolen.de
-www.rehapolen.de
 rehauevents.de
 www.rehauevents.de
 reichwahl.de
@@ -8251,14 +8141,10 @@ resa-sista-minuten.se
 www.resa-sista-minuten.se
 resid3ncy.com
 www.resid3ncy.com
-residence-immo.com
-www.residence-immo.com
 reslishd.com
 www.reslishd.com
 restliss.com
 www.restliss.com
-rethwisch-handball.de
-www.rethwisch-handball.de
 retro-stage.de
 www.retro-stage.de
 retrocyclingtops.com
@@ -8269,8 +8155,6 @@ reve-logistic.com
 www.reve-logistic.com
 revolutzajam.de
 www.revolutzajam.de
-rexflix.de
-www.rexflix.de
 rexkino.de
 www.rexkino.de
 reyhaloj.top
@@ -8289,14 +8173,11 @@ rezeptfrei-versand.de
 www.rezeptfrei-versand.de
 rgoconnell.com
 www.rgoconnell.com
-rgxina.com
-www.rgxina.com
 rhein-entree.de
 www.rhein-entree.de
 rhein-trends24.de
 www.rhein-trends24.de
 rheinadler.com
-rheinadler.de
 www.rheinadler.com
 rheinarche.de
 www.rheinarche.de
@@ -8304,10 +8185,6 @@ rheinash.com
 www.rheinash.com
 rheineule.de
 www.rheineule.de
-rheinsteigfuehrer.de
-www.rheinsteigfuehrer.de
-rheintulpen.de
-www.rheintulpen.de
 rheinwing.de
 www.rheinwing.de
 rheumatopia.de
@@ -8369,8 +8246,6 @@ rivalla.de
 www.rivalla.de
 rivando.de
 www.rivando.de
-river-adventure.com
-www.river-adventure.com
 riverfront.at
 www.riverfront.at
 rkorteo.com
@@ -8425,11 +8300,8 @@ romeyfashion.com
 www.romeyfashion.com
 ronain.com
 www.ronain.com
-roncartoons.de
-www.roncartoons.de
 roof-tube.com
 www.roof-tube.com
-roomard.xyz
 roombrand.ru
 www.roombrand.ru
 roomflix.de
@@ -10008,6 +9880,7 @@ totiate.xyz
 www.totiate.xyz
 totofashion2021.com
 www.totofashion2021.com
+touchy.at
 tour-de-hell.de
 www.tour-de-hell.de
 de.tour-home.com
@@ -10309,6 +10182,8 @@ up4profit.net
 www.up4profit.net
 upservices.de
 www.upservices.de
+upsolutmv.com
+www.upsolutmv.com
 upup.at
 www.upup.at
 urban-patterns.de
@@ -10412,6 +10287,8 @@ vejaaustria.at
 www.vejaaustria.at
 vejaschuhe.at
 www.vejaschuhe.at
+vejaschuheosterreich.com
+www.vejaschuheosterreich.com
 vejasneakerswien.at
 www.vejasneakerswien.at
 vejoheza.top

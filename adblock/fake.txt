@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Dez 2022 23:55 UTC
-! Version: 2022.1209.2355.52
+! Last modified: 11 Dez 2022 00:24 UTC
+! Version: 2022.1211.0024.09
 ! Syntax: AdBlock
-! Domains: 5906
+! Domains: 5842
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -638,7 +638,6 @@
 ||bjorkcoffee.com^
 ||black-forestcake.com^
 ||blackwidow.at^
-||blaroken.com^
 ||blaudonau.de^
 ||blaue-dragoner.de^
 ||blauerhein.de^
@@ -950,6 +949,7 @@
 ||chichandbagsshop.com^
 ||chicladdy.com^
 ||chiclolo.com^
+||chicsoso.com^
 ||chictogerther.com^
 ||chicwells.de^
 ||chillgod.com^
@@ -1000,6 +1000,7 @@
 ||clockersbcn.com^
 ||clockersbcn.es^
 ||clonesuperwatch.ru^
+||clorislife.com^
 ||clothes-limited.com^
 ||clothmyths.com^
 ||cloudcryptoexpert.com^
@@ -1032,7 +1033,6 @@
 ||mgfoundation.co.uk^
 ||officialiphoneunlock.co.uk^
 ||one8.co.kr^
-||perfektegeschenke.co.uk^
 ||ra-fragrance.co.uk^
 ||silvanass.co.uk^
 ||urhair.co.uk^
@@ -1686,7 +1686,6 @@
 ||euronicsservices.de^
 ||euronicsstore.de^
 ||europatradecapital.com^
-||bmw.europe-moto.com^
 ||europost-eu.biz^
 ||eurshopping.com^
 ||eurtrans.com^
@@ -3543,9 +3542,7 @@
 ||myhousehold.store^
 ||mykundenservice.com^
 ||myleadcorner.com^
-||mylittlebikes.uk^
 ||mylookbookclub.com^
-||mylovelife.site^
 ||mymodeboutique.de^
 ||mynecklace.de^
 ||mynewpink.com^
@@ -3555,7 +3552,6 @@
 ||myriam-david.com^
 ||myschuhe.com^
 ||myscreen.site^
-||mysellshop.site^
 ||88-films.myshopify.com^
 ||baolis.myshopify.com^
 ||bjhxds.myshopify.com^
@@ -3604,7 +3600,6 @@
 ||myspyally.com^
 ||mystreetwear.ga^
 ||mytierhimmel.de^
-||mytoybrick.com^
 ||mywedj.com^
 ||mywonderfy.com^
 ||nachhaltig-mode.com^
@@ -3621,27 +3616,22 @@
 ||naturalzuda.de^
 ||naturemarket24.com^
 ||naturetrees.org^
-||naturgesunde-tiere.de^
 ||naturheilpraxis-kirsten-sildatke.de^
 ||naturprojekt.at^
 ||nbiafish.top^
 ||nbspek.top^
-||nbtcentre.top^
 ||nbynicole.com^
 ||ncases.com^
-||ncyhnyc.com^
 ||ndm-faustball.de^
 ||neapelstore.de^
 ||neary.de^
 ||nebulouise.com^
 ||neecoco.com^
-||negrado.com^
 ||nemphilist.com^
 ||nenerotor.com^
 ||neo-electro.com^
 ||neo-electronics.com^
 ||neobosen.com^
-||neodore.net^
 ||neogames.eu^
 ||neopass.de^
 ||nepenthe.shop^
@@ -3651,7 +3641,6 @@
 ||download.net.ua^
 ||uggbootsclearance.net.co^
 ||net-inkasso.de^
-||netselect.site^
 ||netsiclothing.com^
 ||nettjade.de^
 ||netum.net^
@@ -3672,7 +3661,6 @@
 ||de.newchic.com^
 ||newgadgetst.com^
 ||newland-travel.com^
-||newupperlab.com^
 ||nexet.xyz^
 ||nexsource.de^
 ||ney-net.de^
@@ -3720,11 +3708,9 @@
 ||nobuldeutschland.me^
 ||nobull-osterreich.at^
 ||nobullaustria.at^
-||nobulllgermany.com^
 ||nobullosterreich.at^
 ||nobullosterreich.com^
 ||nobulosterreich.me^
-||noderecords.de^
 ||nohrak.com^
 ||nolimitsound.de^
 ||noobwatch03.io^
@@ -3756,7 +3742,6 @@
 ||noweight.de^
 ||nowflix.de^
 ||nowistherevolution.com^
-||nsebtik.com^
 ||ntonio.de^
 ||ntxmickeymantle.com^
 ||nuerahha.com^
@@ -3776,12 +3761,10 @@
 ||obrath-gmbh.de^
 ||obsthalle-froeschau.de^
 ||oclegends.org^
-||octora.de^
 ||odenkik.com^
 ||odyssey-labs.com^
 ||oexpel.com^
 ||ofenbau-torgelow.de^
-||offershop.xyz^
 ||official-lighton.com^
 ||official-watch.com^
 ||officialbucketlistco.com^
@@ -3793,7 +3776,6 @@
 ||ofildeleau.fr^
 ||ofoghesmsm.com^
 ||ofychic.com^
-||ohdedu.com^
 ||ohmstudio.fr^
 ||ohne-rezept.org^
 ||ohne-rezept-kaufen.biz^
@@ -3808,8 +3790,6 @@
 ||oktando.de^
 ||olahagencyh.com^
 ||olakork.com^
-||oldbeibi.com^
-||oleean.com^
 ||oliflix.de^
 ||olivegardenhouses.de^
 ||oliver-schwarzer-shop.de^
@@ -3826,16 +3806,12 @@
 ||oneist.xyz^
 ||onepolaroid.com^
 ||onesystems.de^
-||onevinice.com^
-||onezadausa.com^
 ||onkel-nolte.de^
 ||online-gold-shop.de^
 ||online-handelsregister.eu^
 ||online-mode-1.de^
 ||online-uggs.net^
-||onlinecheapcenter.com^
 ||onlinechemicalandpills.com^
-||onlinediscountusa.com^
 ||onlineflamencoguitar.com^
 ||onlineideastoday.com^
 ||onlineinvestmentreviews.com^
@@ -3868,16 +3844,11 @@
 ||oscara.de^
 ||osecrobotics.com^
 ||osmi-shop.com^
-||osotic.com^
 ||osteoar.xyz^
 ||ostergartenhermesdorf.de^
 ||otto-angebote.de^
-||ourcheap.site^
-||ourcheapluv.site^
 ||ourclothes.club^
 ||ourjewellery.club^
-||oursreplica.com^
-||outbuysnow.site^
 ||outdoor-bronco.com^
 ||outdoor-repel.de^
 ||outdoorshopx.com^
@@ -3885,14 +3856,7 @@
 ||outlet-moncler.top^
 ||outlet-online.com^
 ||hr.outlet2021.com^
-||outletbuystore.site^
 ||outletcowboy.com^
-||outletgetstore.site^
-||outletmonclerjacketco.com^
-||outletsbestsell.site^
-||outletsbuy.site^
-||outletscell.site^
-||outletssell.site^
 ||outletuggoutletuk.com^
 ||outsidelife.club^
 ||ovalball.com^
@@ -3920,16 +3884,13 @@
 ||pannale.com^
 ||panzer-industriebedarf.de^
 ||panzvor.com^
-||papsttasche.de^
 ||paradiso24.com^
 ||parajumpersitaly.com^
 ||de2.parazax.com^
 ||parfumly.com^
-||parisinpink.com^
 ||partnerimwald.ch^
 ||partsm.top^
 ||partykiste-undorf.de^
-||pascher.top^
 ||passamera.de^
 ||passion-fotos.de^
 ||crop.patientburn.xyz^
@@ -3941,7 +3902,6 @@
 ||payice.xyz^
 ||pbglab.it^
 ||pc-akku.at^
-||pc-topangebote.de^
 ||pcpartsvendor.com^
 ||pcprime.de^
 ||pdv-bayern.de^
@@ -3949,7 +3909,6 @@
 ||peachsodas.com^
 ||pearlfeet.de^
 ||pearlyo.de^
-||peasale.com^
 ||pebasic.com^
 ||peekachill.com^
 ||pegnitzratzen.de^
@@ -3983,7 +3942,6 @@
 ||pfaffe3000.de^
 ||pfarrei-herz-mariae-igb.de^
 ||pferdehof-kraus.de^
-||pferdephysio-arndt.de^
 ||pfm-magazin.at^
 ||pfotenfans.com^
 ||pfotenschule-bremen.de^
@@ -4016,7 +3974,6 @@
 ||piufashionlook.com^
 ||pivht-supplements.com^
 ||pixelkatze.de^
-||pjaonemus.com^
 ||pkgqybz.top^
 ||pkuctg.top^
 ||place-inc.com^
@@ -4029,7 +3986,6 @@
 ||platzstores.com^
 ||playbong.de^
 ||playmeta.de^
-||playmoon.de^
 ||playneo.de^
 ||playsdom.com^
 ||playsom.de^
@@ -4047,12 +4003,10 @@
 ||pmsciart.com^
 ||podium-zukunft.at^
 ||pogelos.de^
-||point-x.shop^
 ||pointdsgn.com^
 ||pokestores.com^
 ||polenboeller-bestellen.com^
 ||polenboeller-deutschland.com^
-||polodresse2020.com^
 ||polomano.co^
 ||polsterei-daniels.de^
 ||polwestos.at^
@@ -4102,7 +4056,6 @@
 ||prepabtsl.com^
 ||presentpanda.de^
 ||pressl.co^
-||prestige-eu.com^
 ||prestige-express.ru^
 ||prestiles.com^
 ||prettyaccord.com^
@@ -4133,7 +4086,6 @@
 ||projectpeva.org^
 ||prolebenklinik-igls.at^
 ||promdressesshop.com^
-||prontho.de^
 ||proseccotrex.de^
 ||prosleepy.com^
 ||protectgreen.de^
@@ -4162,8 +4114,6 @@
 ||pushdryson.com^
 ||pushup.at^
 ||pushup-bh.at^
-||puustelli.top^
-||pwowide.com^
 ||pwrdsport.com^
 ||pymds.com^
 ||pyro-effects.com^
@@ -4181,7 +4131,6 @@
 ||shop.qrp-labs.com^
 ||quaestus.at^
 ||qualitygadgetshop.com^
-||quaranti.de^
 ||queeneva.com^
 ||queenofarticle.com^
 ||queensgaa.com^
@@ -4207,7 +4156,6 @@
 ||radaflex.de^
 ||radbekleidung4u.com^
 ||radeondelivery.com^
-||rader-loewen.de^
 ||radikhub.com^
 ||radinod.com^
 ||radiortn.de^
@@ -4227,7 +4175,6 @@
 ||ramonlabrador.de^
 ||randalu.de^
 ||rangeecoin.com^
-||rangpoa.com^
 ||ranjnagupta.com^
 ||ranthambhorekothi.com^
 ||rapidprotrades.com^
@@ -4235,7 +4182,6 @@
 ||rasengarten.com^
 ||rases.work^
 ||ratemyaxe.com^
-||ravenprombagsoutlet2021.com^
 ||ravensburger-krippenland.de^
 ||rawchanger.com^
 ||rbrei.com^
@@ -4244,7 +4190,6 @@
 ||rcredifinsa.com^
 ||rdoering.de^
 ||reacapacity.shop^
-||readyshop.xyz^
 ||realchems.de^
 ||realestate.immobilien^
 ||realflix.de^
@@ -4259,7 +4204,6 @@
 ||rechtsanwalt-eickelberg.de^
 ||red-estate.com^
 ||redactjuri.fr^
-||redebcna.com^
 ||redflix.de^
 ||reeboknanonz.com^
 ||de.reeboktriluxrun.com^
@@ -4274,7 +4218,6 @@
 ||regli-coaching.com^
 ||regplay.de^
 ||regulh.com^
-||rehapolen.de^
 ||rehauevents.de^
 ||reichwahl.de^
 ||reifen-altendorf.de^
@@ -4310,16 +4253,13 @@
 ||repuhren.de^
 ||resa-sista-minuten.se^
 ||resid3ncy.com^
-||residence-immo.com^
 ||reslishd.com^
 ||restliss.com^
-||rethwisch-handball.de^
 ||retro-stage.de^
 ||retrocyclingtops.com^
 ||retrostages.de^
 ||reve-logistic.com^
 ||revolutzajam.de^
-||rexflix.de^
 ||rexkino.de^
 ||reyhaloj.top^
 ||rezept-oase.de^
@@ -4329,16 +4269,12 @@
 ||rezeptfrei-bestellung.de^
 ||rezeptfrei-versand.de^
 ||rgoconnell.com^
-||rgxina.com^
 ||rhein-entree.de^
 ||rhein-trends24.de^
 ||rheinadler.com^
-||rheinadler.de^
 ||rheinarche.de^
 ||rheinash.com^
 ||rheineule.de^
-||rheinsteigfuehrer.de^
-||rheintulpen.de^
 ||rheinwing.de^
 ||rheumatopia.de^
 ||rhinowalk.com^
@@ -4371,7 +4307,6 @@
 ||ritter-mode.com^
 ||rivalla.de^
 ||rivando.de^
-||river-adventure.com^
 ||riverfront.at^
 ||rkorteo.com^
 ||rkzhb.com^
@@ -4399,9 +4334,7 @@
 ||romda.dk^
 ||romeyfashion.com^
 ||ronain.com^
-||roncartoons.de^
 ||roof-tube.com^
-||roomard.xyz^
 ||roombrand.ru^
 ||roomflix.de^
 ||rosasommer.com^
@@ -5216,6 +5149,7 @@
 ||totaltv.store^
 ||totiate.xyz^
 ||totofashion2021.com^
+||touchy.at^
 ||tour-de-hell.de^
 ||de.tour-home.com^
 ||europe.tour-home.com^
@@ -5374,6 +5308,7 @@
 ||ununrr.com^
 ||up4profit.net^
 ||upservices.de^
+||upsolutmv.com^
 ||upup.at^
 ||urban-patterns.de^
 ||urban-transporte.com^
@@ -5437,6 +5372,7 @@
 ||vdd-osnabrueck.de^
 ||vejaaustria.at^
 ||vejaschuhe.at^
+||vejaschuheosterreich.com^
 ||vejasneakerswien.at^
 ||vejoheza.top^
 ||velhaven.net^
