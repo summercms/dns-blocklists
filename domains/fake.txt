@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 00:24 UTC
-# Version: 2022.1211.0024.09
+# Last modified: 11 Dez 2022 23:56 UTC
+# Version: 2022.1211.2356.08
 # Syntax: Domains
-# Domains: 11201
+# Domains: 11050
 #
 willhaben.at.04300.id
 11trikots.com
@@ -4775,7 +4775,6 @@ www.hvc-handel.com
 hwuut.shop
 www.hwuut.shop
 hygrfy.xyz
-shop.hyper-tech.co
 hyperanzeigen.at
 www.hyperanzeigen.at
 hyperblue.de
@@ -4894,8 +4893,6 @@ cheap-michaelkors.in.net
 michaelkorsoutletoff.in.net
 inc-real.com
 www.inc-real.com
-incerunmen.com
-www.incerunmen.com
 incesanitar.de
 www.incesanitar.de
 indonesiahotel24.com
@@ -8432,8 +8429,6 @@ sandkproject.com
 www.sandkproject.com
 sandra-schwarz.de
 www.sandra-schwarz.de
-sanfter-kaffe.de
-www.sanfter-kaffe.de
 sansapoten.com
 www.sansapoten.com
 santikadesign.com
@@ -8473,8 +8468,6 @@ savcarv.com
 www.savcarv.com
 savela.de
 www.savela.de
-savesshop.com
-www.savesshop.com
 saweushop.com
 www.saweushop.com
 sbwecm.top
@@ -8534,8 +8527,6 @@ www.schmerzmittel-billiger.com
 schmerzmittel-rezeptfrei.com
 www.schmerzmittel-rezeptfrei.com
 schmitt-drogerie.com
-schmuckhilft.de
-www.schmuckhilft.de
 schmukkedeern.de
 www.schmukkedeern.de
 schmutzigesgeheimnis.at
@@ -8580,8 +8571,6 @@ schwabler.com
 www.schwabler.com
 schwanhaus.de
 www.schwanhaus.de
-scientificentre.com
-www.scientificentre.com
 screenacy.co
 www.screenacy.co
 screenwithenvy.de
@@ -8598,8 +8587,6 @@ www.secretcasual.ch
 www.secretcasual.de
 secrettowin.com
 www.secrettowin.com
-securebetter.site
-www.securebetter.site
 securesmartoptions.online
 www.securesmartoptions.online
 seeence.xyz
@@ -8632,20 +8619,14 @@ selected-software.de
 www.selected-software.de
 selina-nails.de
 www.selina-nails.de
-selivoo.de
-www.selivoo.de
 sellbest.eu
 www.sellbest.eu
 sellsfun.com
 www.sellsfun.com
-sellsmartstore.site
-www.sellsmartstore.site
 sem-solar.de
 www.sem-solar.de
 seminariovirtual.org
 www.seminariovirtual.org
-sencytehub.com
-www.sencytehub.com
 sendros.de
 www.sendros.de
 seniorendatingagentur.at
@@ -8757,16 +8738,10 @@ shopabnm.space
 www.shopabnm.space
 shopaove.space
 www.shopaove.space
-shopbabyluv.site
-www.shopbabyluv.site
 shopbackhelper.com
 www.shopbackhelper.com
-shopbayhoney.site
-www.shopbayhoney.site
 shopbillig.com
 www.shopbillig.com
-shopcheapluv.site
-www.shopcheapluv.site
 shopdaa.net
 www.shopdaa.net
 shopdapperkicks.com
@@ -8776,8 +8751,6 @@ shopeplace.com
 www.shopeplace.com
 shoperando.com
 www.shoperando.com
-shopfreelife.site
-www.shopfreelife.site
 shophunkemoller.com
 www.shophunkemoller.com
 8evlcbsuk3cm9agc-49220550809.shopifypreview.com
@@ -8802,8 +8775,6 @@ shoprosada.com
 www.shoprosada.com
 shops-eminem.com
 www.shops-eminem.com
-shoptoklove.site
-www.shoptoklove.site
 shoptumisales.de
 www.shoptumisales.de
 shopvaley.com
@@ -8920,8 +8891,6 @@ smartselektronik.com
 www.smartselektronik.com
 smatam.com
 www.smatam.com
-smcxkj.com
-www.smcxkj.com
 smilestyle.at
 www.smilestyle.at
 smilewithstyle.at
@@ -8963,8 +8932,6 @@ soflix.de
 www.soflix.de
 solanex.de
 www.solanex.de
-solanzo.de
-www.solanzo.de
 solar-liquid.de
 www.solar-liquid.de
 solar-starter.de
@@ -8991,8 +8958,6 @@ sonicra.com
 www.sonicra.com
 sonnenlit.de
 www.sonnenlit.de
-sonnenpedal.com
-www.sonnenpedal.com
 sonnesucht.de
 www.sonnesucht.de
 sonnighof.de
@@ -9042,8 +9007,6 @@ spherecryptos.com
 www.spherecryptos.com
 spiegler1.de
 www.spiegler1.de
-spielekonsole-market.com
-www.spielekonsole-market.com
 spieleund-konsolen.com
 www.spieleund-konsolen.com
 spielmobil-ottocar.de
@@ -9107,12 +9070,8 @@ www.spyshop.at
 spyxe.com
 spyxe.de
 www.spyxe.com
-srbinsel.de
-www.srbinsel.de
 src-allgaeu.de
 www.src-allgaeu.de
-srffrankfurt.de
-www.srffrankfurt.de
 m.sroyiglobal.com
 srrcops.org
 www.srrcops.org
@@ -9213,8 +9172,6 @@ stop-oder-go.de
 www.stop-oder-go.de
 storage-expo.fr
 www.storage-expo.fr
-storbuy.site
-www.storbuy.site
 de.store2021.net
 storeakku.com
 www.storeakku.com
@@ -9222,16 +9179,10 @@ storeaustria.com
 www.storeaustria.com
 storecheap.fun
 www.storecheap.fun
-storeincart.club
-www.storeincart.club
-storesbuy.site
-www.storesbuy.site
 storkwersborg.de
 www.storkwersborg.de
 stornierenbei.de
 www.stornierenbei.de
-stoxdc.com
-www.stoxdc.com
 strahlentier.de
 www.strahlentier.de
 strandkorbia.com
@@ -9318,8 +9269,6 @@ sunmorrison.com
 www.sunmorrison.com
 sunny-kids.de
 www.sunny-kids.de
-sunset-ag.com
-www.sunset-ag.com
 suntonfx.com
 www.suntonfx.com
 sup-cube.de
@@ -9389,14 +9338,10 @@ www.symbiosiswellbeing.com
 synagoge.at
 kaufen.synagoge.at
 www.synagoge.at
-syncheer.com
-www.syncheer.com
 syousefii.com
 www.syousefii.com
 systanz.de
 www.systanz.de
-systemiy.com
-www.systemiy.com
 sz-fishing.de
 www.sz-fishing.de
 szdafanl.com
@@ -9460,14 +9405,10 @@ tayamacctv.com
 www.tayamacctv.com
 tazreiter-holz.at
 www.tazreiter-holz.at
-tbamixo.com
-www.tbamixo.com
 tcgsonlineshop.com
 www.tcgsonlineshop.com
 tcrochet.com
 www.tcrochet.com
-tdubtunes.com
-www.tdubtunes.com
 te.de
 www.te.de
 tealbicycle.com
@@ -9480,8 +9421,6 @@ teamlevelsix.com
 www.teamlevelsix.com
 teampandafilms.com
 www.teampandafilms.com
-tec-koenig.de
-www.tec-koenig.de
 tech-land.de
 www.tech-land.de
 techdachs.de
@@ -9504,8 +9443,6 @@ technikcenter24.com
 technikhood.de
 technikhuebner.de
 technikkirchner.de
-technikschaefer.de
-www.technikschaefer.de
 techno-max.de
 www.techno-max.de
 techno-x.de
@@ -9526,8 +9463,6 @@ tellwalkandtalk.com
 www.tellwalkandtalk.com
 telscom.ch
 www.telscom.ch
-templeofoblivion.de
-www.templeofoblivion.de
 templesinaikc.org
 www.templesinaikc.org
 temptlife.com
@@ -9541,7 +9476,6 @@ www.tenutacastelvenezze.com
 teras.at
 www.teras.at
 eu.terkbike-store.com
-speed.terkbike-store.com
 terkos.de
 www.terkos.de
 term-re.com
@@ -9586,14 +9520,10 @@ thaunhomkhahung.com
 www.thaunhomkhahung.com
 thayajewels.com
 www.thayajewels.com
-the-hemoriders.de
-www.the-hemoriders.de
 the-leather-shop.com
 www.the-leather-shop.com
 thebalancingmom.com
 www.thebalancingmom.com
-thebestweb.store
-www.thebestweb.store
 thebrooklyn.net
 www.thebrooklyn.net
 thecasualcircle.at
@@ -9614,12 +9544,8 @@ thecasualroom.de
 www.thecasualroom.at
 www.thecasualroom.ch
 www.thecasualroom.de
-thecheapbox.xyz
-www.thecheapbox.xyz
 thecheapest.club
 www.thecheapest.club
-thecheapgood.site
-www.thecheapgood.site
 thedesktopoffice.com
 www.thedesktopoffice.com
 thediemtoken.com
@@ -9659,20 +9585,14 @@ thekneehighproject.com
 www.thekneehighproject.com
 thelacybra.com
 www.thelacybra.com
-thelucybra.com
-www.thelucybra.com
 theluminouswild.com
 www.theluminouswild.com
-themazenbest.site
-www.themazenbest.site
 themichaelkorsoutlet.com
 www.themichaelkorsoutlet.com
 thenewcasa.com
 www.thenewcasa.com
 thenorthfacedeutschland.de
 www.thenorthfacedeutschland.de
-theonlinecorner.xyz
-www.theonlinecorner.xyz
 theordinaryme.de
 www.theordinaryme.de
 thepeppymay.com
@@ -9691,8 +9611,6 @@ therollingtunes.com
 www.therollingtunes.com
 thesale.online
 www.thesale.online
-thesalecenter.xyz
-www.thesalecenter.xyz
 thescentclub.com
 www.thescentclub.com
 thesecretdate.at
@@ -9701,10 +9619,6 @@ www.thesecretdate.at
 www.thesecretdate.de
 thesecretedate.com
 www.thesecretedate.com
-theshopbest.site
-www.theshopbest.site
-theshopcenter.store
-www.theshopcenter.store
 thesissypantystore.com
 www.thesissypantystore.com
 thesoleuniverse.com
@@ -9715,8 +9629,6 @@ thielebuch.de
 www.thielebuch.de
 thinkfast.games
 www.thinkfast.games
-thomas-saboonlineshop.com
-www.thomas-saboonlineshop.com
 thomassabo-deutschland.com
 www.thomassabo-deutschland.com
 thomassaboonline.de
@@ -9777,8 +9689,6 @@ titan-area.de
 www.titan-area.de
 titel-kaufen.com
 www.titel-kaufen.com
-tizeto.de
-www.tizeto.de
 church.tjhhylh.com
 tlecl.com
 www.tlecl.com
@@ -9797,14 +9707,8 @@ tobiflix.de
 www.tobiflix.de
 todayil.com
 www.todayil.com
-tokblog.site
-www.tokblog.site
-toklog.site
-www.toklog.site
 tolosix.com
 www.tolosix.com
-tolovesupreme.site
-www.tolovesupreme.site
 toms-schweiz.com
 www.toms-schweiz.com
 tomsdeutschland.com
@@ -9841,11 +9745,8 @@ topdigitalcashapp.com
 www.topdigitalcashapp.com
 toperuecken.com
 www.toperuecken.com
-topfastget.com
 topflix.de
 www.topflix.de
-topgood.xyz
-www.topgood.xyz
 tophausgames.de
 www.tophausgames.de
 toplily.com
@@ -9856,14 +9757,6 @@ topmodareps.es
 www.topmodareps.es
 topoutfit.club
 www.topoutfit.club
-topsalenow.xyz
-www.topsalenow.xyz
-topselloutlet.site
-www.topselloutlet.site
-topshopshq.xyz
-www.topshopshq.xyz
-topstoremart.xyz
-www.topstoremart.xyz
 toptrade500.com
 www.toptrade500.com
 topvcashoffer.com
@@ -9880,7 +9773,6 @@ totiate.xyz
 www.totiate.xyz
 totofashion2021.com
 www.totofashion2021.com
-touchy.at
 tour-de-hell.de
 www.tour-de-hell.de
 de.tour-home.com
@@ -9889,12 +9781,8 @@ towardssource.com
 www.towardssource.com
 toxello.de
 www.toxello.de
-toybrickgear.com
-www.toybrickgear.com
 toyletting.com
 www.toyletting.com
-toypremium.com
-www.toypremium.com
 toysworld.club
 www.toysworld.club
 tozido.de
@@ -9971,14 +9859,10 @@ treppauf-treppab.de
 www.treppauf-treppab.de
 tretrollerladen.de
 www.tretrollerladen.de
-trikots4u.com
-www.trikots4u.com
 trikotsale.de
 www.trikotsale.de
 trimzy.de
 www.trimzy.de
-trinitop.com
-www.trinitop.com
 triviatrade.com
 www.triviatrade.com
 at.tronicfactory.com
@@ -10019,22 +9903,12 @@ trustss.com
 www.trustss.com
 truuly.de
 www.truuly.de
-trycheahoney.site
-www.trycheahoney.site
-trychemlove.site
-www.trychemlove.site
-trylovestore.site
-www.trylovestore.site
-tryshoplove.site
-www.tryshoplove.site
 tshirtprinters.store
 www.tshirtprinters.store
 tshirttierchen.de
 www.tshirttierchen.de
 tsv-erste.de
 www.tsv-erste.de
-tsv-irmelshausen.de
-www.tsv-irmelshausen.de
 tsz-stadtilm.de
 www.tsz-stadtilm.de
 ttgun.com
@@ -10050,16 +9924,12 @@ tuyyds.store
 www.tuyyds.store
 tv-gesundheit.at
 www.tv-gesundheit.at
-tvidler.com
-www.tvidler.com
 tvmarket.club
 www.tvmarket.club
 twilight-fans.de
 www.twilight-fans.de
 twovillas.com
 www.twovillas.com
-txsxj.com
-www.txsxj.com
 tymusiccenter.com
 www.tymusiccenter.com
 typisch-tierliebe.de
@@ -10097,8 +9967,6 @@ uggcp.com
 www.uggcp.com
 uggoutletosterreich.com
 www.uggoutletosterreich.com
-uggslipperssale.top
-www.uggslipperssale.top
 uggsmen.top
 www.uggsmen.top
 uggsonsale.top
@@ -10109,15 +9977,12 @@ www.uhrstern.net
 bestnikekickssale.uk.com
 thomassabooutlet.uk.com
 trainerstorunshoes.uk.com
-ullmann-versand.net
 ultracurrencytrade.com
 www.ultracurrencytrade.com
 ultraheatpro.com
 www.ultraheatpro.com
 ultraheroshop.com
 www.ultraheroshop.com
-ultraonlinede.com
-www.ultraonlinede.com
 ultrasshop.top
 www.ultrasshop.top
 umbrellacorp.fr
@@ -10134,8 +9999,6 @@ umweltplus-sr.de
 www.umweltplus-sr.de
 umziehen-in-europa.de
 www.umziehen-in-europa.de
-umzug-borowski.de
-www.umzug-borowski.de
 unartdeco.com
 www.unartdeco.com
 uncilet.xyz
@@ -10158,8 +10021,6 @@ www.universalbundle.com
 universalprotection.de
 www.universalprotection.de
 universetools.de
-unjkvn.com
-www.unjkvn.com
 unoplay.de
 www.unoplay.de
 unserkleinesgeheimnis.at
@@ -10182,8 +10043,6 @@ up4profit.net
 www.up4profit.net
 upservices.de
 www.upservices.de
-upsolutmv.com
-www.upsolutmv.com
 upup.at
 www.upup.at
 urban-patterns.de
@@ -10232,8 +10091,6 @@ uwzrxu.top
 www.uwzrxu.top
 uyqwb.com
 www.uyqwb.com
-vacioy.com
-www.vacioy.com
 vaggv.com
 www.vaggv.com
 vagomarkt.com
@@ -10244,8 +10101,6 @@ valty-heater.com
 www.valty-heater.com
 valurabeauty.com
 www.valurabeauty.com
-vancetaylor.com
-www.vancetaylor.com
 vandado.de
 vandder.store
 vanitycosmetics.us
@@ -10287,8 +10142,6 @@ vejaaustria.at
 www.vejaaustria.at
 vejaschuhe.at
 www.vejaschuhe.at
-vejaschuheosterreich.com
-www.vejaschuheosterreich.com
 vejasneakerswien.at
 www.vejasneakerswien.at
 vejoheza.top
@@ -10297,14 +10150,10 @@ velhaven.net
 www.velhaven.net
 veloberlin.de
 www.veloberlin.de
-vemoso.de
-www.vemoso.de
 venacquaro.it
 www.venacquaro.it
 vendial.de
 www.vendial.de
-vendoofitnessgmbh.de
-www.vendoofitnessgmbh.de
 veneracrea.com
 www.veneracrea.com
 venics.net
