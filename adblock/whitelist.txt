@@ -2239,3 +2239,9 @@
 @@|uber.space^
 @@|www.uber.space^
 
+! Xiaomi - filter download gallery editor
+@@|f*.market.xiaomi.com^
+
+! Xiaomi - filter download gallery editor
+@@|f*.market.mi-img.com^
+
