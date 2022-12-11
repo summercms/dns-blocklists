@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Dez 2022 23:51 UTC
-# Version: 2022.1210.2351.42
+# Last modified: 11 Dez 2022 23:49 UTC
+# Version: 2022.1211.2349.27
 # Syntax: Domains
-# Domains: 1337
+# Domains: 1341
 #
 0000a-fast-proxy.de
 012proxy.ga
@@ -59,6 +59,7 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 adguard-vpn.com
 adresseip.com
+ahadns.net
 doh.au.ahadns.net
 dot.au.ahadns.net
 blitz.ahadns.com
@@ -84,6 +85,7 @@ airvpn.org
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dns.alidns.com
+httpdns-sc.aliyuncs.com
 allunblocked.com
 amanvpn.com
 tunnelbear.s3.amazonaws.com
@@ -761,6 +763,9 @@ resolver4.dns.openinternet.io
 openvpn.com
 openvpn.net
 opera.com
+opera.software
+opera-api.com
+opera-mini.net
 opera-proxy.net
 oraclevpn.com
 orangeproxy.net
@@ -944,6 +949,7 @@ kaitain.restena.lu
 rethinkdns.com
 basic.rethinkdns.com
 max.rethinkdns.com
+sky.rethinkdns.com
 doh.rezhajul.io
 ringvpn.com
 ronfeed.com
@@ -1047,7 +1053,6 @@ surfbouncer.com
 surfeasy.com
 surfly.com
 surfmenow.com
-surfproxyanywheresvpns.tk
 surfproxyserver.com
 surfshak.club
 surfshark.app
@@ -1120,7 +1125,6 @@ tubeprox.com
 tubeunblock.me
 tubeunblock.net
 tunnelbear.com
-tuntapproxy.info
 turbohide.org
 turbovpn.com
 tuxlervpn.com
@@ -1143,7 +1147,6 @@ unblock123.com
 unblockaccess.com
 unblockanything.com
 unblockblocked.net
-unblockblog.info
 unblockbook.biz
 unblocked.llc
 unblocked.me
@@ -1243,6 +1246,7 @@ vpngate.net
 vpngate2.jp
 vpngorilla.com
 vpnhub.com
+vpnjantit.com
 vpnking.cf
 vpnland.com
 vpnlite.net

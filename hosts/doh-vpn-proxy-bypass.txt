@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Dez 2022 23:51 UTC
-# Version: 2022.1210.2351.42
+# Last modified: 11 Dez 2022 23:49 UTC
+# Version: 2022.1211.2349.27
 # Syntax: Hosts
-# Domains: 1337
+# Domains: 1341
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -59,6 +59,7 @@
 0.0.0.0 unfiltered.adguard-dns.com
 0.0.0.0 adguard-vpn.com
 0.0.0.0 adresseip.com
+0.0.0.0 ahadns.net
 0.0.0.0 doh.au.ahadns.net
 0.0.0.0 dot.au.ahadns.net
 0.0.0.0 blitz.ahadns.com
@@ -84,6 +85,7 @@
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsse.alekberg.net
 0.0.0.0 dns.alidns.com
+0.0.0.0 httpdns-sc.aliyuncs.com
 0.0.0.0 allunblocked.com
 0.0.0.0 amanvpn.com
 0.0.0.0 tunnelbear.s3.amazonaws.com
@@ -761,6 +763,9 @@
 0.0.0.0 openvpn.com
 0.0.0.0 openvpn.net
 0.0.0.0 opera.com
+0.0.0.0 opera.software
+0.0.0.0 opera-api.com
+0.0.0.0 opera-mini.net
 0.0.0.0 opera-proxy.net
 0.0.0.0 oraclevpn.com
 0.0.0.0 orangeproxy.net
@@ -944,6 +949,7 @@
 0.0.0.0 rethinkdns.com
 0.0.0.0 basic.rethinkdns.com
 0.0.0.0 max.rethinkdns.com
+0.0.0.0 sky.rethinkdns.com
 0.0.0.0 doh.rezhajul.io
 0.0.0.0 ringvpn.com
 0.0.0.0 ronfeed.com
@@ -1047,7 +1053,6 @@
 0.0.0.0 surfeasy.com
 0.0.0.0 surfly.com
 0.0.0.0 surfmenow.com
-0.0.0.0 surfproxyanywheresvpns.tk
 0.0.0.0 surfproxyserver.com
 0.0.0.0 surfshak.club
 0.0.0.0 surfshark.app
@@ -1120,7 +1125,6 @@
 0.0.0.0 tubeunblock.me
 0.0.0.0 tubeunblock.net
 0.0.0.0 tunnelbear.com
-0.0.0.0 tuntapproxy.info
 0.0.0.0 turbohide.org
 0.0.0.0 turbovpn.com
 0.0.0.0 tuxlervpn.com
@@ -1143,7 +1147,6 @@
 0.0.0.0 unblockaccess.com
 0.0.0.0 unblockanything.com
 0.0.0.0 unblockblocked.net
-0.0.0.0 unblockblog.info
 0.0.0.0 unblockbook.biz
 0.0.0.0 unblocked.llc
 0.0.0.0 unblocked.me
@@ -1243,6 +1246,7 @@
 0.0.0.0 vpngate2.jp
 0.0.0.0 vpngorilla.com
 0.0.0.0 vpnhub.com
+0.0.0.0 vpnjantit.com
 0.0.0.0 vpnking.cf
 0.0.0.0 vpnland.com
 0.0.0.0 vpnlite.net
