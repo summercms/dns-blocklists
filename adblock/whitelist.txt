@@ -2235,3 +2235,7 @@
 @@|ac24horas.com^
 @@|www.ac24horas.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/99
+@@|uber.space^
+@@|www.uber.space^
+

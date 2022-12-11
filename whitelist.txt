@@ -1996,3 +1996,6 @@ cainiao.com
 # Portal news
 ac24horas.com
 
+# https://github.com/hagezi/dns-blocklists/issues/99
+uber.space
+
