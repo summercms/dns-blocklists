@@ -559,4 +559,6 @@
 @@||5014.xg4ken.com^
 @@||6008.xg4ken.com^
 @@||clck.yandex.ru^
+@@||redirect.appmetrica.yandex.com^
+@@||redirect.appmetrica.yandex.ru^
 @@||click.zoom.us^

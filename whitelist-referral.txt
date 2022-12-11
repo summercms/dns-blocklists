@@ -558,5 +558,7 @@ link.wizzair.com
 click.engage.xbox.com
 5014.xg4ken.com
 6008.xg4ken.com
+redirect.appmetrica.yandex.com
+redirect.appmetrica.yandex.ru
 clck.yandex.ru
 click.zoom.us

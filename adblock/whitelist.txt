@@ -2081,7 +2081,7 @@
 @@|www.kutt.it^
 
 ! Images and links in various Mails, e.g. emp.de
-@@|recommender.scarabresearch.com^
+@@|recommender*.scarabresearch.com^
 @@|images.cdn.scarabresearch.com^
 
 ! Brekas paypal pay process on some german shopping sites
