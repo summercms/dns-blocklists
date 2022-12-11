@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Dez 2022 21:39 UTC
-# Version: 2022.1210.2139.34
+# Last modified: 11 Dez 2022 00:58 UTC
+# Version: 2022.1211.0058.46
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 18496
+# Domains: 18493
 #
 *.000webhostapp.com
 *.00px.net
@@ -12167,7 +12167,6 @@
 *.tattle.api.osano.com
 *.cmp.osano.com
 *.osdata.solutions
-*.oshhkdluh.biz
 *.ositracker.com
 *.kl.osmoticchalah.com
 *.logistics.osmworldwide.com
@@ -13381,7 +13380,6 @@
 *.q.quora.com
 *.quotes.com
 *.qushopping.net
-*.quwasd.com
 *.zhcxvk.qvc.com
 *.q.share.qvcemail.com
 *.iadctest.qwapi.com
@@ -17455,7 +17453,6 @@
 *.wearehearken.com
 *.knorzj.wearfigs.com
 *.airlytics.airlock.twcmobile.weather.com
-*.pub.weatherbug.com
 *.and-ads.pulse.weatherbug.net
 *.ios-ads.pulse.weatherbug.net
 *.weatherplllatform.com
