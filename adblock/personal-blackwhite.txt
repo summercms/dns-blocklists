@@ -21782,6 +21782,20 @@
 ||zzux.com^
 ||zzzsleepisnicezzz.art^
 
+! Title: HaGeZi's Personal AdGuard Wildcard Rules
+! Description: My personal wildcard rules for AdGuard Home / AdGuard DNS
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+! Expires: Updated regularly
+! Syntax: AdGuard
+
+! TikTok Fingerprinting
+||log*.tiktokv.com^
+||rtlog*.tiktokv.com^
+||xlog*.tiktokv.com^
+||mon*.tiktokv.com^
+
 ! Title: HaGeZi's Fake DNS Blocklist
 ! Description: Protects against internet scams, traps & fakes! Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co.
 ! Homepage: https://github.com/hagezi/dns-blocklists
