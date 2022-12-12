@@ -185,7 +185,8 @@
 ! Github
 @@||ghcr.io^
 @@||github.com^
-@@||github.io^
+@@|github.io^
+@@|www.github.io^
 @@||github.map.fastly.net^
 @@||githubapp.com^
 @@||githubassets.com^
