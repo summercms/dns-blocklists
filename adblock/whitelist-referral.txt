@@ -535,6 +535,7 @@
 @@||link.sylikes.com^
 @@||count.shopping.t-online.de^
 @@||goto.target.com^
+@@||cdn-magiclinks.trackonomics.net^
 @@||clk.tradedoubler.com^
 @@||clk*.tradedoubler.com^
 @@||clkpl.tradedoubler.com^
