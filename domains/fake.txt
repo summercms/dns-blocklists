@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 16:01 UTC
-# Version: 2022.1212.1601.29
+# Last modified: 12 Dez 2022 23:54 UTC
+# Version: 2022.1212.2354.47
 # Syntax: Domains
-# Domains: 11135
+# Domains: 11132
 #
 willhaben.at.04300.id
 11trikots.com
@@ -711,7 +711,6 @@ www.aufsperrdienst-24.at
 aufsperrhilfe.at
 www.aufsperrhilfe.at
 aufsperrhilfe-24.at
-www.aufsperrhilfe-24.at
 augennstern.com
 www.augennstern.com
 augenoptik-tomaschek.de
@@ -1079,11 +1078,9 @@ www.besten-deals.de
 besteprijzen-shop.com
 www.besteprijzen-shop.com
 bestermarkt.at
-www.bestermarkt.at
 besteronlineshop.com
 www.besteronlineshop.com
 bestes-brennholz.com
-www.bestes-brennholz.com
 bestfxpremiumtrade.com
 www.bestfxpremiumtrade.com
 bestgulfrentals.com
