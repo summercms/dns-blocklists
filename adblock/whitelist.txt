@@ -2243,3 +2243,9 @@
 @@|f*.market.xiaomi.com^
 @@|f*.market.mi-img.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/101
+@@|ota-recruit-sg.allawnos.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/101
+@@|component-ota-sg.allawnos.com^
+
