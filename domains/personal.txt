@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 09:06 UTC
-# Version: 2022.1212.0906.49
+# Last modified: 12 Dez 2022 10:29 UTC
+# Version: 2022.1212.1029.44
 # Syntax: Domains
-# Domains: 65959
+# Domains: 65950
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -161,7 +161,6 @@ www.17u.cn
 smetrics.1800contacts.com
 zpe-klre.18183.com
 1847ff24f9.com
-www.1847ff24f9.com
 18bca7c5fd709ac468ba148c590ef6bf.net
 www.18bca7c5fd709ac468ba148c590ef6bf.net
 192.com
@@ -186,7 +185,6 @@ www.1dmp.io
 1dnscontrol.com
 www.1dnscontrol.com
 1e100.net
-www.1e100.net
 1gb.ru
 www.1gb.ru
 notads.1gi3rir.xyz
@@ -244,7 +242,6 @@ p.1ts18.top
 s.1ts18.top
 1ts19.top
 1ts20.top
-www.1ts20.top
 odc.1und1.de
 pixel.1und1.de
 t.1und1.de
@@ -1074,7 +1071,6 @@ ios-init.51y5.net
 ios-wsba.51y5.net
 kepler.51y5.net
 peacock.51y5.net
-login.push.51y5.net
 msg.push.51y5.net
 push-dc.51y5.net
 taichi.51y5.net
@@ -3675,6 +3671,7 @@ adready.com
 lookup.adready.com
 pixelconnector.adready.com
 www.adready.com
+tracker.adreadyclick.com
 adreadytractions.com
 www.adreadytractions.com
 adrecover.com
@@ -3684,7 +3681,6 @@ www.adrecover.com
 delivery.adriamediacontent.com
 adright.co
 adright.com
-login.adright.com
 push.adright.co
 static.adright.co
 www.adright.co
@@ -4580,7 +4576,6 @@ lifestyle.adtechus.com
 lob.adtechus.com
 ycpi.lob.adtechus.com
 e30.ycpi.lob.adtechus.com
-login.adtechus.com
 f1713.mail.adtechus.com
 imap.mail.adtechus.com
 kws.mail.adtechus.com
@@ -6198,7 +6193,6 @@ cmap.alibaba.com
 hydra.alibaba.com
 marketing.alibaba.com
 offer.alibaba.com
-login.alibaba-inc.com
 umeng.com.gds.alibabadns.com
 allfootballapp.umeng.com.gds.alibabadns.com
 alog.umeng.com.gds.alibabadns.com
@@ -19189,7 +19183,6 @@ gum.criteo.com
 gumi.criteo.com
 hpc.criteo.net
 am6.hpc.criteo.net
-login.criteo.com
 marketing.criteo.com
 measurement-api.criteo.com
 metric.criteo.com
@@ -20153,6 +20146,8 @@ cdn1.decide.dev
 cdn2.decide.dev
 www.decide.dev
 decisivebase.com
+declaredpolitics.com
+www.declaredpolitics.com
 declinedmildlyreckon.com
 www.declinedmildlyreckon.com
 fpa-cdn.decrypt.co
@@ -21715,7 +21710,6 @@ ggimg.ssl3.doglobal.net
 stat.doglobal.net
 www.doglobal.net
 dognet.sk
-login.dognet.sk
 www.dognet.sk
 stage-api-rotorfon.go.dogt.xyz
 s3.stage-api-rotorfon.go.dogt.xyz
@@ -21851,7 +21845,6 @@ iad11-usadmm.dotomi.com
 iad12-login.dotomi.com
 iad12-usadmm.dotomi.com
 kargo-match.dotomi.com
-login.dotomi.com
 login-ds.dotomi.com
 medianet-match.dotomi.com
 mediaplex-match.dotomi.com
@@ -26321,7 +26314,6 @@ pixelcounter.elmundo.es
 elonreptiloid.com
 www.elonreptiloid.com
 elqcdn.eloqua.com
-login.eloqua.com
 p01.eloqua.com
 secure.p01.eloqua.com
 p03.eloqua.com
@@ -50086,6 +50078,8 @@ realclick.vn
 as.realclick.vn
 stats.realclick.vn
 www.realclick.vn
+realestateformillennials.com
+www.realestateformillennials.com
 realgamess.com
 www.realgamess.com
 reallifecam.com
@@ -59024,11 +59018,8 @@ cdn.trackmytarget.com
 i.trackmytarget.com
 t.trackmytarget.com
 www.trackmytarget.com
-trackonomics.net
-cdn-magiclinks.trackonomics.net
 fr-actions.trackonomics.net
 write.trackonomics.net
-www.trackonomics.net
 trackpush.com
 api.trackpush.com
 client.trackpush.com

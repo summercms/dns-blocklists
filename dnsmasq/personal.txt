@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 09:06 UTC
-# Version: 2022.1212.0906.49
+# Last modified: 12 Dez 2022 10:29 UTC
+# Version: 2022.1212.1029.44
 # Syntax: DNSMasq
 # Domains: 23165
 #
@@ -1084,6 +1084,7 @@ address=/adrcdn.com/#
 address=/adrcntr.com/#
 address=/adreactor.com/#
 address=/adready.com/#
+address=/tracker.adreadyclick.com/#
 address=/adreadytractions.com/#
 address=/adrecover.com/#
 address=/delivery.adriamediacontent.com/#
@@ -1307,7 +1308,6 @@ address=/kra.adtechus.com/#
 address=/launch.adtechus.com/#
 address=/lifestyle.adtechus.com/#
 address=/lob.adtechus.com/#
-address=/login.adtechus.com/#
 address=/f1713.mail.adtechus.com/#
 address=/imap.mail.adtechus.com/#
 address=/kws.mail.adtechus.com/#
@@ -1856,7 +1856,6 @@ address=/cmap.alibaba.com/#
 address=/hydra.alibaba.com/#
 address=/marketing.alibaba.com/#
 address=/offer.alibaba.com/#
-address=/login.alibaba-inc.com/#
 address=/umeng.com.gds.alibabadns.com/#
 address=/umengcloud.com.gds.alibabadns.com/#
 address=/zconfig.alibabausercontent.com/#
@@ -6273,6 +6272,7 @@ address=/decentpatent.com/#
 address=/decibelinsight.net/#
 address=/decide.dev/#
 address=/decisivebase.com/#
+address=/declaredpolitics.com/#
 address=/declinedmildlyreckon.com/#
 address=/fpa-cdn.decrypt.co/#
 address=/fpa-events.decrypt.co/#
@@ -7466,7 +7466,6 @@ address=/iad11-usadmm.dotomi.com/#
 address=/iad12-login.dotomi.com/#
 address=/iad12-usadmm.dotomi.com/#
 address=/kargo-match.dotomi.com/#
-address=/login.dotomi.com/#
 address=/login-ds.dotomi.com/#
 address=/medianet-match.dotomi.com/#
 address=/mediaplex-match.dotomi.com/#
@@ -8061,7 +8060,6 @@ address=/elmqal.com/#
 address=/pixelcounter.elmundo.es/#
 address=/elonreptiloid.com/#
 address=/elqcdn.eloqua.com/#
-address=/login.eloqua.com/#
 address=/p01.eloqua.com/#
 address=/p03.eloqua.com/#
 address=/p04.eloqua.com/#
@@ -17180,6 +17178,7 @@ address=/realbig.media/#
 address=/smetrics.realcanadiansuperstore.ca/#
 address=/realclever.com/#
 address=/realclick.vn/#
+address=/realestateformillennials.com/#
 address=/realgamess.com/#
 address=/reallifecam.com/#
 address=/gtrack.reallifediy.com/#
@@ -20439,7 +20438,8 @@ address=/trackingq.de/#
 address=/trackjs.com/#
 address=/trackly.eu/#
 address=/trackmytarget.com/#
-address=/trackonomics.net/#
+address=/fr-actions.trackonomics.net/#
+address=/write.trackonomics.net/#
 address=/trackpush.com/#
 address=/tracksing.com/#
 address=/tracksitetraffic1.com/#
