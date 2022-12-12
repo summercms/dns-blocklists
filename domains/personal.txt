@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 10:29 UTC
-# Version: 2022.1212.1029.44
+# Last modified: 12 Dez 2022 14:05 UTC
+# Version: 2022.1212.1405.34
 # Syntax: Domains
-# Domains: 65950
+# Domains: 65976
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -109,6 +109,7 @@ www.13tabs.com
 152media.info
 ortb.152media.info
 sync.ortb.152media.info
+rtb-useast-v4.152media.cloud
 rtb-uswest-v4.152media.cloud
 www.152media.com
 www.152media.info
@@ -1461,7 +1462,6 @@ analytics.aaronhardy.net
 sjourney.aarp.org
 smetrics.aarp.org
 aarswtcnoz.com
-www.aarswtcnoz.com
 aarth.net
 push.aarth.net
 www.aarth.net
@@ -1713,7 +1713,6 @@ smetrics.active.com
 active-agent.com
 www.active-agent.com
 active-year.com
-www.active-year.com
 smetrics.activecommunities.com
 activeconversion.com
 www.activeconversion.com
@@ -2089,7 +2088,6 @@ adcanvas.com
 analytics.adcanvas.com
 www.adcanvas.com
 adcarousel.pl
-www.adcarousel.pl
 adcash.com
 www.adcash.com
 adcdnx.com
@@ -2623,7 +2621,6 @@ adjoe.zone
 fraud.adjoe.zone
 prod.fraud.adjoe.zone
 prod.adjoe.zone
-www.adjoe.zone
 adjust.io
 adjust.world
 app.adjust.io
@@ -3977,7 +3974,6 @@ ol2.cdn.adservob.com
 ol3.cdn.adservob.com
 ol4.cdn.adservob.com
 z.cdn.adservob.com
-www.adservob.com
 adservone.com
 www.adservone.com
 adservrs.com
@@ -4004,7 +4000,6 @@ adsfcdn.com
 cdn.adsfcdn.com
 adsfin.pro
 network.adsfin.pro
-www.adsfin.pro
 adsfirm.com
 cdn.adsfirm.com
 www.adsfirm.com
@@ -5504,6 +5499,9 @@ adserwer.afilo.pl
 www.afilo.pl
 analytics.afirstsoft.cn
 oa.afishamedia.net
+rtb-useast-v4.afkwa.com
+rtb2-useast.afkwa.com
+static-rtb2.afkwa.com
 app.aflink.com
 afm01.com
 www.afm01.com
@@ -5606,7 +5604,6 @@ roundrobin-log.agoop.net
 www.agoop.net
 agorahtag.tech
 agraffesalps.com
-www.agraffesalps.com
 agrant.cn
 t.agrant.cn
 static.t.agrant.cn
@@ -5650,13 +5647,11 @@ ahnlabad.com
 img.ahnlabad.com
 www.ahnlabad.com
 ahoravideo-blog.com
-www.ahoravideo-blog.com
 ahoravideo-cdn.com
 ahoravideo-endpoint.com
 www.ahoravideo-endpoint.com
 ahoravideo-schnellvpn.com
 ahoravideo-schnellvpn.xyz
-www.ahoravideo-schnellvpn.xyz
 analytics.ahrefs.com
 ahscdn.com
 www.ahscdn.com
@@ -6170,6 +6165,7 @@ alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
+ticvui.alexandani.com
 tk.alexandermcqueen.com
 alexatracker.com
 alexysexy.com
@@ -7092,6 +7088,7 @@ aviary.amazon.de
 identity.browserapps.amazon.de
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+smetrics.flex.amazon.in
 mads.amazon.com
 mads-eu.amazon.com
 rcm.amazon.com
@@ -7325,6 +7322,8 @@ amynx.com
 www.amynx.com
 analights.com
 www.analights.com
+analik.icu
+www.analik.icu
 analisis.io
 plenty.analisis.io
 www.analisis.io
@@ -9848,6 +9847,7 @@ atgsvcs.com
 rules.atgsvcs.com
 static.atgsvcs.com
 www.atgsvcs.com
+som.athenahealth.com
 more.athene.com
 athitmontopon.com
 refer.athleta.com
@@ -15959,6 +15959,7 @@ geo.celtra.com
 track.celtra.com
 www.celtra.com
 trk.celtx.com
+click-v4.celxkpdir.com
 cenaclesuccoth.com
 cenceevent.club
 ceneicons.com
@@ -19447,12 +19448,15 @@ crumbtypewriterhome.com
 www.crumbtypewriterhome.com
 eec.crunchyroll.com
 stereos2s.crutchfield.com
+crwdcntrl.net
 ad.crwdcntrl.net
 bcp.crwdcntrl.net
 id.crwdcntrl.net
 optout.crwdcntrl.net
 privacy.crwdcntrl.net
 sync.crwdcntrl.net
+tags.crwdcntrl.net
+www.crwdcntrl.net
 cryorganichash.com
 www.cryorganichash.com
 black-cat.crypto.com
@@ -21845,7 +21849,6 @@ iad11-usadmm.dotomi.com
 iad12-login.dotomi.com
 iad12-usadmm.dotomi.com
 kargo-match.dotomi.com
-login-ds.dotomi.com
 medianet-match.dotomi.com
 mediaplex-match.dotomi.com
 msg.dotomi.com
@@ -26840,6 +26843,7 @@ zgviuvlt.emltrk.com
 znvr3eu1.emltrk.com
 emmiol.com
 www.emmiol.com
+yzjqqj.emmiol.com
 emoailtoo.com
 emojot.com
 www.emojot.com
@@ -29348,6 +29352,7 @@ cdn.fqtag.com
 new.fqtag.com
 query.fqtag.com
 www.fqtag.com
+ryvapi.fragrancenet.com
 frailfruit.com
 stats.framasoft.org
 events.framer.com
@@ -29506,6 +29511,7 @@ frrdlass.com
 www.frrdlass.com
 frustratedgamers.com
 www.frustratedgamers.com
+rffsds.fsastore.com
 fsd2.digital
 www.fsd2.digital
 fspark-ap.com
@@ -31106,6 +31112,7 @@ www.gogvo.com
 t.goheels.com
 smetrics.goindigo.in
 smetrics.goinggoinggone.com
+t.gojacks.com
 analytics.gokwik.co
 tracker.gold.org
 gold2762.com
@@ -32013,6 +32020,7 @@ analytics.hardlightgames.com
 somni.hardrockhotels.com
 atarget.harley-davidson.com
 smetrics.harley-davidson.com
+iqyioj.harryanddavid.com
 smetrics.hbsp.harvard.edu
 tarantula.hashicorp.com
 hashvault.pro
@@ -32201,6 +32209,7 @@ info.henryscheinone.com
 b1.hentaibaka.one
 hentaigold.net
 www.hentaigold.net
+cdn5.hentaihaven.fun
 hepsiads-gw.hepsiburada.com
 hepsiads-ui.hepsiburada.com
 hstats.hepsiburada.com
@@ -32583,6 +32592,8 @@ hodlnaut.com
 www.hodlnaut.com
 hoemasfat.site
 www.hoemasfat.site
+hoisquit.buzz
+www.hoisquit.buzz
 hokoldar.ru
 www.hokoldar.ru
 hol.es
@@ -32877,6 +32888,7 @@ app-fra04-origin.spectrum.hsleadflows.net
 refer.hsn.com
 tracking.hsn.com
 xljqqe.hsn.com
+m.hss2x.com
 hsstatic.net
 www.hsstatic.net
 app.hstatic.net
@@ -38624,6 +38636,7 @@ bi.manhuaren.com
 manhuascan.io
 mannaitours.com
 www.mannaitours.com
+ykhliz.manscaped.com
 mts.mansion.com
 go2.manta.com
 mantisadnetwork.com
@@ -42360,6 +42373,8 @@ search.mywebsearch.com
 www.mywebsearch.com
 content.mywisely.com
 mywondertrip.com
+myxozilla.icu
+www.myxozilla.icu
 tracking.myzufall.de
 mzbcdn.net
 www.mzbcdn.net
@@ -42647,9 +42662,11 @@ smetrics.global.nba.com
 smetrics.nba.com
 w3.nbarizona.com
 lpbhnv.nbcbayarea.com
+lpbhnv.nbcchicago.com
 lpbhnv.nbcdfw.com
 lpbhnv.nbclosangeles.com
 aamt.nbcnews.com
+lpbhnv.nbcnewyork.com
 lpbhnv.nbcphiladelphia.com
 ijaabm.nbcsports.com
 tracker.nbcuas.com
@@ -43955,6 +43972,7 @@ track.omguk.com
 omnatuor.com
 omne.com
 www.omne.com
+refwkk.omnicalculator.com
 omniconvert.com
 app.omniconvert.com
 cdn.omniconvert.com
@@ -44119,6 +44137,7 @@ info.onehub.com
 eloqua.onelogin.com
 advrts.onelouder.com
 analytics.onem.be
+st.onemazdausa.com
 info.onemedical.com
 onemob.mobi
 cdn-ali.onemob.mobi
@@ -46124,6 +46143,7 @@ www.personaclick.com
 swa.personalcreations.com
 personalicanvas.com
 www.personalicanvas.com
+ohjrxj.personalizationmall.com
 personaly.bid
 www.personaly.bid
 tracker.personizely.net
@@ -55769,6 +55789,7 @@ p.sug.so.com
 tracking.eloq.soa.org
 soaheeme.net
 sobakenchmaphk.com
+iuryhk.soccer.com
 socdm.com
 adgen.socdm.com
 apc.socdm.com
@@ -63674,6 +63695,7 @@ cs4.wettercomassets.com
 ltsveh.wetteronline.de
 clog.weverse.io
 wf66l5ylwq.com
+ywrcqa.wfaa.com
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 www.wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 c1.wfinterface.com
@@ -64684,6 +64706,8 @@ xmtrk.com
 www.xmtrk.com
 xn--2qu92fhtxsxexqab.xn--fiqs8s
 www.xn--2qu92fhtxsxexqab.xn--fiqs8s
+xn--2qus9awz1a6ygowgbua.xn--fiqs8s
+www.xn--2qus9awz1a6ygowgbua.xn--fiqs8s
 xn--r1a.website
 www.xn--r1a.website
 xnalytixs.com
@@ -64753,6 +64777,8 @@ xsph.ru
 www.xsph.ru
 xstats.net
 www.xstats.net
+bupupua4.xsuffer.com
+nelanedorr.xsuffer.com
 gg.xszcdn.com
 xt.com
 www.xt.com

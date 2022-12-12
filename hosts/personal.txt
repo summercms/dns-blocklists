@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 10:29 UTC
-# Version: 2022.1212.1029.44
+# Last modified: 12 Dez 2022 14:05 UTC
+# Version: 2022.1212.1405.34
 # Syntax: Hosts
-# Domains: 65950
+# Domains: 65976
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -109,6 +109,7 @@
 0.0.0.0 152media.info
 0.0.0.0 ortb.152media.info
 0.0.0.0 sync.ortb.152media.info
+0.0.0.0 rtb-useast-v4.152media.cloud
 0.0.0.0 rtb-uswest-v4.152media.cloud
 0.0.0.0 www.152media.com
 0.0.0.0 www.152media.info
@@ -1461,7 +1462,6 @@
 0.0.0.0 sjourney.aarp.org
 0.0.0.0 smetrics.aarp.org
 0.0.0.0 aarswtcnoz.com
-0.0.0.0 www.aarswtcnoz.com
 0.0.0.0 aarth.net
 0.0.0.0 push.aarth.net
 0.0.0.0 www.aarth.net
@@ -1713,7 +1713,6 @@
 0.0.0.0 active-agent.com
 0.0.0.0 www.active-agent.com
 0.0.0.0 active-year.com
-0.0.0.0 www.active-year.com
 0.0.0.0 smetrics.activecommunities.com
 0.0.0.0 activeconversion.com
 0.0.0.0 www.activeconversion.com
@@ -2089,7 +2088,6 @@
 0.0.0.0 analytics.adcanvas.com
 0.0.0.0 www.adcanvas.com
 0.0.0.0 adcarousel.pl
-0.0.0.0 www.adcarousel.pl
 0.0.0.0 adcash.com
 0.0.0.0 www.adcash.com
 0.0.0.0 adcdnx.com
@@ -2623,7 +2621,6 @@
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 prod.fraud.adjoe.zone
 0.0.0.0 prod.adjoe.zone
-0.0.0.0 www.adjoe.zone
 0.0.0.0 adjust.io
 0.0.0.0 adjust.world
 0.0.0.0 app.adjust.io
@@ -3977,7 +3974,6 @@
 0.0.0.0 ol3.cdn.adservob.com
 0.0.0.0 ol4.cdn.adservob.com
 0.0.0.0 z.cdn.adservob.com
-0.0.0.0 www.adservob.com
 0.0.0.0 adservone.com
 0.0.0.0 www.adservone.com
 0.0.0.0 adservrs.com
@@ -4004,7 +4000,6 @@
 0.0.0.0 cdn.adsfcdn.com
 0.0.0.0 adsfin.pro
 0.0.0.0 network.adsfin.pro
-0.0.0.0 www.adsfin.pro
 0.0.0.0 adsfirm.com
 0.0.0.0 cdn.adsfirm.com
 0.0.0.0 www.adsfirm.com
@@ -5504,6 +5499,9 @@
 0.0.0.0 www.afilo.pl
 0.0.0.0 analytics.afirstsoft.cn
 0.0.0.0 oa.afishamedia.net
+0.0.0.0 rtb-useast-v4.afkwa.com
+0.0.0.0 rtb2-useast.afkwa.com
+0.0.0.0 static-rtb2.afkwa.com
 0.0.0.0 app.aflink.com
 0.0.0.0 afm01.com
 0.0.0.0 www.afm01.com
@@ -5606,7 +5604,6 @@
 0.0.0.0 www.agoop.net
 0.0.0.0 agorahtag.tech
 0.0.0.0 agraffesalps.com
-0.0.0.0 www.agraffesalps.com
 0.0.0.0 agrant.cn
 0.0.0.0 t.agrant.cn
 0.0.0.0 static.t.agrant.cn
@@ -5650,13 +5647,11 @@
 0.0.0.0 img.ahnlabad.com
 0.0.0.0 www.ahnlabad.com
 0.0.0.0 ahoravideo-blog.com
-0.0.0.0 www.ahoravideo-blog.com
 0.0.0.0 ahoravideo-cdn.com
 0.0.0.0 ahoravideo-endpoint.com
 0.0.0.0 www.ahoravideo-endpoint.com
 0.0.0.0 ahoravideo-schnellvpn.com
 0.0.0.0 ahoravideo-schnellvpn.xyz
-0.0.0.0 www.ahoravideo-schnellvpn.xyz
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 ahscdn.com
 0.0.0.0 www.ahscdn.com
@@ -6170,6 +6165,7 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
+0.0.0.0 ticvui.alexandani.com
 0.0.0.0 tk.alexandermcqueen.com
 0.0.0.0 alexatracker.com
 0.0.0.0 alexysexy.com
@@ -7092,6 +7088,7 @@
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 smetrics.flex.amazon.in
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 rcm.amazon.com
@@ -7325,6 +7322,8 @@
 0.0.0.0 www.amynx.com
 0.0.0.0 analights.com
 0.0.0.0 www.analights.com
+0.0.0.0 analik.icu
+0.0.0.0 www.analik.icu
 0.0.0.0 analisis.io
 0.0.0.0 plenty.analisis.io
 0.0.0.0 www.analisis.io
@@ -9848,6 +9847,7 @@
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 www.atgsvcs.com
+0.0.0.0 som.athenahealth.com
 0.0.0.0 more.athene.com
 0.0.0.0 athitmontopon.com
 0.0.0.0 refer.athleta.com
@@ -15959,6 +15959,7 @@
 0.0.0.0 track.celtra.com
 0.0.0.0 www.celtra.com
 0.0.0.0 trk.celtx.com
+0.0.0.0 click-v4.celxkpdir.com
 0.0.0.0 cenaclesuccoth.com
 0.0.0.0 cenceevent.club
 0.0.0.0 ceneicons.com
@@ -19447,12 +19448,15 @@
 0.0.0.0 www.crumbtypewriterhome.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 stereos2s.crutchfield.com
+0.0.0.0 crwdcntrl.net
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 id.crwdcntrl.net
 0.0.0.0 optout.crwdcntrl.net
 0.0.0.0 privacy.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 www.crwdcntrl.net
 0.0.0.0 cryorganichash.com
 0.0.0.0 www.cryorganichash.com
 0.0.0.0 black-cat.crypto.com
@@ -21845,7 +21849,6 @@
 0.0.0.0 iad12-login.dotomi.com
 0.0.0.0 iad12-usadmm.dotomi.com
 0.0.0.0 kargo-match.dotomi.com
-0.0.0.0 login-ds.dotomi.com
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 mediaplex-match.dotomi.com
 0.0.0.0 msg.dotomi.com
@@ -26840,6 +26843,7 @@
 0.0.0.0 znvr3eu1.emltrk.com
 0.0.0.0 emmiol.com
 0.0.0.0 www.emmiol.com
+0.0.0.0 yzjqqj.emmiol.com
 0.0.0.0 emoailtoo.com
 0.0.0.0 emojot.com
 0.0.0.0 www.emojot.com
@@ -29348,6 +29352,7 @@
 0.0.0.0 new.fqtag.com
 0.0.0.0 query.fqtag.com
 0.0.0.0 www.fqtag.com
+0.0.0.0 ryvapi.fragrancenet.com
 0.0.0.0 frailfruit.com
 0.0.0.0 stats.framasoft.org
 0.0.0.0 events.framer.com
@@ -29506,6 +29511,7 @@
 0.0.0.0 www.frrdlass.com
 0.0.0.0 frustratedgamers.com
 0.0.0.0 www.frustratedgamers.com
+0.0.0.0 rffsds.fsastore.com
 0.0.0.0 fsd2.digital
 0.0.0.0 www.fsd2.digital
 0.0.0.0 fspark-ap.com
@@ -31106,6 +31112,7 @@
 0.0.0.0 t.goheels.com
 0.0.0.0 smetrics.goindigo.in
 0.0.0.0 smetrics.goinggoinggone.com
+0.0.0.0 t.gojacks.com
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 tracker.gold.org
 0.0.0.0 gold2762.com
@@ -32013,6 +32020,7 @@
 0.0.0.0 somni.hardrockhotels.com
 0.0.0.0 atarget.harley-davidson.com
 0.0.0.0 smetrics.harley-davidson.com
+0.0.0.0 iqyioj.harryanddavid.com
 0.0.0.0 smetrics.hbsp.harvard.edu
 0.0.0.0 tarantula.hashicorp.com
 0.0.0.0 hashvault.pro
@@ -32201,6 +32209,7 @@
 0.0.0.0 b1.hentaibaka.one
 0.0.0.0 hentaigold.net
 0.0.0.0 www.hentaigold.net
+0.0.0.0 cdn5.hentaihaven.fun
 0.0.0.0 hepsiads-gw.hepsiburada.com
 0.0.0.0 hepsiads-ui.hepsiburada.com
 0.0.0.0 hstats.hepsiburada.com
@@ -32583,6 +32592,8 @@
 0.0.0.0 www.hodlnaut.com
 0.0.0.0 hoemasfat.site
 0.0.0.0 www.hoemasfat.site
+0.0.0.0 hoisquit.buzz
+0.0.0.0 www.hoisquit.buzz
 0.0.0.0 hokoldar.ru
 0.0.0.0 www.hokoldar.ru
 0.0.0.0 hol.es
@@ -32877,6 +32888,7 @@
 0.0.0.0 refer.hsn.com
 0.0.0.0 tracking.hsn.com
 0.0.0.0 xljqqe.hsn.com
+0.0.0.0 m.hss2x.com
 0.0.0.0 hsstatic.net
 0.0.0.0 www.hsstatic.net
 0.0.0.0 app.hstatic.net
@@ -38624,6 +38636,7 @@
 0.0.0.0 manhuascan.io
 0.0.0.0 mannaitours.com
 0.0.0.0 www.mannaitours.com
+0.0.0.0 ykhliz.manscaped.com
 0.0.0.0 mts.mansion.com
 0.0.0.0 go2.manta.com
 0.0.0.0 mantisadnetwork.com
@@ -42360,6 +42373,8 @@
 0.0.0.0 www.mywebsearch.com
 0.0.0.0 content.mywisely.com
 0.0.0.0 mywondertrip.com
+0.0.0.0 myxozilla.icu
+0.0.0.0 www.myxozilla.icu
 0.0.0.0 tracking.myzufall.de
 0.0.0.0 mzbcdn.net
 0.0.0.0 www.mzbcdn.net
@@ -42647,9 +42662,11 @@
 0.0.0.0 smetrics.nba.com
 0.0.0.0 w3.nbarizona.com
 0.0.0.0 lpbhnv.nbcbayarea.com
+0.0.0.0 lpbhnv.nbcchicago.com
 0.0.0.0 lpbhnv.nbcdfw.com
 0.0.0.0 lpbhnv.nbclosangeles.com
 0.0.0.0 aamt.nbcnews.com
+0.0.0.0 lpbhnv.nbcnewyork.com
 0.0.0.0 lpbhnv.nbcphiladelphia.com
 0.0.0.0 ijaabm.nbcsports.com
 0.0.0.0 tracker.nbcuas.com
@@ -43955,6 +43972,7 @@
 0.0.0.0 omnatuor.com
 0.0.0.0 omne.com
 0.0.0.0 www.omne.com
+0.0.0.0 refwkk.omnicalculator.com
 0.0.0.0 omniconvert.com
 0.0.0.0 app.omniconvert.com
 0.0.0.0 cdn.omniconvert.com
@@ -44119,6 +44137,7 @@
 0.0.0.0 eloqua.onelogin.com
 0.0.0.0 advrts.onelouder.com
 0.0.0.0 analytics.onem.be
+0.0.0.0 st.onemazdausa.com
 0.0.0.0 info.onemedical.com
 0.0.0.0 onemob.mobi
 0.0.0.0 cdn-ali.onemob.mobi
@@ -46124,6 +46143,7 @@
 0.0.0.0 swa.personalcreations.com
 0.0.0.0 personalicanvas.com
 0.0.0.0 www.personalicanvas.com
+0.0.0.0 ohjrxj.personalizationmall.com
 0.0.0.0 personaly.bid
 0.0.0.0 www.personaly.bid
 0.0.0.0 tracker.personizely.net
@@ -55769,6 +55789,7 @@
 0.0.0.0 tracking.eloq.soa.org
 0.0.0.0 soaheeme.net
 0.0.0.0 sobakenchmaphk.com
+0.0.0.0 iuryhk.soccer.com
 0.0.0.0 socdm.com
 0.0.0.0 adgen.socdm.com
 0.0.0.0 apc.socdm.com
@@ -63674,6 +63695,7 @@
 0.0.0.0 ltsveh.wetteronline.de
 0.0.0.0 clog.weverse.io
 0.0.0.0 wf66l5ylwq.com
+0.0.0.0 ywrcqa.wfaa.com
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0.0.0.0 www.wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0.0.0.0 c1.wfinterface.com
@@ -64684,6 +64706,8 @@
 0.0.0.0 www.xmtrk.com
 0.0.0.0 xn--2qu92fhtxsxexqab.xn--fiqs8s
 0.0.0.0 www.xn--2qu92fhtxsxexqab.xn--fiqs8s
+0.0.0.0 xn--2qus9awz1a6ygowgbua.xn--fiqs8s
+0.0.0.0 www.xn--2qus9awz1a6ygowgbua.xn--fiqs8s
 0.0.0.0 xn--r1a.website
 0.0.0.0 www.xn--r1a.website
 0.0.0.0 xnalytixs.com
@@ -64753,6 +64777,8 @@
 0.0.0.0 www.xsph.ru
 0.0.0.0 xstats.net
 0.0.0.0 www.xstats.net
+0.0.0.0 bupupua4.xsuffer.com
+0.0.0.0 nelanedorr.xsuffer.com
 0.0.0.0 gg.xszcdn.com
 0.0.0.0 xt.com
 0.0.0.0 www.xt.com
