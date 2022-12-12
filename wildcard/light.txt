@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 12 Dez 2022 15:38 UTC
-# Version: 2022.1212.1538.49
+# Last modified: 12 Dez 2022 16:32 UTC
+# Version: 2022.1212.1632.06
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 145124
+# Domains: 145121
 #
 *.0-000.store
 *.www.market02inp0st.0000026001.xyz
@@ -1348,7 +1348,6 @@
 *.2guys1stump.org
 *.2gvuukm1lm.com
 *.2gwzdkjrtb.ru
-*.vaicaceessaivcceaririccrasoria.viiessvaaciraoccivraoeaosonseosiren.2h4j6m.icu
 *.2h6skj2da.de
 *.2heaoc.com
 *.2hisnd.com
@@ -20938,7 +20937,6 @@
 *.boguralive.com
 *.boguspredict.com
 *.so.boh.com
-*.vaiccveaiccairvcrcaorsai.vieissaacirvoeainicrciaoeaosesonseosiren.bohc7y.icu
 *.vaicacevscaivcaeaririicr.voriasvaiecsvasciiooaoosesonseoren.bohc7y.icu
 *.bohmischesglas.com
 *.boho-and-chic.de
@@ -32368,7 +32366,6 @@
 *.naldoni.co.uk
 *.mbadw.nan.co.jp
 *.info.nankodo.co.jp
-*.www.an2az72-di828az.narwuaz.co.pl
 *.www.nas-k.co.jp
 *.nasionallife.co.id
 *.img01.nasmedia.co.kr
@@ -38301,7 +38298,6 @@
 *.ad.corp.global
 *.smetrics.corpaybusinesscard.com
 *.smetrics.corpayone.com
-*.corpernaija.com
 *.corplexinternational.com
 *.corpoemdieta.com
 *.corporacionsealers.com
@@ -76417,6 +76413,7 @@
 *.ads.lamchame.vn
 *.go.lamdadev.com
 *.lame7bsqu8barters.com
+*.lameguard.ru
 *.lameletters.com
 *.lamellefinancialconsultants.com
 *.tyvuwf.lameteoagricole.net
@@ -94945,7 +94942,6 @@
 *.i.oksg.co
 *.okshoppoland.com
 *.okshuwu.top
-*.www.anlo.oksitepl.site
 *.www.eryt.oksitepl.site
 *.www.txmao.oksitepl.site
 *.www.txslaw.oksitepl.site
@@ -98656,6 +98652,7 @@
 *.de2.parazax.com
 *.parcelcreature.com
 *.metrics.parcelforce.com
+*.parcelinvoice.com
 *.parcelmaster.pk
 *.parchedangle.com
 *.parchedscrew.pro
