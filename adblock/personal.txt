@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 11 Dez 2022 22:07 UTC
-! Version: 2022.1211.2207.36
+! Last modified: 12 Dez 2022 00:22 UTC
+! Version: 2022.1212.0022.03
 ! Syntax: AdBlock
-! Domains: 21773
+! Domains: 21769
 !
 ||000webhostapp.com^
 ||00px.net^
@@ -8797,6 +8797,7 @@
 ||tracking.gdatasoftware.com^
 ||gdrytrk.com^
 ||gdtimg.com^
+||gdxinya.com^
 ||gearanime.com^
 ||gearwom.de^
 ||smetric.gebrueder-goetz.de^
@@ -9159,7 +9160,6 @@
 ||collector-hpn.ghostery.net^
 ||cdn.ghostmonitor.com^
 ||ghostnewz.com^
-||v1.ghrrtiu.ru^
 ||saa.giantbomb.com^
 ||links.email.gianteagle.com^
 ||refer.giantfood.com^
@@ -14225,7 +14225,6 @@
 ||t.ofsys.com^
 ||oghub.io^
 ||ogtrk.net^
-||v1.ogubkup.ru^
 ||ogury.co^
 ||ogury.com^
 ||cloud.ogury.io^
@@ -16878,7 +16877,6 @@
 ||scapemambu.com^
 ||admin.scarabresearch.com^
 ||imgfly.scarabresearch.com^
-||recommender-eu.scarabresearch.com^
 ||static.scarabresearch.com^
 ||webchannel-content-service.scarabresearch.com^
 ||scaredcomfort.com^
@@ -18512,7 +18510,6 @@
 ||taiwtp1.com^
 ||takebest-prizes.life^
 ||cashback.takhfifan.com^
-||v1.takhnqk.ru^
 ||takingbackjuly.com^
 ||takiparkrb.site^
 ||talarcrowers.com^
@@ -21195,7 +21192,6 @@
 ||st.pba.xl.pt^
 ||pubs.xl.pt^
 ||pubserver.xl.pt^
-||v1.xlefzdz.ru^
 ||xlfhhhm.biz^
 ||xlgmedia.com^
 ||creative.xlirdr.com^

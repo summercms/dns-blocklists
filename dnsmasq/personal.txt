@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 22:07 UTC
-# Version: 2022.1211.2207.36
+# Last modified: 12 Dez 2022 00:22 UTC
+# Version: 2022.1212.0022.03
 # Syntax: DNSMasq
-# Domains: 21773
+# Domains: 21769
 #
 address=/000webhostapp.com/#
 address=/00px.net/#
@@ -8797,6 +8797,7 @@ address=/gdasaasnt.com/#
 address=/tracking.gdatasoftware.com/#
 address=/gdrytrk.com/#
 address=/gdtimg.com/#
+address=/gdxinya.com/#
 address=/gearanime.com/#
 address=/gearwom.de/#
 address=/smetric.gebrueder-goetz.de/#
@@ -9159,7 +9160,6 @@ address=/wiz.ghostbed.com/#
 address=/collector-hpn.ghostery.net/#
 address=/cdn.ghostmonitor.com/#
 address=/ghostnewz.com/#
-address=/v1.ghrrtiu.ru/#
 address=/saa.giantbomb.com/#
 address=/links.email.gianteagle.com/#
 address=/refer.giantfood.com/#
@@ -14225,7 +14225,6 @@ address=/ofgogoatan.com/#
 address=/t.ofsys.com/#
 address=/oghub.io/#
 address=/ogtrk.net/#
-address=/v1.ogubkup.ru/#
 address=/ogury.co/#
 address=/ogury.com/#
 address=/cloud.ogury.io/#
@@ -16878,7 +16877,6 @@ address=/www5.scansource.com/#
 address=/scapemambu.com/#
 address=/admin.scarabresearch.com/#
 address=/imgfly.scarabresearch.com/#
-address=/recommender-eu.scarabresearch.com/#
 address=/static.scarabresearch.com/#
 address=/webchannel-content-service.scarabresearch.com/#
 address=/scaredcomfort.com/#
@@ -18512,7 +18510,6 @@ address=/sanme2.taisantech.com/#
 address=/taiwtp1.com/#
 address=/takebest-prizes.life/#
 address=/cashback.takhfifan.com/#
-address=/v1.takhnqk.ru/#
 address=/takingbackjuly.com/#
 address=/takiparkrb.site/#
 address=/talarcrowers.com/#
@@ -21195,7 +21192,6 @@ address=/analytics.xl.pt/#
 address=/st.pba.xl.pt/#
 address=/pubs.xl.pt/#
 address=/pubserver.xl.pt/#
-address=/v1.xlefzdz.ru/#
 address=/xlfhhhm.biz/#
 address=/xlgmedia.com/#
 address=/creative.xlirdr.com/#

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 22:07 UTC
-# Version: 2022.1211.2207.36
+# Last modified: 12 Dez 2022 00:22 UTC
+# Version: 2022.1212.0022.03
 # Syntax: Hosts
-# Domains: 60790
+# Domains: 60787
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -27567,6 +27567,8 @@
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 union.gdtimg.com
 0.0.0.0 xj.gdtimg.com
+0.0.0.0 gdxinya.com
+0.0.0.0 www.gdxinya.com
 0.0.0.0 gearanime.com
 0.0.0.0 www.gearanime.com
 0.0.0.0 gearwom.de
@@ -28103,7 +28105,6 @@
 0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 cdn.ghostmonitor.com
 0.0.0.0 ghostnewz.com
-0.0.0.0 v1.ghrrtiu.ru
 0.0.0.0 saa.giantbomb.com
 0.0.0.0 links.email.gianteagle.com
 0.0.0.0 refer.giantfood.com
@@ -40042,7 +40043,6 @@
 0.0.0.0 www.oghub.io
 0.0.0.0 ogtrk.net
 0.0.0.0 jump.ogtrk.net
-0.0.0.0 v1.ogubkup.ru
 0.0.0.0 ogury.co
 0.0.0.0 ogury.com
 0.0.0.0 cloud.ogury.io
@@ -48248,7 +48248,6 @@
 0.0.0.0 www.scapemambu.com
 0.0.0.0 admin.scarabresearch.com
 0.0.0.0 imgfly.scarabresearch.com
-0.0.0.0 recommender-eu.scarabresearch.com
 0.0.0.0 static.scarabresearch.com
 0.0.0.0 webchannel-content-service.scarabresearch.com
 0.0.0.0 scaredcomfort.com
@@ -53055,7 +53054,6 @@
 0.0.0.0 takebest-prizes.life
 0.0.0.0 www.takebest-prizes.life
 0.0.0.0 cashback.takhfifan.com
-0.0.0.0 v1.takhnqk.ru
 0.0.0.0 takingbackjuly.com
 0.0.0.0 august.takingbackjuly.com
 0.0.0.0 june.takingbackjuly.com
@@ -59590,7 +59588,6 @@
 0.0.0.0 st.pba.xl.pt
 0.0.0.0 pubs.xl.pt
 0.0.0.0 pubserver.xl.pt
-0.0.0.0 v1.xlefzdz.ru
 0.0.0.0 xlfhhhm.biz
 0.0.0.0 www.xlfhhhm.biz
 0.0.0.0 xlgmedia.com
