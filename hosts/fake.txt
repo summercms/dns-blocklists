@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 15:01 UTC
-# Version: 2022.1212.1501.21
+# Last modified: 12 Dez 2022 16:01 UTC
+# Version: 2022.1212.1601.29
 # Syntax: Hosts
-# Domains: 11137
+# Domains: 11135
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -371,7 +371,6 @@
 0.0.0.0 alo-car.com
 0.0.0.0 www.alo-car.com
 0.0.0.0 alocar-gmbh.com
-0.0.0.0 www.alocar-gmbh.com
 0.0.0.0 alongsideert.online
 0.0.0.0 www.alongsideert.online
 0.0.0.0 alpha-killaz.co
@@ -415,7 +414,6 @@
 0.0.0.0 amazenda.com
 0.0.0.0 www.amazenda.com
 0.0.0.0 amazonboxus.com
-0.0.0.0 www.amazonboxus.com
 0.0.0.0 amazonspallet.com
 0.0.0.0 www.amazonspallet.com
 0.0.0.0 ambashtah.com
