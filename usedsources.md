@@ -241,12 +241,12 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### FAKE
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-dead.txt)
 ```
-12169 total unique domains | 11001 (90%) included | 11 (0%) removed | 1157 (10%) dead
+11667 total unique domains | 11137 (95%) included | 1 (0%) removed | 529 (5%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      96% |   4% |      0% | fake.ts.txt
-  2 |      95% |   4% |      1% | fake.vzni.txt
-  3 |      92% |   8% |      0% | fake.wli.txt
+  1 |      98% |   2% |      0% | fake.ts.txt
+  2 |      98% |   2% |      0% | fake.vzni.txt
+  3 |      98% |   2% |      0% | fake.wli.txt
 ```
 #### TIF
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-dead.txt)
