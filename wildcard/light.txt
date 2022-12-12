@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 12 Dez 2022 09:11 UTC
-# Version: 2022.1212.0911.12
+# Last modified: 12 Dez 2022 10:34 UTC
+# Version: 2022.1212.1034.06
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 145143
+# Domains: 145141
 #
 *.0-000.store
 *.www.market02inp0st.0000026001.xyz
@@ -1258,7 +1258,6 @@
 *.inpost-pl.2981476-cash-info.xyz
 *.29873398.com
 *.2999.store
-*.www.1npost-store.2999995655.xyz
 *.299f70c6b2.com
 *.29d65cebb82ef9f.com
 *.29wjns.com
@@ -1518,7 +1517,6 @@
 *.31seconds.net
 *.31strepublicproductions.com
 *.3201556.site
-*.www.1npost.320212111222.xyz
 *.www.dpb.320625154845.xyz
 *.a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 *.321930e1f3.com
@@ -6668,6 +6666,7 @@
 *.adreaction.ru
 *.adreactor.com
 *.adready.com
+*.tracker.adreadyclick.com
 *.adreadytractions.com
 *.adreal.cn
 *.adrealclick.com
@@ -30845,6 +30844,7 @@
 *.africaninkpublishers.co.ke
 *.africorp.co.tz
 *.afriphase.co.zw
+*.afromerchants.co.zw
 *.be4check-tvshow.aftertvshow.co.pl
 *.elshowsfor920ads-tvnos9287az.aftertvshows.co.pl
 *.4watch2739a-logfo293az.afterwatchtv.co.pl
@@ -38296,7 +38296,6 @@
 *.ad.corp.global
 *.smetrics.corpaybusinesscard.com
 *.smetrics.corpayone.com
-*.corpernaija.com
 *.corplexinternational.com
 *.corpoemdieta.com
 *.corporacionsealers.com
@@ -41615,6 +41614,7 @@
 *.decknetwork.net
 *.deckorgan.com
 *.declarationextra.com
+*.declaredpolitics.com
 *.declarersd.com
 *.declension.pl
 *.declineabsorbed.com
@@ -82261,7 +82261,6 @@
 *.masternetbd.net
 *.masterocio.com
 *.masterplandelhi.in
-*.www.1chat.masterprogr.xyz
 *.www.pro.masterprogr.xyz
 *.www.w-chat.masterprogr.xyz
 *.www.w-chat1.masterprogr.xyz
@@ -98645,7 +98644,6 @@
 *.de2.parazax.com
 *.parcelcreature.com
 *.metrics.parcelforce.com
-*.parcelinvoice.com
 *.parcelmaster.pk
 *.parchedangle.com
 *.parchedscrew.pro
@@ -103781,8 +103779,6 @@
 *.progmxs.com
 *.prognosticationbacteremia.com
 *.progolfstudy.com
-*.www.1blog.program-pl1.site
-*.www.1mast.program-pl1.site
 *.www.blog.program-pl1.site
 *.www.chat1.program-pl1.site
 *.www.fprog.program-pl1.site
@@ -107595,6 +107591,7 @@
 *.realestate.immobilien
 *.realestatedemands.com
 *.realestateexpert.us
+*.realestateformillennials.com
 *.realestateprojects.us
 *.www2.realestatewebmasters.com
 *.realflix.de
@@ -127669,7 +127666,9 @@
 *.trackocean.com
 *.trackofers.lol
 *.trackoffnext.top
-*.trackonomics.net
+*.app.trackonomics.net
+*.fr-actions.trackonomics.net
+*.write.trackonomics.net
 *.trackor.net
 *.trackpath.biz
 *.trackpush.com
@@ -140125,7 +140124,6 @@
 *.m.x-power.info
 *.x-presswheelscouriers.com
 *.x-pronet.com
-*.x-soft.re
 *.x-software.live
 *.x-starmovie21.net
 *.x-stat.de
