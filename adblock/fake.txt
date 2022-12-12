@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 11 Dez 2022 23:56 UTC
-! Version: 2022.1211.2356.08
+! Last modified: 12 Dez 2022 08:42 UTC
+! Version: 2022.1212.0842.31
 ! Syntax: AdBlock
-! Domains: 5764
+! Domains: 5739
 !
 ||willhaben.at.04300.id^
 ||11trikots.com^
@@ -523,7 +523,6 @@
 ||bekleidungsoutlet.com^
 ||bekos.at^
 ||belacova.com^
-||beleshoping.com^
 ||beljunqueira.com^
 ||belladde.com^
 ||bellelora.com^
@@ -999,7 +998,6 @@
 ||cllovery.com^
 ||clockersbcn.com^
 ||clockersbcn.es^
-||clonesuperwatch.ru^
 ||clorislife.com^
 ||clothes-limited.com^
 ||clothmyths.com^
@@ -1686,6 +1684,7 @@
 ||euronicsservices.de^
 ||euronicsstore.de^
 ||europatradecapital.com^
+||bmw.europe-moto.com^
 ||europost-eu.biz^
 ||eurshopping.com^
 ||eurtrans.com^
@@ -2697,7 +2696,6 @@
 ||julireh.com^
 ||justasitsounds.com^
 ||justclothes.club^
-||de.justfashionnow.com^
 ||justlo.tv^
 ||justshopy4u.com^
 ||justvanilla.de^
@@ -2809,7 +2807,6 @@
 ||kinoplay.de^
 ||kinostream.org^
 ||kinox.su^
-||kinox.top^
 ||kinox-deutsch.com^
 ||kinozeit.net^
 ||kirche-lennep.de^
@@ -4273,7 +4270,6 @@
 ||rheinarche.de^
 ||rheinash.com^
 ||rheineule.de^
-||rheinwing.de^
 ||rheumatopia.de^
 ||rhinowalk.com^
 ||rhnzo.top^
@@ -4507,6 +4503,7 @@
 ||sensalve.de^
 ||senthiln.top^
 ||seoyou.de^
+||sepkicks.com^
 ||seprun.com^
 ||sepshoe.com^
 ||sepsneakers.co^
@@ -5271,6 +5268,7 @@
 ||uyqwb.com^
 ||vaggv.com^
 ||vagomarkt.com^
+||vakkerlight.com^
 ||valanza.de^
 ||valty-heater.com^
 ||valurabeauty.com^
@@ -5334,7 +5332,6 @@
 ||vespin-versand.de^
 ||vespin24.de^
 ||vetola.de^
-||vevor.de^
 ||vfcsnc.shop^
 ||vgr8.com^
 ||viagrafuerfrauen.com^
@@ -5355,7 +5352,6 @@
 ||villite.xyz^
 ||vilow.de^
 ||vimosa.se^
-||vimoz.de^
 ||vincentteh.com^
 ||vincenzosantoriello.it^
 ||vinemos.de^
@@ -5371,7 +5367,6 @@
 ||vischer-gmbh.de^
 ||visionfancyclothing.com^
 ||visse.top^
-||visualframe.de^
 ||vital-rezeptfrei.de^
 ||vitalis-pankratius.de^
 ||vitalitiesdeluxe.com^
@@ -5395,7 +5390,6 @@
 ||vlappartient.com^
 ||vlomy.de^
 ||vlshaulage.com^
-||vmegarexs.top^
 ||vndance.info^
 ||vnhome.de^
 ||vodula.de^
@@ -5404,9 +5398,7 @@
 ||volex.io^
 ||volina.de^
 ||volkersheim-bockenem.de^
-||vollebude.de^
 ||vollmer-replica.com^
-||volpe-shop.de^
 ||voltus-elektroshop.de^
 ||vom-goldenchamp.de^
 ||group.von-re.com^
@@ -5423,7 +5415,6 @@
 ||vozero-online.de^
 ||vp-bionic.com^
 ||vphami.top^
-||vponary.com^
 ||vrczda.com^
 ||vs-home.de^
 ||vsahiltd.com^
@@ -5444,8 +5435,6 @@
 ||wald-brennholz.de^
 ||waldeber.de^
 ||wall-de.com^
-||walteo.com^
-||wandadshop.com^
 ||wandererscamp.com^
 ||wanford.com^
 ||wang-caravan.com^
@@ -5456,14 +5445,12 @@
 ||wasserspender-deutschland.de^
 ||watch-fakes.to^
 ||watchesbuy.to^
-||watchesinfashion.se^
 ||watchesreplica.is^
 ||watchesstore.co^
 ||watenbuettel-bs.de^
 ||wattcafe.fr^
 ||waworld.de^
 ||waydepott.com^
-||wayneptw.org^
 ||waynewrite.com^
 ||wayplay.de^
 ||waysla.com^
@@ -5508,7 +5495,6 @@
 ||weltweit-akkus.de^
 ||wemidwestkids.com^
 ||wenaviety.com^
-||wendt-bautischlerei.de^
 ||wennlicht.com^
 ||werbungansbach.de^
 ||werdw.top^
@@ -5517,14 +5503,11 @@
 ||werkenlinger.com^
 ||werkolindo.com^
 ||werkorinos.com^
-||werkschaffer.com^
-||werkwaus.com^
 ||werkzeug-haus.de^
 ||werkzeug-online-kaufen.com^
 ||werkzeug-store24gmbh.com^
 ||werkzeug-zuhr.de^
 ||werkzeugfahrrad.com^
-||werkzeugshop-weintraub.net^
 ||wernerhilft.de^
 ||wernerzapp.de^
 ||westpointcourier.online^
@@ -5558,18 +5541,14 @@
 ||wildweststructures.com^
 ||wilfrieds-elektrobude.de^
 ||willkommenbeihabib.de^
-||wilmshop.com^
 ||wilsonsquare.com^
-||winandwine.com^
 ||windsorglobalaustria.com^
 ||windwoodsigh.club^
 ||windyys.com^
 ||winehouseportugal.com^
 ||winicoin.com^
 ||winkler-modehaus.de^
-||winklerversand.net^
 ||winmuli.com^
-||wintehere.com^
 ||winterangebote.store^
 ||wintercomfy.com^
 ||winterfallkits.de^
@@ -5594,7 +5573,6 @@
 ||wltoys.co^
 ||wmindweb.top^
 ||wmk-versand.de^
-||wmtechpcw.top^
 ||wmusify.top^
 ||wneedshop.com^
 ||woecy.com^
@@ -5616,7 +5594,6 @@
 ||workingupgrade.com^
 ||worlddenimleague.com^
 ||worldwidemoving.sg^
-||wostimex-24.de^
 ||wotena.de^
 ||wotnodyfiles.com^
 ||wotoba.de^
@@ -5626,14 +5603,12 @@
 ||wqnck.com^
 ||wrhxg.com^
 ||wristbandpin.com^
-||wsocialis.com^
 ||wt-hagen.de^
 ||wt-schwentinental.de^
 ||wunderly.de^
 ||wundershark.de^
 ||de.wundertesting.com^
 ||wunderwahl.de^
-||wunderwild.de^
 ||wunschau.de^
 ||wunschfans.de^
 ||wxnlucky.com^

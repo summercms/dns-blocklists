@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 23:56 UTC
-# Version: 2022.1211.2356.08
+# Last modified: 12 Dez 2022 08:42 UTC
+# Version: 2022.1212.0842.31
 # Syntax: Domains
-# Domains: 11050
+# Domains: 11001
 #
 willhaben.at.04300.id
 11trikots.com
@@ -999,8 +999,6 @@ bekos.at
 www.bekos.at
 belacova.com
 www.belacova.com
-beleshoping.com
-www.beleshoping.com
 beljunqueira.com
 www.beljunqueira.com
 belladde.com
@@ -1937,8 +1935,6 @@ clockersbcn.com
 clockersbcn.es
 www.clockersbcn.com
 www.clockersbcn.es
-clonesuperwatch.ru
-www.clonesuperwatch.ru
 clorislife.com
 www.clorislife.com
 clothes-limited.com
@@ -3214,6 +3210,7 @@ euronicsstore.de
 www.euronicsstore.de
 europatradecapital.com
 www.europatradecapital.com
+bmw.europe-moto.com
 europost-eu.biz
 www.europost-eu.biz
 eurshopping.com
@@ -5163,7 +5160,6 @@ justasitsounds.com
 www.justasitsounds.com
 justclothes.club
 www.justclothes.club
-de.justfashionnow.com
 justlo.tv
 www.justlo.tv
 justshopy4u.com
@@ -5380,9 +5376,7 @@ www.kinoplay.de
 kinostream.org
 www.kinostream.org
 kinox.su
-kinox.top
 www.kinox.su
-www.kinox.top
 kinox-deutsch.com
 www.kinox-deutsch.com
 kinozeit.net
@@ -8182,8 +8176,6 @@ rheinash.com
 www.rheinash.com
 rheineule.de
 www.rheineule.de
-rheinwing.de
-www.rheinwing.de
 rheumatopia.de
 www.rheumatopia.de
 rhinowalk.com
@@ -8638,6 +8630,8 @@ senthiln.top
 www.senthiln.top
 seoyou.de
 www.seoyou.de
+sepkicks.com
+www.sepkicks.com
 seprun.com
 www.seprun.com
 sepshoe.com
@@ -10095,6 +10089,8 @@ vaggv.com
 www.vaggv.com
 vagomarkt.com
 www.vagomarkt.com
+vakkerlight.com
+www.vakkerlight.com
 valanza.de
 www.valanza.de
 valty-heater.com
@@ -10209,8 +10205,6 @@ vespin-versand.de
 vespin24.de
 vetola.de
 www.vetola.de
-vevor.de
-www.vevor.de
 vfcsnc.shop
 www.vfcsnc.shop
 vgr8.com
@@ -10250,8 +10244,6 @@ vilow.de
 www.vilow.de
 vimosa.se
 www.vimosa.se
-vimoz.de
-www.vimoz.de
 vincentteh.com
 www.vincentteh.com
 vincenzosantoriello.it
@@ -10280,8 +10272,6 @@ visionfancyclothing.com
 www.visionfancyclothing.com
 visse.top
 www.visse.top
-visualframe.de
-www.visualframe.de
 vital-rezeptfrei.de
 www.vital-rezeptfrei.de
 vitalis-pankratius.de
@@ -10328,8 +10318,6 @@ vlomy.de
 www.vlomy.de
 vlshaulage.com
 www.vlshaulage.com
-vmegarexs.top
-www.vmegarexs.top
 vndance.info
 www.vndance.info
 vnhome.de
@@ -10345,12 +10333,8 @@ volina.de
 www.volina.de
 volkersheim-bockenem.de
 www.volkersheim-bockenem.de
-vollebude.de
-www.vollebude.de
 vollmer-replica.com
 www.vollmer-replica.com
-volpe-shop.de
-www.volpe-shop.de
 voltus-elektroshop.de
 vom-goldenchamp.de
 www.vom-goldenchamp.de
@@ -10379,8 +10363,6 @@ vp-bionic.com
 www.vp-bionic.com
 vphami.top
 www.vphami.top
-vponary.com
-www.vponary.com
 vrczda.com
 www.vrczda.com
 vs-home.de
@@ -10421,10 +10403,6 @@ waldeber.de
 www.waldeber.de
 wall-de.com
 www.wall-de.com
-walteo.com
-www.walteo.com
-wandadshop.com
-www.wandadshop.com
 wandererscamp.com
 www.wandererscamp.com
 wanford.com
@@ -10445,8 +10423,6 @@ watch-fakes.to
 www.watch-fakes.to
 watchesbuy.to
 www.watchesbuy.to
-watchesinfashion.se
-www.watchesinfashion.se
 watchesreplica.is
 www.watchesreplica.is
 watchesstore.co
@@ -10459,8 +10435,6 @@ waworld.de
 www.waworld.de
 waydepott.com
 www.waydepott.com
-wayneptw.org
-www.wayneptw.org
 waynewrite.com
 www.waynewrite.com
 wayplay.de
@@ -10545,7 +10519,6 @@ www.weltweit-akkus.de
 wemidwestkids.com
 www.wemidwestkids.com
 wenaviety.com
-wendt-bautischlerei.de
 wennlicht.com
 www.wennlicht.com
 werbungansbach.de
@@ -10562,10 +10535,6 @@ werkolindo.com
 www.werkolindo.com
 werkorinos.com
 www.werkorinos.com
-werkschaffer.com
-www.werkschaffer.com
-werkwaus.com
-www.werkwaus.com
 werkzeug-haus.de
 www.werkzeug-haus.de
 werkzeug-online-kaufen.com
@@ -10576,8 +10545,6 @@ werkzeug-zuhr.de
 www.werkzeug-zuhr.de
 werkzeugfahrrad.com
 www.werkzeugfahrrad.com
-werkzeugshop-weintraub.net
-www.werkzeugshop-weintraub.net
 wernerhilft.de
 www.wernerhilft.de
 wernerzapp.de
@@ -10643,12 +10610,8 @@ wilfrieds-elektrobude.de
 www.wilfrieds-elektrobude.de
 willkommenbeihabib.de
 www.willkommenbeihabib.de
-wilmshop.com
-www.wilmshop.com
 wilsonsquare.com
 www.wilsonsquare.com
-winandwine.com
-www.winandwine.com
 windsorglobalaustria.com
 www.windsorglobalaustria.com
 windwoodsigh.club
@@ -10661,12 +10624,8 @@ winicoin.com
 www.winicoin.com
 winkler-modehaus.de
 www.winkler-modehaus.de
-winklerversand.net
-www.winklerversand.net
 winmuli.com
 www.winmuli.com
-wintehere.com
-www.wintehere.com
 winterangebote.store
 www.winterangebote.store
 wintercomfy.com
@@ -10712,8 +10671,6 @@ www.wltoys.co
 wmindweb.top
 www.wmindweb.top
 wmk-versand.de
-wmtechpcw.top
-www.wmtechpcw.top
 wmusify.top
 www.wmusify.top
 wneedshop.com
@@ -10755,8 +10712,6 @@ worlddenimleague.com
 www.worlddenimleague.com
 worldwidemoving.sg
 www.worldwidemoving.sg
-wostimex-24.de
-www.wostimex-24.de
 wotena.de
 wotnodyfiles.com
 www.wotnodyfiles.com
@@ -10774,8 +10729,6 @@ wrhxg.com
 www.wrhxg.com
 wristbandpin.com
 www.wristbandpin.com
-wsocialis.com
-www.wsocialis.com
 wt-hagen.de
 www.wt-hagen.de
 wt-schwentinental.de
@@ -10790,8 +10743,6 @@ cougar.de.wundertesting.com
 sugardaddy.de.wundertesting.com
 wunderwahl.de
 www.wunderwahl.de
-wunderwild.de
-www.wunderwild.de
 wunschau.de
 www.wunschau.de
 wunschfans.de
