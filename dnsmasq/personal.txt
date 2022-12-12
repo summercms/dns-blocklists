@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 15:09 UTC
-# Version: 2022.1212.1509.06
+# Last modified: 12 Dez 2022 16:27 UTC
+# Version: 2022.1212.1627.46
 # Syntax: DNSMasq
-# Domains: 23189
+# Domains: 23202
 #
 address=/000webhostapp.com/#
 address=/00it.com/#
@@ -1463,6 +1463,7 @@ address=/adwebone.com/#
 address=/fpa-cdn.adweek.com/#
 address=/fpa-events.adweek.com/#
 address=/adwile.com/#
+address=/adwired.ch/#
 address=/adwise.bg/#
 address=/adwised.com/#
 address=/adwisedfs.com/#
@@ -4861,6 +4862,7 @@ address=/v20.cnnd.vn/#
 address=/cnnected.org/#
 address=/push.cnnindonesia.com/#
 address=/cnnx.io/#
+address=/v1.cnoiolph.org/#
 address=/cnt.my/#
 address=/s.cntqk.com/#
 address=/sstats.cntraveler.com/#
@@ -5547,6 +5549,7 @@ address=/p.zol-img.com.cn/#
 address=/pic.zol-img.com.cn/#
 address=/app.comagic.ru/#
 address=/tracker.comagic.ru/#
+address=/analytics.comalatech.io/#
 address=/breakingnews.comano.us/#
 address=/combcompetition.com/#
 address=/tracking.business.comcast.com/#
@@ -11167,6 +11170,7 @@ address=/marketingweek.imgix.net/#
 address=/moengagewebsdk.imgix.net/#
 address=/imglnkd.com/#
 address=/imglnke.com/#
+address=/likemore-go.imgsmail.ru/#
 address=/mediator.imgsmail.ru/#
 address=/radar.imgsmail.ru/#
 address=/imgsniper.com/#
@@ -11968,6 +11972,7 @@ address=/jxweboo.com/#
 address=/jygotubvpyguak.com/#
 address=/jyiphoto.com/#
 address=/jyotiwithin.com/#
+address=/v1.jyzkflaq.net/#
 address=/k-analytix.com/#
 address=/k-storage.com/#
 address=/k50.ru/#
@@ -12210,6 +12215,7 @@ address=/tracking.komoot.de/#
 address=/adsimg.kompas.com/#
 address=/fudezz.kompas.com/#
 address=/komrep.com/#
+address=/tc.kondemohalim.com/#
 address=/tms.kone.com/#
 address=/koneomobiledsp.com/#
 address=/analytics.kongregate.io/#
@@ -12238,6 +12244,7 @@ address=/kostunivo.com/#
 address=/my.kotn.com/#
 address=/mastertag.kpcustomer.de/#
 address=/smetrics.kpmg.us/#
+address=/v1.kpzhzeen.net/#
 address=/i.kpzip.com/#
 address=/qc.kqbd88.com/#
 address=/fdt.kraken.com/#
@@ -14743,6 +14750,7 @@ address=/netpub.media/#
 address=/piwik2.netrange.com/#
 address=/netratings.com/#
 address=/netrefer.com/#
+address=/netrk.net/#
 address=/tr.netsalesmedia.pl/#
 address=/netseer.com/#
 address=/netshelter.net/#
@@ -16027,6 +16035,7 @@ address=/mobilecontent.networks.prod.p0.phx-infra.com/#
 address=/phychashowi.com/#
 address=/phywi.org/#
 address=/pi-stats.com/#
+address=/v1.piabruw.eu/#
 address=/api-esp.piano.io/#
 address=/buy-au.piano.io/#
 address=/cdn.piano.io/#
@@ -17149,6 +17158,7 @@ address=/display.ravm.tv/#
 address=/hb-t5u9.raps.ravm.tv/#
 address=/smetrics.ray-ban.com/#
 address=/sshhfy.ray-ban.com/#
+address=/api.raygun.io/#
 address=/cdn.raygun.io/#
 address=/rayjump.com/#
 address=/yfepff.raymourflanigan.com/#
@@ -19424,6 +19434,7 @@ address=/strn.pl/#
 address=/cdn.stroeerdigitalgroup.de/#
 address=/stroeerdigitalmedia.de/#
 address=/js.stroeermediabrands.de/#
+address=/quiz.stroeermediabrands.de/#
 address=/afl-static-cdn.newbiz-prod.stroeerws.de/#
 address=/stromoliks.com/#
 address=/strossle.com/#
@@ -21857,6 +21868,7 @@ address=/we-stats.com/#
 address=/trk.wealthmanagement.com/#
 address=/wearbasin.com/#
 address=/wearehearken.com/#
+address=/sentry.wearetriple.com/#
 address=/knorzj.wearfigs.com/#
 address=/airlytics.airlock.twcmobile.weather.com/#
 address=/and-ads.pulse.weatherbug.net/#
@@ -22174,6 +22186,7 @@ address=/winluckylinks.com/#
 address=/winsystemupdate.com/#
 address=/tracker.winudf.com/#
 address=/winworker.club/#
+address=/wwa.wipe.de/#
 address=/api.wipmania.com/#
 address=/journey.wired.com/#
 address=/sstats.wired.com/#

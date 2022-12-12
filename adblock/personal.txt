@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 12 Dez 2022 15:09 UTC
-! Version: 2022.1212.1509.06
+! Last modified: 12 Dez 2022 16:27 UTC
+! Version: 2022.1212.1627.46
 ! Syntax: AdBlock
-! Domains: 23189
+! Domains: 23202
 !
 ||000webhostapp.com^
 ||00it.com^
@@ -1463,6 +1463,7 @@
 ||fpa-cdn.adweek.com^
 ||fpa-events.adweek.com^
 ||adwile.com^
+||adwired.ch^
 ||adwise.bg^
 ||adwised.com^
 ||adwisedfs.com^
@@ -4861,6 +4862,7 @@
 ||cnnected.org^
 ||push.cnnindonesia.com^
 ||cnnx.io^
+||v1.cnoiolph.org^
 ||cnt.my^
 ||s.cntqk.com^
 ||sstats.cntraveler.com^
@@ -5547,6 +5549,7 @@
 ||pic.zol-img.com.cn^
 ||app.comagic.ru^
 ||tracker.comagic.ru^
+||analytics.comalatech.io^
 ||breakingnews.comano.us^
 ||combcompetition.com^
 ||tracking.business.comcast.com^
@@ -11167,6 +11170,7 @@
 ||moengagewebsdk.imgix.net^
 ||imglnkd.com^
 ||imglnke.com^
+||likemore-go.imgsmail.ru^
 ||mediator.imgsmail.ru^
 ||radar.imgsmail.ru^
 ||imgsniper.com^
@@ -11968,6 +11972,7 @@
 ||jygotubvpyguak.com^
 ||jyiphoto.com^
 ||jyotiwithin.com^
+||v1.jyzkflaq.net^
 ||k-analytix.com^
 ||k-storage.com^
 ||k50.ru^
@@ -12210,6 +12215,7 @@
 ||adsimg.kompas.com^
 ||fudezz.kompas.com^
 ||komrep.com^
+||tc.kondemohalim.com^
 ||tms.kone.com^
 ||koneomobiledsp.com^
 ||analytics.kongregate.io^
@@ -12238,6 +12244,7 @@
 ||my.kotn.com^
 ||mastertag.kpcustomer.de^
 ||smetrics.kpmg.us^
+||v1.kpzhzeen.net^
 ||i.kpzip.com^
 ||qc.kqbd88.com^
 ||fdt.kraken.com^
@@ -14743,6 +14750,7 @@
 ||piwik2.netrange.com^
 ||netratings.com^
 ||netrefer.com^
+||netrk.net^
 ||tr.netsalesmedia.pl^
 ||netseer.com^
 ||netshelter.net^
@@ -16027,6 +16035,7 @@
 ||phychashowi.com^
 ||phywi.org^
 ||pi-stats.com^
+||v1.piabruw.eu^
 ||api-esp.piano.io^
 ||buy-au.piano.io^
 ||cdn.piano.io^
@@ -17149,6 +17158,7 @@
 ||hb-t5u9.raps.ravm.tv^
 ||smetrics.ray-ban.com^
 ||sshhfy.ray-ban.com^
+||api.raygun.io^
 ||cdn.raygun.io^
 ||rayjump.com^
 ||yfepff.raymourflanigan.com^
@@ -19424,6 +19434,7 @@
 ||cdn.stroeerdigitalgroup.de^
 ||stroeerdigitalmedia.de^
 ||js.stroeermediabrands.de^
+||quiz.stroeermediabrands.de^
 ||afl-static-cdn.newbiz-prod.stroeerws.de^
 ||stromoliks.com^
 ||strossle.com^
@@ -21857,6 +21868,7 @@
 ||trk.wealthmanagement.com^
 ||wearbasin.com^
 ||wearehearken.com^
+||sentry.wearetriple.com^
 ||knorzj.wearfigs.com^
 ||airlytics.airlock.twcmobile.weather.com^
 ||and-ads.pulse.weatherbug.net^
@@ -22174,6 +22186,7 @@
 ||winsystemupdate.com^
 ||tracker.winudf.com^
 ||winworker.club^
+||wwa.wipe.de^
 ||api.wipmania.com^
 ||journey.wired.com^
 ||sstats.wired.com^

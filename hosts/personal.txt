@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 15:09 UTC
-# Version: 2022.1212.1509.06
+# Last modified: 12 Dez 2022 16:27 UTC
+# Version: 2022.1212.1627.46
 # Syntax: Hosts
-# Domains: 65976
+# Domains: 66006
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -1061,9 +1061,11 @@
 0.0.0.0 config.51y5.net
 0.0.0.0 cpu.51y5.net
 0.0.0.0 dc.51y5.net
+0.0.0.0 dcctc.51y5.net
 0.0.0.0 dcmdaa.51y5.net
 0.0.0.0 dcmdac.51y5.net
 0.0.0.0 dcmdae.51y5.net
+0.0.0.0 img03.51y5.net
 0.0.0.0 init.51y5.net
 0.0.0.0 ios-app.51y5.net
 0.0.0.0 ios-config.51y5.net
@@ -1072,6 +1074,7 @@
 0.0.0.0 ios-wsba.51y5.net
 0.0.0.0 kepler.51y5.net
 0.0.0.0 peacock.51y5.net
+0.0.0.0 api.push.51y5.net
 0.0.0.0 msg.push.51y5.net
 0.0.0.0 push-dc.51y5.net
 0.0.0.0 taichi.51y5.net
@@ -5191,6 +5194,9 @@
 0.0.0.0 fpa-events.adweek.com
 0.0.0.0 adwile.com
 0.0.0.0 api11.adwile.com
+0.0.0.0 adwired.ch
+0.0.0.0 aerotelegraph.adwired.ch
+0.0.0.0 www.adwired.ch
 0.0.0.0 adwise.bg
 0.0.0.0 as.adwise.bg
 0.0.0.0 dmp.adwise.bg
@@ -5873,10 +5879,12 @@
 0.0.0.0 www.ak-is2.net
 0.0.0.0 acertb.xml.ak-is2.net
 0.0.0.0 ad-maven.xml.ak-is2.net
+0.0.0.0 adflyer.xml.ak-is2.net
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adxfactory.xml.ak-is2.net
 0.0.0.0 adxnexus.xml.ak-is2.net
 0.0.0.0 adzgame.xml.ak-is2.net
+0.0.0.0 clickmi.xml.ak-is2.net
 0.0.0.0 ctrtraffic.xml.ak-is2.net
 0.0.0.0 eximdigital.xml.ak-is2.net
 0.0.0.0 explorads.xml.ak-is2.net
@@ -5900,14 +5908,17 @@
 0.0.0.0 zaimads.xml.ak-is2.net
 0.0.0.0 zeusadx.xml.ak-is2.net
 0.0.0.0 ad-maven.xml-eu.ak-is2.net
+0.0.0.0 adventurefeeds.xml-eu-v4.ak-is2.net
 0.0.0.0 ezmob.xml-eu-v4.ak-is2.net
 0.0.0.0 pushub.xml-eu-v4.ak-is2.net
 0.0.0.0 adright.xml-v4.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v4.ak-is2.net
 0.0.0.0 explorads.xml-v4.ak-is2.net
 0.0.0.0 ezmob.xml-v4.ak-is2.net
+0.0.0.0 jotterads.xml-v4.ak-is2.net
 0.0.0.0 pushub.xml-v4.ak-is2.net
 0.0.0.0 ad-maven.xs.ak-is2.net
+0.0.0.0 displayio.xs.ak-is2.net
 0.0.0.0 ezmob.xs.ak-is2.net
 0.0.0.0 pushub.xs.ak-is2.net
 0.0.0.0 realtime-bid.xs.ak-is2.net
@@ -7372,7 +7383,6 @@
 0.0.0.0 marketing.anchorage.net
 0.0.0.0 ancientact.com
 0.0.0.0 ancznewozw.com
-0.0.0.0 www.ancznewozw.com
 0.0.0.0 andbeyond.media
 0.0.0.0 cpm.andbeyond.media
 0.0.0.0 prebid.andbeyond.media
@@ -7394,7 +7404,6 @@
 0.0.0.0 c.andyhoppe.com
 0.0.0.0 www.andyhoppe.com
 0.0.0.0 anenttatting.com
-0.0.0.0 www.anenttatting.com
 0.0.0.0 push.anews.one
 0.0.0.0 pxgpnp.angara.com
 0.0.0.0 smetrics.angara.com
@@ -7451,7 +7460,6 @@
 0.0.0.0 www.anomalousporch.com
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 anorrecenturybr.com
-0.0.0.0 www.anorrecenturybr.com
 0.0.0.0 anpmnmxo.biz
 0.0.0.0 www.anpmnmxo.biz
 0.0.0.0 anquan.org
@@ -7498,7 +7506,6 @@
 0.0.0.0 antivirushub.co
 0.0.0.0 www.antivirushub.co
 0.0.0.0 antivirussprotection.com
-0.0.0.0 www.antivirussprotection.com
 0.0.0.0 ants.vn
 0.0.0.0 a.ants.vn
 0.0.0.0 au.ants.vn
@@ -7610,7 +7617,6 @@
 0.0.0.0 stats.apigrowth.net
 0.0.0.0 apkdone.space
 0.0.0.0 hole4.apkdone.space
-0.0.0.0 www.apkdone.space
 0.0.0.0 apkfiles.com
 0.0.0.0 www.apkfiles.com
 0.0.0.0 log1.apkomega.com
@@ -8181,7 +8187,6 @@
 0.0.0.0 static.appcloudbox.net
 0.0.0.0 www.appcloudbox.net
 0.0.0.0 appcloudgoal.com
-0.0.0.0 www.appcloudgoal.com
 0.0.0.0 appcpi.net
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adtrack.appcpi.net
@@ -11668,6 +11673,7 @@
 0.0.0.0 admin.bitstarz.com
 0.0.0.0 www.bitstarz.com
 0.0.0.0 bixinlive.com
+0.0.0.0 p.bixinlive.com
 0.0.0.0 www.bixinlive.com
 0.0.0.0 crm.bizfly.vn
 0.0.0.0 webpush.bizfly.vn
@@ -16914,6 +16920,7 @@
 0.0.0.0 s1.cnnx.io
 0.0.0.0 s5.cnnx.io
 0.0.0.0 www.cnnx.io
+0.0.0.0 v1.cnoiolph.org
 0.0.0.0 cnt.my
 0.0.0.0 www.cnt.my
 0.0.0.0 x.cnt.my
@@ -18019,6 +18026,7 @@
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 app.comagic.ru
 0.0.0.0 tracker.comagic.ru
+0.0.0.0 analytics.comalatech.io
 0.0.0.0 breakingnews.comano.us
 0.0.0.0 combcompetition.com
 0.0.0.0 tracking.business.comcast.com
@@ -20112,6 +20120,7 @@
 0.0.0.0 dealctr.com
 0.0.0.0 www.dealctr.com
 0.0.0.0 dealeffect.de
+0.0.0.0 aeki.dealeffect.de
 0.0.0.0 www.dealeffect.de
 0.0.0.0 dealer.com
 0.0.0.0 www.dealer.com
@@ -26658,6 +26667,7 @@
 0.0.0.0 trk-lb-ip1.email-match.com
 0.0.0.0 www.email-match.com
 0.0.0.0 emailprada.com
+0.0.0.0 track.emailprada.com
 0.0.0.0 emarketer.com
 0.0.0.0 www.emarketer.com
 0.0.0.0 assets.emarsys.net
@@ -32598,6 +32608,7 @@
 0.0.0.0 www.hokoldar.ru
 0.0.0.0 hol.es
 0.0.0.0 static091138228031.access.hol.gr
+0.0.0.0 learningfyp.hol.es
 0.0.0.0 www.hol.es
 0.0.0.0 dns-test1.hola.org
 0.0.0.0 perr.hola.org
@@ -34009,6 +34020,7 @@
 0.0.0.0 www.imglnkd.com
 0.0.0.0 imglnke.com
 0.0.0.0 www.imglnke.com
+0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 alt-cloud.radar.imgsmail.ru
@@ -36099,6 +36111,7 @@
 0.0.0.0 www.jyiphoto.com
 0.0.0.0 jyotiwithin.com
 0.0.0.0 www.jyotiwithin.com
+0.0.0.0 v1.jyzkflaq.net
 0.0.0.0 k-analytix.com
 0.0.0.0 i.k-analytix.com
 0.0.0.0 k-storage.com
@@ -36679,6 +36692,7 @@
 0.0.0.0 fudezz.kompas.com
 0.0.0.0 komrep.com
 0.0.0.0 www.komrep.com
+0.0.0.0 tc.kondemohalim.com
 0.0.0.0 tms.kone.com
 0.0.0.0 koneomobiledsp.com
 0.0.0.0 inmobi.koneomobiledsp.com
@@ -36735,6 +36749,7 @@
 0.0.0.0 my.kotn.com
 0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 smetrics.kpmg.us
+0.0.0.0 v1.kpzhzeen.net
 0.0.0.0 i.kpzip.com
 0.0.0.0 qc.kqbd88.com
 0.0.0.0 fdt.kraken.com
@@ -39112,6 +39127,7 @@
 0.0.0.0 mdfull.com
 0.0.0.0 cm.mdfull.com
 0.0.0.0 s.mdfull.com
+0.0.0.0 t.mdfull.com
 0.0.0.0 www.mdfull.com
 0.0.0.0 mdhv.io
 0.0.0.0 jelly.mdhv.io
@@ -39439,6 +39455,7 @@
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 meetuuho.xyz
+0.0.0.0 tra.meetuuho.xyz
 0.0.0.0 www.meetuuho.xyz
 0.0.0.0 mefound.com
 0.0.0.0 www.mefound.com
@@ -42984,6 +43001,8 @@
 0.0.0.0 affiliazionisnai.cdn.netrefer.com
 0.0.0.0 kindred.cdn.netrefer.com
 0.0.0.0 www.netrefer.com
+0.0.0.0 netrk.net
+0.0.0.0 www.netrk.net
 0.0.0.0 tr.netsalesmedia.pl
 0.0.0.0 netseer.com
 0.0.0.0 www.netseer.com
@@ -46271,6 +46290,7 @@
 0.0.0.0 www.phywi.org
 0.0.0.0 pi-stats.com
 0.0.0.0 www.pi-stats.com
+0.0.0.0 v1.piabruw.eu
 0.0.0.0 api-esp.piano.io
 0.0.0.0 buy-au.piano.io
 0.0.0.0 cdn.piano.io
@@ -49910,6 +49930,7 @@
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 smetrics.ray-ban.com
 0.0.0.0 sshhfy.ray-ban.com
+0.0.0.0 api.raygun.io
 0.0.0.0 cdn.raygun.io
 0.0.0.0 rayjump.com
 0.0.0.0 20191018-fk.rayjump.com
@@ -55775,6 +55796,7 @@
 0.0.0.0 castingnet-f-s.snva.jp
 0.0.0.0 cosme-com-f-s.snva.jp
 0.0.0.0 kojima-f-s.snva.jp
+0.0.0.0 loft-f-s.snva.jp
 0.0.0.0 magaseek.snva.jp
 0.0.0.0 r2.snva.jp
 0.0.0.0 r3.snva.jp
@@ -55782,8 +55804,10 @@
 0.0.0.0 r5.snva.jp
 0.0.0.0 r6.snva.jp
 0.0.0.0 rvw.snva.jp
+0.0.0.0 sod-f-s.snva.jp
 0.0.0.0 std2f-s.snva.jp
 0.0.0.0 surugaya-f-s.snva.jp
+0.0.0.0 welcia-f-s.snva.jp
 0.0.0.0 www.snva.jp
 0.0.0.0 p.sug.so.com
 0.0.0.0 tracking.eloq.soa.org
@@ -56838,6 +56862,7 @@
 0.0.0.0 cdn.stroeerdigitalmedia.de
 0.0.0.0 www.stroeerdigitalmedia.de
 0.0.0.0 js.stroeermediabrands.de
+0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
 0.0.0.0 stromoliks.com
 0.0.0.0 www.stromoliks.com
@@ -63283,6 +63308,7 @@
 0.0.0.0 wearbasin.com
 0.0.0.0 wearehearken.com
 0.0.0.0 www.wearehearken.com
+0.0.0.0 sentry.wearetriple.com
 0.0.0.0 knorzj.wearfigs.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 and-ads.pulse.weatherbug.net
@@ -63934,6 +63960,10 @@
 0.0.0.0 www.winsystemupdate.com
 0.0.0.0 tracker.winudf.com
 0.0.0.0 winworker.club
+0.0.0.0 wwa.wipe.de
+0.0.0.0 oe.wwa.wipe.de
+0.0.0.0 oe-mobil.wwa.wipe.de
+0.0.0.0 tb.wwa.wipe.de
 0.0.0.0 api.wipmania.com
 0.0.0.0 journey.wired.com
 0.0.0.0 sstats.wired.com
