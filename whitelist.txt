@@ -286,6 +286,7 @@ js.monitor.azure.com
 login.microsoftonline.com
 nexusrules.live.com
 nexusrules.live.com.akadns.net
+nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 onecollector.cloudapp.aria.akadns.net
 onedscolprd*.*.cloudapp.azure.com
