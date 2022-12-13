@@ -2255,3 +2255,6 @@
 ! checkout/payment jetblue.com
 @@|ipe-pmt.prod.sabre.com^
 
+! ARMBian apt-update
+@@|mirrors.aliyun.com^
+
