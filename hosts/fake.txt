@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 23:54 UTC
-# Version: 2022.1212.2354.47
+# Last modified: 13 Dez 2022 11:12 UTC
+# Version: 2022.1213.1112.04
 # Syntax: Hosts
-# Domains: 11132
+# Domains: 11118
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1831,8 +1831,6 @@
 0.0.0.0 www.chicladdy.com
 0.0.0.0 chiclolo.com
 0.0.0.0 www.chiclolo.com
-0.0.0.0 chicsoso.com
-0.0.0.0 www.chicsoso.com
 0.0.0.0 chictogerther.com
 0.0.0.0 www.chictogerther.com
 0.0.0.0 chicwells.de
@@ -2092,7 +2090,6 @@
 0.0.0.0 coolrevo.com
 0.0.0.0 www.coolrevo.com
 0.0.0.0 coolsnow.at
-0.0.0.0 www.coolsnow.at
 0.0.0.0 cooorful.com
 0.0.0.0 www.cooorful.com
 0.0.0.0 cooponline.de
@@ -2117,7 +2114,6 @@
 0.0.0.0 cosmopoint.de
 0.0.0.0 www.cosmopoint.de
 0.0.0.0 cosmorent.at
-0.0.0.0 www.cosmorent.at
 0.0.0.0 cosplayshow.com
 0.0.0.0 www.cosplayshow.com
 0.0.0.0 cosykitchen.store
@@ -2135,7 +2131,6 @@
 0.0.0.0 cowriesunrise.com
 0.0.0.0 www.cowriesunrise.com
 0.0.0.0 cozyp.at
-0.0.0.0 www.cozyp.at
 0.0.0.0 cozyslides.de
 0.0.0.0 www.cozyslides.de
 0.0.0.0 cpgtstream4.com
@@ -2806,7 +2801,6 @@
 0.0.0.0 eatggrant.shop
 0.0.0.0 www.eatggrant.shop
 0.0.0.0 eaxpch.site
-0.0.0.0 www.eaxpch.site
 0.0.0.0 eberhard-versand.de
 0.0.0.0 www.eberhard-versand.de
 0.0.0.0 eberhard-wurst.de
@@ -3549,7 +3543,6 @@
 0.0.0.0 firalo.de
 0.0.0.0 www.firalo.de
 0.0.0.0 firma-leitner.at
-0.0.0.0 www.firma-leitner.at
 0.0.0.0 firmataube.de
 0.0.0.0 www.firmataube.de
 0.0.0.0 first-aid-drugs.com
@@ -3572,7 +3565,6 @@
 0.0.0.0 fitfuerinnovation.de
 0.0.0.0 www.fitfuerinnovation.de
 0.0.0.0 fitindentag.at
-0.0.0.0 www.fitindentag.at
 0.0.0.0 fits-training.de
 0.0.0.0 www.fits-training.de
 0.0.0.0 fitvid.pro
@@ -3741,8 +3733,6 @@
 0.0.0.0 www.frankiesdubai.com
 0.0.0.0 free-maket.com
 0.0.0.0 www.free-maket.com
-0.0.0.0 freeacy.com
-0.0.0.0 www.freeacy.com
 0.0.0.0 freemobile24.de
 0.0.0.0 www.freemobile24.de
 0.0.0.0 freetitties.de
@@ -8741,8 +8731,6 @@
 0.0.0.0 www.senthiln.top
 0.0.0.0 seoyou.de
 0.0.0.0 www.seoyou.de
-0.0.0.0 sepkicks.com
-0.0.0.0 www.sepkicks.com
 0.0.0.0 seprun.com
 0.0.0.0 www.seprun.com
 0.0.0.0 sepshoe.com
@@ -10226,8 +10214,6 @@
 0.0.0.0 www.vaggv.com
 0.0.0.0 vagomarkt.com
 0.0.0.0 www.vagomarkt.com
-0.0.0.0 vakkerlight.com
-0.0.0.0 www.vakkerlight.com
 0.0.0.0 valanza.de
 0.0.0.0 www.valanza.de
 0.0.0.0 valty-heater.com

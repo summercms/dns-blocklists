@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 23:54 UTC
-# Version: 2022.1212.2354.47
+# Last modified: 13 Dez 2022 11:12 UTC
+# Version: 2022.1213.1112.04
 # Syntax: Domains
-# Domains: 11132
+# Domains: 11118
 #
 willhaben.at.04300.id
 11trikots.com
@@ -1831,8 +1831,6 @@ chicladdy.com
 www.chicladdy.com
 chiclolo.com
 www.chiclolo.com
-chicsoso.com
-www.chicsoso.com
 chictogerther.com
 www.chictogerther.com
 chicwells.de
@@ -2092,7 +2090,6 @@ www.coogle.at
 coolrevo.com
 www.coolrevo.com
 coolsnow.at
-www.coolsnow.at
 cooorful.com
 www.cooorful.com
 cooponline.de
@@ -2117,7 +2114,6 @@ www.cosmic-rays.de
 cosmopoint.de
 www.cosmopoint.de
 cosmorent.at
-www.cosmorent.at
 cosplayshow.com
 www.cosplayshow.com
 cosykitchen.store
@@ -2135,7 +2131,6 @@ www.coverlastic.com
 cowriesunrise.com
 www.cowriesunrise.com
 cozyp.at
-www.cozyp.at
 cozyslides.de
 www.cozyslides.de
 cpgtstream4.com
@@ -2806,7 +2801,6 @@ www.eatathome.de
 eatggrant.shop
 www.eatggrant.shop
 eaxpch.site
-www.eaxpch.site
 eberhard-versand.de
 www.eberhard-versand.de
 eberhard-wurst.de
@@ -3549,7 +3543,6 @@ www.fipecampania.it
 firalo.de
 www.firalo.de
 firma-leitner.at
-www.firma-leitner.at
 firmataube.de
 www.firmataube.de
 first-aid-drugs.com
@@ -3572,7 +3565,6 @@ www.fitbands.de
 fitfuerinnovation.de
 www.fitfuerinnovation.de
 fitindentag.at
-www.fitindentag.at
 fits-training.de
 www.fits-training.de
 fitvid.pro
@@ -3741,8 +3733,6 @@ frankiesdubai.com
 www.frankiesdubai.com
 free-maket.com
 www.free-maket.com
-freeacy.com
-www.freeacy.com
 freemobile24.de
 www.freemobile24.de
 freetitties.de
@@ -8741,8 +8731,6 @@ senthiln.top
 www.senthiln.top
 seoyou.de
 www.seoyou.de
-sepkicks.com
-www.sepkicks.com
 seprun.com
 www.seprun.com
 sepshoe.com
@@ -10226,8 +10214,6 @@ vaggv.com
 www.vaggv.com
 vagomarkt.com
 www.vagomarkt.com
-vakkerlight.com
-www.vakkerlight.com
 valanza.de
 www.valanza.de
 valty-heater.com
