@@ -80761,7 +80761,6 @@
 *.matmechanic.com
 *.blogroll.matome-alpha.com
 *.matomo.cloud
-*.matomo.org
 *.matomy.com
 *.matomyseo.com
 *.matotal-dmv.com
