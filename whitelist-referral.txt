@@ -520,6 +520,7 @@ tag.shopping-feed.com
 app.e.sigsauer.com
 go.skimresources.com
 a.slashdotmedia.com
+links.*.slickdeals.net
 links.da.slickdeals.net
 click.snapshat.com
 click.email.sonos.com
