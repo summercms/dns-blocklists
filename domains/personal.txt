@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Dez 2022 08:47 UTC
-# Version: 2022.1213.0847.18
+# Last modified: 13 Dez 2022 11:38 UTC
+# Version: 2022.1213.1138.10
 # Syntax: Domains
-# Domains: 66633
+# Domains: 66642
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -4073,7 +4073,6 @@ adskav.com
 adskeeper.com
 c.adskeeper.com
 cdn.adskeeper.com
-clck.adskeeper.com
 cm.adskeeper.com
 jsc.adskeeper.com
 s-img.adskeeper.com
@@ -5601,7 +5600,9 @@ tracking.aggrosoft.de
 aghtag.tech
 cf.agiboo.mobi
 secure.agile-company-247.com
+agile-company-365.com
 secure.agile-company-365.com
+www.agile-company-365.com
 stats2.agilecrm.com
 secure.agiledata7.com
 agilemeasure.com
@@ -6008,7 +6009,6 @@ vortex.data.microsoft.com.akadns.net
 cy2.vortex.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 geo.vortex.data.microsoft.com.akadns.net
-v10-win.vortex.data.microsoft.com.akadns.net
 watson.data.microsoft.com.akadns.net
 modern.watson.data.microsoft.com.akadns.net
 jadserve.postrelease.com.akadns.net
@@ -15817,7 +15817,9 @@ causingguard.com
 www.causingguard.com
 cautiouscredit.com
 analytics-1.cavai.com
+cavy9soho.com
 secure.cavy9soho.com
+www.cavy9soho.com
 cayot.ir
 cdn.cayot.ir
 api.cazamba.com
@@ -17140,7 +17142,6 @@ adskeeper.co.uk
 a.adskeeper.co.uk
 c.adskeeper.co.uk
 cdn.adskeeper.co.uk
-clck.adskeeper.co.uk
 cm.adskeeper.co.uk
 jsc.adskeeper.co.uk
 mg.adskeeper.co.uk
@@ -17635,7 +17636,9 @@ analytics.coach.com
 psqsjg.coach.com
 analytics.coachoutlet.com
 cdn.coastcapitalsavings.com
+coat0tire.com
 secure.coat0tire.com
+www.coat0tire.com
 coax7nice.com
 secure.coax7nice.com
 www.coax7nice.com
@@ -18141,7 +18144,6 @@ smetrics.wradio.com.mx
 d0.xcar.com.cn
 pics.xgo-img.com.cn
 xpg.com.br
-clck.yandex.com.tr
 metrica.yandex.com.tr
 metrika.yandex.com.tr
 stats.yenicaggazetesi.com.tr
@@ -18875,6 +18877,8 @@ get-latest.convrse.media
 www.convrse.media
 data-hoisin.coocaa.com
 hoisin.coocaa.com
+cookie-coin.xyz
+www.cookie-coin.xyz
 cookie-script.com
 www.cookie-script.com
 cdn.cookiecode.nl
@@ -19754,6 +19758,7 @@ jv.curiousuraemia.com
 secure.curl7bike.com
 currepush.com
 www.currepush.com
+info.curriculumassociates.com
 cdm.cursecdn.com
 curulate.com
 www.curulate.com
@@ -20020,12 +20025,15 @@ www.dashiofficial.com
 dnsseed.bitcoin.dashjr.org
 logs.dashlane.com
 dcclaa.daskochrezept.de
+data.dat.com
 data-analytics.top
 data-crypt.com
 www.data-crypt.com
 data-dynamic.net
 lb.data-dynamic.net
+data-ingenuity.com
 secure.data-ingenuity.com
+www.data-ingenuity.com
 secure.data-insight365.com
 data-px.services
 databasegalore.com
@@ -26474,6 +26482,7 @@ asdf.eldos.xyz
 app-monitor.ele.me
 adashx.ut.ele.me
 h-adashx.ut.ele.me
+www2.elead-crm.com
 eleavers.com
 www.eleavers.com
 goemail.electrorent.com
@@ -26488,6 +26497,7 @@ www.elitechnology.com
 elitegadgetinsider.com
 www.elitegadgetinsider.com
 res.elle.fr
+info.ellevationeducation.com
 elmqal.com
 www.elmqal.com
 pixelcounter.elmundo.es
@@ -27794,6 +27804,7 @@ www.excited.me
 content.exclaimer.com
 exclamationresound.com
 www.exclamationresound.com
+www2.exclusiveresorts.com
 exdynsrv.com
 a.exdynsrv.com
 ads.exdynsrv.com
@@ -27871,7 +27882,6 @@ a.exosrv.com
 ads.exosrv.com
 main.exosrv.com
 exotrck.com
-www.exotrck.com
 expansioneggnog.com
 om.expedia.com
 oms.expedia.com
@@ -28182,7 +28192,6 @@ static.fairstone.ca
 fairu-blog.com
 www.fairu-blog.com
 fairu-cdn.com
-www.fairu-cdn.com
 fairu-chat.com
 www.fairu-chat.com
 fairu-endpoint.com
@@ -28190,8 +28199,6 @@ fairu-endpoint.xyz
 www.fairu-endpoint.com
 fairu-schnellvpn.com
 fairu-schnellvpn.xyz
-www.fairu-schnellvpn.com
-www.fairu-schnellvpn.xyz
 info.fairwaywholesalelending.com
 fairyseason.com
 www.fairyseason.com
@@ -28208,7 +28215,6 @@ fallbackads.com
 www.fallbackads.com
 falsenalice.com
 qb.falsenalice.com
-www.falsenalice.com
 falsifylilac.com
 www.falsifylilac.com
 fam-8.net
@@ -28451,7 +28457,6 @@ media5.fc2.com
 smetrics.fcacert.com
 cookielaw.emea.fcagroup.com
 fcapp.run
-www.fcapp.run
 adtarget.fcbarcelona.com
 smetrics.fcbarcelona.com
 adserver.fcrmedia.com
@@ -28566,7 +28571,6 @@ feredletrighro.com
 www.feredletrighro.com
 analytics.ferguson.com
 fermacyupplow.com
-www.fermacyupplow.com
 ferplay.club
 www.ferplay.club
 track.ferrari.com
@@ -28778,7 +28782,6 @@ fiwhibse.com
 www.fiwhibse.com
 fiwyjar.cn
 df.fiwyjar.cn
-www.fiwyjar.cn
 fixel.ai
 script.fixel.ai
 www.fixel.ai
@@ -33540,6 +33543,7 @@ www.iceboxlitre.com
 icecasino.com
 stat.icecasino.com
 www.icecasino.com
+engage.icemortgagetechnology.com
 cnt.iceporn.com
 adserver.icimedias.ca
 iclbrasil.org
@@ -33597,7 +33601,6 @@ idealmedia.io
 autocounter.idealmedia.io
 c.idealmedia.io
 cdn.idealmedia.io
-clck.idealmedia.io
 cm.idealmedia.io
 jsc.idealmedia.io
 s-img.idealmedia.io
@@ -38527,6 +38530,7 @@ ads-eu.loopaautomate.com
 ads-us.loopaautomate.com
 www.loopaautomate.com
 analytics.loopassets.net
+blue.loopmatnl.com
 loopme.com
 loopme.me
 csync.loopme.me
@@ -39960,7 +39964,6 @@ a.mgid.com
 api-wa.mgid.com
 c.mgid.com
 cdn.mgid.com
-clck.mgid.com
 cm.mgid.com
 jsc.mgid.com
 lb-dfw.mgid.com
@@ -41947,6 +41950,7 @@ am-0.moevideo.biz
 cs-0.moevideo.biz
 www.moevideo.biz
 providers.moffitt.org
+www2.mofo.com
 mofylook.com
 www.mofylook.com
 moglistat.com
@@ -43381,6 +43385,8 @@ www.netrefer.com
 netrk.net
 www.netrk.net
 tr.netsalesmedia.pl
+marketing.tr.netsalesmedia.pl
+nsm.tr.netsalesmedia.pl
 netseer.com
 www.netseer.com
 netshelter.net
@@ -45373,6 +45379,7 @@ api.optinmonster.com
 app.optinmonster.com
 omapi.optinmonster.com
 www.optinmonster.com
+marketing.optioncarehealth.com
 options-it.com
 www.options-it.com
 cdn.optmn.cloud
@@ -52124,7 +52131,9 @@ www.robogarden.io
 robsedgeone.com
 www.robsedgeone.com
 private.roche.com
+rock5rice.com
 secure.rock5rice.com
+www.rock5rice.com
 somni.rocketaccount.com
 somni.rockethomes.com
 rocketme.top
@@ -53727,6 +53736,7 @@ tms-api.shalltry.com
 smetrics.shangri-la.com
 shar.es
 www.shar.es
+forms.share.works
 api.share2w.com
 events.shareably.net
 shareaholic.com
@@ -55662,7 +55672,9 @@ smetrics.sky.it
 somni.sky.de
 stnt.sky.de
 www2.skybitz.com
+skye6oner.com
 secure.skye6oner.com
+www.skye6oner.com
 skyglue.com
 appcdn1.skyglue.com
 cdn0.skyglue.com
@@ -57242,7 +57254,6 @@ telemetry-ingest-prod.steelyard.ca
 tracking-prod.steelyard.ca
 steepto.com
 cdn.steepto.com
-clck.steepto.com
 cm.steepto.com
 s-img.steepto.com
 www.steepto.com
@@ -59782,16 +59793,12 @@ sb7h2nwbe.trafficmagnates.com
 www.trafficmagnates.com
 analytics-listener.trafficmanager.net
 collector-main.trafficmanager.net
-events.data.trafficmanager.net
 apac.events.data.trafficmanager.net
 aria.events.data.trafficmanager.net
 eu.aria.events.data.trafficmanager.net
 global.aria.events.data.trafficmanager.net
 us.aria.events.data.trafficmanager.net
-asimov.events.data.trafficmanager.net
-global.asimov.events.data.trafficmanager.net
 blobcollector.events.data.trafficmanager.net
-browser.events.data.trafficmanager.net
 emea.events.data.trafficmanager.net
 eu.events.data.trafficmanager.net
 jp.events.data.trafficmanager.net
@@ -61765,6 +61772,7 @@ updpct.info
 tracking.upfluence.co
 upgulpinon.com
 supply.upjers.com
+info.upkeep.com
 t42rsn90.uplift.com
 uplift-platform.com
 cdn.uplift-platform.com
@@ -64734,6 +64742,7 @@ woodpeckerlog.com
 getdomain.woodpeckerlog.com
 report.woodpeckerlog.com
 www.woodpeckerlog.com
+www2.woodruffsawyer.com
 woolenabled.com
 woomio.com
 www.woomio.com
@@ -65621,7 +65630,6 @@ browser-updater.yandex.net
 bs.yandex.ru
 bs-meta.yandex.ru
 bs-metadsp.yandex.ru
-clck.yandex.com
 extmaps-api.yandex.net
 grade.market.yandex.ru
 mc.yandex.com
@@ -66257,6 +66265,7 @@ www.zedo.com
 ammaar.delivery.zeerak.cloud
 smetrics.zehrs.ca
 iiajtl.zeit.de
+www2.zelis.com
 matomo.zellwerk.net
 zemanta.com
 b1-apac1.zemanta.com

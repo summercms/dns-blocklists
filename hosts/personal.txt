@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Dez 2022 08:47 UTC
-# Version: 2022.1213.0847.18
+# Last modified: 13 Dez 2022 11:38 UTC
+# Version: 2022.1213.1138.10
 # Syntax: Hosts
-# Domains: 66633
+# Domains: 66642
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -4073,7 +4073,6 @@
 0.0.0.0 adskeeper.com
 0.0.0.0 c.adskeeper.com
 0.0.0.0 cdn.adskeeper.com
-0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm.adskeeper.com
 0.0.0.0 jsc.adskeeper.com
 0.0.0.0 s-img.adskeeper.com
@@ -5601,7 +5600,9 @@
 0.0.0.0 aghtag.tech
 0.0.0.0 cf.agiboo.mobi
 0.0.0.0 secure.agile-company-247.com
+0.0.0.0 agile-company-365.com
 0.0.0.0 secure.agile-company-365.com
+0.0.0.0 www.agile-company-365.com
 0.0.0.0 stats2.agilecrm.com
 0.0.0.0 secure.agiledata7.com
 0.0.0.0 agilemeasure.com
@@ -6008,7 +6009,6 @@
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
-0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 watson.data.microsoft.com.akadns.net
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
@@ -15817,7 +15817,9 @@
 0.0.0.0 www.causingguard.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 cavy9soho.com
 0.0.0.0 secure.cavy9soho.com
+0.0.0.0 www.cavy9soho.com
 0.0.0.0 cayot.ir
 0.0.0.0 cdn.cayot.ir
 0.0.0.0 api.cazamba.com
@@ -17140,7 +17142,6 @@
 0.0.0.0 a.adskeeper.co.uk
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 cdn.adskeeper.co.uk
-0.0.0.0 clck.adskeeper.co.uk
 0.0.0.0 cm.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 mg.adskeeper.co.uk
@@ -17635,7 +17636,9 @@
 0.0.0.0 psqsjg.coach.com
 0.0.0.0 analytics.coachoutlet.com
 0.0.0.0 cdn.coastcapitalsavings.com
+0.0.0.0 coat0tire.com
 0.0.0.0 secure.coat0tire.com
+0.0.0.0 www.coat0tire.com
 0.0.0.0 coax7nice.com
 0.0.0.0 secure.coax7nice.com
 0.0.0.0 www.coax7nice.com
@@ -18141,7 +18144,6 @@
 0.0.0.0 d0.xcar.com.cn
 0.0.0.0 pics.xgo-img.com.cn
 0.0.0.0 xpg.com.br
-0.0.0.0 clck.yandex.com.tr
 0.0.0.0 metrica.yandex.com.tr
 0.0.0.0 metrika.yandex.com.tr
 0.0.0.0 stats.yenicaggazetesi.com.tr
@@ -18875,6 +18877,8 @@
 0.0.0.0 www.convrse.media
 0.0.0.0 data-hoisin.coocaa.com
 0.0.0.0 hoisin.coocaa.com
+0.0.0.0 cookie-coin.xyz
+0.0.0.0 www.cookie-coin.xyz
 0.0.0.0 cookie-script.com
 0.0.0.0 www.cookie-script.com
 0.0.0.0 cdn.cookiecode.nl
@@ -19754,6 +19758,7 @@
 0.0.0.0 secure.curl7bike.com
 0.0.0.0 currepush.com
 0.0.0.0 www.currepush.com
+0.0.0.0 info.curriculumassociates.com
 0.0.0.0 cdm.cursecdn.com
 0.0.0.0 curulate.com
 0.0.0.0 www.curulate.com
@@ -20020,12 +20025,15 @@
 0.0.0.0 dnsseed.bitcoin.dashjr.org
 0.0.0.0 logs.dashlane.com
 0.0.0.0 dcclaa.daskochrezept.de
+0.0.0.0 data.dat.com
 0.0.0.0 data-analytics.top
 0.0.0.0 data-crypt.com
 0.0.0.0 www.data-crypt.com
 0.0.0.0 data-dynamic.net
 0.0.0.0 lb.data-dynamic.net
+0.0.0.0 data-ingenuity.com
 0.0.0.0 secure.data-ingenuity.com
+0.0.0.0 www.data-ingenuity.com
 0.0.0.0 secure.data-insight365.com
 0.0.0.0 data-px.services
 0.0.0.0 databasegalore.com
@@ -26474,6 +26482,7 @@
 0.0.0.0 app-monitor.ele.me
 0.0.0.0 adashx.ut.ele.me
 0.0.0.0 h-adashx.ut.ele.me
+0.0.0.0 www2.elead-crm.com
 0.0.0.0 eleavers.com
 0.0.0.0 www.eleavers.com
 0.0.0.0 goemail.electrorent.com
@@ -26488,6 +26497,7 @@
 0.0.0.0 elitegadgetinsider.com
 0.0.0.0 www.elitegadgetinsider.com
 0.0.0.0 res.elle.fr
+0.0.0.0 info.ellevationeducation.com
 0.0.0.0 elmqal.com
 0.0.0.0 www.elmqal.com
 0.0.0.0 pixelcounter.elmundo.es
@@ -27794,6 +27804,7 @@
 0.0.0.0 content.exclaimer.com
 0.0.0.0 exclamationresound.com
 0.0.0.0 www.exclamationresound.com
+0.0.0.0 www2.exclusiveresorts.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 ads.exdynsrv.com
@@ -27871,7 +27882,6 @@
 0.0.0.0 ads.exosrv.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 exotrck.com
-0.0.0.0 www.exotrck.com
 0.0.0.0 expansioneggnog.com
 0.0.0.0 om.expedia.com
 0.0.0.0 oms.expedia.com
@@ -28182,7 +28192,6 @@
 0.0.0.0 fairu-blog.com
 0.0.0.0 www.fairu-blog.com
 0.0.0.0 fairu-cdn.com
-0.0.0.0 www.fairu-cdn.com
 0.0.0.0 fairu-chat.com
 0.0.0.0 www.fairu-chat.com
 0.0.0.0 fairu-endpoint.com
@@ -28190,8 +28199,6 @@
 0.0.0.0 www.fairu-endpoint.com
 0.0.0.0 fairu-schnellvpn.com
 0.0.0.0 fairu-schnellvpn.xyz
-0.0.0.0 www.fairu-schnellvpn.com
-0.0.0.0 www.fairu-schnellvpn.xyz
 0.0.0.0 info.fairwaywholesalelending.com
 0.0.0.0 fairyseason.com
 0.0.0.0 www.fairyseason.com
@@ -28208,7 +28215,6 @@
 0.0.0.0 www.fallbackads.com
 0.0.0.0 falsenalice.com
 0.0.0.0 qb.falsenalice.com
-0.0.0.0 www.falsenalice.com
 0.0.0.0 falsifylilac.com
 0.0.0.0 www.falsifylilac.com
 0.0.0.0 fam-8.net
@@ -28451,7 +28457,6 @@
 0.0.0.0 smetrics.fcacert.com
 0.0.0.0 cookielaw.emea.fcagroup.com
 0.0.0.0 fcapp.run
-0.0.0.0 www.fcapp.run
 0.0.0.0 adtarget.fcbarcelona.com
 0.0.0.0 smetrics.fcbarcelona.com
 0.0.0.0 adserver.fcrmedia.com
@@ -28566,7 +28571,6 @@
 0.0.0.0 www.feredletrighro.com
 0.0.0.0 analytics.ferguson.com
 0.0.0.0 fermacyupplow.com
-0.0.0.0 www.fermacyupplow.com
 0.0.0.0 ferplay.club
 0.0.0.0 www.ferplay.club
 0.0.0.0 track.ferrari.com
@@ -28778,7 +28782,6 @@
 0.0.0.0 www.fiwhibse.com
 0.0.0.0 fiwyjar.cn
 0.0.0.0 df.fiwyjar.cn
-0.0.0.0 www.fiwyjar.cn
 0.0.0.0 fixel.ai
 0.0.0.0 script.fixel.ai
 0.0.0.0 www.fixel.ai
@@ -33540,6 +33543,7 @@
 0.0.0.0 icecasino.com
 0.0.0.0 stat.icecasino.com
 0.0.0.0 www.icecasino.com
+0.0.0.0 engage.icemortgagetechnology.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 adserver.icimedias.ca
 0.0.0.0 iclbrasil.org
@@ -33597,7 +33601,6 @@
 0.0.0.0 autocounter.idealmedia.io
 0.0.0.0 c.idealmedia.io
 0.0.0.0 cdn.idealmedia.io
-0.0.0.0 clck.idealmedia.io
 0.0.0.0 cm.idealmedia.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 s-img.idealmedia.io
@@ -38527,6 +38530,7 @@
 0.0.0.0 ads-us.loopaautomate.com
 0.0.0.0 www.loopaautomate.com
 0.0.0.0 analytics.loopassets.net
+0.0.0.0 blue.loopmatnl.com
 0.0.0.0 loopme.com
 0.0.0.0 loopme.me
 0.0.0.0 csync.loopme.me
@@ -39960,7 +39964,6 @@
 0.0.0.0 api-wa.mgid.com
 0.0.0.0 c.mgid.com
 0.0.0.0 cdn.mgid.com
-0.0.0.0 clck.mgid.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 lb-dfw.mgid.com
@@ -41947,6 +41950,7 @@
 0.0.0.0 cs-0.moevideo.biz
 0.0.0.0 www.moevideo.biz
 0.0.0.0 providers.moffitt.org
+0.0.0.0 www2.mofo.com
 0.0.0.0 mofylook.com
 0.0.0.0 www.mofylook.com
 0.0.0.0 moglistat.com
@@ -43381,6 +43385,8 @@
 0.0.0.0 netrk.net
 0.0.0.0 www.netrk.net
 0.0.0.0 tr.netsalesmedia.pl
+0.0.0.0 marketing.tr.netsalesmedia.pl
+0.0.0.0 nsm.tr.netsalesmedia.pl
 0.0.0.0 netseer.com
 0.0.0.0 www.netseer.com
 0.0.0.0 netshelter.net
@@ -45373,6 +45379,7 @@
 0.0.0.0 app.optinmonster.com
 0.0.0.0 omapi.optinmonster.com
 0.0.0.0 www.optinmonster.com
+0.0.0.0 marketing.optioncarehealth.com
 0.0.0.0 options-it.com
 0.0.0.0 www.options-it.com
 0.0.0.0 cdn.optmn.cloud
@@ -52124,7 +52131,9 @@
 0.0.0.0 robsedgeone.com
 0.0.0.0 www.robsedgeone.com
 0.0.0.0 private.roche.com
+0.0.0.0 rock5rice.com
 0.0.0.0 secure.rock5rice.com
+0.0.0.0 www.rock5rice.com
 0.0.0.0 somni.rocketaccount.com
 0.0.0.0 somni.rockethomes.com
 0.0.0.0 rocketme.top
@@ -53727,6 +53736,7 @@
 0.0.0.0 smetrics.shangri-la.com
 0.0.0.0 shar.es
 0.0.0.0 www.shar.es
+0.0.0.0 forms.share.works
 0.0.0.0 api.share2w.com
 0.0.0.0 events.shareably.net
 0.0.0.0 shareaholic.com
@@ -55662,7 +55672,9 @@
 0.0.0.0 somni.sky.de
 0.0.0.0 stnt.sky.de
 0.0.0.0 www2.skybitz.com
+0.0.0.0 skye6oner.com
 0.0.0.0 secure.skye6oner.com
+0.0.0.0 www.skye6oner.com
 0.0.0.0 skyglue.com
 0.0.0.0 appcdn1.skyglue.com
 0.0.0.0 cdn0.skyglue.com
@@ -57242,7 +57254,6 @@
 0.0.0.0 tracking-prod.steelyard.ca
 0.0.0.0 steepto.com
 0.0.0.0 cdn.steepto.com
-0.0.0.0 clck.steepto.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 s-img.steepto.com
 0.0.0.0 www.steepto.com
@@ -59782,16 +59793,12 @@
 0.0.0.0 www.trafficmagnates.com
 0.0.0.0 analytics-listener.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
-0.0.0.0 events.data.trafficmanager.net
 0.0.0.0 apac.events.data.trafficmanager.net
 0.0.0.0 aria.events.data.trafficmanager.net
 0.0.0.0 eu.aria.events.data.trafficmanager.net
 0.0.0.0 global.aria.events.data.trafficmanager.net
 0.0.0.0 us.aria.events.data.trafficmanager.net
-0.0.0.0 asimov.events.data.trafficmanager.net
-0.0.0.0 global.asimov.events.data.trafficmanager.net
 0.0.0.0 blobcollector.events.data.trafficmanager.net
-0.0.0.0 browser.events.data.trafficmanager.net
 0.0.0.0 emea.events.data.trafficmanager.net
 0.0.0.0 eu.events.data.trafficmanager.net
 0.0.0.0 jp.events.data.trafficmanager.net
@@ -61765,6 +61772,7 @@
 0.0.0.0 tracking.upfluence.co
 0.0.0.0 upgulpinon.com
 0.0.0.0 supply.upjers.com
+0.0.0.0 info.upkeep.com
 0.0.0.0 t42rsn90.uplift.com
 0.0.0.0 uplift-platform.com
 0.0.0.0 cdn.uplift-platform.com
@@ -64734,6 +64742,7 @@
 0.0.0.0 getdomain.woodpeckerlog.com
 0.0.0.0 report.woodpeckerlog.com
 0.0.0.0 www.woodpeckerlog.com
+0.0.0.0 www2.woodruffsawyer.com
 0.0.0.0 woolenabled.com
 0.0.0.0 woomio.com
 0.0.0.0 www.woomio.com
@@ -65621,7 +65630,6 @@
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
-0.0.0.0 clck.yandex.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 mc.yandex.com
@@ -66257,6 +66265,7 @@
 0.0.0.0 ammaar.delivery.zeerak.cloud
 0.0.0.0 smetrics.zehrs.ca
 0.0.0.0 iiajtl.zeit.de
+0.0.0.0 www2.zelis.com
 0.0.0.0 matomo.zellwerk.net
 0.0.0.0 zemanta.com
 0.0.0.0 b1-apac1.zemanta.com
