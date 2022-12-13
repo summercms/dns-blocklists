@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Dez 2022 08:39 UTC
-# Version: 2022.1213.0839.52
+# Last modified: 13 Dez 2022 08:47 UTC
+# Version: 2022.1213.0847.18
 # Syntax: Hosts
-# Domains: 66635
+# Domains: 66633
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -27538,13 +27538,11 @@
 0.0.0.0 evanescentedge.com
 0.0.0.0 eveckstuns.com
 0.0.0.0 gy.eveckstuns.com
-0.0.0.0 www.eveckstuns.com
 0.0.0.0 eveningproclamationarched.com
 0.0.0.0 www.eveningproclamationarched.com
 0.0.0.0 eventch.com
 0.0.0.0 eventdiet.com
 0.0.0.0 eventhenherthis.info
-0.0.0.0 www.eventhenherthis.info
 0.0.0.0 eventhenherthisi.com
 0.0.0.0 www.eventhenherthisi.com
 0.0.0.0 isc-tracking.eventim.com
