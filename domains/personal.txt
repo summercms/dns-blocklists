@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 16:27 UTC
-# Version: 2022.1212.1627.46
+# Last modified: 13 Dez 2022 00:20 UTC
+# Version: 2022.1213.0020.26
 # Syntax: Domains
-# Domains: 66006
+# Domains: 65995
 #
 000webhostapp.com
 www.000webhostapp.com
@@ -3828,6 +3828,8 @@ ads2native.com
 ads3-adnow.com
 n.ads3-adnow.com
 st-n.ads3-adnow.com
+ads4allweb.de
+www.ads4allweb.de
 ads4g.pl
 lib.ads4g.pl
 www.ads4g.pl
@@ -9691,7 +9693,6 @@ channel.arubanetworks.com
 etrack.ext.arubanetworks.com
 arvoscomedos.com
 kl.arvoscomedos.com
-www.arvoscomedos.com
 aryancrack.com
 www.aryancrack.com
 analytics.arz.at
@@ -9721,6 +9722,8 @@ www.aserdefa.ru
 asesoriabarrachina.es
 www.asesoriabarrachina.es
 asgclickpp.com
+ashadofe.com
+www.ashadofe.com
 ashamedbirchpoorly.com
 www.ashamedbirchpoorly.com
 ashcdn.com
@@ -10243,7 +10246,6 @@ awin.com
 www.awin.com
 a1.awin1.com
 awledconside.xyz
-www.awledconside.xyz
 awltovhc.com
 www.awltovhc.com
 awmbed.com
@@ -10673,7 +10675,6 @@ metrics.baitoru.com
 baji888.live
 www.baji888.live
 bakjaqa.net
-www.bakjaqa.net
 bakteso.ru
 www.bakteso.ru
 balconypeer.com
@@ -10714,7 +10715,6 @@ cdn2.bangready.com
 www.bangready.com
 banhq.com
 cdn.banhq.com
-www.banhq.com
 analytics.banijay.com
 smetrics.bankatfirst.com
 s.bankier.pl
@@ -11045,14 +11045,12 @@ furnishings.bellacor.com
 bellinor.ru
 www.bellinor.ru
 bellmandrawbar.com
-www.bellmandrawbar.com
 bellmetric.net
 insight.bellmetric.net
 www.bellmetric.net
 bellsyscdn.com
 www.bellsyscdn.com
 bemireulling.com
-www.bemireulling.com
 mmi.bemobile.ua
 juke.mmi.bemobile.ua
 source.mmi.bemobile.ua
@@ -11184,7 +11182,6 @@ bestcontentnetwork.top
 a.bestcontentnetwork.top
 bestcontenttool.top
 a.bestcontenttool.top
-www.bestcontenttool.top
 bestcontenttrade.top
 a.bestcontenttrade.top
 b.bestcontenttrade.top
@@ -11192,7 +11189,6 @@ cdn3.bestcontenttrade.top
 bestcontentwork.top
 a.bestcontentwork.top
 b.bestcontentwork.top
-www.bestcontentwork.top
 besteasyclick.com
 bestgames-2022.com
 www.bestgames-2022.com
@@ -11386,7 +11382,6 @@ www.bideo-chat.xyz
 bideo-endpoint.com
 bideo-endpoint.xyz
 www.bideo-endpoint.com
-www.bideo-endpoint.xyz
 bideo-schnellvpn.com
 bidfilter.com
 cdn.bidfilter.com
@@ -11723,7 +11718,6 @@ www.blackhoall.com
 elq.blackrock.com
 securemetrics.blackrock.com
 blacksprut.com
-www.blacksprut.com
 www2.blackstone.com
 doh-fi.blahdns.com
 smetrics.blair.com
@@ -12054,7 +12048,6 @@ bndozm.com
 bnet.com
 www.bnet.com
 bnfoeabisp.com
-www.bnfoeabisp.com
 bngdyn.com
 i.bngdyn.com
 v.bngdyn.com
@@ -12185,7 +12178,6 @@ commerce.boomtrain.com
 images.boomtrain.com
 www.boomtrain.com
 booptuwa.net
-www.booptuwa.net
 caveo.boost-my.com
 boost-yourservice.com
 www.boost-yourservice.com
@@ -12208,7 +12200,6 @@ smetrics.boostmobile.com
 boostog.net
 aud.boostog.net
 bw.boostog.net
-www.boostog.net
 bootesbee.com
 ads.boozar.ir
 boqudo.com
@@ -12219,7 +12210,6 @@ boredcrown.com
 geoip.boredpanda.com
 boriskink.com
 borofez.com
-www.borofez.com
 borpas.info
 www.borpas.info
 borrelioseweb.de
@@ -12476,7 +12466,6 @@ brenz.pl
 ilo.brenz.pl
 www.brenz.pl
 briareddollier.com
-www.briareddollier.com
 xc.briareddollier.com
 tk.bricoprive.com
 cdn.brid.tv
@@ -12524,7 +12513,6 @@ www.brightmountainmedia.com
 brightonclick.com
 www.brightonclick.com
 brigi-jar.com
-www.brigi-jar.com
 marketing.net.brillen.de
 in.brilliant.org
 brilliantcollector.com
@@ -12572,7 +12560,6 @@ brodmn.com
 broimg.net
 www.broimg.net
 bromoilnapalms.com
-www.bromoilnapalms.com
 bronto.com
 app.bronto.com
 cdn.bronto.com
@@ -12781,7 +12768,6 @@ bujoke.com
 www.bujoke.com
 bull3t.co
 cdn.bull3t.co
-www.bull3t.co
 bulldogcpi.com
 ads.bulldogcpi.com
 www.bulldogcpi.com
@@ -12889,7 +12875,6 @@ www.buzzvil.com
 bvmcdn.com
 bvmcdn.net
 cdn.bvmcdn.net
-www.bvmcdn.com
 bvmkwglnvff.com
 www.bvmkwglnvff.com
 bxacmsvmxb.com
@@ -12905,7 +12890,6 @@ byside.com
 webcare.byside.com
 www.byside.com
 bytecache.ml
-www.bytecache.ml
 s3.bytecdn.cn
 dm.bytedance.com
 bytefence.com
@@ -15715,7 +15699,6 @@ analytics-1.cavai.com
 secure.cavy9soho.com
 cayot.ir
 cdn.cayot.ir
-www.cayot.ir
 api.cazamba.com
 cba4a6e5d3c956548a337c52388473f1.com
 www.cba4a6e5d3c956548a337c52388473f1.com
@@ -15932,7 +15915,6 @@ cedexis-test.com
 www.cedexis-test.com
 track.cedsdigital.it
 cedule-alands.com
-www.cedule-alands.com
 ceesty.com
 celebjihad.live
 www.celebjihad.live
@@ -16146,6 +16128,8 @@ obs.cheqzone.com
 pixel2.cheqzone.com
 serve2.cheqzone.com
 www.cheqzone.com
+chereogatsa.art
+www.chereogatsa.art
 cheriefm.fr
 www.cheriefm.fr
 cherriescare.com
@@ -16160,7 +16144,6 @@ pdmsmrt.chevrolet.com
 chewsrompedhemp.com
 clicker.chiaki.vn
 chibchasuffete.com
-www.chibchasuffete.com
 smetrics.chicagobusiness.com
 chickens-farm.biz
 www.chickens-farm.biz
@@ -16235,7 +16218,6 @@ smetrics.christies.com
 telemetry.chrobinson.com
 chromessolacer.com
 tf.chromessolacer.com
-www.chromessolacer.com
 u566.chron.com
 smetrics.chrysler.com
 chsrkred.com
@@ -16459,7 +16441,6 @@ uk.clean-1-clean.club
 us.clean-1-clean.club
 www.clean-1-clean.club
 clean-blocker.com
-www.clean-blocker.com
 cleanmediaads.com
 www.cleanmediaads.com
 cleansite.us
@@ -47491,6 +47472,8 @@ scripts.psyma.com
 ptaimpeerte.com
 www.ptaimpeerte.com
 ptapjmp.com
+ptaungoo.xyz
+www.ptaungoo.xyz
 ptauxofi.net
 www.ptauxofi.net
 ptawhood.net
@@ -52124,6 +52107,8 @@ pixel.s3xified.com
 ap-southeast-win.s4mdsp.com
 cnt.s4mdsp.com
 evt.s4mdsp.com
+s5qj82thv3dw.de
+www.s5qj82thv3dw.de
 stats.sa-as.com
 saacon.net
 www.saacon.net
@@ -55212,6 +55197,8 @@ smetrics.sling.com
 slingshot.io
 assets.slingshot.io
 www.slingshot.io
+slobcarpstun.com
+www.slobcarpstun.com
 sltvhyjthx.com
 a.slunecnice.cz
 c.sm.cn
@@ -61271,6 +61258,8 @@ adscfg.uqualities.com
 adsoss.uqualities.com
 p.ura.news
 j.uralweb.ru
+urambled.com
+www.urambled.com
 info.urban-expo.com
 boxoffice.urbanairship.com
 c00036-dl.urbanairship.com

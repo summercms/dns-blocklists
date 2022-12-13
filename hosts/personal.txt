@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Dez 2022 16:27 UTC
-# Version: 2022.1212.1627.46
+# Last modified: 13 Dez 2022 00:20 UTC
+# Version: 2022.1213.0020.26
 # Syntax: Hosts
-# Domains: 66006
+# Domains: 65995
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 www.000webhostapp.com
@@ -3828,6 +3828,8 @@
 0.0.0.0 ads3-adnow.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 ads4allweb.de
+0.0.0.0 www.ads4allweb.de
 0.0.0.0 ads4g.pl
 0.0.0.0 lib.ads4g.pl
 0.0.0.0 www.ads4g.pl
@@ -9691,7 +9693,6 @@
 0.0.0.0 etrack.ext.arubanetworks.com
 0.0.0.0 arvoscomedos.com
 0.0.0.0 kl.arvoscomedos.com
-0.0.0.0 www.arvoscomedos.com
 0.0.0.0 aryancrack.com
 0.0.0.0 www.aryancrack.com
 0.0.0.0 analytics.arz.at
@@ -9721,6 +9722,8 @@
 0.0.0.0 asesoriabarrachina.es
 0.0.0.0 www.asesoriabarrachina.es
 0.0.0.0 asgclickpp.com
+0.0.0.0 ashadofe.com
+0.0.0.0 www.ashadofe.com
 0.0.0.0 ashamedbirchpoorly.com
 0.0.0.0 www.ashamedbirchpoorly.com
 0.0.0.0 ashcdn.com
@@ -10243,7 +10246,6 @@
 0.0.0.0 www.awin.com
 0.0.0.0 a1.awin1.com
 0.0.0.0 awledconside.xyz
-0.0.0.0 www.awledconside.xyz
 0.0.0.0 awltovhc.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 awmbed.com
@@ -10673,7 +10675,6 @@
 0.0.0.0 baji888.live
 0.0.0.0 www.baji888.live
 0.0.0.0 bakjaqa.net
-0.0.0.0 www.bakjaqa.net
 0.0.0.0 bakteso.ru
 0.0.0.0 www.bakteso.ru
 0.0.0.0 balconypeer.com
@@ -10714,7 +10715,6 @@
 0.0.0.0 www.bangready.com
 0.0.0.0 banhq.com
 0.0.0.0 cdn.banhq.com
-0.0.0.0 www.banhq.com
 0.0.0.0 analytics.banijay.com
 0.0.0.0 smetrics.bankatfirst.com
 0.0.0.0 s.bankier.pl
@@ -11045,14 +11045,12 @@
 0.0.0.0 bellinor.ru
 0.0.0.0 www.bellinor.ru
 0.0.0.0 bellmandrawbar.com
-0.0.0.0 www.bellmandrawbar.com
 0.0.0.0 bellmetric.net
 0.0.0.0 insight.bellmetric.net
 0.0.0.0 www.bellmetric.net
 0.0.0.0 bellsyscdn.com
 0.0.0.0 www.bellsyscdn.com
 0.0.0.0 bemireulling.com
-0.0.0.0 www.bemireulling.com
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 juke.mmi.bemobile.ua
 0.0.0.0 source.mmi.bemobile.ua
@@ -11184,7 +11182,6 @@
 0.0.0.0 a.bestcontentnetwork.top
 0.0.0.0 bestcontenttool.top
 0.0.0.0 a.bestcontenttool.top
-0.0.0.0 www.bestcontenttool.top
 0.0.0.0 bestcontenttrade.top
 0.0.0.0 a.bestcontenttrade.top
 0.0.0.0 b.bestcontenttrade.top
@@ -11192,7 +11189,6 @@
 0.0.0.0 bestcontentwork.top
 0.0.0.0 a.bestcontentwork.top
 0.0.0.0 b.bestcontentwork.top
-0.0.0.0 www.bestcontentwork.top
 0.0.0.0 besteasyclick.com
 0.0.0.0 bestgames-2022.com
 0.0.0.0 www.bestgames-2022.com
@@ -11386,7 +11382,6 @@
 0.0.0.0 bideo-endpoint.com
 0.0.0.0 bideo-endpoint.xyz
 0.0.0.0 www.bideo-endpoint.com
-0.0.0.0 www.bideo-endpoint.xyz
 0.0.0.0 bideo-schnellvpn.com
 0.0.0.0 bidfilter.com
 0.0.0.0 cdn.bidfilter.com
@@ -11723,7 +11718,6 @@
 0.0.0.0 elq.blackrock.com
 0.0.0.0 securemetrics.blackrock.com
 0.0.0.0 blacksprut.com
-0.0.0.0 www.blacksprut.com
 0.0.0.0 www2.blackstone.com
 0.0.0.0 doh-fi.blahdns.com
 0.0.0.0 smetrics.blair.com
@@ -12054,7 +12048,6 @@
 0.0.0.0 bnet.com
 0.0.0.0 www.bnet.com
 0.0.0.0 bnfoeabisp.com
-0.0.0.0 www.bnfoeabisp.com
 0.0.0.0 bngdyn.com
 0.0.0.0 i.bngdyn.com
 0.0.0.0 v.bngdyn.com
@@ -12185,7 +12178,6 @@
 0.0.0.0 images.boomtrain.com
 0.0.0.0 www.boomtrain.com
 0.0.0.0 booptuwa.net
-0.0.0.0 www.booptuwa.net
 0.0.0.0 caveo.boost-my.com
 0.0.0.0 boost-yourservice.com
 0.0.0.0 www.boost-yourservice.com
@@ -12208,7 +12200,6 @@
 0.0.0.0 boostog.net
 0.0.0.0 aud.boostog.net
 0.0.0.0 bw.boostog.net
-0.0.0.0 www.boostog.net
 0.0.0.0 bootesbee.com
 0.0.0.0 ads.boozar.ir
 0.0.0.0 boqudo.com
@@ -12219,7 +12210,6 @@
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 boriskink.com
 0.0.0.0 borofez.com
-0.0.0.0 www.borofez.com
 0.0.0.0 borpas.info
 0.0.0.0 www.borpas.info
 0.0.0.0 borrelioseweb.de
@@ -12476,7 +12466,6 @@
 0.0.0.0 ilo.brenz.pl
 0.0.0.0 www.brenz.pl
 0.0.0.0 briareddollier.com
-0.0.0.0 www.briareddollier.com
 0.0.0.0 xc.briareddollier.com
 0.0.0.0 tk.bricoprive.com
 0.0.0.0 cdn.brid.tv
@@ -12524,7 +12513,6 @@
 0.0.0.0 brightonclick.com
 0.0.0.0 www.brightonclick.com
 0.0.0.0 brigi-jar.com
-0.0.0.0 www.brigi-jar.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 in.brilliant.org
 0.0.0.0 brilliantcollector.com
@@ -12572,7 +12560,6 @@
 0.0.0.0 broimg.net
 0.0.0.0 www.broimg.net
 0.0.0.0 bromoilnapalms.com
-0.0.0.0 www.bromoilnapalms.com
 0.0.0.0 bronto.com
 0.0.0.0 app.bronto.com
 0.0.0.0 cdn.bronto.com
@@ -12781,7 +12768,6 @@
 0.0.0.0 www.bujoke.com
 0.0.0.0 bull3t.co
 0.0.0.0 cdn.bull3t.co
-0.0.0.0 www.bull3t.co
 0.0.0.0 bulldogcpi.com
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 www.bulldogcpi.com
@@ -12889,7 +12875,6 @@
 0.0.0.0 bvmcdn.com
 0.0.0.0 bvmcdn.net
 0.0.0.0 cdn.bvmcdn.net
-0.0.0.0 www.bvmcdn.com
 0.0.0.0 bvmkwglnvff.com
 0.0.0.0 www.bvmkwglnvff.com
 0.0.0.0 bxacmsvmxb.com
@@ -12905,7 +12890,6 @@
 0.0.0.0 webcare.byside.com
 0.0.0.0 www.byside.com
 0.0.0.0 bytecache.ml
-0.0.0.0 www.bytecache.ml
 0.0.0.0 s3.bytecdn.cn
 0.0.0.0 dm.bytedance.com
 0.0.0.0 bytefence.com
@@ -15715,7 +15699,6 @@
 0.0.0.0 secure.cavy9soho.com
 0.0.0.0 cayot.ir
 0.0.0.0 cdn.cayot.ir
-0.0.0.0 www.cayot.ir
 0.0.0.0 api.cazamba.com
 0.0.0.0 cba4a6e5d3c956548a337c52388473f1.com
 0.0.0.0 www.cba4a6e5d3c956548a337c52388473f1.com
@@ -15932,7 +15915,6 @@
 0.0.0.0 www.cedexis-test.com
 0.0.0.0 track.cedsdigital.it
 0.0.0.0 cedule-alands.com
-0.0.0.0 www.cedule-alands.com
 0.0.0.0 ceesty.com
 0.0.0.0 celebjihad.live
 0.0.0.0 www.celebjihad.live
@@ -16146,6 +16128,8 @@
 0.0.0.0 pixel2.cheqzone.com
 0.0.0.0 serve2.cheqzone.com
 0.0.0.0 www.cheqzone.com
+0.0.0.0 chereogatsa.art
+0.0.0.0 www.chereogatsa.art
 0.0.0.0 cheriefm.fr
 0.0.0.0 www.cheriefm.fr
 0.0.0.0 cherriescare.com
@@ -16160,7 +16144,6 @@
 0.0.0.0 chewsrompedhemp.com
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 chibchasuffete.com
-0.0.0.0 www.chibchasuffete.com
 0.0.0.0 smetrics.chicagobusiness.com
 0.0.0.0 chickens-farm.biz
 0.0.0.0 www.chickens-farm.biz
@@ -16235,7 +16218,6 @@
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 chromessolacer.com
 0.0.0.0 tf.chromessolacer.com
-0.0.0.0 www.chromessolacer.com
 0.0.0.0 u566.chron.com
 0.0.0.0 smetrics.chrysler.com
 0.0.0.0 chsrkred.com
@@ -16459,7 +16441,6 @@
 0.0.0.0 us.clean-1-clean.club
 0.0.0.0 www.clean-1-clean.club
 0.0.0.0 clean-blocker.com
-0.0.0.0 www.clean-blocker.com
 0.0.0.0 cleanmediaads.com
 0.0.0.0 www.cleanmediaads.com
 0.0.0.0 cleansite.us
@@ -47491,6 +47472,8 @@
 0.0.0.0 ptaimpeerte.com
 0.0.0.0 www.ptaimpeerte.com
 0.0.0.0 ptapjmp.com
+0.0.0.0 ptaungoo.xyz
+0.0.0.0 www.ptaungoo.xyz
 0.0.0.0 ptauxofi.net
 0.0.0.0 www.ptauxofi.net
 0.0.0.0 ptawhood.net
@@ -52124,6 +52107,8 @@
 0.0.0.0 ap-southeast-win.s4mdsp.com
 0.0.0.0 cnt.s4mdsp.com
 0.0.0.0 evt.s4mdsp.com
+0.0.0.0 s5qj82thv3dw.de
+0.0.0.0 www.s5qj82thv3dw.de
 0.0.0.0 stats.sa-as.com
 0.0.0.0 saacon.net
 0.0.0.0 www.saacon.net
@@ -55212,6 +55197,8 @@
 0.0.0.0 slingshot.io
 0.0.0.0 assets.slingshot.io
 0.0.0.0 www.slingshot.io
+0.0.0.0 slobcarpstun.com
+0.0.0.0 www.slobcarpstun.com
 0.0.0.0 sltvhyjthx.com
 0.0.0.0 a.slunecnice.cz
 0.0.0.0 c.sm.cn
@@ -61271,6 +61258,8 @@
 0.0.0.0 adsoss.uqualities.com
 0.0.0.0 p.ura.news
 0.0.0.0 j.uralweb.ru
+0.0.0.0 urambled.com
+0.0.0.0 www.urambled.com
 0.0.0.0 info.urban-expo.com
 0.0.0.0 boxoffice.urbanairship.com
 0.0.0.0 c00036-dl.urbanairship.com
