@@ -2007,3 +2007,6 @@ f*.market.mi-img.com
 ota-recruit-sg.allawnos.com
 component-ota-sg.allawnos.com
 
+# checkout/payment jetblue.com
+ipe-pmt.prod.sabre.com
+
