@@ -684,10 +684,6 @@ d.ifengimg.com
 # https://github.com/hagezi/dns-blocklists/issues/11
 sea.net.edu.cn
 
-# https://github.com/hagezi/dns-blocklists/issues/10
-ks.cn
-www.ks.cn
-
 # Shop
 koisea.com
 
