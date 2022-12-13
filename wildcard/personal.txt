@@ -1934,7 +1934,6 @@
 *.alive-ua.com
 *.aliveachiever.com
 *.acjs.aliyun.com
-*.mirrors.aliyun.com
 *.overdue.aliyun.com
 *.promotion.aliyun.com
 *.ngc.aliyunceng.com

@@ -6325,7 +6325,6 @@
 0.0.0.0 www.alive-ua.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 acjs.aliyun.com
-0.0.0.0 mirrors.aliyun.com
 0.0.0.0 overdue.aliyun.com
 0.0.0.0 promotion.aliyun.com
 0.0.0.0 ngc.aliyunceng.com

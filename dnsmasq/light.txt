@@ -9826,7 +9826,6 @@ address=/aliyahdavid.com/#
 address=/aliyoo999.com/#
 address=/aliys.net/#
 address=/acjs.aliyun.com/#
-address=/mirrors.aliyun.com/#
 address=/overdue.aliyun.com/#
 address=/promotion.aliyun.com/#
 address=/ngc.aliyunceng.com/#

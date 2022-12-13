@@ -1934,7 +1934,6 @@ address=/alitems.site/#
 address=/alive-ua.com/#
 address=/aliveachiever.com/#
 address=/acjs.aliyun.com/#
-address=/mirrors.aliyun.com/#
 address=/overdue.aliyun.com/#
 address=/promotion.aliyun.com/#
 address=/ngc.aliyunceng.com/#
