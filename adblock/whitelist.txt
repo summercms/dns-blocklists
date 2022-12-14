@@ -2269,3 +2269,7 @@
 ! Images on mail.ru
 @@|r.mradx.net^
 
+! legal shop
+@@|hockerty.de^
+@@|www.hockerty.de^
+
