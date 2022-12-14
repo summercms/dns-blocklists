@@ -22,14 +22,3 @@
 
 ! Sentry
 /^sentry\.[a-z0-9\-]*\./
-
-! White
-
-! Allow Referral Links
-@@/^clicks?\.[a-z0-9\-]*\./
-@@/^e?mails?(\-[a-z0-9]*)?\.[a-z0-9\-]*\./
-@@/^go(to)?\.[a-z0-9\-]*\./
-@@/^(news)?links?\.[a-z0-9\-]*\./
-@@/^redirect\.[a-z0-9\-]*\./
-@@/^target\.[a-z0-9\-]*\./
-@@/^open\.[a-z0-9\-]*\./
