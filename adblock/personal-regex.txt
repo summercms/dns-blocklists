@@ -9,7 +9,7 @@
 ! Black
 
 ! TikTok Fingerprinting
-/'.*(analytics|frontier|gecko|mon|log|mssdk|mcs|pitaya).*\.(tiktok(v|cdn)?|byteoversea)\.com$/
+/.*(analytics|frontier|gecko|mon|log|mssdk|mcs|pitaya).*\.(tiktok(v|cdn)?|byteoversea)\.com$/
 
 ! Analytics - Metrics - Telemetry
 /^(s|[a-z0-9\-]*\-)?analytics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
