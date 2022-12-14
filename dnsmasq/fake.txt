@@ -2411,7 +2411,6 @@ address=/hobbhop.com/#
 address=/hobbyshop-gossert.de/#
 address=/hobelle.com/#
 address=/hochgothe.de/#
-address=/hockerty.de/#
 address=/hoelzemann-herrmann.de/#
 address=/hoerstern.at/#
 address=/hokaoneoneosterreich.at/#

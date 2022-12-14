@@ -4595,8 +4595,6 @@
 0.0.0.0 www.hobelle.com
 0.0.0.0 hochgothe.de
 0.0.0.0 www.hochgothe.de
-0.0.0.0 hockerty.de
-0.0.0.0 www.hockerty.de
 0.0.0.0 hoelzemann-herrmann.de
 0.0.0.0 www.hoelzemann-herrmann.de
 0.0.0.0 hoerstern.at

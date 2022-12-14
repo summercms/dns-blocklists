@@ -65798,7 +65798,6 @@
 *.hocct.com
 *.hocgeese.com
 *.hochgothe.de
-*.hockerty.de
 *.ts2.hockey-talks.com
 *.mb.hockeybuzz.com
 *.ad.hockeycurve.com
