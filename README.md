@@ -21,7 +21,7 @@
 15. [Credits](#credits)
 16. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 17. [Recommendation](#recommendation)
-18. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
+18. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [DNSwarden](#dnswarden) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
 19. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
 20. [Sources/Statistics](usedsources.md)
 21. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
@@ -330,6 +330,10 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 |:-----------|:---------------|:-------------|:-------------------|
 | Normal (LIGHT + more) | https://dnsforge.de/dns-query | dnsforge.de | quic://dnsforge.de:853  |
 
+#### ***DNSwarden - free*** <a name="dnswarden"></a>
+
+*In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my light, multi, pro, pro++ and tif list.*
+
 #### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
           
 *My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
@@ -345,15 +349,8 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 #### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
 *Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc). You can [vote for the inclusion](https://help.nextdns.io/t/h7hsypb/blocklist) of the lists.*
-           
-*My blocklist recommendations for [NextDNS](https://nextdns.io/?from=jvpyfdfc) are:*          
-
-| Profile    | Blocklists                                |
-|:-----------|:------------------------------------------|
-| Normal     | 1Hosts (Lite) + AdGuard DNS filter + OISD |
-| Strict     | 1Hosts (Pro) + AdGuard DNS filter + OISD  |
-                  
-*Check out @yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) for further configuration settings.*
+                
+*Check out @yokoffing [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) for recommended configuration settings.*
 
 ---
 
