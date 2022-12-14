@@ -17,7 +17,7 @@
 11. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
 12. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
 13. [Personal](#personal) - *My manually maintained blacklist*
-14. [Native Tracker](#native) - *Broadband tracker of devices and operating systems*
+14. [Native Tracker](#native) - *Broadband tracker of devices, services and operating systems*
 15. [Credits](#credits)
 16. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 17. [Recommendation](#recommendation)
@@ -275,16 +275,15 @@
 
 ---
 
-### ***Native Tracker - Broadband tracker of devices and operating systems*** <a name="native"></a>
-*Blocks native broadband tracker from devices and operating systems that frequently run at the operating system level and track your activity.*         
-                  
-***The native broadband trackers are already included in all blocklist versions (Personal, Light, Normal, Pro, Pro++, Ultimate)!***
+### ***Native Tracker - Broadband tracker of devices, services and operating systems*** <a name="native"></a>
+*Blocks native broadband tracker from devices, services and operating systems that track your activity.*         
                          
-| Device | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
+| Device/Service | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard |
 |:-------|:--------|:------|:--------|:--------|:--------|:---------|
 | Apple (iOS, macOS, tvOS) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.apple.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt) |
-| Microsoft (Windows, Office, MSN) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.winoffice.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt) |
 | Huawei (Devices) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.huawei.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.huawei.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.huawei.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt) |
+| Microsoft (Windows, Office, MSN) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.winoffice.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.winoffice.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt) |
+| TikTok (Fingerprinting) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.tiktok.blacklist.conf) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt) |
 
 **Expires:** *Updated regularly*
 
