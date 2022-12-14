@@ -15497,7 +15497,6 @@
 *.pages.netbase.com
 *.netcatx.com
 *.netcomics.com
-*.netcoresmartech.com
 *.analytics.netdirector.auto
 *.data-9dc3fcd9b4.netdoktor.de
 *.data-fbb8842b89.netdoktor.de

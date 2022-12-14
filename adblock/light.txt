@@ -91812,7 +91812,6 @@
 ||netcomics.com^
 ||netcommunities.com^
 ||netcomvad.com^
-||netcoresmartech.com^
 ||netcounter.de^
 ||adserver.netcreators.nl^
 ||netcrew-analysis.jp^

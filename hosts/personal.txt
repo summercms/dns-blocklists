@@ -45203,7 +45203,6 @@
 0.0.0.0 cdn.netcatx.com
 0.0.0.0 netcomics.com
 0.0.0.0 www.netcomics.com
-0.0.0.0 netcoresmartech.com
 0.0.0.0 cdndc.netcoresmartech.com
 0.0.0.0 cdnt.netcoresmartech.com
 0.0.0.0 cpn.netcoresmartech.com
@@ -45221,7 +45220,6 @@
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 twabeta.netcoresmartech.com
 0.0.0.0 wdc.netcoresmartech.com
-0.0.0.0 www.netcoresmartech.com
 0.0.0.0 analytics.netdirector.auto
 0.0.0.0 data-9dc3fcd9b4.netdoktor.de
 0.0.0.0 data-fbb8842b89.netdoktor.de
