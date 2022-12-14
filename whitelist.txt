@@ -2021,3 +2021,9 @@ mirrors.aliyun.com
 # Matomo Software
 matomo.org
 
+# cgv.vn - Can't choose seats when booking
+netcoresmartech.com
+
+# Images on mail.ru
+r.mradx.net
+
